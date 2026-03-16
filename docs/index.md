@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Resource-efficient Quantum Algorithms for Selected Hamiltonian Subspace Diagonalization**|Vincent Graves et.al.|[2603.13160](http://arxiv.org/abs/2603.13160)|null|
+|**2026-03-13**|**Clustering without geometry in sparse networks with independent edges**|Alessio Catanzaro et.al.|[2603.13159](http://arxiv.org/abs/2603.13159)|null|
+|**2026-03-13**|**PhaseJumps: fast computation of zeros from planar grid samples**|Antti Haimi et.al.|[2603.13158](http://arxiv.org/abs/2603.13158)|null|
+|**2026-03-13**|**When Your Model Stops Working: Anytime-Valid Calibration Monitoring**|Tristan Farran et.al.|[2603.13156](http://arxiv.org/abs/2603.13156)|null|
+|**2026-03-13**|**ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation**|Siqi Sun et.al.|[2603.13154](http://arxiv.org/abs/2603.13154)|null|
+|**2026-03-13**|**Accessing which-path information in the absorption and emission of light by a quantum dot in a Ramsey sequence**|I. Maillette de Buy Wenniger et.al.|[2603.13152](http://arxiv.org/abs/2603.13152)|null|
+|**2026-03-13**|**Determination of Nuclear PDFs using Markov Chain Monte Carlo Methods**|N. Derakhshanian et.al.|[2603.13150](http://arxiv.org/abs/2603.13150)|null|
+|**2026-03-13**|**Euclid preparation. Simulated galaxy catalogues for non-standard cosmological models**|Euclid Collaboration et.al.|[2603.13148](http://arxiv.org/abs/2603.13148)|null|
+|**2026-03-13**|**A common parallel framework for LLP combinatorial problems**|David Ribeiro Alves et.al.|[2603.13147](http://arxiv.org/abs/2603.13147)|null|
+|**2026-03-13**|**Conformal Vacuum of dS $_4\times \mathbb R$ with Oppositely Oriented Boundaries**|Lucas K. Kovalsky et.al.|[2603.13145](http://arxiv.org/abs/2603.13145)|null|
 |**2026-03-12**|**MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning**|Haozhan Shen et.al.|[2603.12266](http://arxiv.org/abs/2603.12266)|null|
 |**2026-03-12**|**Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously**|Yiran Guan et.al.|[2603.12262](http://arxiv.org/abs/2603.12262)|null|
 |**2026-03-12**|**Emergent Anomalous Hall Effect from Surface States in the Altermagnet MnTe Thin Films**|Yufei Zhao et.al.|[2603.12259](http://arxiv.org/abs/2603.12259)|null|
@@ -413,6 +423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Resource-efficient Quantum Algorithms for Selected Hamiltonian Subspace Diagonalization**|Vincent Graves et.al.|[2603.13160](http://arxiv.org/abs/2603.13160)|null|
+|**2026-03-13**|**Reinforcement Learning for Discounted and Ergodic Control of Diffusion Processes**|Erhan Bayraktar et.al.|[2603.13155](http://arxiv.org/abs/2603.13155)|null|
+|**2026-03-13**|**Defensible Design for OpenClaw: Securing Autonomous Tool-Invoking Agents**|Zongwei Li et.al.|[2603.13151](http://arxiv.org/abs/2603.13151)|null|
+|**2026-03-13**|**exoALMA XXIII. Estimating Disk and Planet Properties from Dust Morphologies with DBNets2.0**|Alessandro Ruzza et.al.|[2603.13149](http://arxiv.org/abs/2603.13149)|null|
+|**2026-03-13**|**A common parallel framework for LLP combinatorial problems**|David Ribeiro Alves et.al.|[2603.13147](http://arxiv.org/abs/2603.13147)|null|
+|**2026-03-13**|**Robustness and optimization of N00N-state interferometry**|Romain Dalidet et.al.|[2603.13144](http://arxiv.org/abs/2603.13144)|null|
+|**2026-03-13**|**Unifying Decision Making and Trajectory Planning in Automated Driving through Time-Varying Potential Fields**|David Costa et.al.|[2603.13136](http://arxiv.org/abs/2603.13136)|null|
+|**2026-03-13**|**When Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO**|Yu Li et.al.|[2603.13134](http://arxiv.org/abs/2603.13134)|null|
+|**2026-03-13**|**DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation**|Zihao Xin et.al.|[2603.13133](http://arxiv.org/abs/2603.13133)|null|
+|**2026-03-13**|**Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation**|Zhengwei Xie et.al.|[2603.13131](http://arxiv.org/abs/2603.13131)|null|
 |**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[2603.12267](http://arxiv.org/abs/2603.12267)|null|
 |**2026-03-12**|**MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning**|Haozhan Shen et.al.|[2603.12266](http://arxiv.org/abs/2603.12266)|null|
 |**2026-03-12**|**OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams**|Yibin Yan et.al.|[2603.12265](http://arxiv.org/abs/2603.12265)|null|
@@ -688,6 +708,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Universality for the 2D Random Walk Loop Soup**|Yihao Pang et.al.|[2603.13161](http://arxiv.org/abs/2603.13161)|null|
+|**2026-03-13**|**Resource-efficient Quantum Algorithms for Selected Hamiltonian Subspace Diagonalization**|Vincent Graves et.al.|[2603.13160](http://arxiv.org/abs/2603.13160)|null|
+|**2026-03-13**|**Clustering without geometry in sparse networks with independent edges**|Alessio Catanzaro et.al.|[2603.13159](http://arxiv.org/abs/2603.13159)|null|
+|**2026-03-13**|**PhaseJumps: fast computation of zeros from planar grid samples**|Antti Haimi et.al.|[2603.13158](http://arxiv.org/abs/2603.13158)|null|
+|**2026-03-13**|**exoALMA XX: Tomographic Detection of Embedded Planets in Protoplanetary Disks**|Andres F. Izquierdo et.al.|[2603.13157](http://arxiv.org/abs/2603.13157)|null|
+|**2026-03-13**|**When Your Model Stops Working: Anytime-Valid Calibration Monitoring**|Tristan Farran et.al.|[2603.13156](http://arxiv.org/abs/2603.13156)|null|
+|**2026-03-13**|**Reinforcement Learning for Discounted and Ergodic Control of Diffusion Processes**|Erhan Bayraktar et.al.|[2603.13155](http://arxiv.org/abs/2603.13155)|null|
+|**2026-03-13**|**ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation**|Siqi Sun et.al.|[2603.13154](http://arxiv.org/abs/2603.13154)|null|
+|**2026-03-13**|**MgB $_2$ Thermal Kinetic Inductance Detector**|T. Jabbari et.al.|[2603.13153](http://arxiv.org/abs/2603.13153)|null|
+|**2026-03-13**|**Defensible Design for OpenClaw: Securing Autonomous Tool-Invoking Agents**|Zongwei Li et.al.|[2603.13151](http://arxiv.org/abs/2603.13151)|null|
 |**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[2603.12267](http://arxiv.org/abs/2603.12267)|null|
 |**2026-03-12**|**MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning**|Haozhan Shen et.al.|[2603.12266](http://arxiv.org/abs/2603.12266)|null|
 |**2026-03-12**|**OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams**|Yibin Yan et.al.|[2603.12265](http://arxiv.org/abs/2603.12265)|null|
@@ -963,6 +993,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation**|Siqi Sun et.al.|[2603.13154](http://arxiv.org/abs/2603.13154)|null|
+|**2026-03-13**|**Accessing which-path information in the absorption and emission of light by a quantum dot in a Ramsey sequence**|I. Maillette de Buy Wenniger et.al.|[2603.13152](http://arxiv.org/abs/2603.13152)|null|
+|**2026-03-13**|**Structural Parameters of the Globular Cluster M 15**|M. V. Petkova et.al.|[2603.13140](http://arxiv.org/abs/2603.13140)|null|
+|**2026-03-13**|**Unifying Decision Making and Trajectory Planning in Automated Driving through Time-Varying Potential Fields**|David Costa et.al.|[2603.13136](http://arxiv.org/abs/2603.13136)|null|
+|**2026-03-13**|**DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation**|Zihao Xin et.al.|[2603.13133](http://arxiv.org/abs/2603.13133)|null|
+|**2026-03-13**|**FDeID-Toolbox: Face De-Identification Toolbox**|Hui Wei et.al.|[2603.13121](http://arxiv.org/abs/2603.13121)|null|
+|**2026-03-13**|**Putative quantum critical point in locally noncentrosymmetric CeCoGe $_2$ crystals**|F. Garmroudi et.al.|[2603.13111](http://arxiv.org/abs/2603.13111)|null|
+|**2026-03-13**|**BoSS: A Best-of-Strategies Selector as an Oracle for Deep Active Learning**|Denis Huseljic et.al.|[2603.13109](http://arxiv.org/abs/2603.13109)|null|
+|**2026-03-13**|**Ridged Lagrangian Perturbation Theory (RLPT)**|Francisco-Shu Kitaura et.al.|[2603.13106](http://arxiv.org/abs/2603.13106)|null|
+|**2026-03-13**|**A Feasibility-Enhanced Control Barrier Function Method for Multi-UAV Collision Avoidance**|Qishen Zhong et.al.|[2603.13103](http://arxiv.org/abs/2603.13103)|null|
 |**2026-03-12**|**GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing**|Mingxin Liu et.al.|[2603.12264](http://arxiv.org/abs/2603.12264)|null|
 |**2026-03-12**|**$Ψ_0$ : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation**|Songlin Wei et.al.|[2603.12263](http://arxiv.org/abs/2603.12263)|null|
 |**2026-03-12**|**Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously**|Yiran Guan et.al.|[2603.12262](http://arxiv.org/abs/2603.12262)|null|
@@ -1258,6 +1298,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Universality for the 2D Random Walk Loop Soup**|Yihao Pang et.al.|[2603.13161](http://arxiv.org/abs/2603.13161)|null|
+|**2026-03-13**|**PhaseJumps: fast computation of zeros from planar grid samples**|Antti Haimi et.al.|[2603.13158](http://arxiv.org/abs/2603.13158)|null|
+|**2026-03-13**|**exoALMA XX: Tomographic Detection of Embedded Planets in Protoplanetary Disks**|Andres F. Izquierdo et.al.|[2603.13157](http://arxiv.org/abs/2603.13157)|null|
+|**2026-03-13**|**Reinforcement Learning for Discounted and Ergodic Control of Diffusion Processes**|Erhan Bayraktar et.al.|[2603.13155](http://arxiv.org/abs/2603.13155)|null|
+|**2026-03-13**|**ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation**|Siqi Sun et.al.|[2603.13154](http://arxiv.org/abs/2603.13154)|null|
+|**2026-03-13**|**Accessing which-path information in the absorption and emission of light by a quantum dot in a Ramsey sequence**|I. Maillette de Buy Wenniger et.al.|[2603.13152](http://arxiv.org/abs/2603.13152)|null|
+|**2026-03-13**|**Determination of Nuclear PDFs using Markov Chain Monte Carlo Methods**|N. Derakhshanian et.al.|[2603.13150](http://arxiv.org/abs/2603.13150)|null|
+|**2026-03-13**|**exoALMA XXIII. Estimating Disk and Planet Properties from Dust Morphologies with DBNets2.0**|Alessandro Ruzza et.al.|[2603.13149](http://arxiv.org/abs/2603.13149)|null|
+|**2026-03-13**|**Euclid preparation. Simulated galaxy catalogues for non-standard cosmological models**|Euclid Collaboration et.al.|[2603.13148](http://arxiv.org/abs/2603.13148)|null|
+|**2026-03-13**|**An effective Mayer-Vietoris Theorem for discrete Morse homology**|Sajal Mukherjee et.al.|[2603.13143](http://arxiv.org/abs/2603.13143)|null|
 |**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[2603.12267](http://arxiv.org/abs/2603.12267)|null|
 |**2026-03-12**|**GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing**|Mingxin Liu et.al.|[2603.12264](http://arxiv.org/abs/2603.12264)|null|
 |**2026-03-12**|**$Ψ_0$ : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation**|Songlin Wei et.al.|[2603.12263](http://arxiv.org/abs/2603.12263)|null|
@@ -1543,6 +1593,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Universality for the 2D Random Walk Loop Soup**|Yihao Pang et.al.|[2603.13161](http://arxiv.org/abs/2603.13161)|null|
+|**2026-03-13**|**Resource-efficient Quantum Algorithms for Selected Hamiltonian Subspace Diagonalization**|Vincent Graves et.al.|[2603.13160](http://arxiv.org/abs/2603.13160)|null|
+|**2026-03-13**|**PhaseJumps: fast computation of zeros from planar grid samples**|Antti Haimi et.al.|[2603.13158](http://arxiv.org/abs/2603.13158)|null|
+|**2026-03-13**|**exoALMA XX: Tomographic Detection of Embedded Planets in Protoplanetary Disks**|Andres F. Izquierdo et.al.|[2603.13157](http://arxiv.org/abs/2603.13157)|null|
+|**2026-03-13**|**When Your Model Stops Working: Anytime-Valid Calibration Monitoring**|Tristan Farran et.al.|[2603.13156](http://arxiv.org/abs/2603.13156)|null|
+|**2026-03-13**|**Reinforcement Learning for Discounted and Ergodic Control of Diffusion Processes**|Erhan Bayraktar et.al.|[2603.13155](http://arxiv.org/abs/2603.13155)|null|
+|**2026-03-13**|**ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation**|Siqi Sun et.al.|[2603.13154](http://arxiv.org/abs/2603.13154)|null|
+|**2026-03-13**|**Accessing which-path information in the absorption and emission of light by a quantum dot in a Ramsey sequence**|I. Maillette de Buy Wenniger et.al.|[2603.13152](http://arxiv.org/abs/2603.13152)|null|
+|**2026-03-13**|**Defensible Design for OpenClaw: Securing Autonomous Tool-Invoking Agents**|Zongwei Li et.al.|[2603.13151](http://arxiv.org/abs/2603.13151)|null|
+|**2026-03-13**|**Determination of Nuclear PDFs using Markov Chain Monte Carlo Methods**|N. Derakhshanian et.al.|[2603.13150](http://arxiv.org/abs/2603.13150)|null|
 |**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[2603.12267](http://arxiv.org/abs/2603.12267)|null|
 |**2026-03-12**|**MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning**|Haozhan Shen et.al.|[2603.12266](http://arxiv.org/abs/2603.12266)|null|
 |**2026-03-12**|**OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams**|Yibin Yan et.al.|[2603.12265](http://arxiv.org/abs/2603.12265)|null|
