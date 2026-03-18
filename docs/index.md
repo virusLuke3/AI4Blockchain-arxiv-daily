@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**On the stabilization of $L^2$ and $H^1$ norms for the Zakharov-Kuznetsov equation with damping**|Mykael Cardoso et.al.|[2603.16441](http://arxiv.org/abs/2603.16441)|null|
+|**2026-03-17**|**Capability-Guided Compression: Toward Interpretability-Aware Budget Allocation for Large Language Models**|Rishaank Gupta et.al.|[2603.16440](http://arxiv.org/abs/2603.16440)|null|
+|**2026-03-17**|**Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation**|Houston Haynes et.al.|[2603.16437](http://arxiv.org/abs/2603.16437)|null|
+|**2026-03-17**|**DISCOVER: A Solver for Distributional Counterfactual Explanations**|Yikai Gu et.al.|[2603.16436](http://arxiv.org/abs/2603.16436)|null|
+|**2026-03-17**|**From Natural Language to Executable Option Strategies via Large Language Models**|Haochen Luo et.al.|[2603.16434](http://arxiv.org/abs/2603.16434)|null|
+|**2026-03-17**|**An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU**|Ruijia Yang et.al.|[2603.16428](http://arxiv.org/abs/2603.16428)|null|
+|**2026-03-17**|**3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2603.16426](http://arxiv.org/abs/2603.16426)|null|
+|**2026-03-17**|**Reconfigurable and Recyclable Low-Threshold Quasi-BIC Lasers via a Tunable polymer Coating**|Xiaolin Wang et.al.|[2603.16422](http://arxiv.org/abs/2603.16422)|null|
+|**2026-03-17**|**Improved GNSS Positioning in Urban Environments Using a Logistic Error Model**|Zhengdao Li et.al.|[2603.16420](http://arxiv.org/abs/2603.16420)|null|
+|**2026-03-17**|**Early Prediction of Creep Failure via Bayesian Inference of Evolving Barriers**|Juan Carlos Verano-Espitia et.al.|[2603.16419](http://arxiv.org/abs/2603.16419)|null|
 |**2026-03-14**|**Digital Hydrogen Platform (DigHyd): A Rigorously Curated Database for Hydrogen Storage Materials Empowered by AI-Assisted Literature Mining**|Seong-Hoon Jang et.al.|[2603.14139](http://arxiv.org/abs/2603.14139)|null|
 |**2026-03-14**|**Nebular Phase Evolution of SN 2023ixf (I): From Circumstellar Infrared Echo to the onset of in-situ Dust Formation in a Type II Supernova**|Avinash Singh et.al.|[2603.14137](http://arxiv.org/abs/2603.14137)|null|
 |**2026-03-14**|**Solving physics-constrained inverse problems with conditional flow matching**|Agnimitra Dasgupta et.al.|[2603.14135](http://arxiv.org/abs/2603.14135)|null|
@@ -433,6 +443,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems**|Yikun Wang et.al.|[2603.16449](http://arxiv.org/abs/2603.16449)|null|
+|**2026-03-17**|**ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars**|Kaiwen Song et.al.|[2603.16447](http://arxiv.org/abs/2603.16447)|null|
+|**2026-03-17**|**Unified Removal of Raindrops and Reflections: A New Benchmark and A Novel Pipeline**|Xingyu Liu et.al.|[2603.16446](http://arxiv.org/abs/2603.16446)|null|
+|**2026-03-17**|**Visual Distraction Undermines Moral Reasoning in Vision-Language Models**|Xinyi Yang et.al.|[2603.16445](http://arxiv.org/abs/2603.16445)|null|
+|**2026-03-17**|**Fast-HaMeR: Boosting Hand Mesh Reconstruction using Knowledge Distillation**|Hunain Ahmed Jillani et.al.|[2603.16444](http://arxiv.org/abs/2603.16444)|null|
+|**2026-03-17**|**Electron Tesla valve**|Daniil I. Sarypov et.al.|[2603.16443](http://arxiv.org/abs/2603.16443)|null|
+|**2026-03-17**|**CD-FKD: Cross-Domain Feature Knowledge Distillation for Robust Single-Domain Generalization in Object Detection**|Junseok Lee et.al.|[2603.16439](http://arxiv.org/abs/2603.16439)|null|
+|**2026-03-17**|**DISCOVER: A Solver for Distributional Counterfactual Explanations**|Yikai Gu et.al.|[2603.16436](http://arxiv.org/abs/2603.16436)|null|
+|**2026-03-17**|**Quantized transport of solitons in Bose-Einstein condensates driven by spin-orbit coupling**|Yaroslav V. Kartashov et.al.|[2603.16433](http://arxiv.org/abs/2603.16433)|null|
+|**2026-03-17**|**IRIS: A Real-World Benchmark for Inverse Recovery and Identification of Physical Dynamic Systems from Monocular Video**|Rasul Khanbayov et.al.|[2603.16432](http://arxiv.org/abs/2603.16432)|null|
 |**2026-03-14**|**Multifidelity Surrogate Modeling of Depressurized Loss of Forced Cooling in High-temperature Gas Reactors**|Meredith Eaheart et.al.|[2603.14143](http://arxiv.org/abs/2603.14143)|null|
 |**2026-03-14**|**Digital Hydrogen Platform (DigHyd): A Rigorously Curated Database for Hydrogen Storage Materials Empowered by AI-Assisted Literature Mining**|Seong-Hoon Jang et.al.|[2603.14139](http://arxiv.org/abs/2603.14139)|null|
 |**2026-03-14**|**DualSwinFusionSeg: Multimodal Martian Landslide Segmentation via Dual Swin Transformer with Multi-Scale Fusion and UNet++**|Shahriar Kabir et.al.|[2603.14132](http://arxiv.org/abs/2603.14132)|null|
@@ -728,6 +748,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems**|Yikun Wang et.al.|[2603.16449](http://arxiv.org/abs/2603.16449)|null|
+|**2026-03-17**|**TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas**|Ai Jian et.al.|[2603.16448](http://arxiv.org/abs/2603.16448)|null|
+|**2026-03-17**|**ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars**|Kaiwen Song et.al.|[2603.16447](http://arxiv.org/abs/2603.16447)|null|
+|**2026-03-17**|**Unified Removal of Raindrops and Reflections: A New Benchmark and A Novel Pipeline**|Xingyu Liu et.al.|[2603.16446](http://arxiv.org/abs/2603.16446)|null|
+|**2026-03-17**|**Visual Distraction Undermines Moral Reasoning in Vision-Language Models**|Xinyi Yang et.al.|[2603.16445](http://arxiv.org/abs/2603.16445)|null|
+|**2026-03-17**|**Electron Tesla valve**|Daniil I. Sarypov et.al.|[2603.16443](http://arxiv.org/abs/2603.16443)|null|
+|**2026-03-17**|**On the stabilization of $L^2$ and $H^1$ norms for the Zakharov-Kuznetsov equation with damping**|Mykael Cardoso et.al.|[2603.16441](http://arxiv.org/abs/2603.16441)|null|
+|**2026-03-17**|**Capability-Guided Compression: Toward Interpretability-Aware Budget Allocation for Large Language Models**|Rishaank Gupta et.al.|[2603.16440](http://arxiv.org/abs/2603.16440)|null|
+|**2026-03-17**|**CD-FKD: Cross-Domain Feature Knowledge Distillation for Robust Single-Domain Generalization in Object Detection**|Junseok Lee et.al.|[2603.16439](http://arxiv.org/abs/2603.16439)|null|
+|**2026-03-17**|**Double Italian domination in trees**|Weiping Shang et.al.|[2603.16438](http://arxiv.org/abs/2603.16438)|null|
 |**2026-03-14**|**Multifidelity Surrogate Modeling of Depressurized Loss of Forced Cooling in High-temperature Gas Reactors**|Meredith Eaheart et.al.|[2603.14143](http://arxiv.org/abs/2603.14143)|null|
 |**2026-03-14**|**Core EP, Dual Core EP and Composite Generalized Inverses for a Class of Structured Matrices**|Faustino Maciala et.al.|[2603.14142](http://arxiv.org/abs/2603.14142)|null|
 |**2026-03-14**|**Chance-Constrained Correlated Equilibria for Robust Noncooperative Coordination**|Jaehan Im et.al.|[2603.14141](http://arxiv.org/abs/2603.14141)|null|
@@ -1023,6 +1053,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas**|Ai Jian et.al.|[2603.16448](http://arxiv.org/abs/2603.16448)|null|
+|**2026-03-17**|**Electron Tesla valve**|Daniil I. Sarypov et.al.|[2603.16443](http://arxiv.org/abs/2603.16443)|null|
+|**2026-03-17**|**Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation**|Houston Haynes et.al.|[2603.16437](http://arxiv.org/abs/2603.16437)|null|
+|**2026-03-17**|**From Natural Language to Executable Option Strategies via Large Language Models**|Haochen Luo et.al.|[2603.16434](http://arxiv.org/abs/2603.16434)|null|
+|**2026-03-17**|**IRIS: A Real-World Benchmark for Inverse Recovery and Identification of Physical Dynamic Systems from Monocular Video**|Rasul Khanbayov et.al.|[2603.16432](http://arxiv.org/abs/2603.16432)|null|
+|**2026-03-17**|**LenghuSky-8: An 8-Year All-Sky Cloud Dataset with Star-Aware Masks and Alt-Az Calibration for Segmentation and Nowcasting**|Yicheng Rui et.al.|[2603.16429](http://arxiv.org/abs/2603.16429)|null|
+|**2026-03-17**|**Cross-modal learning for plankton recognition**|Joona Kareinen et.al.|[2603.16427](http://arxiv.org/abs/2603.16427)|null|
+|**2026-03-17**|**Early-Terminable Energy-Safe Iterative Coupling for Parallel Simulation of Port-Hamiltonian Systems**|Qi Wei et.al.|[2603.16424](http://arxiv.org/abs/2603.16424)|null|
+|**2026-03-17**|**Early Prediction of Creep Failure via Bayesian Inference of Evolving Barriers**|Juan Carlos Verano-Espitia et.al.|[2603.16419](http://arxiv.org/abs/2603.16419)|null|
+|**2026-03-17**|**Trained Persistent Memory for Frozen Encoder--Decoder LLMs: Six Architectural Methods**|Hong Jeong et.al.|[2603.16413](http://arxiv.org/abs/2603.16413)|null|
 |**2026-03-14**|**Universal method of selective detection of a wide range of pollutants in liquids using conductance quantization**|O. Pospelov et.al.|[2603.14140](http://arxiv.org/abs/2603.14140)|null|
 |**2026-03-14**|**Nebular Phase Evolution of SN 2023ixf (I): From Circumstellar Infrared Echo to the onset of in-situ Dust Formation in a Type II Supernova**|Avinash Singh et.al.|[2603.14137](http://arxiv.org/abs/2603.14137)|null|
 |**2026-03-14**|**DualSwinFusionSeg: Multimodal Martian Landslide Segmentation via Dual Swin Transformer with Multi-Scale Fusion and UNet++**|Shahriar Kabir et.al.|[2603.14132](http://arxiv.org/abs/2603.14132)|null|
@@ -1338,6 +1378,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems**|Yikun Wang et.al.|[2603.16449](http://arxiv.org/abs/2603.16449)|null|
+|**2026-03-17**|**ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars**|Kaiwen Song et.al.|[2603.16447](http://arxiv.org/abs/2603.16447)|null|
+|**2026-03-17**|**Fast-HaMeR: Boosting Hand Mesh Reconstruction using Knowledge Distillation**|Hunain Ahmed Jillani et.al.|[2603.16444](http://arxiv.org/abs/2603.16444)|null|
+|**2026-03-17**|**Electron Tesla valve**|Daniil I. Sarypov et.al.|[2603.16443](http://arxiv.org/abs/2603.16443)|null|
+|**2026-03-17**|**Uplink Networked Sensing via Multiuser Correlation Exploitation**|Jingying Bao et.al.|[2603.16442](http://arxiv.org/abs/2603.16442)|null|
+|**2026-03-17**|**On the stabilization of $L^2$ and $H^1$ norms for the Zakharov-Kuznetsov equation with damping**|Mykael Cardoso et.al.|[2603.16441](http://arxiv.org/abs/2603.16441)|null|
+|**2026-03-17**|**Capability-Guided Compression: Toward Interpretability-Aware Budget Allocation for Large Language Models**|Rishaank Gupta et.al.|[2603.16440](http://arxiv.org/abs/2603.16440)|null|
+|**2026-03-17**|**CD-FKD: Cross-Domain Feature Knowledge Distillation for Robust Single-Domain Generalization in Object Detection**|Junseok Lee et.al.|[2603.16439](http://arxiv.org/abs/2603.16439)|null|
+|**2026-03-17**|**Double Italian domination in trees**|Weiping Shang et.al.|[2603.16438](http://arxiv.org/abs/2603.16438)|null|
+|**2026-03-17**|**Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation**|Houston Haynes et.al.|[2603.16437](http://arxiv.org/abs/2603.16437)|null|
 |**2026-03-14**|**Multifidelity Surrogate Modeling of Depressurized Loss of Forced Cooling in High-temperature Gas Reactors**|Meredith Eaheart et.al.|[2603.14143](http://arxiv.org/abs/2603.14143)|null|
 |**2026-03-14**|**Chance-Constrained Correlated Equilibria for Robust Noncooperative Coordination**|Jaehan Im et.al.|[2603.14141](http://arxiv.org/abs/2603.14141)|null|
 |**2026-03-14**|**Effects of uniaxial strain on monolayer transition-metal dichalcogenides revisited**|Igor Evangelista et.al.|[2603.14138](http://arxiv.org/abs/2603.14138)|null|
@@ -1643,6 +1693,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems**|Yikun Wang et.al.|[2603.16449](http://arxiv.org/abs/2603.16449)|null|
+|**2026-03-17**|**TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas**|Ai Jian et.al.|[2603.16448](http://arxiv.org/abs/2603.16448)|null|
+|**2026-03-17**|**Visual Distraction Undermines Moral Reasoning in Vision-Language Models**|Xinyi Yang et.al.|[2603.16445](http://arxiv.org/abs/2603.16445)|null|
+|**2026-03-17**|**Electron Tesla valve**|Daniil I. Sarypov et.al.|[2603.16443](http://arxiv.org/abs/2603.16443)|null|
+|**2026-03-17**|**Uplink Networked Sensing via Multiuser Correlation Exploitation**|Jingying Bao et.al.|[2603.16442](http://arxiv.org/abs/2603.16442)|null|
+|**2026-03-17**|**On the stabilization of $L^2$ and $H^1$ norms for the Zakharov-Kuznetsov equation with damping**|Mykael Cardoso et.al.|[2603.16441](http://arxiv.org/abs/2603.16441)|null|
+|**2026-03-17**|**Capability-Guided Compression: Toward Interpretability-Aware Budget Allocation for Large Language Models**|Rishaank Gupta et.al.|[2603.16440](http://arxiv.org/abs/2603.16440)|null|
+|**2026-03-17**|**CD-FKD: Cross-Domain Feature Knowledge Distillation for Robust Single-Domain Generalization in Object Detection**|Junseok Lee et.al.|[2603.16439](http://arxiv.org/abs/2603.16439)|null|
+|**2026-03-17**|**Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation**|Houston Haynes et.al.|[2603.16437](http://arxiv.org/abs/2603.16437)|null|
+|**2026-03-17**|**DISCOVER: A Solver for Distributional Counterfactual Explanations**|Yikai Gu et.al.|[2603.16436](http://arxiv.org/abs/2603.16436)|null|
 |**2026-03-14**|**Multifidelity Surrogate Modeling of Depressurized Loss of Forced Cooling in High-temperature Gas Reactors**|Meredith Eaheart et.al.|[2603.14143](http://arxiv.org/abs/2603.14143)|null|
 |**2026-03-14**|**Chance-Constrained Correlated Equilibria for Robust Noncooperative Coordination**|Jaehan Im et.al.|[2603.14141](http://arxiv.org/abs/2603.14141)|null|
 |**2026-03-14**|**Universal method of selective detection of a wide range of pollutants in liquids using conductance quantization**|O. Pospelov et.al.|[2603.14140](http://arxiv.org/abs/2603.14140)|null|
