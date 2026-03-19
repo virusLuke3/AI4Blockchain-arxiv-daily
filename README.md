@@ -1,4 +1,4 @@
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Fully 3D-Printed Wideband Metasurface Folded Reflectarray Antenna**|Evangelos Vassos et.al.|[2603.17526](http://arxiv.org/abs/2603.17526)|null|
+|**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
+|**2026-03-18**|**Detecting the Machine: A Comprehensive Benchmark of AI-Generated Text Detectors Across Architectures, Domains, and Adversarial Conditions**|Madhav S. Baidya et.al.|[2603.17522](http://arxiv.org/abs/2603.17522)|null|
+|**2026-03-18**|**Distributed Adaptive Control for DC Power Distribution in Hybrid-Electric Aircraft: Design and Experimental Validation**|Wasif H. Syed et.al.|[2603.17518](http://arxiv.org/abs/2603.17518)|null|
+|**2026-03-18**|**Moduli spaces and the algebra of conformal blocks**|Yanglong Zhang et.al.|[2603.17517](http://arxiv.org/abs/2603.17517)|null|
+|**2026-03-18**|**Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality**|Mengyu Bu et.al.|[2603.17512](http://arxiv.org/abs/2603.17512)|null|
+|**2026-03-18**|**VERITAS Observations Contemporaneous with the LHAASO Detection of NGC 4278**|The VERITAS Collaboration et.al.|[2603.17511](http://arxiv.org/abs/2603.17511)|null|
+|**2026-03-18**|**Study of Meta-Fibonacci Integer Sequences by Continuous Self-Referential Functional Equations**|Klaus Pinn et.al.|[2603.17509](http://arxiv.org/abs/2603.17509)|null|
+|**2026-03-18**|**Optical transients from non-explosive double white-dwarf mergers: the case of a central neutron star remnant**|Ridha Fathima M. M. et.al.|[2603.17505](http://arxiv.org/abs/2603.17505)|null|
+|**2026-03-18**|**A lightweight framework for characterising extreme precipitation events in climate ensembles**|Dáire Healy et.al.|[2603.17502](http://arxiv.org/abs/2603.17502)|null|
 |**2026-03-17**|**On the stabilization of $L^2$ and $H^1$ norms for the Zakharov-Kuznetsov equation with damping**|Mykael Cardoso et.al.|[2603.16441](http://arxiv.org/abs/2603.16441)|null|
 |**2026-03-17**|**Capability-Guided Compression: Toward Interpretability-Aware Budget Allocation for Large Language Models**|Rishaank Gupta et.al.|[2603.16440](http://arxiv.org/abs/2603.16440)|null|
 |**2026-03-17**|**Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation**|Houston Haynes et.al.|[2603.16437](http://arxiv.org/abs/2603.16437)|null|
@@ -459,12 +469,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Mirror Descent on Riemannian Manifolds**|Jiaxin Jiang et.al.|[2603.17527](http://arxiv.org/abs/2603.17527)|null|
+|**2026-03-18**|**PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation**|Jianjian Yin et.al.|[2603.17520](http://arxiv.org/abs/2603.17520)|null|
+|**2026-03-18**|**UniSem: Generalizable Semantic 3D Reconstruction from Sparse Unposed Images**|Guibiao Liao et.al.|[2603.17519](http://arxiv.org/abs/2603.17519)|null|
+|**2026-03-18**|**Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data**|Eric Diehl et.al.|[2603.17516](http://arxiv.org/abs/2603.17516)|null|
+|**2026-03-18**|**EI: Early Intervention for Multimodal Imaging based Disease Recognition**|Qijie Wei et.al.|[2603.17514](http://arxiv.org/abs/2603.17514)|null|
+|**2026-03-18**|**Proof-of-Authorship for Diffusion-based AI Generated Content**|De Zhang Lee et.al.|[2603.17513](http://arxiv.org/abs/2603.17513)|null|
+|**2026-03-18**|**Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality**|Mengyu Bu et.al.|[2603.17512](http://arxiv.org/abs/2603.17512)|null|
+|**2026-03-18**|**Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation**|Jiawei Zhou et.al.|[2603.17508](http://arxiv.org/abs/2603.17508)|null|
+|**2026-03-18**|**Adaptive Encoding Strategy for Quantum Annealing in Mixed-Variable Engineering Optimization**|Fabian Key et.al.|[2603.17506](http://arxiv.org/abs/2603.17506)|null|
+|**2026-03-18**|**Tightening Cosmological Constraints Within and Beyond $Λ$ CDM Using Gamma-Ray Bursts Calibrated with Type Ia Supernovae**|Wei Hong et.al.|[2603.17500](http://arxiv.org/abs/2603.17500)|null|
 |**2026-03-17**|**Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems**|Yikun Wang et.al.|[2603.16449](http://arxiv.org/abs/2603.16449)|null|
 |**2026-03-17**|**ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars**|Kaiwen Song et.al.|[2603.16447](http://arxiv.org/abs/2603.16447)|null|
 |**2026-03-17**|**Unified Removal of Raindrops and Reflections: A New Benchmark and A Novel Pipeline**|Xingyu Liu et.al.|[2603.16446](http://arxiv.org/abs/2603.16446)|null|
@@ -766,12 +786,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Fully 3D-Printed Wideband Metasurface Folded Reflectarray Antenna**|Evangelos Vassos et.al.|[2603.17526](http://arxiv.org/abs/2603.17526)|null|
+|**2026-03-18**|**Photonuclear reactions on stable isotopes of cadmium and tellurium at bremsstrahlung end-point energies of 10-23 MeV**|F. A. Rasulova et.al.|[2603.17525](http://arxiv.org/abs/2603.17525)|null|
+|**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
+|**2026-03-18**|**Nets of quadric surfaces and plane cubics and their GIT stability**|Masafumi Hattori et.al.|[2603.17521](http://arxiv.org/abs/2603.17521)|null|
+|**2026-03-18**|**PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation**|Jianjian Yin et.al.|[2603.17520](http://arxiv.org/abs/2603.17520)|null|
+|**2026-03-18**|**Distributed Adaptive Control for DC Power Distribution in Hybrid-Electric Aircraft: Design and Experimental Validation**|Wasif H. Syed et.al.|[2603.17518](http://arxiv.org/abs/2603.17518)|null|
+|**2026-03-18**|**Moduli spaces and the algebra of conformal blocks**|Yanglong Zhang et.al.|[2603.17517](http://arxiv.org/abs/2603.17517)|null|
+|**2026-03-18**|**Homomorphism extension problem for subdirect products of finite groups**|İsmail Alperen Öğüt et.al.|[2603.17515](http://arxiv.org/abs/2603.17515)|null|
+|**2026-03-18**|**Proof-of-Authorship for Diffusion-based AI Generated Content**|De Zhang Lee et.al.|[2603.17513](http://arxiv.org/abs/2603.17513)|null|
+|**2026-03-18**|**Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality**|Mengyu Bu et.al.|[2603.17512](http://arxiv.org/abs/2603.17512)|null|
 |**2026-03-17**|**Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems**|Yikun Wang et.al.|[2603.16449](http://arxiv.org/abs/2603.16449)|null|
 |**2026-03-17**|**TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas**|Ai Jian et.al.|[2603.16448](http://arxiv.org/abs/2603.16448)|null|
 |**2026-03-17**|**ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars**|Kaiwen Song et.al.|[2603.16447](http://arxiv.org/abs/2603.16447)|null|
@@ -1073,12 +1103,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Photonuclear reactions on stable isotopes of cadmium and tellurium at bremsstrahlung end-point energies of 10-23 MeV**|F. A. Rasulova et.al.|[2603.17525](http://arxiv.org/abs/2603.17525)|null|
+|**2026-03-18**|**Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data**|Eric Diehl et.al.|[2603.17516](http://arxiv.org/abs/2603.17516)|null|
+|**2026-03-18**|**Adaptive Encoding Strategy for Quantum Annealing in Mixed-Variable Engineering Optimization**|Fabian Key et.al.|[2603.17506](http://arxiv.org/abs/2603.17506)|null|
+|**2026-03-18**|**Cyberlanguage: Native Communication for the Cyber-Physical-Social-Thinking Fusion Space**|Huansheng Ning et.al.|[2603.17498](http://arxiv.org/abs/2603.17498)|null|
+|**2026-03-18**|**A Weight-Dependent 1RM Prediction Equation Optimized on 303,494 Near-Failure Sets Across 388 Exercises**|Thiago Marzagao et.al.|[2603.17495](http://arxiv.org/abs/2603.17495)|null|
+|**2026-03-18**|**Generalized Snell's laws for rough interfaces**|Christophe Gomez et.al.|[2603.17488](http://arxiv.org/abs/2603.17488)|null|
+|**2026-03-18**|**Auto-Unrolled Proximal Gradient Descent: An AutoML Approach to Interpretable Waveform Optimization**|Ahmet Kaplan et.al.|[2603.17478](http://arxiv.org/abs/2603.17478)|null|
+|**2026-03-18**|**Revisiting Cross-Attention Mechanisms: Leveraging Beneficial Noise for Domain-Adaptive Learning**|Zelin Zang et.al.|[2603.17474](http://arxiv.org/abs/2603.17474)|null|
+|**2026-03-18**|**Bringing Network Coding into Multi-Robot Systems: Interplay Study for Autonomous Systems over Wireless Communications**|Anil Zaher et.al.|[2603.17472](http://arxiv.org/abs/2603.17472)|null|
+|**2026-03-18**|**VirPro: Visual-referred Probabilistic Prompt Learning for Weakly-Supervised Monocular 3D Detection**|Chupeng Liu et.al.|[2603.17470](http://arxiv.org/abs/2603.17470)|null|
 |**2026-03-17**|**TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas**|Ai Jian et.al.|[2603.16448](http://arxiv.org/abs/2603.16448)|null|
 |**2026-03-17**|**Electron Tesla valve**|Daniil I. Sarypov et.al.|[2603.16443](http://arxiv.org/abs/2603.16443)|null|
 |**2026-03-17**|**Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation**|Houston Haynes et.al.|[2603.16437](http://arxiv.org/abs/2603.16437)|null|
@@ -1400,12 +1440,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
+|**2026-03-18**|**Detecting the Machine: A Comprehensive Benchmark of AI-Generated Text Detectors Across Architectures, Domains, and Adversarial Conditions**|Madhav S. Baidya et.al.|[2603.17522](http://arxiv.org/abs/2603.17522)|null|
+|**2026-03-18**|**Nets of quadric surfaces and plane cubics and their GIT stability**|Masafumi Hattori et.al.|[2603.17521](http://arxiv.org/abs/2603.17521)|null|
+|**2026-03-18**|**PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation**|Jianjian Yin et.al.|[2603.17520](http://arxiv.org/abs/2603.17520)|null|
+|**2026-03-18**|**Distributed Adaptive Control for DC Power Distribution in Hybrid-Electric Aircraft: Design and Experimental Validation**|Wasif H. Syed et.al.|[2603.17518](http://arxiv.org/abs/2603.17518)|null|
+|**2026-03-18**|**Moduli spaces and the algebra of conformal blocks**|Yanglong Zhang et.al.|[2603.17517](http://arxiv.org/abs/2603.17517)|null|
+|**2026-03-18**|**Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data**|Eric Diehl et.al.|[2603.17516](http://arxiv.org/abs/2603.17516)|null|
+|**2026-03-18**|**Homomorphism extension problem for subdirect products of finite groups**|İsmail Alperen Öğüt et.al.|[2603.17515](http://arxiv.org/abs/2603.17515)|null|
+|**2026-03-18**|**Proof-of-Authorship for Diffusion-based AI Generated Content**|De Zhang Lee et.al.|[2603.17513](http://arxiv.org/abs/2603.17513)|null|
+|**2026-03-18**|**Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality**|Mengyu Bu et.al.|[2603.17512](http://arxiv.org/abs/2603.17512)|null|
 |**2026-03-17**|**Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems**|Yikun Wang et.al.|[2603.16449](http://arxiv.org/abs/2603.16449)|null|
 |**2026-03-17**|**ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars**|Kaiwen Song et.al.|[2603.16447](http://arxiv.org/abs/2603.16447)|null|
 |**2026-03-17**|**Fast-HaMeR: Boosting Hand Mesh Reconstruction using Knowledge Distillation**|Hunain Ahmed Jillani et.al.|[2603.16444](http://arxiv.org/abs/2603.16444)|null|
@@ -1717,12 +1767,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Mirror Descent on Riemannian Manifolds**|Jiaxin Jiang et.al.|[2603.17527](http://arxiv.org/abs/2603.17527)|null|
+|**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
+|**2026-03-18**|**Detecting the Machine: A Comprehensive Benchmark of AI-Generated Text Detectors Across Architectures, Domains, and Adversarial Conditions**|Madhav S. Baidya et.al.|[2603.17522](http://arxiv.org/abs/2603.17522)|null|
+|**2026-03-18**|**PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation**|Jianjian Yin et.al.|[2603.17520](http://arxiv.org/abs/2603.17520)|null|
+|**2026-03-18**|**UniSem: Generalizable Semantic 3D Reconstruction from Sparse Unposed Images**|Guibiao Liao et.al.|[2603.17519](http://arxiv.org/abs/2603.17519)|null|
+|**2026-03-18**|**Distributed Adaptive Control for DC Power Distribution in Hybrid-Electric Aircraft: Design and Experimental Validation**|Wasif H. Syed et.al.|[2603.17518](http://arxiv.org/abs/2603.17518)|null|
+|**2026-03-18**|**Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data**|Eric Diehl et.al.|[2603.17516](http://arxiv.org/abs/2603.17516)|null|
+|**2026-03-18**|**Proof-of-Authorship for Diffusion-based AI Generated Content**|De Zhang Lee et.al.|[2603.17513](http://arxiv.org/abs/2603.17513)|null|
+|**2026-03-18**|**Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality**|Mengyu Bu et.al.|[2603.17512](http://arxiv.org/abs/2603.17512)|null|
+|**2026-03-18**|**VERITAS Observations Contemporaneous with the LHAASO Detection of NGC 4278**|The VERITAS Collaboration et.al.|[2603.17511](http://arxiv.org/abs/2603.17511)|null|
 |**2026-03-17**|**Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems**|Yikun Wang et.al.|[2603.16449](http://arxiv.org/abs/2603.16449)|null|
 |**2026-03-17**|**TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas**|Ai Jian et.al.|[2603.16448](http://arxiv.org/abs/2603.16448)|null|
 |**2026-03-17**|**Visual Distraction Undermines Moral Reasoning in Vision-Language Models**|Xinyi Yang et.al.|[2603.16445](http://arxiv.org/abs/2603.16445)|null|
@@ -2039,7 +2099,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
