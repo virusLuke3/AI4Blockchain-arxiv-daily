@@ -1,4 +1,4 @@
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**|Youngwan Lee et.al.|[2603.18892](http://arxiv.org/abs/2603.18892)|null|
+|**2026-03-19**|**PromptHub: Enhancing Multi-Prompt Visual In-Context Learning with Locality-Aware Fusion, Concentration and Alignment**|Tianci Luo et.al.|[2603.18891](http://arxiv.org/abs/2603.18891)|null|
+|**2026-03-19**|**A new optimal control algorithm for the Keller-Segel problem**|F. Guillen-Gonzalez et.al.|[2603.18889](http://arxiv.org/abs/2603.18889)|null|
+|**2026-03-19**|**Authority-Level Priors: An Under-Specified Constraint in Hierarchical Predictive Processing**|Marcela Palejova et.al.|[2603.18888](http://arxiv.org/abs/2603.18888)|null|
+|**2026-03-19**|**Analytic Expressions for Quasinormal Modes of a Regular Black Hole Sourced by a Dehnen-Type Halo**|Zainab Malik et.al.|[2603.18887](http://arxiv.org/abs/2603.18887)|null|
+|**2026-03-19**|**Luminosity functions and IMF variations from large samples of HII regions and molecular clouds**|Jonathan Braine et.al.|[2603.18883](http://arxiv.org/abs/2603.18883)|null|
+|**2026-03-19**|**Geography According to ChatGPT -- How Generative AI Represents and Reasons about Geography**|Krzysztof Janowicz et.al.|[2603.18881](http://arxiv.org/abs/2603.18881)|null|
+|**2026-03-19**|**Chain recurrent shifts on trees**|Andrew Mortensen et.al.|[2603.18878](http://arxiv.org/abs/2603.18878)|null|
+|**2026-03-19**|**Hadron production through Higgs decay at next-to-leading order in the general-mass variable-flavor-number scheme**|S. Mohammad Moosavi Nejad et.al.|[2603.18875](http://arxiv.org/abs/2603.18875)|null|
+|**2026-03-19**|**DriftGuard: Mitigating Asynchronous Data Drift in Federated Learning**|Yizhou Han et.al.|[2603.18872](http://arxiv.org/abs/2603.18872)|null|
 |**2026-03-18**|**Fully 3D-Printed Wideband Metasurface Folded Reflectarray Antenna**|Evangelos Vassos et.al.|[2603.17526](http://arxiv.org/abs/2603.17526)|null|
 |**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
 |**2026-03-18**|**Detecting the Machine: A Comprehensive Benchmark of AI-Generated Text Detectors Across Architectures, Domains, and Adversarial Conditions**|Madhav S. Baidya et.al.|[2603.17522](http://arxiv.org/abs/2603.17522)|null|
@@ -469,12 +479,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**|Youngwan Lee et.al.|[2603.18892](http://arxiv.org/abs/2603.18892)|null|
+|**2026-03-19**|**PromptHub: Enhancing Multi-Prompt Visual In-Context Learning with Locality-Aware Fusion, Concentration and Alignment**|Tianci Luo et.al.|[2603.18891](http://arxiv.org/abs/2603.18891)|null|
+|**2026-03-19**|**A new optimal control algorithm for the Keller-Segel problem**|F. Guillen-Gonzalez et.al.|[2603.18889](http://arxiv.org/abs/2603.18889)|null|
+|**2026-03-19**|**Primordial black holes and the velocity acoustic oscillations features in 21 cm signals from the cosmic Dark Ages**|Zhihe Zhang et.al.|[2603.18884](http://arxiv.org/abs/2603.18884)|null|
+|**2026-03-19**|**Vortex Retention Mediated Turbulent Transitions in Self-Gravitating Bosonic and Axionic Condensates**|Anirudh Sivakumar et.al.|[2603.18880](http://arxiv.org/abs/2603.18880)|null|
+|**2026-03-19**|**A Human-in/on-the-Loop Framework for Accessible Text Generation**|Lourdes Moreno et.al.|[2603.18879](http://arxiv.org/abs/2603.18879)|null|
+|**2026-03-19**|**DriftGuard: Mitigating Asynchronous Data Drift in Federated Learning**|Yizhou Han et.al.|[2603.18872](http://arxiv.org/abs/2603.18872)|null|
+|**2026-03-19**|**Optimal and improved gate decompositions for accelerated classical simulation of near-Gaussian fermionic circuits**|Beatriz Dias et.al.|[2603.18869](http://arxiv.org/abs/2603.18869)|null|
+|**2026-03-19**|**Conflict-Based Search for Multi Agent Path Finding with Asynchronous Actions**|Xuemian Wu et.al.|[2603.18866](http://arxiv.org/abs/2603.18866)|null|
+|**2026-03-19**|**Data-driven construction of machine-learning-based interatomic potentials for gas-surface scattering dynamics: the case of NO on graphite**|Samuel Del Fré et.al.|[2603.18864](http://arxiv.org/abs/2603.18864)|null|
 |**2026-03-18**|**Mirror Descent on Riemannian Manifolds**|Jiaxin Jiang et.al.|[2603.17527](http://arxiv.org/abs/2603.17527)|null|
 |**2026-03-18**|**PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation**|Jianjian Yin et.al.|[2603.17520](http://arxiv.org/abs/2603.17520)|null|
 |**2026-03-18**|**UniSem: Generalizable Semantic 3D Reconstruction from Sparse Unposed Images**|Guibiao Liao et.al.|[2603.17519](http://arxiv.org/abs/2603.17519)|null|
@@ -786,12 +806,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**|Youngwan Lee et.al.|[2603.18892](http://arxiv.org/abs/2603.18892)|null|
+|**2026-03-19**|**PromptHub: Enhancing Multi-Prompt Visual In-Context Learning with Locality-Aware Fusion, Concentration and Alignment**|Tianci Luo et.al.|[2603.18891](http://arxiv.org/abs/2603.18891)|null|
+|**2026-03-19**|**On the $S$ -version of some special elements in commutative rings**|D. Bennis et.al.|[2603.18890](http://arxiv.org/abs/2603.18890)|null|
+|**2026-03-19**|**A new optimal control algorithm for the Keller-Segel problem**|F. Guillen-Gonzalez et.al.|[2603.18889](http://arxiv.org/abs/2603.18889)|null|
+|**2026-03-19**|**Reasoning over mathematical objects: on-policy reward modeling and test time aggregation**|Pranjal Aggarwal et.al.|[2603.18886](http://arxiv.org/abs/2603.18886)|null|
+|**2026-03-19**|**Scale by scale analysis of magnetoconvection with uniform wall-normal and wall-parallel magnetic fields at low magnetic Reynolds number**|Jake Ineson et.al.|[2603.18882](http://arxiv.org/abs/2603.18882)|null|
+|**2026-03-19**|**Geography According to ChatGPT -- How Generative AI Represents and Reasons about Geography**|Krzysztof Janowicz et.al.|[2603.18881](http://arxiv.org/abs/2603.18881)|null|
+|**2026-03-19**|**Vortex Retention Mediated Turbulent Transitions in Self-Gravitating Bosonic and Axionic Condensates**|Anirudh Sivakumar et.al.|[2603.18880](http://arxiv.org/abs/2603.18880)|null|
+|**2026-03-19**|**A Human-in/on-the-Loop Framework for Accessible Text Generation**|Lourdes Moreno et.al.|[2603.18879](http://arxiv.org/abs/2603.18879)|null|
+|**2026-03-19**|**Two-body strong decays of the pseudoscalar hidden-charm tetraquark states via the QCD sum rules**|Yu-Hang Xu et.al.|[2603.18877](http://arxiv.org/abs/2603.18877)|null|
 |**2026-03-18**|**Fully 3D-Printed Wideband Metasurface Folded Reflectarray Antenna**|Evangelos Vassos et.al.|[2603.17526](http://arxiv.org/abs/2603.17526)|null|
 |**2026-03-18**|**Photonuclear reactions on stable isotopes of cadmium and tellurium at bremsstrahlung end-point energies of 10-23 MeV**|F. A. Rasulova et.al.|[2603.17525](http://arxiv.org/abs/2603.17525)|null|
 |**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
@@ -1103,12 +1133,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**|Youngwan Lee et.al.|[2603.18892](http://arxiv.org/abs/2603.18892)|null|
+|**2026-03-19**|**Authority-Level Priors: An Under-Specified Constraint in Hierarchical Predictive Processing**|Marcela Palejova et.al.|[2603.18888](http://arxiv.org/abs/2603.18888)|null|
+|**2026-03-19**|**Reasoning over mathematical objects: on-policy reward modeling and test time aggregation**|Pranjal Aggarwal et.al.|[2603.18886](http://arxiv.org/abs/2603.18886)|null|
+|**2026-03-19**|**A Human-in/on-the-Loop Framework for Accessible Text Generation**|Lourdes Moreno et.al.|[2603.18879](http://arxiv.org/abs/2603.18879)|null|
+|**2026-03-19**|**Optimal and improved gate decompositions for accelerated classical simulation of near-Gaussian fermionic circuits**|Beatriz Dias et.al.|[2603.18869](http://arxiv.org/abs/2603.18869)|null|
+|**2026-03-19**|**Why Better Cross-Lingual Alignment Fails for Better Cross-Lingual Transfer: Case of Encoders**|Yana Veitsman et.al.|[2603.18863](http://arxiv.org/abs/2603.18863)|null|
+|**2026-03-19**|**Pore-scale modeling of capillary-driven binder migration during battery electrode drying**|Marcel Weichel et.al.|[2603.18860](http://arxiv.org/abs/2603.18860)|null|
+|**2026-03-19**|**RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with Large Language Models**|Xiao Feng et.al.|[2603.18859](http://arxiv.org/abs/2603.18859)|null|
+|**2026-03-19**|**Motion-o: Trajectory-Grounded Video Reasoning**|Bishoy Galoaa et.al.|[2603.18856](http://arxiv.org/abs/2603.18856)|null|
+|**2026-03-19**|**Learn for Variation: Variationally Guided AAV Trajectory Learning in Differentiable Environments**|Xiucheng Wang et.al.|[2603.18853](http://arxiv.org/abs/2603.18853)|null|
 |**2026-03-18**|**Photonuclear reactions on stable isotopes of cadmium and tellurium at bremsstrahlung end-point energies of 10-23 MeV**|F. A. Rasulova et.al.|[2603.17525](http://arxiv.org/abs/2603.17525)|null|
 |**2026-03-18**|**Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data**|Eric Diehl et.al.|[2603.17516](http://arxiv.org/abs/2603.17516)|null|
 |**2026-03-18**|**Adaptive Encoding Strategy for Quantum Annealing in Mixed-Variable Engineering Optimization**|Fabian Key et.al.|[2603.17506](http://arxiv.org/abs/2603.17506)|null|
@@ -1440,12 +1480,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**On the $S$ -version of some special elements in commutative rings**|D. Bennis et.al.|[2603.18890](http://arxiv.org/abs/2603.18890)|null|
+|**2026-03-19**|**A new optimal control algorithm for the Keller-Segel problem**|F. Guillen-Gonzalez et.al.|[2603.18889](http://arxiv.org/abs/2603.18889)|null|
+|**2026-03-19**|**Authority-Level Priors: An Under-Specified Constraint in Hierarchical Predictive Processing**|Marcela Palejova et.al.|[2603.18888](http://arxiv.org/abs/2603.18888)|null|
+|**2026-03-19**|**Analytic Expressions for Quasinormal Modes of a Regular Black Hole Sourced by a Dehnen-Type Halo**|Zainab Malik et.al.|[2603.18887](http://arxiv.org/abs/2603.18887)|null|
+|**2026-03-19**|**Reasoning over mathematical objects: on-policy reward modeling and test time aggregation**|Pranjal Aggarwal et.al.|[2603.18886](http://arxiv.org/abs/2603.18886)|null|
+|**2026-03-19**|**Luminosity functions and IMF variations from large samples of HII regions and molecular clouds**|Jonathan Braine et.al.|[2603.18883](http://arxiv.org/abs/2603.18883)|null|
+|**2026-03-19**|**Scale by scale analysis of magnetoconvection with uniform wall-normal and wall-parallel magnetic fields at low magnetic Reynolds number**|Jake Ineson et.al.|[2603.18882](http://arxiv.org/abs/2603.18882)|null|
+|**2026-03-19**|**A Human-in/on-the-Loop Framework for Accessible Text Generation**|Lourdes Moreno et.al.|[2603.18879](http://arxiv.org/abs/2603.18879)|null|
+|**2026-03-19**|**Chain recurrent shifts on trees**|Andrew Mortensen et.al.|[2603.18878](http://arxiv.org/abs/2603.18878)|null|
+|**2026-03-19**|**Hadron production through Higgs decay at next-to-leading order in the general-mass variable-flavor-number scheme**|S. Mohammad Moosavi Nejad et.al.|[2603.18875](http://arxiv.org/abs/2603.18875)|null|
 |**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
 |**2026-03-18**|**Detecting the Machine: A Comprehensive Benchmark of AI-Generated Text Detectors Across Architectures, Domains, and Adversarial Conditions**|Madhav S. Baidya et.al.|[2603.17522](http://arxiv.org/abs/2603.17522)|null|
 |**2026-03-18**|**Nets of quadric surfaces and plane cubics and their GIT stability**|Masafumi Hattori et.al.|[2603.17521](http://arxiv.org/abs/2603.17521)|null|
@@ -1767,12 +1817,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**|Youngwan Lee et.al.|[2603.18892](http://arxiv.org/abs/2603.18892)|null|
+|**2026-03-19**|**PromptHub: Enhancing Multi-Prompt Visual In-Context Learning with Locality-Aware Fusion, Concentration and Alignment**|Tianci Luo et.al.|[2603.18891](http://arxiv.org/abs/2603.18891)|null|
+|**2026-03-19**|**A new optimal control algorithm for the Keller-Segel problem**|F. Guillen-Gonzalez et.al.|[2603.18889](http://arxiv.org/abs/2603.18889)|null|
+|**2026-03-19**|**Authority-Level Priors: An Under-Specified Constraint in Hierarchical Predictive Processing**|Marcela Palejova et.al.|[2603.18888](http://arxiv.org/abs/2603.18888)|null|
+|**2026-03-19**|**Microscopic Origin of Temperature-Dependent Anisotropic Heat Transport in Ultrawide-Bandgap Rutile GeO2**|Pouria Emtenani et.al.|[2603.18885](http://arxiv.org/abs/2603.18885)|null|
+|**2026-03-19**|**Primordial black holes and the velocity acoustic oscillations features in 21 cm signals from the cosmic Dark Ages**|Zhihe Zhang et.al.|[2603.18884](http://arxiv.org/abs/2603.18884)|null|
+|**2026-03-19**|**Luminosity functions and IMF variations from large samples of HII regions and molecular clouds**|Jonathan Braine et.al.|[2603.18883](http://arxiv.org/abs/2603.18883)|null|
+|**2026-03-19**|**Scale by scale analysis of magnetoconvection with uniform wall-normal and wall-parallel magnetic fields at low magnetic Reynolds number**|Jake Ineson et.al.|[2603.18882](http://arxiv.org/abs/2603.18882)|null|
+|**2026-03-19**|**Geography According to ChatGPT -- How Generative AI Represents and Reasons about Geography**|Krzysztof Janowicz et.al.|[2603.18881](http://arxiv.org/abs/2603.18881)|null|
+|**2026-03-19**|**Vortex Retention Mediated Turbulent Transitions in Self-Gravitating Bosonic and Axionic Condensates**|Anirudh Sivakumar et.al.|[2603.18880](http://arxiv.org/abs/2603.18880)|null|
 |**2026-03-18**|**Mirror Descent on Riemannian Manifolds**|Jiaxin Jiang et.al.|[2603.17527](http://arxiv.org/abs/2603.17527)|null|
 |**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
 |**2026-03-18**|**Detecting the Machine: A Comprehensive Benchmark of AI-Generated Text Detectors Across Architectures, Domains, and Adversarial Conditions**|Madhav S. Baidya et.al.|[2603.17522](http://arxiv.org/abs/2603.17522)|null|
@@ -2099,7 +2159,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
