@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**The application of Kirkwood-Buff theory to study hydration properties of $α$ -amino acids**|Z. Štefanič et.al.|[2603.20051](http://arxiv.org/abs/2603.20051)|null|
+|**2026-03-20**|**Feasible Deviations from Unitarity with Vector-Like Quark Singlets**|Francisco Albergaria et.al.|[2603.20047](http://arxiv.org/abs/2603.20047)|null|
+|**2026-03-20**|**Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**|Wenjian Zhang et.al.|[2603.20046](http://arxiv.org/abs/2603.20046)|null|
+|**2026-03-20**|**A Century of Radial Velocity and Astrometric Monitoring of 70 Oph AB: New PFS Data and Constraints on Planetary Companions**|Yiting Li et.al.|[2603.20044](http://arxiv.org/abs/2603.20044)|null|
+|**2026-03-20**|**How does ethane wet different substrates?**|Ł. Baran et.al.|[2603.20043](http://arxiv.org/abs/2603.20043)|null|
+|**2026-03-20**|**Pressure effects in the properties of simple monohydric alcohols. Lessons from molecular dynamics simulations of united atom type UAM-EW model**|M. Aguilar et.al.|[2603.20040](http://arxiv.org/abs/2603.20040)|null|
+|**2026-03-20**|**Search-Driven Clause Learning for Product-State Quantum $k$ -SAT (PRODSAT-QSAT)**|Samuel González-Castillo et.al.|[2603.20038](http://arxiv.org/abs/2603.20038)|null|
+|**2026-03-20**|**Federated Hyperdimensional Computing for Resource-Constrained Industrial IoT**|Nikita Zeulin et.al.|[2603.20037](http://arxiv.org/abs/2603.20037)|null|
+|**2026-03-20**|**Full Network Nonlocality Based Security In Quantum Key Distribution**|Kaushiki Mukherjee et.al.|[2603.20035](http://arxiv.org/abs/2603.20035)|null|
+|**2026-03-20**|**Retrieving the Red Edge on Earth-like Planets with Heterogeneous Clouds and Surfaces**|Zachary Burr et.al.|[2603.20033](http://arxiv.org/abs/2603.20033)|null|
 |**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
 |**2026-03-19**|**Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer**|Chenyang Gu et.al.|[2603.19227](http://arxiv.org/abs/2603.19227)|null|
 |**2026-03-19**|**Spectrally-Guided Diffusion Noise Schedules**|Carlos Esteves et.al.|[2603.19222](http://arxiv.org/abs/2603.19222)|null|
@@ -473,6 +483,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**|Wenjian Zhang et.al.|[2603.20046](http://arxiv.org/abs/2603.20046)|null|
+|**2026-03-20**|**Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery**|Jan Emily Mangulabnan et.al.|[2603.20045](http://arxiv.org/abs/2603.20045)|null|
+|**2026-03-20**|**On second-order optimality in the high- $κ$ regime of the Ginzburg-Landau model**|Christian Döding et.al.|[2603.20039](http://arxiv.org/abs/2603.20039)|null|
+|**2026-03-20**|**Full Network Nonlocality Based Security In Quantum Key Distribution**|Kaushiki Mukherjee et.al.|[2603.20035](http://arxiv.org/abs/2603.20035)|null|
+|**2026-03-20**|**On the size of k-irreducible triangulations**|Vincent Delecroix et.al.|[2603.20030](http://arxiv.org/abs/2603.20030)|null|
+|**2026-03-20**|**Variance reduction methods in the estimation of Pauli sums**|Søren Fuglede Jørgensen et.al.|[2603.20029](http://arxiv.org/abs/2603.20029)|null|
+|**2026-03-20**|**Graph-Informed Adversarial Modeling: Infimal Subadditivity of Interpolative Divergences**|Panagiota Birmpa et.al.|[2603.20025](http://arxiv.org/abs/2603.20025)|null|
+|**2026-03-20**|**Layered Quantum Architecture Search for 3D Point Cloud Classification**|Natacha Kuete Meli et.al.|[2603.20024](http://arxiv.org/abs/2603.20024)|null|
+|**2026-03-20**|**Detached Skip-Links and $R$ -Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR**|Ziye Yuan et.al.|[2603.20020](http://arxiv.org/abs/2603.20020)|null|
+|**2026-03-20**|**CFCML: A Coarse-to-Fine Crossmodal Learning Framework For Disease Diagnosis Using Multimodal Images and Tabular Data**|Tianling Liu et.al.|[2603.20016](http://arxiv.org/abs/2603.20016)|null|
 |**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
 |**2026-03-19**|**Matryoshka Gaussian Splatting**|Zhilin Guo et.al.|[2603.19234](http://arxiv.org/abs/2603.19234)|null|
 |**2026-03-19**|**Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**|Yuqing Wang et.al.|[2603.19232](http://arxiv.org/abs/2603.19232)|null|
@@ -808,6 +828,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**On the $q$-multiplicity of sums of distinct simple roots of $\mathfrak{sl}_{r+1}(\mathbb{C})$**|Matt McClinton et.al.|[2603.20053](http://arxiv.org/abs/2603.20053)|null|
+|**2026-03-20**|**The interplay between thermomigration and stress-driven hydrogen transport in metals**|Daniel J. Long et.al.|[2603.20049](http://arxiv.org/abs/2603.20049)|null|
+|**2026-03-20**|**How does ethane wet different substrates?**|Ł. Baran et.al.|[2603.20043](http://arxiv.org/abs/2603.20043)|null|
+|**2026-03-20**|**LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families**|Jianan Chen et.al.|[2603.20042](http://arxiv.org/abs/2603.20042)|null|
+|**2026-03-20**|**Strong Violation of the Thermodynamic Uncertainty Relation in a Minimal Autonomous Heat Engine**|Enrique P. Cital et.al.|[2603.20041](http://arxiv.org/abs/2603.20041)|null|
+|**2026-03-20**|**Pressure effects in the properties of simple monohydric alcohols. Lessons from molecular dynamics simulations of united atom type UAM-EW model**|M. Aguilar et.al.|[2603.20040](http://arxiv.org/abs/2603.20040)|null|
+|**2026-03-20**|**On second-order optimality in the high- $κ$ regime of the Ginzburg-Landau model**|Christian Döding et.al.|[2603.20039](http://arxiv.org/abs/2603.20039)|null|
+|**2026-03-20**|**Search-Driven Clause Learning for Product-State Quantum $k$ -SAT (PRODSAT-QSAT)**|Samuel González-Castillo et.al.|[2603.20038](http://arxiv.org/abs/2603.20038)|null|
+|**2026-03-20**|**Federated Hyperdimensional Computing for Resource-Constrained Industrial IoT**|Nikita Zeulin et.al.|[2603.20037](http://arxiv.org/abs/2603.20037)|null|
+|**2026-03-20**|**Full Network Nonlocality Based Security In Quantum Key Distribution**|Kaushiki Mukherjee et.al.|[2603.20035](http://arxiv.org/abs/2603.20035)|null|
 |**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
 |**2026-03-19**|**Matryoshka Gaussian Splatting**|Zhilin Guo et.al.|[2603.19234](http://arxiv.org/abs/2603.19234)|null|
 |**2026-03-19**|**Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**|Yuqing Wang et.al.|[2603.19232](http://arxiv.org/abs/2603.19232)|null|
@@ -1143,6 +1173,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Occupancy Extrapolation: Reaching Many Excited Electronic States from Ground State Calculations**|Yichen Fan et.al.|[2603.20055](http://arxiv.org/abs/2603.20055)|null|
+|**2026-03-20**|**The application of Kirkwood-Buff theory to study hydration properties of $α$ -amino acids**|Z. Štefanič et.al.|[2603.20051](http://arxiv.org/abs/2603.20051)|null|
+|**2026-03-20**|**Structured Latent Dynamics in Wireless CSI via Homomorphic World Models**|Salmane Naoumi et.al.|[2603.20048](http://arxiv.org/abs/2603.20048)|null|
+|**2026-03-20**|**Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**|Wenjian Zhang et.al.|[2603.20046](http://arxiv.org/abs/2603.20046)|null|
+|**2026-03-20**|**LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families**|Jianan Chen et.al.|[2603.20042](http://arxiv.org/abs/2603.20042)|null|
+|**2026-03-20**|**Strong Violation of the Thermodynamic Uncertainty Relation in a Minimal Autonomous Heat Engine**|Enrique P. Cital et.al.|[2603.20041](http://arxiv.org/abs/2603.20041)|null|
+|**2026-03-20**|**Search-Driven Clause Learning for Product-State Quantum $k$ -SAT (PRODSAT-QSAT)**|Samuel González-Castillo et.al.|[2603.20038](http://arxiv.org/abs/2603.20038)|null|
+|**2026-03-20**|**Full Network Nonlocality Based Security In Quantum Key Distribution**|Kaushiki Mukherjee et.al.|[2603.20035](http://arxiv.org/abs/2603.20035)|null|
+|**2026-03-20**|**Symmetric mixtures in slit-like pores with selective walls**|A. Patrykiejew et.al.|[2603.20023](http://arxiv.org/abs/2603.20023)|null|
+|**2026-03-20**|**ODySSeI: An Open-Source End-to-End Framework for Automated Detection, Segmentation, and Severity Estimation of Lesions in Invasive Coronary Angiography Images**|Anand Choudhary et.al.|[2603.20021](http://arxiv.org/abs/2603.20021)|null|
 |**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
 |**2026-03-19**|**SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing**|Xinyao Zhang et.al.|[2603.19228](http://arxiv.org/abs/2603.19228)|null|
 |**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|Yogesh Agrawal et.al.|[2603.19225](http://arxiv.org/abs/2603.19225)|null|
@@ -1498,6 +1538,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Occupancy Extrapolation: Reaching Many Excited Electronic States from Ground State Calculations**|Yichen Fan et.al.|[2603.20055](http://arxiv.org/abs/2603.20055)|null|
+|**2026-03-20**|**On the $q$-multiplicity of sums of distinct simple roots of $\mathfrak{sl}_{r+1}(\mathbb{C})$**|Matt McClinton et.al.|[2603.20053](http://arxiv.org/abs/2603.20053)|null|
+|**2026-03-20**|**The application of Kirkwood-Buff theory to study hydration properties of $α$ -amino acids**|Z. Štefanič et.al.|[2603.20051](http://arxiv.org/abs/2603.20051)|null|
+|**2026-03-20**|**Dominated sets, microscopic sets and Hausdorff measures**|Ondřej Zindulka et.al.|[2603.20050](http://arxiv.org/abs/2603.20050)|null|
+|**2026-03-20**|**Structured Latent Dynamics in Wireless CSI via Homomorphic World Models**|Salmane Naoumi et.al.|[2603.20048](http://arxiv.org/abs/2603.20048)|null|
+|**2026-03-20**|**Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery**|Jan Emily Mangulabnan et.al.|[2603.20045](http://arxiv.org/abs/2603.20045)|null|
+|**2026-03-20**|**How does ethane wet different substrates?**|Ł. Baran et.al.|[2603.20043](http://arxiv.org/abs/2603.20043)|null|
+|**2026-03-20**|**LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families**|Jianan Chen et.al.|[2603.20042](http://arxiv.org/abs/2603.20042)|null|
+|**2026-03-20**|**Strong Violation of the Thermodynamic Uncertainty Relation in a Minimal Autonomous Heat Engine**|Enrique P. Cital et.al.|[2603.20041](http://arxiv.org/abs/2603.20041)|null|
+|**2026-03-20**|**Pressure effects in the properties of simple monohydric alcohols. Lessons from molecular dynamics simulations of united atom type UAM-EW model**|M. Aguilar et.al.|[2603.20040](http://arxiv.org/abs/2603.20040)|null|
 |**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
 |**2026-03-19**|**NavTrust: Benchmarking Trustworthiness for Embodied Navigation**|Huaide Jiang et.al.|[2603.19229](http://arxiv.org/abs/2603.19229)|null|
 |**2026-03-19**|**SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing**|Xinyao Zhang et.al.|[2603.19228](http://arxiv.org/abs/2603.19228)|null|
@@ -1843,6 +1893,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Dominated sets, microscopic sets and Hausdorff measures**|Ondřej Zindulka et.al.|[2603.20050](http://arxiv.org/abs/2603.20050)|null|
+|**2026-03-20**|**The interplay between thermomigration and stress-driven hydrogen transport in metals**|Daniel J. Long et.al.|[2603.20049](http://arxiv.org/abs/2603.20049)|null|
+|**2026-03-20**|**Structured Latent Dynamics in Wireless CSI via Homomorphic World Models**|Salmane Naoumi et.al.|[2603.20048](http://arxiv.org/abs/2603.20048)|null|
+|**2026-03-20**|**Feasible Deviations from Unitarity with Vector-Like Quark Singlets**|Francisco Albergaria et.al.|[2603.20047](http://arxiv.org/abs/2603.20047)|null|
+|**2026-03-20**|**Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**|Wenjian Zhang et.al.|[2603.20046](http://arxiv.org/abs/2603.20046)|null|
+|**2026-03-20**|**Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery**|Jan Emily Mangulabnan et.al.|[2603.20045](http://arxiv.org/abs/2603.20045)|null|
+|**2026-03-20**|**A Century of Radial Velocity and Astrometric Monitoring of 70 Oph AB: New PFS Data and Constraints on Planetary Companions**|Yiting Li et.al.|[2603.20044](http://arxiv.org/abs/2603.20044)|null|
+|**2026-03-20**|**Strong Violation of the Thermodynamic Uncertainty Relation in a Minimal Autonomous Heat Engine**|Enrique P. Cital et.al.|[2603.20041](http://arxiv.org/abs/2603.20041)|null|
+|**2026-03-20**|**On second-order optimality in the high- $κ$ regime of the Ginzburg-Landau model**|Christian Döding et.al.|[2603.20039](http://arxiv.org/abs/2603.20039)|null|
+|**2026-03-20**|**Search-Driven Clause Learning for Product-State Quantum $k$ -SAT (PRODSAT-QSAT)**|Samuel González-Castillo et.al.|[2603.20038](http://arxiv.org/abs/2603.20038)|null|
 |**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
 |**2026-03-19**|**Matryoshka Gaussian Splatting**|Zhilin Guo et.al.|[2603.19234](http://arxiv.org/abs/2603.19234)|null|
 |**2026-03-19**|**Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**|Yuqing Wang et.al.|[2603.19232](http://arxiv.org/abs/2603.19232)|null|
