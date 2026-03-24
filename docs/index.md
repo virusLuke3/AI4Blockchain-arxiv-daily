@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.23
+## Updated on 2026.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[2603.21111](http://arxiv.org/abs/2603.21111)|null|
+|**2026-03-22**|**Mixture of Chapters: Scaling Learnt Memory in Transformers**|Tasmay Pankaj Tibrewal et.al.|[2603.21096](http://arxiv.org/abs/2603.21096)|null|
+|**2026-03-22**|**DRL-driven Online Optimization for Joint Traffic Reshaping and Channel Reconfiguration in RIS-assisted Semantic NOMA Communications**|Songhan Zhao et.al.|[2603.21093](http://arxiv.org/abs/2603.21093)|null|
+|**2026-03-22**|**StreamTGN: A GPU-Efficient Serving System for Streaming Temporal Graph Neural Networks**|Lingling Zhang et.al.|[2603.21090](http://arxiv.org/abs/2603.21090)|null|
+|**2026-03-22**|**Exploiting Self-Sustainable Information-Bearing RIS in Underlay CR-NOMA Networks**|Zeyang Sun et.al.|[2603.21087](http://arxiv.org/abs/2603.21087)|null|
+|**2026-03-22**|**DGRNet: Disagreement-Guided Refinement for Uncertainty-Aware Brain Tumor Segmentation**|Bahram Mohammadi et.al.|[2603.21086](http://arxiv.org/abs/2603.21086)|null|
+|**2026-03-22**|**Hierarchical Text-Guided Brain Tumor Segmentation via Sub-Region-Aware Prompts**|Bahram Mohammadi et.al.|[2603.21083](http://arxiv.org/abs/2603.21083)|null|
+|**2026-03-22**|**Multidimensional Opinion Dynamics with Confirmation Bias: A Multi-Layer Framework**|M. Hossein Abedinzadeh et.al.|[2603.21081](http://arxiv.org/abs/2603.21081)|null|
+|**2026-03-22**|**Assessing the Ability of Neural TTS Systems to Model Consonant-Induced F0 Perturbation**|Tianle Yang et.al.|[2603.21078](http://arxiv.org/abs/2603.21078)|null|
+|**2026-03-22**|**Neural Inference Functions for Margins for Time Series Copula Models**|Daniel Fynn et.al.|[2603.21075](http://arxiv.org/abs/2603.21075)|null|
 |**2026-03-20**|**The application of Kirkwood-Buff theory to study hydration properties of $α$ -amino acids**|Z. Štefanič et.al.|[2603.20051](http://arxiv.org/abs/2603.20051)|null|
 |**2026-03-20**|**Feasible Deviations from Unitarity with Vector-Like Quark Singlets**|Francisco Albergaria et.al.|[2603.20047](http://arxiv.org/abs/2603.20047)|null|
 |**2026-03-20**|**Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**|Wenjian Zhang et.al.|[2603.20046](http://arxiv.org/abs/2603.20046)|null|
@@ -483,6 +493,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**CVT-Bench: Counterfactual Viewpoint Transformations Reveal Unstable Spatial Representations in Multimodal LLMs**|Shanmukha Vellamcheti et.al.|[2603.21114](http://arxiv.org/abs/2603.21114)|null|
+|**2026-03-22**|**Isometric Incompatibility in Growing Elastic Sheets**|Yafei Zhang et.al.|[2603.21112](http://arxiv.org/abs/2603.21112)|null|
+|**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[2603.21111](http://arxiv.org/abs/2603.21111)|null|
+|**2026-03-22**|**Measurement Reduction in Orbital-Optimized Variational Quantum Eigensolver via Orbital Compression**|Yanxian Tao et.al.|[2603.21109](http://arxiv.org/abs/2603.21109)|null|
+|**2026-03-22**|**Tracing Users' Privacy Concerns Across the Lifecycle of a Romantic AI Companion**|Kazi Ababil Azam et.al.|[2603.21106](http://arxiv.org/abs/2603.21106)|null|
+|**2026-03-22**|**CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation**|Bowen Jing et.al.|[2603.21104](http://arxiv.org/abs/2603.21104)|null|
+|**2026-03-22**|**Learning Progressive Adaptation for Multi-Modal Tracking**|He Wang et.al.|[2603.21100](http://arxiv.org/abs/2603.21100)|null|
+|**2026-03-22**|**Learning to Optimize Joint Source and RIS-assisted Channel Encoding for Multi-User Semantic Communication Systems**|Haidong Wang et.al.|[2603.21097](http://arxiv.org/abs/2603.21097)|null|
+|**2026-03-22**|**Representation-Level Adversarial Regularization for Clinically Aligned Multitask Thyroid Ultrasound Assessment**|Dina Salama et.al.|[2603.21095](http://arxiv.org/abs/2603.21095)|null|
+|**2026-03-22**|**Evaluating Reasoning-Based Scaffolds for Human-AI Co-Annotation: The ReasonAlign Annotation Protocol**|Smitha Muthya Sudheendra et.al.|[2603.21094](http://arxiv.org/abs/2603.21094)|null|
 |**2026-03-20**|**Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**|Wenjian Zhang et.al.|[2603.20046](http://arxiv.org/abs/2603.20046)|null|
 |**2026-03-20**|**Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery**|Jan Emily Mangulabnan et.al.|[2603.20045](http://arxiv.org/abs/2603.20045)|null|
 |**2026-03-20**|**On second-order optimality in the high- $κ$ regime of the Ginzburg-Landau model**|Christian Döding et.al.|[2603.20039](http://arxiv.org/abs/2603.20039)|null|
@@ -828,6 +848,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Isometric Incompatibility in Growing Elastic Sheets**|Yafei Zhang et.al.|[2603.21112](http://arxiv.org/abs/2603.21112)|null|
+|**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[2603.21111](http://arxiv.org/abs/2603.21111)|null|
+|**2026-03-22**|**Measurement Reduction in Orbital-Optimized Variational Quantum Eigensolver via Orbital Compression**|Yanxian Tao et.al.|[2603.21109](http://arxiv.org/abs/2603.21109)|null|
+|**2026-03-22**|**DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction**|Long Xu et.al.|[2603.21108](http://arxiv.org/abs/2603.21108)|null|
+|**2026-03-22**|**A lightweight Outlier Detection for Characterizing Radio- and Environment-Specific Link Quality Fluctuation in Low-Power Wireless Networks**|Zegeye Mekasha Kidane et.al.|[2603.21107](http://arxiv.org/abs/2603.21107)|null|
+|**2026-03-22**|**Tracing Users' Privacy Concerns Across the Lifecycle of a Romantic AI Companion**|Kazi Ababil Azam et.al.|[2603.21106](http://arxiv.org/abs/2603.21106)|null|
+|**2026-03-22**|**Evidential Quantum Vertical Federated Learning**|Hao Luo et.al.|[2603.21102](http://arxiv.org/abs/2603.21102)|null|
+|**2026-03-22**|**Learning to Optimize Joint Source and RIS-assisted Channel Encoding for Multi-User Semantic Communication Systems**|Haidong Wang et.al.|[2603.21097](http://arxiv.org/abs/2603.21097)|null|
+|**2026-03-22**|**Mixture of Chapters: Scaling Learnt Memory in Transformers**|Tasmay Pankaj Tibrewal et.al.|[2603.21096](http://arxiv.org/abs/2603.21096)|null|
+|**2026-03-22**|**Evaluating Reasoning-Based Scaffolds for Human-AI Co-Annotation: The ReasonAlign Annotation Protocol**|Smitha Muthya Sudheendra et.al.|[2603.21094](http://arxiv.org/abs/2603.21094)|null|
 |**2026-03-20**|**On the $q$-multiplicity of sums of distinct simple roots of $\mathfrak{sl}_{r+1}(\mathbb{C})$**|Matt McClinton et.al.|[2603.20053](http://arxiv.org/abs/2603.20053)|null|
 |**2026-03-20**|**The interplay between thermomigration and stress-driven hydrogen transport in metals**|Daniel J. Long et.al.|[2603.20049](http://arxiv.org/abs/2603.20049)|null|
 |**2026-03-20**|**How does ethane wet different substrates?**|Ł. Baran et.al.|[2603.20043](http://arxiv.org/abs/2603.20043)|null|
@@ -1173,6 +1203,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Evaluating Reasoning-Based Scaffolds for Human-AI Co-Annotation: The ReasonAlign Annotation Protocol**|Smitha Muthya Sudheendra et.al.|[2603.21094](http://arxiv.org/abs/2603.21094)|null|
+|**2026-03-22**|**StreamTGN: A GPU-Efficient Serving System for Streaming Temporal Graph Neural Networks**|Lingling Zhang et.al.|[2603.21090](http://arxiv.org/abs/2603.21090)|null|
+|**2026-03-22**|**Approximate Dynamic Programming for Degradation-aware Market Participation of Battery Energy Storage Systems: Bridging Market and Degradation Timescales**|Flemming Holtorf et.al.|[2603.21089](http://arxiv.org/abs/2603.21089)|null|
+|**2026-03-22**|**Error Analysis of the Explicit Splitting Scheme for Fluid-Poroelastic Structure Interaction Problems**|Yifan Wang et.al.|[2603.21088](http://arxiv.org/abs/2603.21088)|null|
+|**2026-03-22**|**Exploiting Self-Sustainable Information-Bearing RIS in Underlay CR-NOMA Networks**|Zeyang Sun et.al.|[2603.21087](http://arxiv.org/abs/2603.21087)|null|
+|**2026-03-22**|**A Bayesian Framework for Quantifying Association Between Functional and Structural Data in Neuroimaging**|Sakul Mahat et.al.|[2603.21067](http://arxiv.org/abs/2603.21067)|null|
+|**2026-03-22**|**LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning**|Jianing Wang et.al.|[2603.21065](http://arxiv.org/abs/2603.21065)|null|
+|**2026-03-22**|**Zero-Shot Vulnerability Detection in Low-Resource Smart Contracts Through Solidity-Only Training**|Minghao Hu et.al.|[2603.21058](http://arxiv.org/abs/2603.21058)|null|
+|**2026-03-22**|**Robust Quantum Sensing via Prethermal Spin Orbits**|Enrico Daniel Richter et.al.|[2603.21057](http://arxiv.org/abs/2603.21057)|null|
+|**2026-03-22**|**A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors**|Gia-Bao Doan et.al.|[2603.21048](http://arxiv.org/abs/2603.21048)|null|
 |**2026-03-20**|**Occupancy Extrapolation: Reaching Many Excited Electronic States from Ground State Calculations**|Yichen Fan et.al.|[2603.20055](http://arxiv.org/abs/2603.20055)|null|
 |**2026-03-20**|**The application of Kirkwood-Buff theory to study hydration properties of $α$ -amino acids**|Z. Štefanič et.al.|[2603.20051](http://arxiv.org/abs/2603.20051)|null|
 |**2026-03-20**|**Structured Latent Dynamics in Wireless CSI via Homomorphic World Models**|Salmane Naoumi et.al.|[2603.20048](http://arxiv.org/abs/2603.20048)|null|
@@ -1538,6 +1578,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Scattering for anisotropic potentials**|Evgeny Korotyaev et.al.|[2603.21113](http://arxiv.org/abs/2603.21113)|null|
+|**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[2603.21111](http://arxiv.org/abs/2603.21111)|null|
+|**2026-03-22**|**DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction**|Long Xu et.al.|[2603.21108](http://arxiv.org/abs/2603.21108)|null|
+|**2026-03-22**|**ResPrune: Text-Conditioned Subspace Reconstruction for Visual Token Pruning in Large Vision-Language Models**|Xu Li et.al.|[2603.21105](http://arxiv.org/abs/2603.21105)|null|
+|**2026-03-22**|**CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation**|Bowen Jing et.al.|[2603.21104](http://arxiv.org/abs/2603.21104)|null|
+|**2026-03-22**|**Generalizing Saito's Criterion for Nonfree Arrangements**|Bunyan Chu et.al.|[2603.21101](http://arxiv.org/abs/2603.21101)|null|
+|**2026-03-22**|**Some remarks on the horizon in the dust cloud collapse**|Koushiki et.al.|[2603.21098](http://arxiv.org/abs/2603.21098)|null|
+|**2026-03-22**|**Learning to Optimize Joint Source and RIS-assisted Channel Encoding for Multi-User Semantic Communication Systems**|Haidong Wang et.al.|[2603.21097](http://arxiv.org/abs/2603.21097)|null|
+|**2026-03-22**|**Mixture of Chapters: Scaling Learnt Memory in Transformers**|Tasmay Pankaj Tibrewal et.al.|[2603.21096](http://arxiv.org/abs/2603.21096)|null|
+|**2026-03-22**|**Evaluating Reasoning-Based Scaffolds for Human-AI Co-Annotation: The ReasonAlign Annotation Protocol**|Smitha Muthya Sudheendra et.al.|[2603.21094](http://arxiv.org/abs/2603.21094)|null|
 |**2026-03-20**|**Occupancy Extrapolation: Reaching Many Excited Electronic States from Ground State Calculations**|Yichen Fan et.al.|[2603.20055](http://arxiv.org/abs/2603.20055)|null|
 |**2026-03-20**|**On the $q$-multiplicity of sums of distinct simple roots of $\mathfrak{sl}_{r+1}(\mathbb{C})$**|Matt McClinton et.al.|[2603.20053](http://arxiv.org/abs/2603.20053)|null|
 |**2026-03-20**|**The application of Kirkwood-Buff theory to study hydration properties of $α$ -amino acids**|Z. Štefanič et.al.|[2603.20051](http://arxiv.org/abs/2603.20051)|null|
@@ -1893,6 +1943,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[2603.21111](http://arxiv.org/abs/2603.21111)|null|
+|**2026-03-22**|**The First GeV Gamma-Ray Flares from the CSO-like Source 4C 76.03**|Xiong Jiang et.al.|[2603.21110](http://arxiv.org/abs/2603.21110)|null|
+|**2026-03-22**|**Measurement Reduction in Orbital-Optimized Variational Quantum Eigensolver via Orbital Compression**|Yanxian Tao et.al.|[2603.21109](http://arxiv.org/abs/2603.21109)|null|
+|**2026-03-22**|**DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction**|Long Xu et.al.|[2603.21108](http://arxiv.org/abs/2603.21108)|null|
+|**2026-03-22**|**A lightweight Outlier Detection for Characterizing Radio- and Environment-Specific Link Quality Fluctuation in Low-Power Wireless Networks**|Zegeye Mekasha Kidane et.al.|[2603.21107](http://arxiv.org/abs/2603.21107)|null|
+|**2026-03-22**|**Tracing Users' Privacy Concerns Across the Lifecycle of a Romantic AI Companion**|Kazi Ababil Azam et.al.|[2603.21106](http://arxiv.org/abs/2603.21106)|null|
+|**2026-03-22**|**ResPrune: Text-Conditioned Subspace Reconstruction for Visual Token Pruning in Large Vision-Language Models**|Xu Li et.al.|[2603.21105](http://arxiv.org/abs/2603.21105)|null|
+|**2026-03-22**|**CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation**|Bowen Jing et.al.|[2603.21104](http://arxiv.org/abs/2603.21104)|null|
+|**2026-03-22**|**Evidential Quantum Vertical Federated Learning**|Hao Luo et.al.|[2603.21102](http://arxiv.org/abs/2603.21102)|null|
+|**2026-03-22**|**Learning Progressive Adaptation for Multi-Modal Tracking**|He Wang et.al.|[2603.21100](http://arxiv.org/abs/2603.21100)|null|
 |**2026-03-20**|**Dominated sets, microscopic sets and Hausdorff measures**|Ondřej Zindulka et.al.|[2603.20050](http://arxiv.org/abs/2603.20050)|null|
 |**2026-03-20**|**The interplay between thermomigration and stress-driven hydrogen transport in metals**|Daniel J. Long et.al.|[2603.20049](http://arxiv.org/abs/2603.20049)|null|
 |**2026-03-20**|**Structured Latent Dynamics in Wireless CSI via Homomorphic World Models**|Salmane Naoumi et.al.|[2603.20048](http://arxiv.org/abs/2603.20048)|null|
