@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**On the Golomb-Dickman constant under Ewens sampling**|José Ricardo G. Mendonça et.al.|[2603.23175](http://arxiv.org/abs/2603.23175)|null|
+|**2026-03-24**|**A $Γ$ -valley Moiré Platform for Tunable Square Lattice Hubbard Model**|Rui Shi et.al.|[2603.23174](http://arxiv.org/abs/2603.23174)|null|
+|**2026-03-24**|**First Detection of the Glycine Isomer Glycolamide in Hot Molecular Core**|Chunguo Duan et.al.|[2603.23170](http://arxiv.org/abs/2603.23170)|null|
+|**2026-03-24**|**Long-time error analysis of finite element fully discrete schemes for SPDEs with non-globally Lipschitz coefficients**|Ruisheng Qi et.al.|[2603.23167](http://arxiv.org/abs/2603.23167)|null|
+|**2026-03-24**|**Symmetric measures of pseudorandomness for binary sequences**|Yixin Ren et.al.|[2603.23166](http://arxiv.org/abs/2603.23166)|null|
+|**2026-03-24**|**The Separating Noether Number of Finite Abelian Groups**|Jing Huang et.al.|[2603.23164](http://arxiv.org/abs/2603.23164)|null|
+|**2026-03-24**|**LiZIP: An Auto-Regressive Compression Framework for LiDAR Point Clouds**|Aditya Shibu et.al.|[2603.23162](http://arxiv.org/abs/2603.23162)|null|
+|**2026-03-24**|**Intracluster light is a close tracer of the dark matter halo shape**|Adela Fernandez et.al.|[2603.23158](http://arxiv.org/abs/2603.23158)|null|
+|**2026-03-24**|**Shellability of 3-cut complexes of powers of cycle graphs**|Pratiksha Chauhan et.al.|[2603.23155](http://arxiv.org/abs/2603.23155)|null|
+|**2026-03-24**|**From Quantum Dimers to the $π$ -flux Toric Code via Deconfined Multicriticality**|Ankush Chaubey et.al.|[2603.23154](http://arxiv.org/abs/2603.23154)|null|
 |**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[2603.21111](http://arxiv.org/abs/2603.21111)|null|
 |**2026-03-22**|**Mixture of Chapters: Scaling Learnt Memory in Transformers**|Tasmay Pankaj Tibrewal et.al.|[2603.21096](http://arxiv.org/abs/2603.21096)|null|
 |**2026-03-22**|**DRL-driven Online Optimization for Joint Traffic Reshaping and Channel Reconfiguration in RIS-assisted Semantic NOMA Communications**|Songhan Zhao et.al.|[2603.21093](http://arxiv.org/abs/2603.21093)|null|
@@ -493,6 +503,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Unlocking accretion rate diagnostics for high-mass protostars using JWST/MIRI HI lines**|S. D. Reyes-Reyes et.al.|[2603.23180](http://arxiv.org/abs/2603.23180)|null|
+|**2026-03-24**|**Gimbal360: Differentiable Auto-Leveling for Canonicalized $360^\circ$ Panoramic Image Completion**|Yuqin Lu et.al.|[2603.23179](http://arxiv.org/abs/2603.23179)|null|
+|**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[2603.23178](http://arxiv.org/abs/2603.23178)|null|
+|**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
+|**2026-03-24**|**A Schrödinger Eigenfunction Method for Long-Horizon Stochastic Optimal Control**|Louis Claeys et.al.|[2603.23173](http://arxiv.org/abs/2603.23173)|null|
+|**2026-03-24**|**Robust Safety Monitoring of Language Models via Activation Watermarking**|Toluwani Aremu et.al.|[2603.23171](http://arxiv.org/abs/2603.23171)|null|
+|**2026-03-24**|**GSwap: Realistic Head Swapping with Dynamic Neural Gaussian Field**|Jingtao Zhou et.al.|[2603.23168](http://arxiv.org/abs/2603.23168)|null|
+|**2026-03-24**|**Long-time error analysis of finite element fully discrete schemes for SPDEs with non-globally Lipschitz coefficients**|Ruisheng Qi et.al.|[2603.23167](http://arxiv.org/abs/2603.23167)|null|
+|**2026-03-24**|**Dual Contrastive Network for Few-Shot Remote Sensing Image Scene Classification**|Zhong Ji et.al.|[2603.23161](http://arxiv.org/abs/2603.23161)|null|
+|**2026-03-24**|**Conformal Cross-Modal Active Learning**|Huy Hoang Nguyen et.al.|[2603.23159](http://arxiv.org/abs/2603.23159)|null|
 |**2026-03-22**|**CVT-Bench: Counterfactual Viewpoint Transformations Reveal Unstable Spatial Representations in Multimodal LLMs**|Shanmukha Vellamcheti et.al.|[2603.21114](http://arxiv.org/abs/2603.21114)|null|
 |**2026-03-22**|**Isometric Incompatibility in Growing Elastic Sheets**|Yafei Zhang et.al.|[2603.21112](http://arxiv.org/abs/2603.21112)|null|
 |**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[2603.21111](http://arxiv.org/abs/2603.21111)|null|
@@ -848,6 +868,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Unlocking accretion rate diagnostics for high-mass protostars using JWST/MIRI HI lines**|S. D. Reyes-Reyes et.al.|[2603.23180](http://arxiv.org/abs/2603.23180)|null|
+|**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[2603.23178](http://arxiv.org/abs/2603.23178)|null|
+|**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
+|**2026-03-24**|**Orlov's functors in Macaulay2**|Michael K. Brown et.al.|[2603.23176](http://arxiv.org/abs/2603.23176)|null|
+|**2026-03-24**|**A $Γ$ -valley Moiré Platform for Tunable Square Lattice Hubbard Model**|Rui Shi et.al.|[2603.23174](http://arxiv.org/abs/2603.23174)|null|
+|**2026-03-24**|**Robust Safety Monitoring of Language Models via Activation Watermarking**|Toluwani Aremu et.al.|[2603.23171](http://arxiv.org/abs/2603.23171)|null|
+|**2026-03-24**|**Long-time error analysis of finite element fully discrete schemes for SPDEs with non-globally Lipschitz coefficients**|Ruisheng Qi et.al.|[2603.23167](http://arxiv.org/abs/2603.23167)|null|
+|**2026-03-24**|**Symmetric measures of pseudorandomness for binary sequences**|Yixin Ren et.al.|[2603.23166](http://arxiv.org/abs/2603.23166)|null|
+|**2026-03-24**|**The Separating Noether Number of Finite Abelian Groups**|Jing Huang et.al.|[2603.23164](http://arxiv.org/abs/2603.23164)|null|
+|**2026-03-24**|**Open Quantum Cluster Embedding Theory**|Petar Brinić et.al.|[2603.23163](http://arxiv.org/abs/2603.23163)|null|
 |**2026-03-22**|**Isometric Incompatibility in Growing Elastic Sheets**|Yafei Zhang et.al.|[2603.21112](http://arxiv.org/abs/2603.21112)|null|
 |**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[2603.21111](http://arxiv.org/abs/2603.21111)|null|
 |**2026-03-22**|**Measurement Reduction in Orbital-Optimized Variational Quantum Eigensolver via Orbital Compression**|Yanxian Tao et.al.|[2603.21109](http://arxiv.org/abs/2603.21109)|null|
@@ -1203,6 +1233,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[2603.23178](http://arxiv.org/abs/2603.23178)|null|
+|**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
+|**2026-03-24**|**A Schrödinger Eigenfunction Method for Long-Horizon Stochastic Optimal Control**|Louis Claeys et.al.|[2603.23173](http://arxiv.org/abs/2603.23173)|null|
+|**2026-03-24**|**From Synthetic to Native: Benchmarking Multilingual Intent Classification in Logistics Customer Service**|Haoyu He et.al.|[2603.23172](http://arxiv.org/abs/2603.23172)|null|
+|**2026-03-24**|**First Detection of the Glycine Isomer Glycolamide in Hot Molecular Core**|Chunguo Duan et.al.|[2603.23170](http://arxiv.org/abs/2603.23170)|null|
+|**2026-03-24**|**UniDial-EvalKit: A Unified Toolkit for Evaluating Multi-Faceted Conversational Abilities**|Qi Jia et.al.|[2603.23160](http://arxiv.org/abs/2603.23160)|null|
+|**2026-03-24**|**Mean Field Games for Renewable Energy Development**|Luciano Campi et.al.|[2603.23156](http://arxiv.org/abs/2603.23156)|null|
+|**2026-03-24**|**From Quantum Dimers to the $π$ -flux Toric Code via Deconfined Multicriticality**|Ankush Chaubey et.al.|[2603.23154](http://arxiv.org/abs/2603.23154)|null|
+|**2026-03-24**|**Pre-Patterned Superconducting Contacts for Clean Superconductor-Topological Material Interfaces Enabling Long-Range Josephson Coupling**|Yong-Bin Choi et.al.|[2603.23148](http://arxiv.org/abs/2603.23148)|null|
+|**2026-03-24**|**Impurity quadrupole moments as local probes of flux sectors in the Kitaev spin liquid**|Masahiro O. Takahashi et.al.|[2603.23145](http://arxiv.org/abs/2603.23145)|null|
 |**2026-03-22**|**Evaluating Reasoning-Based Scaffolds for Human-AI Co-Annotation: The ReasonAlign Annotation Protocol**|Smitha Muthya Sudheendra et.al.|[2603.21094](http://arxiv.org/abs/2603.21094)|null|
 |**2026-03-22**|**StreamTGN: A GPU-Efficient Serving System for Streaming Temporal Graph Neural Networks**|Lingling Zhang et.al.|[2603.21090](http://arxiv.org/abs/2603.21090)|null|
 |**2026-03-22**|**Approximate Dynamic Programming for Degradation-aware Market Participation of Battery Energy Storage Systems: Bridging Market and Degradation Timescales**|Flemming Holtorf et.al.|[2603.21089](http://arxiv.org/abs/2603.21089)|null|
@@ -1578,6 +1618,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[2603.23178](http://arxiv.org/abs/2603.23178)|null|
+|**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
+|**2026-03-24**|**Orlov's functors in Macaulay2**|Michael K. Brown et.al.|[2603.23176](http://arxiv.org/abs/2603.23176)|null|
+|**2026-03-24**|**A Schrödinger Eigenfunction Method for Long-Horizon Stochastic Optimal Control**|Louis Claeys et.al.|[2603.23173](http://arxiv.org/abs/2603.23173)|null|
+|**2026-03-24**|**From Synthetic to Native: Benchmarking Multilingual Intent Classification in Logistics Customer Service**|Haoyu He et.al.|[2603.23172](http://arxiv.org/abs/2603.23172)|null|
+|**2026-03-24**|**Long-time error analysis of finite element fully discrete schemes for SPDEs with non-globally Lipschitz coefficients**|Ruisheng Qi et.al.|[2603.23167](http://arxiv.org/abs/2603.23167)|null|
+|**2026-03-24**|**Symmetric measures of pseudorandomness for binary sequences**|Yixin Ren et.al.|[2603.23166](http://arxiv.org/abs/2603.23166)|null|
+|**2026-03-24**|**The Separating Noether Number of Finite Abelian Groups**|Jing Huang et.al.|[2603.23164](http://arxiv.org/abs/2603.23164)|null|
+|**2026-03-24**|**Open Quantum Cluster Embedding Theory**|Petar Brinić et.al.|[2603.23163](http://arxiv.org/abs/2603.23163)|null|
+|**2026-03-24**|**LiZIP: An Auto-Regressive Compression Framework for LiDAR Point Clouds**|Aditya Shibu et.al.|[2603.23162](http://arxiv.org/abs/2603.23162)|null|
 |**2026-03-22**|**Scattering for anisotropic potentials**|Evgeny Korotyaev et.al.|[2603.21113](http://arxiv.org/abs/2603.21113)|null|
 |**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[2603.21111](http://arxiv.org/abs/2603.21111)|null|
 |**2026-03-22**|**DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction**|Long Xu et.al.|[2603.21108](http://arxiv.org/abs/2603.21108)|null|
@@ -1943,6 +1993,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Unlocking accretion rate diagnostics for high-mass protostars using JWST/MIRI HI lines**|S. D. Reyes-Reyes et.al.|[2603.23180](http://arxiv.org/abs/2603.23180)|null|
+|**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[2603.23178](http://arxiv.org/abs/2603.23178)|null|
+|**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
+|**2026-03-24**|**Orlov's functors in Macaulay2**|Michael K. Brown et.al.|[2603.23176](http://arxiv.org/abs/2603.23176)|null|
+|**2026-03-24**|**A Schrödinger Eigenfunction Method for Long-Horizon Stochastic Optimal Control**|Louis Claeys et.al.|[2603.23173](http://arxiv.org/abs/2603.23173)|null|
+|**2026-03-24**|**From Synthetic to Native: Benchmarking Multilingual Intent Classification in Logistics Customer Service**|Haoyu He et.al.|[2603.23172](http://arxiv.org/abs/2603.23172)|null|
+|**2026-03-24**|**Robust Safety Monitoring of Language Models via Activation Watermarking**|Toluwani Aremu et.al.|[2603.23171](http://arxiv.org/abs/2603.23171)|null|
+|**2026-03-24**|**First Detection of the Glycine Isomer Glycolamide in Hot Molecular Core**|Chunguo Duan et.al.|[2603.23170](http://arxiv.org/abs/2603.23170)|null|
+|**2026-03-24**|**Long-time error analysis of finite element fully discrete schemes for SPDEs with non-globally Lipschitz coefficients**|Ruisheng Qi et.al.|[2603.23167](http://arxiv.org/abs/2603.23167)|null|
+|**2026-03-24**|**LiZIP: An Auto-Regressive Compression Framework for LiDAR Point Clouds**|Aditya Shibu et.al.|[2603.23162](http://arxiv.org/abs/2603.23162)|null|
 |**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[2603.21111](http://arxiv.org/abs/2603.21111)|null|
 |**2026-03-22**|**The First GeV Gamma-Ray Flares from the CSO-like Source 4C 76.03**|Xiong Jiang et.al.|[2603.21110](http://arxiv.org/abs/2603.21110)|null|
 |**2026-03-22**|**Measurement Reduction in Orbital-Optimized Variational Quantum Eigensolver via Orbital Compression**|Yanxian Tao et.al.|[2603.21109](http://arxiv.org/abs/2603.21109)|null|
