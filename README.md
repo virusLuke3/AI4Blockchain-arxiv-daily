@@ -1,4 +1,4 @@
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**soliton_solver: A GPU-based finite-difference PDE solver for topological solitons in two-dimensional non-linear field theories**|Paul Leask et.al.|[2603.24370](http://arxiv.org/abs/2603.24370)|null|
+|**2026-03-25**|**Evaporative cooling and deposition patterns of evaporating $Al_2O_3$ nanofluid droplets**|S. K. Saroj et.al.|[2603.24367](http://arxiv.org/abs/2603.24367)|null|
+|**2026-03-25**|**Memory effect from the scattering of Taub-NUT black holes**|George Doran et.al.|[2603.24365](http://arxiv.org/abs/2603.24365)|null|
+|**2026-03-25**|**Shape Optimization for the Principal Eigenvalue of the Pucci Operator in Three Dimensions**|Mohan Mallick et.al.|[2603.24362](http://arxiv.org/abs/2603.24362)|null|
+|**2026-03-25**|**A Sensorless, Inherently Compliant Anthropomorphic Musculoskeletal Hand Driven by Electrohydraulic Actuators**|Misato Sonoda et.al.|[2603.24357](http://arxiv.org/abs/2603.24357)|null|
+|**2026-03-25**|**Cemented fibers as a testbed for distributed acoustic sensing (DAS)**|Thomas Forbriger et.al.|[2603.24353](http://arxiv.org/abs/2603.24353)|null|
+|**2026-03-25**|**Robust risk measures: an averaging approach**|Marcelo Righi et.al.|[2603.24349](http://arxiv.org/abs/2603.24349)|null|
+|**2026-03-25**|**Breakdown of the periodic potential ansatz in correlated electron systems**|Wouter Montfrooij et.al.|[2603.24347](http://arxiv.org/abs/2603.24347)|null|
+|**2026-03-25**|**Effects of the initial-state geometry on D-meson production in pp and pPb collisions**|R. Terra et.al.|[2603.24344](http://arxiv.org/abs/2603.24344)|null|
+|**2026-03-25**|**Enhancing Efficiency and Performance in Deepfake Audio Detection through Neuron-level dropin & Neuroplasticity Mechanisms**|Yupei Li et.al.|[2603.24343](http://arxiv.org/abs/2603.24343)|null|
 |**2026-03-24**|**On the Golomb-Dickman constant under Ewens sampling**|José Ricardo G. Mendonça et.al.|[2603.23175](http://arxiv.org/abs/2603.23175)|null|
 |**2026-03-24**|**A $Γ$ -valley Moiré Platform for Tunable Square Lattice Hubbard Model**|Rui Shi et.al.|[2603.23174](http://arxiv.org/abs/2603.23174)|null|
 |**2026-03-24**|**First Detection of the Glycine Isomer Glycolamide in Hot Molecular Core**|Chunguo Duan et.al.|[2603.23170](http://arxiv.org/abs/2603.23170)|null|
@@ -519,12 +529,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Cheng Cui et.al.|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
+|**2026-03-25**|**Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning**|Arsen Shebzukhov et.al.|[2603.24372](http://arxiv.org/abs/2603.24372)|null|
+|**2026-03-25**|**Shape-Dependent, Deep-Learning-Assisted Metamaterial Solid Immersion Lens (mSIL) Super-Resolution Imaging**|Baidong Wu et.al.|[2603.24371](http://arxiv.org/abs/2603.24371)|null|
+|**2026-03-25**|**Adaptive decision-making for stochastic service network design**|Javier Duran Micco et.al.|[2603.24369](http://arxiv.org/abs/2603.24369)|null|
+|**2026-03-25**|**Evaporative cooling and deposition patterns of evaporating $Al_2O_3$ nanofluid droplets**|S. K. Saroj et.al.|[2603.24367](http://arxiv.org/abs/2603.24367)|null|
+|**2026-03-25**|**CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24366](http://arxiv.org/abs/2603.24366)|null|
+|**2026-03-25**|**Shape Optimization for the Principal Eigenvalue of the Pucci Operator in Three Dimensions**|Mohan Mallick et.al.|[2603.24362](http://arxiv.org/abs/2603.24362)|null|
+|**2026-03-25**|**LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24361](http://arxiv.org/abs/2603.24361)|null|
+|**2026-03-25**|**A Neuro-Symbolic System for Interpretable Multimodal Physiological Signals Integration in Human Fatigue Detection**|Mohammadreza Jamalifard et.al.|[2603.24358](http://arxiv.org/abs/2603.24358)|null|
+|**2026-03-25**|**A Sensorless, Inherently Compliant Anthropomorphic Musculoskeletal Hand Driven by Electrohydraulic Actuators**|Misato Sonoda et.al.|[2603.24357](http://arxiv.org/abs/2603.24357)|null|
 |**2026-03-24**|**Unlocking accretion rate diagnostics for high-mass protostars using JWST/MIRI HI lines**|S. D. Reyes-Reyes et.al.|[2603.23180](http://arxiv.org/abs/2603.23180)|null|
 |**2026-03-24**|**Gimbal360: Differentiable Auto-Leveling for Canonicalized $360^\circ$ Panoramic Image Completion**|Yuqin Lu et.al.|[2603.23179](http://arxiv.org/abs/2603.23179)|null|
 |**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[2603.23178](http://arxiv.org/abs/2603.23178)|null|
@@ -886,12 +906,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Sub-seasonal Modulation and Predictability of Indian monsoon hourly Rainfall Extremes**|Bijit Kumar Banerjee et.al.|[2603.24374](http://arxiv.org/abs/2603.24374)|null|
+|**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Cheng Cui et.al.|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
+|**2026-03-25**|**Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning**|Arsen Shebzukhov et.al.|[2603.24372](http://arxiv.org/abs/2603.24372)|null|
+|**2026-03-25**|**Adaptive decision-making for stochastic service network design**|Javier Duran Micco et.al.|[2603.24369](http://arxiv.org/abs/2603.24369)|null|
+|**2026-03-25**|**Long-time dynamics and threshold Phenomena for a free-boundary SIS Model with asymmetric kernels in advective periodic environments**|Soufiane Bentout et.al.|[2603.24368](http://arxiv.org/abs/2603.24368)|null|
+|**2026-03-25**|**CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24366](http://arxiv.org/abs/2603.24366)|null|
+|**2026-03-25**|**Multi-component Dark Matter and leptogenesis with double seesaw in an extended left-right symmetric theory**|Ankita Kakoti et.al.|[2603.24364](http://arxiv.org/abs/2603.24364)|null|
+|**2026-03-25**|**aPriori: a Python package to process direct numerical simulations**|Lorenzo Piu et.al.|[2603.24363](http://arxiv.org/abs/2603.24363)|null|
+|**2026-03-25**|**Shape Optimization for the Principal Eigenvalue of the Pucci Operator in Three Dimensions**|Mohan Mallick et.al.|[2603.24362](http://arxiv.org/abs/2603.24362)|null|
+|**2026-03-25**|**LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24361](http://arxiv.org/abs/2603.24361)|null|
 |**2026-03-24**|**Unlocking accretion rate diagnostics for high-mass protostars using JWST/MIRI HI lines**|S. D. Reyes-Reyes et.al.|[2603.23180](http://arxiv.org/abs/2603.23180)|null|
 |**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[2603.23178](http://arxiv.org/abs/2603.23178)|null|
 |**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
@@ -1253,12 +1283,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24366](http://arxiv.org/abs/2603.24366)|null|
+|**2026-03-25**|**Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation**|Lynn Janzen et.al.|[2603.24359](http://arxiv.org/abs/2603.24359)|null|
+|**2026-03-25**|**Robust risk measures: an averaging approach**|Marcelo Righi et.al.|[2603.24349](http://arxiv.org/abs/2603.24349)|null|
+|**2026-03-25**|**Breakdown of the periodic potential ansatz in correlated electron systems**|Wouter Montfrooij et.al.|[2603.24347](http://arxiv.org/abs/2603.24347)|null|
+|**2026-03-25**|**Effects of the initial-state geometry on D-meson production in pp and pPb collisions**|R. Terra et.al.|[2603.24344](http://arxiv.org/abs/2603.24344)|null|
+|**2026-03-25**|**Spectral Impact of Mismatches in Interleaved ADCs**|Jérémy Guichemerre et.al.|[2603.24338](http://arxiv.org/abs/2603.24338)|null|
+|**2026-03-25**|**Bridging the Dual Nature: How Integrated Explanations Enhance Understanding of Technical Artifacts**|Lutz Terfloth et.al.|[2603.24325](http://arxiv.org/abs/2603.24325)|null|
+|**2026-03-25**|**Large Language Model Guided Incentive Aware Reward Design for Cooperative Multi-Agent Reinforcement Learning**|Dogan Urgun et.al.|[2603.24324](http://arxiv.org/abs/2603.24324)|null|
+|**2026-03-25**|**Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|[2603.24323](http://arxiv.org/abs/2603.24323)|null|
+|**2026-03-25**|**Automatic LbL-LPE Spin-Coating Strategy for the Fabrication of Highly Oriented Mixed-Linker MOF Thin Films for Orientation-Dependent Applications**|Eleonora Afanasenko et.al.|[2603.24320](http://arxiv.org/abs/2603.24320)|null|
 |**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[2603.23178](http://arxiv.org/abs/2603.23178)|null|
 |**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
 |**2026-03-24**|**A Schrödinger Eigenfunction Method for Long-Horizon Stochastic Optimal Control**|Louis Claeys et.al.|[2603.23173](http://arxiv.org/abs/2603.23173)|null|
@@ -1640,12 +1680,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Cheng Cui et.al.|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
+|**2026-03-25**|**Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning**|Arsen Shebzukhov et.al.|[2603.24372](http://arxiv.org/abs/2603.24372)|null|
+|**2026-03-25**|**soliton_solver: A GPU-based finite-difference PDE solver for topological solitons in two-dimensional non-linear field theories**|Paul Leask et.al.|[2603.24370](http://arxiv.org/abs/2603.24370)|null|
+|**2026-03-25**|**Adaptive decision-making for stochastic service network design**|Javier Duran Micco et.al.|[2603.24369](http://arxiv.org/abs/2603.24369)|null|
+|**2026-03-25**|**Long-time dynamics and threshold Phenomena for a free-boundary SIS Model with asymmetric kernels in advective periodic environments**|Soufiane Bentout et.al.|[2603.24368](http://arxiv.org/abs/2603.24368)|null|
+|**2026-03-25**|**Memory effect from the scattering of Taub-NUT black holes**|George Doran et.al.|[2603.24365](http://arxiv.org/abs/2603.24365)|null|
+|**2026-03-25**|**aPriori: a Python package to process direct numerical simulations**|Lorenzo Piu et.al.|[2603.24363](http://arxiv.org/abs/2603.24363)|null|
+|**2026-03-25**|**Shape Optimization for the Principal Eigenvalue of the Pucci Operator in Three Dimensions**|Mohan Mallick et.al.|[2603.24362](http://arxiv.org/abs/2603.24362)|null|
+|**2026-03-25**|**LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24361](http://arxiv.org/abs/2603.24361)|null|
+|**2026-03-25**|**Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations**|Ian Störmer et.al.|[2603.24360](http://arxiv.org/abs/2603.24360)|null|
 |**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[2603.23178](http://arxiv.org/abs/2603.23178)|null|
 |**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
 |**2026-03-24**|**Orlov's functors in Macaulay2**|Michael K. Brown et.al.|[2603.23176](http://arxiv.org/abs/2603.23176)|null|
@@ -2017,12 +2067,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Sub-seasonal Modulation and Predictability of Indian monsoon hourly Rainfall Extremes**|Bijit Kumar Banerjee et.al.|[2603.24374](http://arxiv.org/abs/2603.24374)|null|
+|**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Cheng Cui et.al.|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
+|**2026-03-25**|**Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning**|Arsen Shebzukhov et.al.|[2603.24372](http://arxiv.org/abs/2603.24372)|null|
+|**2026-03-25**|**Shape-Dependent, Deep-Learning-Assisted Metamaterial Solid Immersion Lens (mSIL) Super-Resolution Imaging**|Baidong Wu et.al.|[2603.24371](http://arxiv.org/abs/2603.24371)|null|
+|**2026-03-25**|**Adaptive decision-making for stochastic service network design**|Javier Duran Micco et.al.|[2603.24369](http://arxiv.org/abs/2603.24369)|null|
+|**2026-03-25**|**Long-time dynamics and threshold Phenomena for a free-boundary SIS Model with asymmetric kernels in advective periodic environments**|Soufiane Bentout et.al.|[2603.24368](http://arxiv.org/abs/2603.24368)|null|
+|**2026-03-25**|**CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24366](http://arxiv.org/abs/2603.24366)|null|
+|**2026-03-25**|**aPriori: a Python package to process direct numerical simulations**|Lorenzo Piu et.al.|[2603.24363](http://arxiv.org/abs/2603.24363)|null|
+|**2026-03-25**|**Shape Optimization for the Principal Eigenvalue of the Pucci Operator in Three Dimensions**|Mohan Mallick et.al.|[2603.24362](http://arxiv.org/abs/2603.24362)|null|
+|**2026-03-25**|**LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24361](http://arxiv.org/abs/2603.24361)|null|
 |**2026-03-24**|**Unlocking accretion rate diagnostics for high-mass protostars using JWST/MIRI HI lines**|S. D. Reyes-Reyes et.al.|[2603.23180](http://arxiv.org/abs/2603.23180)|null|
 |**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[2603.23178](http://arxiv.org/abs/2603.23178)|null|
 |**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
@@ -2399,7 +2459,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
