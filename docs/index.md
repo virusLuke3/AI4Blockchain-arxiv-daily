@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
+|**2026-03-26**|**Angular momentum transfer in multiphoton pair production**|R. Z. Jiang et.al.|[2603.25515](http://arxiv.org/abs/2603.25515)|null|
+|**2026-03-26**|**Interfacial charge-transfer in 3d/5d complex oxide heterostructures**|Arun Kumar Jaiswal et.al.|[2603.25514](http://arxiv.org/abs/2603.25514)|null|
+|**2026-03-26**|**Conformal Prediction for Nonparametric Instrumental Regression**|Masahiro Kato et.al.|[2603.25509](http://arxiv.org/abs/2603.25509)|null|
+|**2026-03-26**|**Lightweight GenAI for Network Traffic Synthesis: Fidelity, Augmentation, and Classification**|Giampaolo Bovenzi et.al.|[2603.25507](http://arxiv.org/abs/2603.25507)|null|
+|**2026-03-26**|**An integrality phenomenon**|Florian Fürnsinn et.al.|[2603.25506](http://arxiv.org/abs/2603.25506)|null|
+|**2026-03-26**|**Identifying the Threshold Chain Length for Stress Overshoot in Ring-Linear Polymer Blends under Uniaxial Elongation: The Role of Multiple Threading**|Takahiro Murashima et.al.|[2603.25505](http://arxiv.org/abs/2603.25505)|null|
+|**2026-03-26**|**Berry curvature induced giant anomalous and spin texture driven Hall responses in the layered kagome antiferromagnet GdTi3Bi4**|Shobha Singh et.al.|[2603.25504](http://arxiv.org/abs/2603.25504)|null|
+|**2026-03-26**|**Implementing Bell causality in Quantum Sequential Growth**|Ritesh Srivastava et.al.|[2603.25503](http://arxiv.org/abs/2603.25503)|null|
+|**2026-03-26**|**RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models**|Yufeng Yang et.al.|[2603.25502](http://arxiv.org/abs/2603.25502)|null|
 |**2026-03-25**|**soliton_solver: A GPU-based finite-difference PDE solver for topological solitons in two-dimensional non-linear field theories**|Paul Leask et.al.|[2603.24370](http://arxiv.org/abs/2603.24370)|null|
 |**2026-03-25**|**Evaporative cooling and deposition patterns of evaporating $Al_2O_3$ nanofluid droplets**|S. K. Saroj et.al.|[2603.24367](http://arxiv.org/abs/2603.24367)|null|
 |**2026-03-25**|**Memory effect from the scattering of Taub-NUT black holes**|George Doran et.al.|[2603.24365](http://arxiv.org/abs/2603.24365)|null|
@@ -513,6 +523,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
+|**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
+|**2026-03-26**|**Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.|[2603.25510](http://arxiv.org/abs/2603.25510)|null|
+|**2026-03-26**|**Identifying the Threshold Chain Length for Stress Overshoot in Ring-Linear Polymer Blends under Uniaxial Elongation: The Role of Multiple Threading**|Takahiro Murashima et.al.|[2603.25505](http://arxiv.org/abs/2603.25505)|null|
+|**2026-03-26**|**RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models**|Yufeng Yang et.al.|[2603.25502](http://arxiv.org/abs/2603.25502)|null|
+|**2026-03-26**|**Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation**|Pei Chen et.al.|[2603.25500](http://arxiv.org/abs/2603.25500)|null|
+|**2026-03-26**|**Knowledge-Guided Failure Prediction: Detecting When Object Detectors Miss Safety-Critical Objects**|Jakob Paul Zimmermann et.al.|[2603.25499](http://arxiv.org/abs/2603.25499)|null|
+|**2026-03-26**|**Send the Key in Cleartext: Halving Key Consumption while Preserving Unconditional Security in QKD Authentication**|Claudia De Lazzari et.al.|[2603.25496](http://arxiv.org/abs/2603.25496)|null|
+|**2026-03-26**|**AdaSFormer: Adaptive Serialized Transformers for Monocular Semantic Scene Completion from Indoor Environments**|Xuzhi Wang et.al.|[2603.25494](http://arxiv.org/abs/2603.25494)|null|
+|**2026-03-26**|**Lattice and PT symmetries in tensor-network renormalization group: a case study of a hard-square lattice gas model**|Xinliang Lyu et.al.|[2603.25492](http://arxiv.org/abs/2603.25492)|null|
 |**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Cheng Cui et.al.|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
 |**2026-03-25**|**Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning**|Arsen Shebzukhov et.al.|[2603.24372](http://arxiv.org/abs/2603.24372)|null|
 |**2026-03-25**|**Shape-Dependent, Deep-Learning-Assisted Metamaterial Solid Immersion Lens (mSIL) Super-Resolution Imaging**|Baidong Wu et.al.|[2603.24371](http://arxiv.org/abs/2603.24371)|null|
@@ -888,6 +908,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
+|**2026-03-26**|**Dynamics and stochastic resonance in a mathematical model of bistable phosphorylation and nuclear size control**|Xuesong Bai et.al.|[2603.25518](http://arxiv.org/abs/2603.25518)|null|
+|**2026-03-26**|**Angular momentum transfer in multiphoton pair production**|R. Z. Jiang et.al.|[2603.25515](http://arxiv.org/abs/2603.25515)|null|
+|**2026-03-26**|**Interfacial charge-transfer in 3d/5d complex oxide heterostructures**|Arun Kumar Jaiswal et.al.|[2603.25514](http://arxiv.org/abs/2603.25514)|null|
+|**2026-03-26**|**Augmentation Lemma for Halin Conjecture**|Jerzy Wojciechowski et.al.|[2603.25513](http://arxiv.org/abs/2603.25513)|null|
+|**2026-03-26**|**Nonperturbative Resummation of Divergent Time-Local Generators**|Dragomir Davidovic et.al.|[2603.25512](http://arxiv.org/abs/2603.25512)|null|
+|**2026-03-26**|**Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.|[2603.25510](http://arxiv.org/abs/2603.25510)|null|
+|**2026-03-26**|**Lightweight GenAI for Network Traffic Synthesis: Fidelity, Augmentation, and Classification**|Giampaolo Bovenzi et.al.|[2603.25507](http://arxiv.org/abs/2603.25507)|null|
+|**2026-03-26**|**An integrality phenomenon**|Florian Fürnsinn et.al.|[2603.25506](http://arxiv.org/abs/2603.25506)|null|
+|**2026-03-26**|**Identifying the Threshold Chain Length for Stress Overshoot in Ring-Linear Polymer Blends under Uniaxial Elongation: The Role of Multiple Threading**|Takahiro Murashima et.al.|[2603.25505](http://arxiv.org/abs/2603.25505)|null|
 |**2026-03-25**|**Sub-seasonal Modulation and Predictability of Indian monsoon hourly Rainfall Extremes**|Bijit Kumar Banerjee et.al.|[2603.24374](http://arxiv.org/abs/2603.24374)|null|
 |**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Cheng Cui et.al.|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
 |**2026-03-25**|**Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning**|Arsen Shebzukhov et.al.|[2603.24372](http://arxiv.org/abs/2603.24372)|null|
@@ -1263,6 +1293,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
+|**2026-03-26**|**Nonperturbative Resummation of Divergent Time-Local Generators**|Dragomir Davidovic et.al.|[2603.25512](http://arxiv.org/abs/2603.25512)|null|
+|**2026-03-26**|**An Experimental Comparison of the Most Popular Approaches to Fake News Detection**|Pietro Dell'Oglio et.al.|[2603.25501](http://arxiv.org/abs/2603.25501)|null|
+|**2026-03-26**|**Send the Key in Cleartext: Halving Key Consumption while Preserving Unconditional Security in QKD Authentication**|Claudia De Lazzari et.al.|[2603.25496](http://arxiv.org/abs/2603.25496)|null|
+|**2026-03-26**|**Interpretable PM2.5 Forecasting for Urban Air Quality: A Comparative Study of Operational Time-Series Models**|Moazzam Umer Gondal et.al.|[2603.25495](http://arxiv.org/abs/2603.25495)|null|
+|**2026-03-26**|**A Framework for Eliminating Paradoxical Orders in European Day-Ahead Electricity Markets through Mixed-Integer Linear Programming Strong Duality**|Zhen Wang et.al.|[2603.25490](http://arxiv.org/abs/2603.25490)|null|
+|**2026-03-26**|**Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties**|Jannis Vamvas et.al.|[2603.25489](http://arxiv.org/abs/2603.25489)|null|
+|**2026-03-26**|**From nonisothermal BGK to Euler Maxwellians via relative entropy**|Nuno J. Alves et.al.|[2603.25487](http://arxiv.org/abs/2603.25487)|null|
+|**2026-03-26**|**SHADOW: Seamless Handoff And Zero-Downtime Orchestrated Workload Migration for Stateful Microservices**|Hai Dinh-Tuan et.al.|[2603.25484](http://arxiv.org/abs/2603.25484)|null|
+|**2026-03-26**|**Causal-INSIGHT: Probing Temporal Models to Extract Causal Structure**|Benjamin Redden et.al.|[2603.25473](http://arxiv.org/abs/2603.25473)|null|
 |**2026-03-25**|**CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24366](http://arxiv.org/abs/2603.24366)|null|
 |**2026-03-25**|**Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation**|Lynn Janzen et.al.|[2603.24359](http://arxiv.org/abs/2603.24359)|null|
 |**2026-03-25**|**Robust risk measures: an averaging approach**|Marcelo Righi et.al.|[2603.24349](http://arxiv.org/abs/2603.24349)|null|
@@ -1658,6 +1698,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
+|**2026-03-26**|**Dynamics and stochastic resonance in a mathematical model of bistable phosphorylation and nuclear size control**|Xuesong Bai et.al.|[2603.25518](http://arxiv.org/abs/2603.25518)|null|
+|**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
+|**2026-03-26**|**Augmentation Lemma for Halin Conjecture**|Jerzy Wojciechowski et.al.|[2603.25513](http://arxiv.org/abs/2603.25513)|null|
+|**2026-03-26**|**Nonperturbative Resummation of Divergent Time-Local Generators**|Dragomir Davidovic et.al.|[2603.25512](http://arxiv.org/abs/2603.25512)|null|
+|**2026-03-26**|**Uniform estimates and Brezis-Merle type inequalities for the $k$ -Hessian equation**|Jie Deng et.al.|[2603.25511](http://arxiv.org/abs/2603.25511)|null|
+|**2026-03-26**|**Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.|[2603.25510](http://arxiv.org/abs/2603.25510)|null|
+|**2026-03-26**|**Lightweight GenAI for Network Traffic Synthesis: Fidelity, Augmentation, and Classification**|Giampaolo Bovenzi et.al.|[2603.25507](http://arxiv.org/abs/2603.25507)|null|
+|**2026-03-26**|**An integrality phenomenon**|Florian Fürnsinn et.al.|[2603.25506](http://arxiv.org/abs/2603.25506)|null|
+|**2026-03-26**|**Identifying the Threshold Chain Length for Stress Overshoot in Ring-Linear Polymer Blends under Uniaxial Elongation: The Role of Multiple Threading**|Takahiro Murashima et.al.|[2603.25505](http://arxiv.org/abs/2603.25505)|null|
 |**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Cheng Cui et.al.|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
 |**2026-03-25**|**Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning**|Arsen Shebzukhov et.al.|[2603.24372](http://arxiv.org/abs/2603.24372)|null|
 |**2026-03-25**|**soliton_solver: A GPU-based finite-difference PDE solver for topological solitons in two-dimensional non-linear field theories**|Paul Leask et.al.|[2603.24370](http://arxiv.org/abs/2603.24370)|null|
@@ -2043,6 +2093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
+|**2026-03-26**|**Dynamics and stochastic resonance in a mathematical model of bistable phosphorylation and nuclear size control**|Xuesong Bai et.al.|[2603.25518](http://arxiv.org/abs/2603.25518)|null|
+|**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
+|**2026-03-26**|**Charge and spin photogalvanic effects in the p-wave magnet NiI2**|Giuseppe Cuono et.al.|[2603.25516](http://arxiv.org/abs/2603.25516)|null|
+|**2026-03-26**|**Interfacial charge-transfer in 3d/5d complex oxide heterostructures**|Arun Kumar Jaiswal et.al.|[2603.25514](http://arxiv.org/abs/2603.25514)|null|
+|**2026-03-26**|**Uniform estimates and Brezis-Merle type inequalities for the $k$ -Hessian equation**|Jie Deng et.al.|[2603.25511](http://arxiv.org/abs/2603.25511)|null|
+|**2026-03-26**|**Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.|[2603.25510](http://arxiv.org/abs/2603.25510)|null|
+|**2026-03-26**|**Conformal Prediction for Nonparametric Instrumental Regression**|Masahiro Kato et.al.|[2603.25509](http://arxiv.org/abs/2603.25509)|null|
+|**2026-03-26**|**Lightweight GenAI for Network Traffic Synthesis: Fidelity, Augmentation, and Classification**|Giampaolo Bovenzi et.al.|[2603.25507](http://arxiv.org/abs/2603.25507)|null|
+|**2026-03-26**|**Identifying the Threshold Chain Length for Stress Overshoot in Ring-Linear Polymer Blends under Uniaxial Elongation: The Role of Multiple Threading**|Takahiro Murashima et.al.|[2603.25505](http://arxiv.org/abs/2603.25505)|null|
 |**2026-03-25**|**Sub-seasonal Modulation and Predictability of Indian monsoon hourly Rainfall Extremes**|Bijit Kumar Banerjee et.al.|[2603.24374](http://arxiv.org/abs/2603.24374)|null|
 |**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Cheng Cui et.al.|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
 |**2026-03-25**|**Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning**|Arsen Shebzukhov et.al.|[2603.24372](http://arxiv.org/abs/2603.24372)|null|
