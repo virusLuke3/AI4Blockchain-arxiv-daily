@@ -1,4 +1,4 @@
-## Updated on 2026.03.27
+## Updated on 2026.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**|Yawen Luo et.al.|[2603.25746](http://arxiv.org/abs/2603.25746)|null|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
+|**2026-03-26**|**CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**|Maria C. Straight et.al.|[2603.25731](http://arxiv.org/abs/2603.25731)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**Krylov-space anatomy and spread complexity of a disordered quantum spin chain**|Bikram Pain et.al.|[2603.25724](http://arxiv.org/abs/2603.25724)|null|
+|**2026-03-26**|**No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models**|Hai X. Pham et.al.|[2603.25722](http://arxiv.org/abs/2603.25722)|null|
+|**2026-03-26**|**Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?**|Abhishek Bhandwaldar et.al.|[2603.25719](http://arxiv.org/abs/2603.25719)|null|
+|**2026-03-26**|**Iterated beta integrals**|Minoru Hirose et.al.|[2603.25717](http://arxiv.org/abs/2603.25717)|null|
+|**2026-03-26**|**Critical curve of two-matrix models $ABBA$, $A\{B,A\}B$ and $ABAB$ , Part I: Monte Carlo**|Carlos I. Pérez Sánchez et.al.|[2603.25715](http://arxiv.org/abs/2603.25715)|null|
+|**2026-03-26**|**Spectrum of SL(2,R)-characters: the once-punctured torus case**|Selim Ghazouani et.al.|[2603.25714](http://arxiv.org/abs/2603.25714)|null|
 |**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**Angular momentum transfer in multiphoton pair production**|R. Z. Jiang et.al.|[2603.25515](http://arxiv.org/abs/2603.25515)|null|
 |**2026-03-26**|**Interfacial charge-transfer in 3d/5d complex oxide heterostructures**|Arun Kumar Jaiswal et.al.|[2603.25514](http://arxiv.org/abs/2603.25514)|null|
@@ -539,12 +549,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**|Yawen Luo et.al.|[2603.25746](http://arxiv.org/abs/2603.25746)|null|
+|**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao et.al.|[2603.25745](http://arxiv.org/abs/2603.25745)|null|
+|**2026-03-26**|**MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models**|Bocheng Zou et.al.|[2603.25744](http://arxiv.org/abs/2603.25744)|null|
+|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
+|**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739](http://arxiv.org/abs/2603.25739)|null|
+|**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
+|**2026-03-26**|**How good was my shot? Quantifying Player Skill Level in Table Tennis**|Akihiro Kubota et.al.|[2603.25736](http://arxiv.org/abs/2603.25736)|null|
+|**2026-03-26**|**Unleashing Guidance Without Classifiers for Human-Object Interaction Animation**|Ziyin Wang et.al.|[2603.25734](http://arxiv.org/abs/2603.25734)|null|
 |**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
 |**2026-03-26**|**Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.|[2603.25510](http://arxiv.org/abs/2603.25510)|null|
@@ -926,12 +946,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**|Yawen Luo et.al.|[2603.25746](http://arxiv.org/abs/2603.25746)|null|
+|**2026-03-26**|**MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models**|Bocheng Zou et.al.|[2603.25744](http://arxiv.org/abs/2603.25744)|null|
+|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
+|**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
+|**2026-03-26**|**BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation**|Yan Li et.al.|[2603.25732](http://arxiv.org/abs/2603.25732)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**Back to Basics: Revisiting ASR in the Age of Voice Agents**|Geeyang Tay et.al.|[2603.25727](http://arxiv.org/abs/2603.25727)|null|
+|**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726](http://arxiv.org/abs/2603.25726)|null|
+|**2026-03-26**|**SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation**|Masoud Moghani et.al.|[2603.25725](http://arxiv.org/abs/2603.25725)|null|
+|**2026-03-26**|**Bayesian analysis of $α$ -Starobinsky model with Planck, ACT and DESI data**|Karim Carrion et.al.|[2603.25721](http://arxiv.org/abs/2603.25721)|null|
 |**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**Dynamics and stochastic resonance in a mathematical model of bistable phosphorylation and nuclear size control**|Xuesong Bai et.al.|[2603.25518](http://arxiv.org/abs/2603.25518)|null|
 |**2026-03-26**|**Angular momentum transfer in multiphoton pair production**|R. Z. Jiang et.al.|[2603.25515](http://arxiv.org/abs/2603.25515)|null|
@@ -1313,12 +1343,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Pseudogap and Non-Fermi-liquid criticality in double Kondo model for bilayer nickelates**|Jing-Yu Zhao et.al.|[2603.25742](http://arxiv.org/abs/2603.25742)|null|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
+|**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
+|**2026-03-26**|**How good was my shot? Quantifying Player Skill Level in Table Tennis**|Akihiro Kubota et.al.|[2603.25736](http://arxiv.org/abs/2603.25736)|null|
+|**2026-03-26**|**Unleashing Guidance Without Classifiers for Human-Object Interaction Animation**|Ziyin Wang et.al.|[2603.25734](http://arxiv.org/abs/2603.25734)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726](http://arxiv.org/abs/2603.25726)|null|
+|**2026-03-26**|**SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation**|Masoud Moghani et.al.|[2603.25725](http://arxiv.org/abs/2603.25725)|null|
+|**2026-03-26**|**No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models**|Hai X. Pham et.al.|[2603.25722](http://arxiv.org/abs/2603.25722)|null|
+|**2026-03-26**|**Bayesian analysis of $α$ -Starobinsky model with Planck, ACT and DESI data**|Karim Carrion et.al.|[2603.25721](http://arxiv.org/abs/2603.25721)|null|
 |**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
 |**2026-03-26**|**Nonperturbative Resummation of Divergent Time-Local Generators**|Dragomir Davidovic et.al.|[2603.25512](http://arxiv.org/abs/2603.25512)|null|
 |**2026-03-26**|**An Experimental Comparison of the Most Popular Approaches to Fake News Detection**|Pietro Dell'Oglio et.al.|[2603.25501](http://arxiv.org/abs/2603.25501)|null|
@@ -1720,12 +1760,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models**|Bocheng Zou et.al.|[2603.25744](http://arxiv.org/abs/2603.25744)|null|
+|**2026-03-26**|**Pseudogap and Non-Fermi-liquid criticality in double Kondo model for bilayer nickelates**|Jing-Yu Zhao et.al.|[2603.25742](http://arxiv.org/abs/2603.25742)|null|
+|**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739](http://arxiv.org/abs/2603.25739)|null|
+|**2026-03-26**|**Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment**|Yuxing Lu et.al.|[2603.25737](http://arxiv.org/abs/2603.25737)|null|
+|**2026-03-26**|**BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation**|Yan Li et.al.|[2603.25732](http://arxiv.org/abs/2603.25732)|null|
+|**2026-03-26**|**CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**|Maria C. Straight et.al.|[2603.25731](http://arxiv.org/abs/2603.25731)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**$θ$ Angle and Axial Anomaly in Holographic QCD**|Csaba Csáki et.al.|[2603.25729](http://arxiv.org/abs/2603.25729)|null|
+|**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726](http://arxiv.org/abs/2603.25726)|null|
+|**2026-03-26**|**Natural-Language Agent Harnesses**|Linyue Pan et.al.|[2603.25723](http://arxiv.org/abs/2603.25723)|null|
 |**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**Dynamics and stochastic resonance in a mathematical model of bistable phosphorylation and nuclear size control**|Xuesong Bai et.al.|[2603.25518](http://arxiv.org/abs/2603.25518)|null|
 |**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
@@ -2117,12 +2167,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao et.al.|[2603.25745](http://arxiv.org/abs/2603.25745)|null|
+|**2026-03-26**|**Pseudogap and Non-Fermi-liquid criticality in double Kondo model for bilayer nickelates**|Jing-Yu Zhao et.al.|[2603.25742](http://arxiv.org/abs/2603.25742)|null|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
+|**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
+|**2026-03-26**|**How good was my shot? Quantifying Player Skill Level in Table Tennis**|Akihiro Kubota et.al.|[2603.25736](http://arxiv.org/abs/2603.25736)|null|
+|**2026-03-26**|**SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding**|Jiwook Han et.al.|[2603.25733](http://arxiv.org/abs/2603.25733)|null|
+|**2026-03-26**|**CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**|Maria C. Straight et.al.|[2603.25731](http://arxiv.org/abs/2603.25731)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**PixelSmile: Toward Fine-Grained Facial Expression Editing**|Jiabin Hua et.al.|[2603.25728](http://arxiv.org/abs/2603.25728)|null|
 |**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**Dynamics and stochastic resonance in a mathematical model of bistable phosphorylation and nuclear size control**|Xuesong Bai et.al.|[2603.25518](http://arxiv.org/abs/2603.25518)|null|
 |**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
@@ -2519,7 +2579,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.27
+## Updated on 2026.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**|Yawen Luo et.al.|[2603.25746](http://arxiv.org/abs/2603.25746)|null|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
+|**2026-03-26**|**CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**|Maria C. Straight et.al.|[2603.25731](http://arxiv.org/abs/2603.25731)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**Krylov-space anatomy and spread complexity of a disordered quantum spin chain**|Bikram Pain et.al.|[2603.25724](http://arxiv.org/abs/2603.25724)|null|
+|**2026-03-26**|**No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models**|Hai X. Pham et.al.|[2603.25722](http://arxiv.org/abs/2603.25722)|null|
+|**2026-03-26**|**Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?**|Abhishek Bhandwaldar et.al.|[2603.25719](http://arxiv.org/abs/2603.25719)|null|
+|**2026-03-26**|**Iterated beta integrals**|Minoru Hirose et.al.|[2603.25717](http://arxiv.org/abs/2603.25717)|null|
+|**2026-03-26**|**Critical curve of two-matrix models $ABBA$, $A\{B,A\}B$ and $ABAB$ , Part I: Monte Carlo**|Carlos I. Pérez Sánchez et.al.|[2603.25715](http://arxiv.org/abs/2603.25715)|null|
+|**2026-03-26**|**Spectrum of SL(2,R)-characters: the once-punctured torus case**|Selim Ghazouani et.al.|[2603.25714](http://arxiv.org/abs/2603.25714)|null|
 |**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**Angular momentum transfer in multiphoton pair production**|R. Z. Jiang et.al.|[2603.25515](http://arxiv.org/abs/2603.25515)|null|
 |**2026-03-26**|**Interfacial charge-transfer in 3d/5d complex oxide heterostructures**|Arun Kumar Jaiswal et.al.|[2603.25514](http://arxiv.org/abs/2603.25514)|null|
@@ -523,6 +533,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**|Yawen Luo et.al.|[2603.25746](http://arxiv.org/abs/2603.25746)|null|
+|**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao et.al.|[2603.25745](http://arxiv.org/abs/2603.25745)|null|
+|**2026-03-26**|**MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models**|Bocheng Zou et.al.|[2603.25744](http://arxiv.org/abs/2603.25744)|null|
+|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
+|**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739](http://arxiv.org/abs/2603.25739)|null|
+|**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
+|**2026-03-26**|**How good was my shot? Quantifying Player Skill Level in Table Tennis**|Akihiro Kubota et.al.|[2603.25736](http://arxiv.org/abs/2603.25736)|null|
+|**2026-03-26**|**Unleashing Guidance Without Classifiers for Human-Object Interaction Animation**|Ziyin Wang et.al.|[2603.25734](http://arxiv.org/abs/2603.25734)|null|
 |**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
 |**2026-03-26**|**Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.|[2603.25510](http://arxiv.org/abs/2603.25510)|null|
@@ -908,6 +928,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**|Yawen Luo et.al.|[2603.25746](http://arxiv.org/abs/2603.25746)|null|
+|**2026-03-26**|**MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models**|Bocheng Zou et.al.|[2603.25744](http://arxiv.org/abs/2603.25744)|null|
+|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
+|**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
+|**2026-03-26**|**BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation**|Yan Li et.al.|[2603.25732](http://arxiv.org/abs/2603.25732)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**Back to Basics: Revisiting ASR in the Age of Voice Agents**|Geeyang Tay et.al.|[2603.25727](http://arxiv.org/abs/2603.25727)|null|
+|**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726](http://arxiv.org/abs/2603.25726)|null|
+|**2026-03-26**|**SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation**|Masoud Moghani et.al.|[2603.25725](http://arxiv.org/abs/2603.25725)|null|
+|**2026-03-26**|**Bayesian analysis of $α$ -Starobinsky model with Planck, ACT and DESI data**|Karim Carrion et.al.|[2603.25721](http://arxiv.org/abs/2603.25721)|null|
 |**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**Dynamics and stochastic resonance in a mathematical model of bistable phosphorylation and nuclear size control**|Xuesong Bai et.al.|[2603.25518](http://arxiv.org/abs/2603.25518)|null|
 |**2026-03-26**|**Angular momentum transfer in multiphoton pair production**|R. Z. Jiang et.al.|[2603.25515](http://arxiv.org/abs/2603.25515)|null|
@@ -1293,6 +1323,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Pseudogap and Non-Fermi-liquid criticality in double Kondo model for bilayer nickelates**|Jing-Yu Zhao et.al.|[2603.25742](http://arxiv.org/abs/2603.25742)|null|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
+|**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
+|**2026-03-26**|**How good was my shot? Quantifying Player Skill Level in Table Tennis**|Akihiro Kubota et.al.|[2603.25736](http://arxiv.org/abs/2603.25736)|null|
+|**2026-03-26**|**Unleashing Guidance Without Classifiers for Human-Object Interaction Animation**|Ziyin Wang et.al.|[2603.25734](http://arxiv.org/abs/2603.25734)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726](http://arxiv.org/abs/2603.25726)|null|
+|**2026-03-26**|**SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation**|Masoud Moghani et.al.|[2603.25725](http://arxiv.org/abs/2603.25725)|null|
+|**2026-03-26**|**No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models**|Hai X. Pham et.al.|[2603.25722](http://arxiv.org/abs/2603.25722)|null|
+|**2026-03-26**|**Bayesian analysis of $α$ -Starobinsky model with Planck, ACT and DESI data**|Karim Carrion et.al.|[2603.25721](http://arxiv.org/abs/2603.25721)|null|
 |**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
 |**2026-03-26**|**Nonperturbative Resummation of Divergent Time-Local Generators**|Dragomir Davidovic et.al.|[2603.25512](http://arxiv.org/abs/2603.25512)|null|
 |**2026-03-26**|**An Experimental Comparison of the Most Popular Approaches to Fake News Detection**|Pietro Dell'Oglio et.al.|[2603.25501](http://arxiv.org/abs/2603.25501)|null|
@@ -1698,6 +1738,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models**|Bocheng Zou et.al.|[2603.25744](http://arxiv.org/abs/2603.25744)|null|
+|**2026-03-26**|**Pseudogap and Non-Fermi-liquid criticality in double Kondo model for bilayer nickelates**|Jing-Yu Zhao et.al.|[2603.25742](http://arxiv.org/abs/2603.25742)|null|
+|**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739](http://arxiv.org/abs/2603.25739)|null|
+|**2026-03-26**|**Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment**|Yuxing Lu et.al.|[2603.25737](http://arxiv.org/abs/2603.25737)|null|
+|**2026-03-26**|**BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation**|Yan Li et.al.|[2603.25732](http://arxiv.org/abs/2603.25732)|null|
+|**2026-03-26**|**CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**|Maria C. Straight et.al.|[2603.25731](http://arxiv.org/abs/2603.25731)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**$θ$ Angle and Axial Anomaly in Holographic QCD**|Csaba Csáki et.al.|[2603.25729](http://arxiv.org/abs/2603.25729)|null|
+|**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726](http://arxiv.org/abs/2603.25726)|null|
+|**2026-03-26**|**Natural-Language Agent Harnesses**|Linyue Pan et.al.|[2603.25723](http://arxiv.org/abs/2603.25723)|null|
 |**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**Dynamics and stochastic resonance in a mathematical model of bistable phosphorylation and nuclear size control**|Xuesong Bai et.al.|[2603.25518](http://arxiv.org/abs/2603.25518)|null|
 |**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
@@ -2093,6 +2143,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao et.al.|[2603.25745](http://arxiv.org/abs/2603.25745)|null|
+|**2026-03-26**|**Pseudogap and Non-Fermi-liquid criticality in double Kondo model for bilayer nickelates**|Jing-Yu Zhao et.al.|[2603.25742](http://arxiv.org/abs/2603.25742)|null|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
+|**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
+|**2026-03-26**|**How good was my shot? Quantifying Player Skill Level in Table Tennis**|Akihiro Kubota et.al.|[2603.25736](http://arxiv.org/abs/2603.25736)|null|
+|**2026-03-26**|**SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding**|Jiwook Han et.al.|[2603.25733](http://arxiv.org/abs/2603.25733)|null|
+|**2026-03-26**|**CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**|Maria C. Straight et.al.|[2603.25731](http://arxiv.org/abs/2603.25731)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**PixelSmile: Toward Fine-Grained Facial Expression Editing**|Jiabin Hua et.al.|[2603.25728](http://arxiv.org/abs/2603.25728)|null|
 |**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**Dynamics and stochastic resonance in a mathematical model of bistable phosphorylation and nuclear size control**|Xuesong Bai et.al.|[2603.25518](http://arxiv.org/abs/2603.25518)|null|
 |**2026-03-26**|**NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs**|Inês Valentim et.al.|[2603.25517](http://arxiv.org/abs/2603.25517)|null|
