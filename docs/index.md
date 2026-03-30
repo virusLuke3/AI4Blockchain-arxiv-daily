@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.29
+## Updated on 2026.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -533,6 +533,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Who burdens the welfare state? Migration and ageing in housing, education, and healthcare demand**|Guillermo Prieto-Viertel et.al.|[2603.26525](http://arxiv.org/abs/2603.26525)|null|
+|**2026-03-27**|**Reentrancy Detection in the Age of LLMs**|Dalila Ressi et.al.|[2603.26497](http://arxiv.org/abs/2603.26497)|null|
+|**2026-03-27**|**Auditing Blockchain Innovations: Technical Challenges Beyond Traditional Finance**|Shayan Eskandari et.al.|[2603.26361](http://arxiv.org/abs/2603.26361)|null|
+|**2026-03-27**|**On a minimal Andô dilation for a pair of strict contractions**|Swapan Jana et.al.|[2603.26321](http://arxiv.org/abs/2603.26321)|null|
+|**2026-03-27**|**Bitcoin Smart Accounts: Trust-Minimized Native Bitcoin DeFi Infrastructure**|Cian Lalor et.al.|[2603.26293](http://arxiv.org/abs/2603.26293)|null|
+|**2026-03-27**|**PEB Separation and State Migration: Unmasking the New Frontiers of DeFi AML Evasion**|Yixin Cao et.al.|[2603.26290](http://arxiv.org/abs/2603.26290)|null|
+|**2026-03-27**|**Knowdit: Agentic Smart Contract Vulnerability Detection with Auditing Knowledge Summarization**|Ziqiao Kong et.al.|[2603.26270](http://arxiv.org/abs/2603.26270)|null|
+|**2026-03-27**|**Privacy-Enhancing Encryption in Data Sharing: A Survey on Security, Performance and Functionality**|Yongyang Lv et.al.|[2603.26224](http://arxiv.org/abs/2603.26224)|null|
+|**2026-03-27**|**Provably Contractive and High-Quality Denoisers for Convergent Restoration**|Shubhi Shukla et.al.|[2603.26168](http://arxiv.org/abs/2603.26168)|null|
+|**2026-03-27**|**Cosmological Correlators Using Tensor Networks**|Ujjwal Basumatary et.al.|[2603.26090](http://arxiv.org/abs/2603.26090)|null|
 |**2026-03-26**|**ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**|Yawen Luo et.al.|[2603.25746](http://arxiv.org/abs/2603.25746)|null|
 |**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao et.al.|[2603.25745](http://arxiv.org/abs/2603.25745)|null|
 |**2026-03-26**|**MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models**|Bocheng Zou et.al.|[2603.25744](http://arxiv.org/abs/2603.25744)|null|
