@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**Cs $_3$V$_9$Te$_{13}$ : A Correlated Electron System with Topological Flat Bands**|Chang-Chao Liu et.al.|[2603.27682](http://arxiv.org/abs/2603.27682)|null|
+|**2026-03-29**|**Absence of Quadratic-Order Sensitivity to Small Neutrino Mass Splittings in Disappearance Measurements**|Sanjeev Kumar Verma et.al.|[2603.27681](http://arxiv.org/abs/2603.27681)|null|
+|**2026-03-29**|**The asymptotic effect of tuning parameters**|Ingrid Dæhlen et.al.|[2603.27679](http://arxiv.org/abs/2603.27679)|null|
+|**2026-03-29**|**The resource theory of interactive quantum instruments**|Chung-Yun Hsieh et.al.|[2603.27676](http://arxiv.org/abs/2603.27676)|null|
+|**2026-03-29**|**Avoiding recollapse in an open-AdS Universe via a self-tuning-like mechanism**|Yupeng Zhang et.al.|[2603.27673](http://arxiv.org/abs/2603.27673)|null|
+|**2026-03-29**|**Energy Score-Guided Neural Gaussian Mixture Model for Predictive Uncertainty Quantification**|Yang Yang et.al.|[2603.27672](http://arxiv.org/abs/2603.27672)|null|
+|**2026-03-29**|**Benchmarking Encoding Families in Quantum Neural Networks Under Fixed Circuit Area for Frequency Spectrum and Trainability**|Martyna Czuba et.al.|[2603.27671](http://arxiv.org/abs/2603.27671)|null|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
+|**2026-03-29**|**EvA: An Evidence-First Audio Understanding Paradigm for LALMs**|Xinyuan Xie et.al.|[2603.27667](http://arxiv.org/abs/2603.27667)|null|
+|**2026-03-29**|**Magnetic moments of open bottom--charm molecular pentaquark octets**|Halil Mutuk et.al.|[2603.27657](http://arxiv.org/abs/2603.27657)|null|
 |**2026-03-26**|**ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**|Yawen Luo et.al.|[2603.25746](http://arxiv.org/abs/2603.25746)|null|
 |**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
 |**2026-03-26**|**CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**|Maria C. Straight et.al.|[2603.25731](http://arxiv.org/abs/2603.25731)|null|
@@ -533,6 +543,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**The asymptotic effect of tuning parameters**|Ingrid Dæhlen et.al.|[2603.27679](http://arxiv.org/abs/2603.27679)|null|
+|**2026-03-29**|**Safety-Constrained Optimal Control for Unknown System Dynamics**|Panagiotis Kounatidis et.al.|[2603.27677](http://arxiv.org/abs/2603.27677)|null|
+|**2026-03-29**|**Modeling of Reaction Dynamics in a Turbulent Hydrogen-Air Slot Flame Using Resolvent Analysis**|Anant Talasikar et.al.|[2603.27675](http://arxiv.org/abs/2603.27675)|null|
+|**2026-03-29**|**Energy Score-Guided Neural Gaussian Mixture Model for Predictive Uncertainty Quantification**|Yang Yang et.al.|[2603.27672](http://arxiv.org/abs/2603.27672)|null|
+|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
+|**2026-03-29**|**Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling**|Minh-Tuan Tran et.al.|[2603.27665](http://arxiv.org/abs/2603.27665)|null|
+|**2026-03-29**|**Investigating the Influence of Language on Sycophantic Behavior of Multilingual LLMs**|Bayan Abdullah Aldahlawi et.al.|[2603.27664](http://arxiv.org/abs/2603.27664)|null|
+|**2026-03-29**|**LiDAR for Crowd Management: Applications, Benefits, and Future Directions**|Abdullah Khanfor et.al.|[2603.27663](http://arxiv.org/abs/2603.27663)|null|
+|**2026-03-29**|**A Benchmarking Methodology to Assess Open-Source Video Large Language Models in Automatic Captioning of News Videos**|David Miranda Paredes et.al.|[2603.27662](http://arxiv.org/abs/2603.27662)|null|
+|**2026-03-29**|**Amped: Adaptive Multi-stage Non-edge Pruning for Edge Detection**|Yuhan Gao et.al.|[2603.27661](http://arxiv.org/abs/2603.27661)|null|
 |**2026-03-27**|**Who burdens the welfare state? Migration and ageing in housing, education, and healthcare demand**|Guillermo Prieto-Viertel et.al.|[2603.26525](http://arxiv.org/abs/2603.26525)|null|
 |**2026-03-27**|**Reentrancy Detection in the Age of LLMs**|Dalila Ressi et.al.|[2603.26497](http://arxiv.org/abs/2603.26497)|null|
 |**2026-03-27**|**Auditing Blockchain Innovations: Technical Challenges Beyond Traditional Finance**|Shayan Eskandari et.al.|[2603.26361](http://arxiv.org/abs/2603.26361)|null|
@@ -938,6 +958,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**Toward More Realistic Machine-Learning Inference of the Dense-Matter Equation of State from Supernova Gravitational Waves**|Almat Akhmetali et.al.|[2603.27680](http://arxiv.org/abs/2603.27680)|null|
+|**2026-03-29**|**The asymptotic effect of tuning parameters**|Ingrid Dæhlen et.al.|[2603.27679](http://arxiv.org/abs/2603.27679)|null|
+|**2026-03-29**|**Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization**|Canran Xiao et.al.|[2603.27678](http://arxiv.org/abs/2603.27678)|null|
+|**2026-03-29**|**Modeling of Reaction Dynamics in a Turbulent Hydrogen-Air Slot Flame Using Resolvent Analysis**|Anant Talasikar et.al.|[2603.27675](http://arxiv.org/abs/2603.27675)|null|
+|**2026-03-29**|**Avoiding recollapse in an open-AdS Universe via a self-tuning-like mechanism**|Yupeng Zhang et.al.|[2603.27673](http://arxiv.org/abs/2603.27673)|null|
+|**2026-03-29**|**Energy Score-Guided Neural Gaussian Mixture Model for Predictive Uncertainty Quantification**|Yang Yang et.al.|[2603.27672](http://arxiv.org/abs/2603.27672)|null|
+|**2026-03-29**|**Benchmarking Encoding Families in Quantum Neural Networks Under Fixed Circuit Area for Frequency Spectrum and Trainability**|Martyna Czuba et.al.|[2603.27671](http://arxiv.org/abs/2603.27671)|null|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
+|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
+|**2026-03-29**|**Investigating the Influence of Language on Sycophantic Behavior of Multilingual LLMs**|Bayan Abdullah Aldahlawi et.al.|[2603.27664](http://arxiv.org/abs/2603.27664)|null|
 |**2026-03-26**|**ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**|Yawen Luo et.al.|[2603.25746](http://arxiv.org/abs/2603.25746)|null|
 |**2026-03-26**|**MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models**|Bocheng Zou et.al.|[2603.25744](http://arxiv.org/abs/2603.25744)|null|
 |**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
@@ -1333,6 +1363,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**Cs $_3$V$_9$Te$_{13}$ : A Correlated Electron System with Topological Flat Bands**|Chang-Chao Liu et.al.|[2603.27682](http://arxiv.org/abs/2603.27682)|null|
+|**2026-03-29**|**EvA: An Evidence-First Audio Understanding Paradigm for LALMs**|Xinyuan Xie et.al.|[2603.27667](http://arxiv.org/abs/2603.27667)|null|
+|**2026-03-29**|**Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling**|Minh-Tuan Tran et.al.|[2603.27665](http://arxiv.org/abs/2603.27665)|null|
+|**2026-03-29**|**Investigating the Influence of Language on Sycophantic Behavior of Multilingual LLMs**|Bayan Abdullah Aldahlawi et.al.|[2603.27664](http://arxiv.org/abs/2603.27664)|null|
+|**2026-03-29**|**A Benchmarking Methodology to Assess Open-Source Video Large Language Models in Automatic Captioning of News Videos**|David Miranda Paredes et.al.|[2603.27662](http://arxiv.org/abs/2603.27662)|null|
+|**2026-03-29**|**Quasi-random splitting method for accurate and efficient multiphysics simulation**|Lei Li et.al.|[2603.27654](http://arxiv.org/abs/2603.27654)|null|
+|**2026-03-29**|**Factorization method for a simply supported obstacle from point source measurements via far--field transformation**|Isaac Harris et.al.|[2603.27647](http://arxiv.org/abs/2603.27647)|null|
+|**2026-03-29**|**Optimising Blockchain Scalability for Real-Time IoT Applications**|Hasan Mahmud Rhidoy et.al.|[2603.27643](http://arxiv.org/abs/2603.27643)|null|
+|**2026-03-29**|**Waves within a network of slowly time-modulated interfaces: time-dependent effective properties, reciprocity and high-order dispersion**|Michaël Darche et.al.|[2603.27641](http://arxiv.org/abs/2603.27641)|null|
+|**2026-03-29**|**Sharper upper bounds for $q$-ary $B_2$ codes from Toeplitz SDPs**|Stefano Della Fiore et.al.|[2603.27639](http://arxiv.org/abs/2603.27639)|null|
 |**2026-03-26**|**Pseudogap and Non-Fermi-liquid criticality in double Kondo model for bilayer nickelates**|Jing-Yu Zhao et.al.|[2603.25742](http://arxiv.org/abs/2603.25742)|null|
 |**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
 |**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
@@ -1748,6 +1788,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**Absence of Quadratic-Order Sensitivity to Small Neutrino Mass Splittings in Disappearance Measurements**|Sanjeev Kumar Verma et.al.|[2603.27681](http://arxiv.org/abs/2603.27681)|null|
+|**2026-03-29**|**The asymptotic effect of tuning parameters**|Ingrid Dæhlen et.al.|[2603.27679](http://arxiv.org/abs/2603.27679)|null|
+|**2026-03-29**|**Safety-Constrained Optimal Control for Unknown System Dynamics**|Panagiotis Kounatidis et.al.|[2603.27677](http://arxiv.org/abs/2603.27677)|null|
+|**2026-03-29**|**Avoiding recollapse in an open-AdS Universe via a self-tuning-like mechanism**|Yupeng Zhang et.al.|[2603.27673](http://arxiv.org/abs/2603.27673)|null|
+|**2026-03-29**|**Energy Score-Guided Neural Gaussian Mixture Model for Predictive Uncertainty Quantification**|Yang Yang et.al.|[2603.27672](http://arxiv.org/abs/2603.27672)|null|
+|**2026-03-29**|**Benchmarking Encoding Families in Quantum Neural Networks Under Fixed Circuit Area for Frequency Spectrum and Trainability**|Martyna Czuba et.al.|[2603.27671](http://arxiv.org/abs/2603.27671)|null|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
+|**2026-03-29**|**Motivic counting of curves on split quintic del Pezzo surfaces**|Christian Bernert et.al.|[2603.27668](http://arxiv.org/abs/2603.27668)|null|
+|**2026-03-29**|**EvA: An Evidence-First Audio Understanding Paradigm for LALMs**|Xinyuan Xie et.al.|[2603.27667](http://arxiv.org/abs/2603.27667)|null|
+|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
 |**2026-03-26**|**MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models**|Bocheng Zou et.al.|[2603.25744](http://arxiv.org/abs/2603.25744)|null|
 |**2026-03-26**|**Pseudogap and Non-Fermi-liquid criticality in double Kondo model for bilayer nickelates**|Jing-Yu Zhao et.al.|[2603.25742](http://arxiv.org/abs/2603.25742)|null|
 |**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739](http://arxiv.org/abs/2603.25739)|null|
@@ -2153,6 +2203,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**Absence of Quadratic-Order Sensitivity to Small Neutrino Mass Splittings in Disappearance Measurements**|Sanjeev Kumar Verma et.al.|[2603.27681](http://arxiv.org/abs/2603.27681)|null|
+|**2026-03-29**|**Toward More Realistic Machine-Learning Inference of the Dense-Matter Equation of State from Supernova Gravitational Waves**|Almat Akhmetali et.al.|[2603.27680](http://arxiv.org/abs/2603.27680)|null|
+|**2026-03-29**|**The asymptotic effect of tuning parameters**|Ingrid Dæhlen et.al.|[2603.27679](http://arxiv.org/abs/2603.27679)|null|
+|**2026-03-29**|**Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization**|Canran Xiao et.al.|[2603.27678](http://arxiv.org/abs/2603.27678)|null|
+|**2026-03-29**|**Safety-Constrained Optimal Control for Unknown System Dynamics**|Panagiotis Kounatidis et.al.|[2603.27677](http://arxiv.org/abs/2603.27677)|null|
+|**2026-03-29**|**Modeling of Reaction Dynamics in a Turbulent Hydrogen-Air Slot Flame Using Resolvent Analysis**|Anant Talasikar et.al.|[2603.27675](http://arxiv.org/abs/2603.27675)|null|
+|**2026-03-29**|**Avoiding recollapse in an open-AdS Universe via a self-tuning-like mechanism**|Yupeng Zhang et.al.|[2603.27673](http://arxiv.org/abs/2603.27673)|null|
+|**2026-03-29**|**Energy Score-Guided Neural Gaussian Mixture Model for Predictive Uncertainty Quantification**|Yang Yang et.al.|[2603.27672](http://arxiv.org/abs/2603.27672)|null|
+|**2026-03-29**|**Benchmarking Encoding Families in Quantum Neural Networks Under Fixed Circuit Area for Frequency Spectrum and Trainability**|Martyna Czuba et.al.|[2603.27671](http://arxiv.org/abs/2603.27671)|null|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
 |**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao et.al.|[2603.25745](http://arxiv.org/abs/2603.25745)|null|
 |**2026-03-26**|**Pseudogap and Non-Fermi-liquid criticality in double Kondo model for bilayer nickelates**|Jing-Yu Zhao et.al.|[2603.25742](http://arxiv.org/abs/2603.25742)|null|
 |**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
