@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Topological sum rule for geometric phases of quantum gates**|Nadav Orion et.al.|[2603.29795](http://arxiv.org/abs/2603.29795)|null|
+|**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
+|**2026-03-31**|**From Orientations to $\ell$ -adic Period Vectors**|Leonardo Colò et.al.|[2603.29789](http://arxiv.org/abs/2603.29789)|null|
+|**2026-03-31**|**Multi-Feature Fusion Approach for Generative AI Images Detection**|Abderrezzaq Sendjasni et.al.|[2603.29788](http://arxiv.org/abs/2603.29788)|null|
+|**2026-03-31**|**On the symmetry of evidential support**|Grant Molnar et.al.|[2603.29786](http://arxiv.org/abs/2603.29786)|null|
+|**2026-03-31**|**Conventional and Unitarity-Conserving Pecci-Quinn Inflation Models and ACT**|J. McDonald et.al.|[2603.29780](http://arxiv.org/abs/2603.29780)|null|
+|**2026-03-31**|**M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis**|Radu Nicolae et.al.|[2603.29778](http://arxiv.org/abs/2603.29778)|null|
+|**2026-03-31**|**The hadronic contribution to the running of the electroweak gauge couplings**|Alessandro Conigli et.al.|[2603.29775](http://arxiv.org/abs/2603.29775)|null|
+|**2026-03-31**|**Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration**|Fengyang Xiao et.al.|[2603.29773](http://arxiv.org/abs/2603.29773)|null|
+|**2026-03-31**|**Exceptional Sets for Quasiconformal Mappings in General Metric Spaces II**|Behnam Esmayli et.al.|[2603.29769](http://arxiv.org/abs/2603.29769)|null|
 |**2026-03-29**|**Cs $_3$V$_9$Te$_{13}$ : A Correlated Electron System with Topological Flat Bands**|Chang-Chao Liu et.al.|[2603.27682](http://arxiv.org/abs/2603.27682)|null|
 |**2026-03-29**|**Absence of Quadratic-Order Sensitivity to Small Neutrino Mass Splittings in Disappearance Measurements**|Sanjeev Kumar Verma et.al.|[2603.27681](http://arxiv.org/abs/2603.27681)|null|
 |**2026-03-29**|**The asymptotic effect of tuning parameters**|Ingrid Dæhlen et.al.|[2603.27679](http://arxiv.org/abs/2603.27679)|null|
@@ -543,6 +553,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Multi-Feature Fusion Approach for Generative AI Images Detection**|Abderrezzaq Sendjasni et.al.|[2603.29788](http://arxiv.org/abs/2603.29788)|null|
+|**2026-03-31**|**QTAM: QTransform Amplitude Modulation**|Lorenzo Asprea et.al.|[2603.29785](http://arxiv.org/abs/2603.29785)|null|
+|**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[2603.29784](http://arxiv.org/abs/2603.29784)|null|
+|**2026-03-31**|**Noncooperative Game in Multi-controller System under Delayed and Asymmetric Information**|Xin Li et.al.|[2603.29783](http://arxiv.org/abs/2603.29783)|null|
+|**2026-03-31**|**Urban mobility enables deprivation bubble breaking in Indian and Mexican cities**|Yuan Liao et.al.|[2603.29782](http://arxiv.org/abs/2603.29782)|null|
+|**2026-03-31**|**M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis**|Radu Nicolae et.al.|[2603.29778](http://arxiv.org/abs/2603.29778)|null|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777](http://arxiv.org/abs/2603.29777)|null|
+|**2026-03-31**|**Strongly Nonlinear Slow Light Polaritons in Subwavelength Modulated Waveguides**|Amir Rahmani et.al.|[2603.29776](http://arxiv.org/abs/2603.29776)|null|
+|**2026-03-31**|**Associative Constructive Evolution: Enhancing Metaheuristics through Hebbian-Learned Generative Guidance**|Shanxian Lin et.al.|[2603.29774](http://arxiv.org/abs/2603.29774)|null|
+|**2026-03-31**|**Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration**|Fengyang Xiao et.al.|[2603.29773](http://arxiv.org/abs/2603.29773)|null|
 |**2026-03-29**|**The asymptotic effect of tuning parameters**|Ingrid Dæhlen et.al.|[2603.27679](http://arxiv.org/abs/2603.27679)|null|
 |**2026-03-29**|**Safety-Constrained Optimal Control for Unknown System Dynamics**|Panagiotis Kounatidis et.al.|[2603.27677](http://arxiv.org/abs/2603.27677)|null|
 |**2026-03-29**|**Modeling of Reaction Dynamics in a Turbulent Hydrogen-Air Slot Flame Using Resolvent Analysis**|Anant Talasikar et.al.|[2603.27675](http://arxiv.org/abs/2603.27675)|null|
@@ -958,6 +978,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Multimodal Machine Learning for Early Prediction of Metastasis in a Swedish Multi-Cancer Cohort**|Franco Rugolon et.al.|[2603.29793](http://arxiv.org/abs/2603.29793)|null|
+|**2026-03-31**|**Where to Put Safety? Control Barrier Function Placement in Networked Control Systems**|Severin Beger et.al.|[2603.29792](http://arxiv.org/abs/2603.29792)|null|
+|**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
+|**2026-03-31**|**Multi-Feature Fusion Approach for Generative AI Images Detection**|Abderrezzaq Sendjasni et.al.|[2603.29788](http://arxiv.org/abs/2603.29788)|null|
+|**2026-03-31**|**Exponential Periods for Integrals in Physics**|Anthony Massidda et.al.|[2603.29787](http://arxiv.org/abs/2603.29787)|null|
+|**2026-03-31**|**On the symmetry of evidential support**|Grant Molnar et.al.|[2603.29786](http://arxiv.org/abs/2603.29786)|null|
+|**2026-03-31**|**QTAM: QTransform Amplitude Modulation**|Lorenzo Asprea et.al.|[2603.29785](http://arxiv.org/abs/2603.29785)|null|
+|**2026-03-31**|**Noncooperative Game in Multi-controller System under Delayed and Asymmetric Information**|Xin Li et.al.|[2603.29783](http://arxiv.org/abs/2603.29783)|null|
+|**2026-03-31**|**M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis**|Radu Nicolae et.al.|[2603.29778](http://arxiv.org/abs/2603.29778)|null|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777](http://arxiv.org/abs/2603.29777)|null|
 |**2026-03-29**|**Toward More Realistic Machine-Learning Inference of the Dense-Matter Equation of State from Supernova Gravitational Waves**|Almat Akhmetali et.al.|[2603.27680](http://arxiv.org/abs/2603.27680)|null|
 |**2026-03-29**|**The asymptotic effect of tuning parameters**|Ingrid Dæhlen et.al.|[2603.27679](http://arxiv.org/abs/2603.27679)|null|
 |**2026-03-29**|**Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization**|Canran Xiao et.al.|[2603.27678](http://arxiv.org/abs/2603.27678)|null|
@@ -1363,6 +1393,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Where to Put Safety? Control Barrier Function Placement in Networked Control Systems**|Severin Beger et.al.|[2603.29792](http://arxiv.org/abs/2603.29792)|null|
+|**2026-03-31**|**From Orientations to $\ell$ -adic Period Vectors**|Leonardo Colò et.al.|[2603.29789](http://arxiv.org/abs/2603.29789)|null|
+|**2026-03-31**|**Multi-Feature Fusion Approach for Generative AI Images Detection**|Abderrezzaq Sendjasni et.al.|[2603.29788](http://arxiv.org/abs/2603.29788)|null|
+|**2026-03-31**|**Noncooperative Game in Multi-controller System under Delayed and Asymmetric Information**|Xin Li et.al.|[2603.29783](http://arxiv.org/abs/2603.29783)|null|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777](http://arxiv.org/abs/2603.29777)|null|
+|**2026-03-31**|**Revisiting QCD-induced little inflation with chiral density wave state and its implications on pulsar timing array gravitational-wave signals**|Tae Hyun Jung et.al.|[2603.29772](http://arxiv.org/abs/2603.29772)|null|
+|**2026-03-31**|**Your Outie Is a Wonderful Astronomer: Macrodata Refinement of the Astro-ph ArXiv Feed at Phermon Industries**|Yuan-Sen Ting et.al.|[2603.29771](http://arxiv.org/abs/2603.29771)|null|
+|**2026-03-31**|**Sensitivity of Two-Body Non-Leptonic Branching Fractions to Theoretical Mass Variations in Heavy-Light Mesons**|Manakkumar Parmar et.al.|[2603.29767](http://arxiv.org/abs/2603.29767)|null|
+|**2026-03-31**|**Fisher Information Limits of Satellite RF Fingerprint Identifiability for Authentication**|Haofan Dong et.al.|[2603.29766](http://arxiv.org/abs/2603.29766)|null|
+|**2026-03-31**|**Option Pricing on Automated Market Maker Tokens**|Philip Z. Maymin et.al.|[2603.29763](http://arxiv.org/abs/2603.29763)|null|
 |**2026-03-29**|**Cs $_3$V$_9$Te$_{13}$ : A Correlated Electron System with Topological Flat Bands**|Chang-Chao Liu et.al.|[2603.27682](http://arxiv.org/abs/2603.27682)|null|
 |**2026-03-29**|**EvA: An Evidence-First Audio Understanding Paradigm for LALMs**|Xinyuan Xie et.al.|[2603.27667](http://arxiv.org/abs/2603.27667)|null|
 |**2026-03-29**|**Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling**|Minh-Tuan Tran et.al.|[2603.27665](http://arxiv.org/abs/2603.27665)|null|
@@ -1788,6 +1828,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**On smooth structures over $4$ -manifolds with fundamental group of even order**|Roberto Ladu et.al.|[2603.29794](http://arxiv.org/abs/2603.29794)|null|
+|**2026-03-31**|**Where to Put Safety? Control Barrier Function Placement in Networked Control Systems**|Severin Beger et.al.|[2603.29792](http://arxiv.org/abs/2603.29792)|null|
+|**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
+|**2026-03-31**|**From Orientations to $\ell$ -adic Period Vectors**|Leonardo Colò et.al.|[2603.29789](http://arxiv.org/abs/2603.29789)|null|
+|**2026-03-31**|**Exponential Periods for Integrals in Physics**|Anthony Massidda et.al.|[2603.29787](http://arxiv.org/abs/2603.29787)|null|
+|**2026-03-31**|**On the symmetry of evidential support**|Grant Molnar et.al.|[2603.29786](http://arxiv.org/abs/2603.29786)|null|
+|**2026-03-31**|**QTAM: QTransform Amplitude Modulation**|Lorenzo Asprea et.al.|[2603.29785](http://arxiv.org/abs/2603.29785)|null|
+|**2026-03-31**|**Emergence of Non-Hermitian Magic Angles and Topological Phase Transitions in Twisted Bilayer $α$-$T_3$ Lattices**|Shaina Gandhi et.al.|[2603.29779](http://arxiv.org/abs/2603.29779)|null|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777](http://arxiv.org/abs/2603.29777)|null|
+|**2026-03-31**|**The hadronic contribution to the running of the electroweak gauge couplings**|Alessandro Conigli et.al.|[2603.29775](http://arxiv.org/abs/2603.29775)|null|
 |**2026-03-29**|**Absence of Quadratic-Order Sensitivity to Small Neutrino Mass Splittings in Disappearance Measurements**|Sanjeev Kumar Verma et.al.|[2603.27681](http://arxiv.org/abs/2603.27681)|null|
 |**2026-03-29**|**The asymptotic effect of tuning parameters**|Ingrid Dæhlen et.al.|[2603.27679](http://arxiv.org/abs/2603.27679)|null|
 |**2026-03-29**|**Safety-Constrained Optimal Control for Unknown System Dynamics**|Panagiotis Kounatidis et.al.|[2603.27677](http://arxiv.org/abs/2603.27677)|null|
@@ -2203,6 +2253,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Multimodal Machine Learning for Early Prediction of Metastasis in a Swedish Multi-Cancer Cohort**|Franco Rugolon et.al.|[2603.29793](http://arxiv.org/abs/2603.29793)|null|
+|**2026-03-31**|**Where to Put Safety? Control Barrier Function Placement in Networked Control Systems**|Severin Beger et.al.|[2603.29792](http://arxiv.org/abs/2603.29792)|null|
+|**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
+|**2026-03-31**|**Multi-Feature Fusion Approach for Generative AI Images Detection**|Abderrezzaq Sendjasni et.al.|[2603.29788](http://arxiv.org/abs/2603.29788)|null|
+|**2026-03-31**|**Exponential Periods for Integrals in Physics**|Anthony Massidda et.al.|[2603.29787](http://arxiv.org/abs/2603.29787)|null|
+|**2026-03-31**|**QTAM: QTransform Amplitude Modulation**|Lorenzo Asprea et.al.|[2603.29785](http://arxiv.org/abs/2603.29785)|null|
+|**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[2603.29784](http://arxiv.org/abs/2603.29784)|null|
+|**2026-03-31**|**Noncooperative Game in Multi-controller System under Delayed and Asymmetric Information**|Xin Li et.al.|[2603.29783](http://arxiv.org/abs/2603.29783)|null|
+|**2026-03-31**|**M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis**|Radu Nicolae et.al.|[2603.29778](http://arxiv.org/abs/2603.29778)|null|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777](http://arxiv.org/abs/2603.29777)|null|
 |**2026-03-29**|**Absence of Quadratic-Order Sensitivity to Small Neutrino Mass Splittings in Disappearance Measurements**|Sanjeev Kumar Verma et.al.|[2603.27681](http://arxiv.org/abs/2603.27681)|null|
 |**2026-03-29**|**Toward More Realistic Machine-Learning Inference of the Dense-Matter Equation of State from Supernova Gravitational Waves**|Almat Akhmetali et.al.|[2603.27680](http://arxiv.org/abs/2603.27680)|null|
 |**2026-03-29**|**The asymptotic effect of tuning parameters**|Ingrid Dæhlen et.al.|[2603.27679](http://arxiv.org/abs/2603.27679)|null|
