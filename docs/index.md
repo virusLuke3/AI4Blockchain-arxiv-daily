@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Uncertainty-Aware Variational Reward Factorization via Probabilistic Preference Bases for LLM Personalization**|Gyuseok Lee et.al.|[2604.00997](http://arxiv.org/abs/2604.00997)|null|
+|**2026-04-01**|**Tube-Based Safety for Anticipative Tracking in Multi-Agent Systems**|Armel Koulong et.al.|[2604.00992](http://arxiv.org/abs/2604.00992)|null|
+|**2026-04-01**|**Excitations across the equilibrium and photoinduced `hidden' states of magnetoresistive manganites**|Shiyu Fan et.al.|[2604.00991](http://arxiv.org/abs/2604.00991)|null|
+|**2026-04-01**|**A Discontinuous Galerkin Scheme for the Cahn-Hilliard Equations with Discrete Maximum Principle for Arbitrary Polynomial Order**|Jimmy Kornelije Gunnarsson et.al.|[2604.00988](http://arxiv.org/abs/2604.00988)|null|
+|**2026-04-01**|**Bridging Structured Knowledge and Data: A Unified Framework with Finance Applications**|Yi Cao et.al.|[2604.00987](http://arxiv.org/abs/2604.00987)|null|
+|**2026-04-01**|**Maximizing T2-Only Prostate Cancer Localization from Expected Diffusion Weighted Imaging**|Weixi Yi et.al.|[2604.00985](http://arxiv.org/abs/2604.00985)|null|
+|**2026-04-01**|**A subgrid model for chemical enrichment in cosmological simulations**|Camila A. Correa et.al.|[2604.00980](http://arxiv.org/abs/2604.00980)|null|
+|**2026-04-01**|**Flow-based Policy With Distributional Reinforcement Learning in Trajectory Optimization**|Ruijie Hao et.al.|[2604.00977](http://arxiv.org/abs/2604.00977)|null|
+|**2026-04-01**|**One-loop $p$ -adic string theory and the Néron local height function**|An Huang et.al.|[2604.00970](http://arxiv.org/abs/2604.00970)|null|
+|**2026-04-01**|**A General Framework for Computational Lower Bounds in Nontrivial Norm Approximation**|Runshi Tang et.al.|[2604.00966](http://arxiv.org/abs/2604.00966)|null|
 |**2026-03-31**|**Topological sum rule for geometric phases of quantum gates**|Nadav Orion et.al.|[2603.29795](http://arxiv.org/abs/2603.29795)|null|
 |**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
 |**2026-03-31**|**From Orientations to $\ell$ -adic Period Vectors**|Leonardo Colò et.al.|[2603.29789](http://arxiv.org/abs/2603.29789)|null|
@@ -553,6 +563,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Robust Multidimensional Chinese Remainder Theorem (MD-CRT) with Non-Diagonal Moduli and Multi-Stage Framework**|Guangpu Guo et.al.|[2604.00995](http://arxiv.org/abs/2604.00995)|null|
+|**2026-04-01**|**Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts**|Daniel Miehling et.al.|[2604.00994](http://arxiv.org/abs/2604.00994)|null|
+|**2026-04-01**|**Focal plane wavefront control with model-based reinforcement learning**|Jalo Nousiainen et.al.|[2604.00993](http://arxiv.org/abs/2604.00993)|null|
+|**2026-04-01**|**A Discontinuous Galerkin Scheme for the Cahn-Hilliard Equations with Discrete Maximum Principle for Arbitrary Polynomial Order**|Jimmy Kornelije Gunnarsson et.al.|[2604.00988](http://arxiv.org/abs/2604.00988)|null|
+|**2026-04-01**|**Bridging Structured Knowledge and Data: A Unified Framework with Finance Applications**|Yi Cao et.al.|[2604.00987](http://arxiv.org/abs/2604.00987)|null|
+|**2026-04-01**|**Do Phone-Use Agents Respect Your Privacy?**|Zhengyang Tang et.al.|[2604.00986](http://arxiv.org/abs/2604.00986)|null|
+|**2026-04-01**|**Maximizing T2-Only Prostate Cancer Localization from Expected Diffusion Weighted Imaging**|Weixi Yi et.al.|[2604.00985](http://arxiv.org/abs/2604.00985)|null|
+|**2026-04-01**|**ACT Now: Preempting LVLM Hallucinations via Adaptive Context Integration**|Bei Yan et.al.|[2604.00983](http://arxiv.org/abs/2604.00983)|null|
+|**2026-04-01**|**VisG AV-HuBERT: Viseme-Guided AV-HuBERT**|Aristeidis Papadopoulos et.al.|[2604.00982](http://arxiv.org/abs/2604.00982)|null|
+|**2026-04-01**|**A subgrid model for chemical enrichment in cosmological simulations**|Camila A. Correa et.al.|[2604.00980](http://arxiv.org/abs/2604.00980)|null|
 |**2026-03-31**|**Multi-Feature Fusion Approach for Generative AI Images Detection**|Abderrezzaq Sendjasni et.al.|[2603.29788](http://arxiv.org/abs/2603.29788)|null|
 |**2026-03-31**|**QTAM: QTransform Amplitude Modulation**|Lorenzo Asprea et.al.|[2603.29785](http://arxiv.org/abs/2603.29785)|null|
 |**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[2603.29784](http://arxiv.org/abs/2603.29784)|null|
@@ -978,6 +998,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Robust Multidimensional Chinese Remainder Theorem (MD-CRT) with Non-Diagonal Moduli and Multi-Stage Framework**|Guangpu Guo et.al.|[2604.00995](http://arxiv.org/abs/2604.00995)|null|
+|**2026-04-01**|**Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts**|Daniel Miehling et.al.|[2604.00994](http://arxiv.org/abs/2604.00994)|null|
+|**2026-04-01**|**Focal plane wavefront control with model-based reinforcement learning**|Jalo Nousiainen et.al.|[2604.00993](http://arxiv.org/abs/2604.00993)|null|
+|**2026-04-01**|**Tube-Based Safety for Anticipative Tracking in Multi-Agent Systems**|Armel Koulong et.al.|[2604.00992](http://arxiv.org/abs/2604.00992)|null|
+|**2026-04-01**|**Excitations across the equilibrium and photoinduced `hidden' states of magnetoresistive manganites**|Shiyu Fan et.al.|[2604.00991](http://arxiv.org/abs/2604.00991)|null|
+|**2026-04-01**|**A Discontinuous Galerkin Scheme for the Cahn-Hilliard Equations with Discrete Maximum Principle for Arbitrary Polynomial Order**|Jimmy Kornelije Gunnarsson et.al.|[2604.00988](http://arxiv.org/abs/2604.00988)|null|
+|**2026-04-01**|**Do Phone-Use Agents Respect Your Privacy?**|Zhengyang Tang et.al.|[2604.00986](http://arxiv.org/abs/2604.00986)|null|
+|**2026-04-01**|**Maximizing T2-Only Prostate Cancer Localization from Expected Diffusion Weighted Imaging**|Weixi Yi et.al.|[2604.00985](http://arxiv.org/abs/2604.00985)|null|
+|**2026-04-01**|**A subgrid model for chemical enrichment in cosmological simulations**|Camila A. Correa et.al.|[2604.00980](http://arxiv.org/abs/2604.00980)|null|
+|**2026-04-01**|**Dual Optimal: Make Your LLM Peer-like with Dignity**|Xiangqi Wang et.al.|[2604.00979](http://arxiv.org/abs/2604.00979)|null|
 |**2026-03-31**|**Multimodal Machine Learning for Early Prediction of Metastasis in a Swedish Multi-Cancer Cohort**|Franco Rugolon et.al.|[2603.29793](http://arxiv.org/abs/2603.29793)|null|
 |**2026-03-31**|**Where to Put Safety? Control Barrier Function Placement in Networked Control Systems**|Severin Beger et.al.|[2603.29792](http://arxiv.org/abs/2603.29792)|null|
 |**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
@@ -1393,6 +1423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Robust Multidimensional Chinese Remainder Theorem (MD-CRT) with Non-Diagonal Moduli and Multi-Stage Framework**|Guangpu Guo et.al.|[2604.00995](http://arxiv.org/abs/2604.00995)|null|
+|**2026-04-01**|**Tube-Based Safety for Anticipative Tracking in Multi-Agent Systems**|Armel Koulong et.al.|[2604.00992](http://arxiv.org/abs/2604.00992)|null|
+|**2026-04-01**|**A Discontinuous Galerkin Scheme for the Cahn-Hilliard Equations with Discrete Maximum Principle for Arbitrary Polynomial Order**|Jimmy Kornelije Gunnarsson et.al.|[2604.00988](http://arxiv.org/abs/2604.00988)|null|
+|**2026-04-01**|**Bridging Structured Knowledge and Data: A Unified Framework with Finance Applications**|Yi Cao et.al.|[2604.00987](http://arxiv.org/abs/2604.00987)|null|
+|**2026-04-01**|**Maximizing T2-Only Prostate Cancer Localization from Expected Diffusion Weighted Imaging**|Weixi Yi et.al.|[2604.00985](http://arxiv.org/abs/2604.00985)|null|
+|**2026-04-01**|**Exact interpolation between Fick and Cattaneo diffusion in relativistic kinetic theory**|Lorenzo Gavassino et.al.|[2604.00984](http://arxiv.org/abs/2604.00984)|null|
+|**2026-04-01**|**High-Precision Near-Infrared Abundances of Solar Analogs in the YJ Bands**|Noriyuki Matsunaga et.al.|[2604.00981](http://arxiv.org/abs/2604.00981)|null|
+|**2026-04-01**|**A subgrid model for chemical enrichment in cosmological simulations**|Camila A. Correa et.al.|[2604.00980](http://arxiv.org/abs/2604.00980)|null|
+|**2026-04-01**|**Dual Optimal: Make Your LLM Peer-like with Dignity**|Xiangqi Wang et.al.|[2604.00979](http://arxiv.org/abs/2604.00979)|null|
+|**2026-04-01**|**A General Framework for Computational Lower Bounds in Nontrivial Norm Approximation**|Runshi Tang et.al.|[2604.00966](http://arxiv.org/abs/2604.00966)|null|
 |**2026-03-31**|**Where to Put Safety? Control Barrier Function Placement in Networked Control Systems**|Severin Beger et.al.|[2603.29792](http://arxiv.org/abs/2603.29792)|null|
 |**2026-03-31**|**From Orientations to $\ell$ -adic Period Vectors**|Leonardo Colò et.al.|[2603.29789](http://arxiv.org/abs/2603.29789)|null|
 |**2026-03-31**|**Multi-Feature Fusion Approach for Generative AI Images Detection**|Abderrezzaq Sendjasni et.al.|[2603.29788](http://arxiv.org/abs/2603.29788)|null|
@@ -1828,6 +1868,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Uncertainty-Aware Variational Reward Factorization via Probabilistic Preference Bases for LLM Personalization**|Gyuseok Lee et.al.|[2604.00997](http://arxiv.org/abs/2604.00997)|null|
+|**2026-04-01**|**Pions reloaded**|M. N. Ferreira et.al.|[2604.00996](http://arxiv.org/abs/2604.00996)|null|
+|**2026-04-01**|**Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts**|Daniel Miehling et.al.|[2604.00994](http://arxiv.org/abs/2604.00994)|null|
+|**2026-04-01**|**Focal plane wavefront control with model-based reinforcement learning**|Jalo Nousiainen et.al.|[2604.00993](http://arxiv.org/abs/2604.00993)|null|
+|**2026-04-01**|**Tube-Based Safety for Anticipative Tracking in Multi-Agent Systems**|Armel Koulong et.al.|[2604.00992](http://arxiv.org/abs/2604.00992)|null|
+|**2026-04-01**|**Excitations across the equilibrium and photoinduced `hidden' states of magnetoresistive manganites**|Shiyu Fan et.al.|[2604.00991](http://arxiv.org/abs/2604.00991)|null|
+|**2026-04-01**|**A Discontinuous Galerkin Scheme for the Cahn-Hilliard Equations with Discrete Maximum Principle for Arbitrary Polynomial Order**|Jimmy Kornelije Gunnarsson et.al.|[2604.00988](http://arxiv.org/abs/2604.00988)|null|
+|**2026-04-01**|**Bridging Structured Knowledge and Data: A Unified Framework with Finance Applications**|Yi Cao et.al.|[2604.00987](http://arxiv.org/abs/2604.00987)|null|
+|**2026-04-01**|**Do Phone-Use Agents Respect Your Privacy?**|Zhengyang Tang et.al.|[2604.00986](http://arxiv.org/abs/2604.00986)|null|
+|**2026-04-01**|**High-Precision Near-Infrared Abundances of Solar Analogs in the YJ Bands**|Noriyuki Matsunaga et.al.|[2604.00981](http://arxiv.org/abs/2604.00981)|null|
 |**2026-03-31**|**On smooth structures over $4$ -manifolds with fundamental group of even order**|Roberto Ladu et.al.|[2603.29794](http://arxiv.org/abs/2603.29794)|null|
 |**2026-03-31**|**Where to Put Safety? Control Barrier Function Placement in Networked Control Systems**|Severin Beger et.al.|[2603.29792](http://arxiv.org/abs/2603.29792)|null|
 |**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
@@ -2253,6 +2303,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Robust Multidimensional Chinese Remainder Theorem (MD-CRT) with Non-Diagonal Moduli and Multi-Stage Framework**|Guangpu Guo et.al.|[2604.00995](http://arxiv.org/abs/2604.00995)|null|
+|**2026-04-01**|**Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts**|Daniel Miehling et.al.|[2604.00994](http://arxiv.org/abs/2604.00994)|null|
+|**2026-04-01**|**Focal plane wavefront control with model-based reinforcement learning**|Jalo Nousiainen et.al.|[2604.00993](http://arxiv.org/abs/2604.00993)|null|
+|**2026-04-01**|**Tube-Based Safety for Anticipative Tracking in Multi-Agent Systems**|Armel Koulong et.al.|[2604.00992](http://arxiv.org/abs/2604.00992)|null|
+|**2026-04-01**|**A Discontinuous Galerkin Scheme for the Cahn-Hilliard Equations with Discrete Maximum Principle for Arbitrary Polynomial Order**|Jimmy Kornelije Gunnarsson et.al.|[2604.00988](http://arxiv.org/abs/2604.00988)|null|
+|**2026-04-01**|**Bridging Structured Knowledge and Data: A Unified Framework with Finance Applications**|Yi Cao et.al.|[2604.00987](http://arxiv.org/abs/2604.00987)|null|
+|**2026-04-01**|**Do Phone-Use Agents Respect Your Privacy?**|Zhengyang Tang et.al.|[2604.00986](http://arxiv.org/abs/2604.00986)|null|
+|**2026-04-01**|**Maximizing T2-Only Prostate Cancer Localization from Expected Diffusion Weighted Imaging**|Weixi Yi et.al.|[2604.00985](http://arxiv.org/abs/2604.00985)|null|
+|**2026-04-01**|**ACT Now: Preempting LVLM Hallucinations via Adaptive Context Integration**|Bei Yan et.al.|[2604.00983](http://arxiv.org/abs/2604.00983)|null|
+|**2026-04-01**|**VisG AV-HuBERT: Viseme-Guided AV-HuBERT**|Aristeidis Papadopoulos et.al.|[2604.00982](http://arxiv.org/abs/2604.00982)|null|
 |**2026-03-31**|**Multimodal Machine Learning for Early Prediction of Metastasis in a Swedish Multi-Cancer Cohort**|Franco Rugolon et.al.|[2603.29793](http://arxiv.org/abs/2603.29793)|null|
 |**2026-03-31**|**Where to Put Safety? Control Barrier Function Placement in Networked Control Systems**|Severin Beger et.al.|[2603.29792](http://arxiv.org/abs/2603.29792)|null|
 |**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
