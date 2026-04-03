@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Blinded Radiologist and LLM-Based Evaluation of LLM-Generated Japanese Translations of Chest CT Reports: Comparative Study**|Yosuke Yamagishi et.al.|[2604.02207](http://arxiv.org/abs/2604.02207)|null|
+|**2026-04-02**|**Evaluation of gNB Monostatic Sensing for UAV Use Case**|Steve Blandino et.al.|[2604.02205](http://arxiv.org/abs/2604.02205)|null|
+|**2026-04-02**|**QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling**|Selim Romero et.al.|[2604.02203](http://arxiv.org/abs/2604.02203)|null|
+|**2026-04-02**|**On the Role of Depth in the Expressivity of RNNs**|Maude Lizaire et.al.|[2604.02201](http://arxiv.org/abs/2604.02201)|null|
+|**2026-04-02**|**A unified framework for synchronization optimization in directed multiplex networks**|Anath Bandhu Das et.al.|[2604.02199](http://arxiv.org/abs/2604.02199)|null|
+|**2026-04-02**|**Continuity of Weighted Dirac Spectra**|Zixuan Qiu et.al.|[2604.02195](http://arxiv.org/abs/2604.02195)|null|
+|**2026-04-02**|**Neuro-RIT: Neuron-Guided Instruction Tuning for Robust Retrieval-Augmented Language Model**|Jaemin Kim et.al.|[2604.02194](http://arxiv.org/abs/2604.02194)|null|
+|**2026-04-02**|**What can be computed in average anonymous networks?**|Joel Rybicki et.al.|[2604.02192](http://arxiv.org/abs/2604.02192)|null|
+|**2026-04-02**|**Jahn-Teller distortion on strained La $_3$Ni$_2$O$_7$ thin films**|Yuxin Wang et.al.|[2604.02191](http://arxiv.org/abs/2604.02191)|null|
+|**2026-04-02**|**Possible, Yes; Ignorant, Perhaps: A Scorecard for Possibilistic Forecasts**|John R. Lawson et.al.|[2604.02187](http://arxiv.org/abs/2604.02187)|null|
 |**2026-04-01**|**Uncertainty-Aware Variational Reward Factorization via Probabilistic Preference Bases for LLM Personalization**|Gyuseok Lee et.al.|[2604.00997](http://arxiv.org/abs/2604.00997)|null|
 |**2026-04-01**|**Tube-Based Safety for Anticipative Tracking in Multi-Agent Systems**|Armel Koulong et.al.|[2604.00992](http://arxiv.org/abs/2604.00992)|null|
 |**2026-04-01**|**Excitations across the equilibrium and photoinduced `hidden' states of magnetoresistive manganites**|Shiyu Fan et.al.|[2604.00991](http://arxiv.org/abs/2604.00991)|null|
@@ -563,6 +573,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
+|**2026-04-02**|**Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization**|Runyu Zhang et.al.|[2604.02202](http://arxiv.org/abs/2604.02202)|null|
+|**2026-04-02**|**A unified framework for synchronization optimization in directed multiplex networks**|Anath Bandhu Das et.al.|[2604.02199](http://arxiv.org/abs/2604.02199)|null|
+|**2026-04-02**|**Neuro-RIT: Neuron-Guided Instruction Tuning for Robust Retrieval-Augmented Language Model**|Jaemin Kim et.al.|[2604.02194](http://arxiv.org/abs/2604.02194)|null|
+|**2026-04-02**|**Jahn-Teller distortion on strained La $_3$Ni$_2$O$_7$ thin films**|Yuxin Wang et.al.|[2604.02191](http://arxiv.org/abs/2604.02191)|null|
+|**2026-04-02**|**UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**|Yongkang Li et.al.|[2604.02190](http://arxiv.org/abs/2604.02190)|null|
+|**2026-04-02**|**Bridging Distant Ideas: the Impact of AI on R&D and Recombinant Innovation**|Emanuele Bazzichi et.al.|[2604.02189](http://arxiv.org/abs/2604.02189)|null|
+|**2026-04-02**|**Lightweight Spatiotemporal Highway Lane Detection via 3D-ResNet and PINet with ROI-Aware Attention**|Sorna Shanmuga Raja et.al.|[2604.02188](http://arxiv.org/abs/2604.02188)|null|
+|**2026-04-02**|**CXR-LT 2026 Challenge: Projection-Aware Multi-Label and Zero-Shot Chest X-Ray Classification**|Juno Cho et.al.|[2604.02185](http://arxiv.org/abs/2604.02185)|null|
+|**2026-04-02**|**Neural network methods for two-dimensional finite-source reflector design**|Roel Hacking et.al.|[2604.02184](http://arxiv.org/abs/2604.02184)|null|
 |**2026-04-01**|**Robust Multidimensional Chinese Remainder Theorem (MD-CRT) with Non-Diagonal Moduli and Multi-Stage Framework**|Guangpu Guo et.al.|[2604.00995](http://arxiv.org/abs/2604.00995)|null|
 |**2026-04-01**|**Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts**|Daniel Miehling et.al.|[2604.00994](http://arxiv.org/abs/2604.00994)|null|
 |**2026-04-01**|**Focal plane wavefront control with model-based reinforcement learning**|Jalo Nousiainen et.al.|[2604.00993](http://arxiv.org/abs/2604.00993)|null|
@@ -998,6 +1018,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Phase estimation with autoregressive padding (PEAP): addressing inaccuracies and biases in EEG analysis**|Miriam Kirchhoff et.al.|[2604.02212](http://arxiv.org/abs/2604.02212)|null|
+|**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
+|**2026-04-02**|**CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech**|Youssef Saidi et.al.|[2604.02209](http://arxiv.org/abs/2604.02209)|null|
+|**2026-04-02**|**Blinded Radiologist and LLM-Based Evaluation of LLM-Generated Japanese Translations of Chest CT Reports: Comparative Study**|Yosuke Yamagishi et.al.|[2604.02207](http://arxiv.org/abs/2604.02207)|null|
+|**2026-04-02**|**LEO: Graph Attention Network based Hybrid Multi Sensor Extended Object Fusion and Tracking for Autonomous Driving Applications**|Mayank Mayank et.al.|[2604.02206](http://arxiv.org/abs/2604.02206)|null|
+|**2026-04-02**|**Non-minimally coupled quintessence with sign-switching interaction**|Jia-Qi Wang et.al.|[2604.02204](http://arxiv.org/abs/2604.02204)|null|
+|**2026-04-02**|**QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling**|Selim Romero et.al.|[2604.02203](http://arxiv.org/abs/2604.02203)|null|
+|**2026-04-02**|**Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization**|Runyu Zhang et.al.|[2604.02202](http://arxiv.org/abs/2604.02202)|null|
+|**2026-04-02**|**On the Role of Depth in the Expressivity of RNNs**|Maude Lizaire et.al.|[2604.02201](http://arxiv.org/abs/2604.02201)|null|
+|**2026-04-02**|**Towards Position-Robust Talent Recommendation via Large Language Models**|Silin Du et.al.|[2604.02200](http://arxiv.org/abs/2604.02200)|null|
 |**2026-04-01**|**Robust Multidimensional Chinese Remainder Theorem (MD-CRT) with Non-Diagonal Moduli and Multi-Stage Framework**|Guangpu Guo et.al.|[2604.00995](http://arxiv.org/abs/2604.00995)|null|
 |**2026-04-01**|**Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts**|Daniel Miehling et.al.|[2604.00994](http://arxiv.org/abs/2604.00994)|null|
 |**2026-04-01**|**Focal plane wavefront control with model-based reinforcement learning**|Jalo Nousiainen et.al.|[2604.00993](http://arxiv.org/abs/2604.00993)|null|
@@ -1423,6 +1453,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech**|Youssef Saidi et.al.|[2604.02209](http://arxiv.org/abs/2604.02209)|null|
+|**2026-04-02**|**Blinded Radiologist and LLM-Based Evaluation of LLM-Generated Japanese Translations of Chest CT Reports: Comparative Study**|Yosuke Yamagishi et.al.|[2604.02207](http://arxiv.org/abs/2604.02207)|null|
+|**2026-04-02**|**LEO: Graph Attention Network based Hybrid Multi Sensor Extended Object Fusion and Tracking for Autonomous Driving Applications**|Mayank Mayank et.al.|[2604.02206](http://arxiv.org/abs/2604.02206)|null|
+|**2026-04-02**|**A unified framework for synchronization optimization in directed multiplex networks**|Anath Bandhu Das et.al.|[2604.02199](http://arxiv.org/abs/2604.02199)|null|
+|**2026-04-02**|**A Pragmatist Understanding of Quantum Mechanics**|Richard Healey et.al.|[2604.02197](http://arxiv.org/abs/2604.02197)|null|
+|**2026-04-02**|**UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**|Yongkang Li et.al.|[2604.02190](http://arxiv.org/abs/2604.02190)|null|
+|**2026-04-02**|**Bridging Distant Ideas: the Impact of AI on R&D and Recombinant Innovation**|Emanuele Bazzichi et.al.|[2604.02189](http://arxiv.org/abs/2604.02189)|null|
+|**2026-04-02**|**Neural network methods for two-dimensional finite-source reflector design**|Roel Hacking et.al.|[2604.02184](http://arxiv.org/abs/2604.02184)|null|
+|**2026-04-02**|**Shot-to-shot noise cancellation for parametric oscillators**|Martynas Skrabulis et.al.|[2604.02175](http://arxiv.org/abs/2604.02175)|null|
+|**2026-04-02**|**Transformer-Enhanced Data-Driven Output Reachability with Conformal Coverage Guarantees**|Zhen Zhang et.al.|[2604.02173](http://arxiv.org/abs/2604.02173)|null|
 |**2026-04-01**|**Robust Multidimensional Chinese Remainder Theorem (MD-CRT) with Non-Diagonal Moduli and Multi-Stage Framework**|Guangpu Guo et.al.|[2604.00995](http://arxiv.org/abs/2604.00995)|null|
 |**2026-04-01**|**Tube-Based Safety for Anticipative Tracking in Multi-Agent Systems**|Armel Koulong et.al.|[2604.00992](http://arxiv.org/abs/2604.00992)|null|
 |**2026-04-01**|**A Discontinuous Galerkin Scheme for the Cahn-Hilliard Equations with Discrete Maximum Principle for Arbitrary Polynomial Order**|Jimmy Kornelije Gunnarsson et.al.|[2604.00988](http://arxiv.org/abs/2604.00988)|null|
@@ -1868,6 +1908,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech**|Youssef Saidi et.al.|[2604.02209](http://arxiv.org/abs/2604.02209)|null|
+|**2026-04-02**|**Blinded Radiologist and LLM-Based Evaluation of LLM-Generated Japanese Translations of Chest CT Reports: Comparative Study**|Yosuke Yamagishi et.al.|[2604.02207](http://arxiv.org/abs/2604.02207)|null|
+|**2026-04-02**|**LEO: Graph Attention Network based Hybrid Multi Sensor Extended Object Fusion and Tracking for Autonomous Driving Applications**|Mayank Mayank et.al.|[2604.02206](http://arxiv.org/abs/2604.02206)|null|
+|**2026-04-02**|**Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization**|Runyu Zhang et.al.|[2604.02202](http://arxiv.org/abs/2604.02202)|null|
+|**2026-04-02**|**On the Role of Depth in the Expressivity of RNNs**|Maude Lizaire et.al.|[2604.02201](http://arxiv.org/abs/2604.02201)|null|
+|**2026-04-02**|**Towards Position-Robust Talent Recommendation via Large Language Models**|Silin Du et.al.|[2604.02200](http://arxiv.org/abs/2604.02200)|null|
+|**2026-04-02**|**A unified framework for synchronization optimization in directed multiplex networks**|Anath Bandhu Das et.al.|[2604.02199](http://arxiv.org/abs/2604.02199)|null|
+|**2026-04-02**|**From High-Dimensional Spaces to Verifiable ODD Coverage for Safety-Critical AI-based Systems**|Thomas Stefani et.al.|[2604.02198](http://arxiv.org/abs/2604.02198)|null|
+|**2026-04-02**|**Computing the Exact Pareto Front in Average-Cost Multi-Objective Markov Decision Processes**|Jiping Luo et.al.|[2604.02196](http://arxiv.org/abs/2604.02196)|null|
+|**2026-04-02**|**Continuity of Weighted Dirac Spectra**|Zixuan Qiu et.al.|[2604.02195](http://arxiv.org/abs/2604.02195)|null|
 |**2026-04-01**|**Uncertainty-Aware Variational Reward Factorization via Probabilistic Preference Bases for LLM Personalization**|Gyuseok Lee et.al.|[2604.00997](http://arxiv.org/abs/2604.00997)|null|
 |**2026-04-01**|**Pions reloaded**|M. N. Ferreira et.al.|[2604.00996](http://arxiv.org/abs/2604.00996)|null|
 |**2026-04-01**|**Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts**|Daniel Miehling et.al.|[2604.00994](http://arxiv.org/abs/2604.00994)|null|
@@ -2303,6 +2353,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Phase estimation with autoregressive padding (PEAP): addressing inaccuracies and biases in EEG analysis**|Miriam Kirchhoff et.al.|[2604.02212](http://arxiv.org/abs/2604.02212)|null|
+|**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
+|**2026-04-02**|**CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech**|Youssef Saidi et.al.|[2604.02209](http://arxiv.org/abs/2604.02209)|null|
+|**2026-04-02**|**LEO: Graph Attention Network based Hybrid Multi Sensor Extended Object Fusion and Tracking for Autonomous Driving Applications**|Mayank Mayank et.al.|[2604.02206](http://arxiv.org/abs/2604.02206)|null|
+|**2026-04-02**|**Evaluation of gNB Monostatic Sensing for UAV Use Case**|Steve Blandino et.al.|[2604.02205](http://arxiv.org/abs/2604.02205)|null|
+|**2026-04-02**|**QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling**|Selim Romero et.al.|[2604.02203](http://arxiv.org/abs/2604.02203)|null|
+|**2026-04-02**|**Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization**|Runyu Zhang et.al.|[2604.02202](http://arxiv.org/abs/2604.02202)|null|
+|**2026-04-02**|**On the Role of Depth in the Expressivity of RNNs**|Maude Lizaire et.al.|[2604.02201](http://arxiv.org/abs/2604.02201)|null|
+|**2026-04-02**|**Towards Position-Robust Talent Recommendation via Large Language Models**|Silin Du et.al.|[2604.02200](http://arxiv.org/abs/2604.02200)|null|
+|**2026-04-02**|**A unified framework for synchronization optimization in directed multiplex networks**|Anath Bandhu Das et.al.|[2604.02199](http://arxiv.org/abs/2604.02199)|null|
 |**2026-04-01**|**Robust Multidimensional Chinese Remainder Theorem (MD-CRT) with Non-Diagonal Moduli and Multi-Stage Framework**|Guangpu Guo et.al.|[2604.00995](http://arxiv.org/abs/2604.00995)|null|
 |**2026-04-01**|**Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts**|Daniel Miehling et.al.|[2604.00994](http://arxiv.org/abs/2604.00994)|null|
 |**2026-04-01**|**Focal plane wavefront control with model-based reinforcement learning**|Jalo Nousiainen et.al.|[2604.00993](http://arxiv.org/abs/2604.00993)|null|
