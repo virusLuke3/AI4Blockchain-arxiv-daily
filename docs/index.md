@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
+|**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
+|**2026-04-05**|**Nonlocality Effect in the Alpha decay half-lives of superheavy nuclei with XGBRegressor**|Jinyu Hu et.al.|[2604.04187](http://arxiv.org/abs/2604.04187)|null|
+|**2026-04-05**|**DAG Covers: The Steiner Point Effect**|Sujoy Bhore et.al.|[2604.04186](http://arxiv.org/abs/2604.04186)|null|
+|**2026-04-05**|**AURA: Always-On Understanding and Real-Time Assistance via Video Streams**|Xudong Lu et.al.|[2604.04184](http://arxiv.org/abs/2604.04184)|null|
+|**2026-04-05**|**Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty**|Haomiaomiao Wang et.al.|[2604.04182](http://arxiv.org/abs/2604.04182)|null|
+|**2026-04-05**|**Variance Reduction Methods for Dirichlet Expectations**|Ayeong Lee et.al.|[2604.04181](http://arxiv.org/abs/2604.04181)|null|
+|**2026-04-05**|**Beamforming Feedback as a Novel Attack Surface for Wi-Fi Physical-Layer Security**|Jingzhe Zhang et.al.|[2604.04179](http://arxiv.org/abs/2604.04179)|null|
+|**2026-04-05**|**Uncertainty-Aware Foundation Models for Clinical Data**|Qian Zhou et.al.|[2604.04175](http://arxiv.org/abs/2604.04175)|null|
+|**2026-04-05**|**CoALFake: Collaborative Active Learning with Human-LLM Co-Annotation for Cross-Domain Fake News Detection**|Esma Aïmeur et.al.|[2604.04174](http://arxiv.org/abs/2604.04174)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**UNIONS-3500 Weak Lensing: II. B-mode validation for cosmic shear**|C. Daley et.al.|[2604.03227](http://arxiv.org/abs/2604.03227)|null|
 |**2026-04-03**|**Enhancing Robustness of Federated Learning via Server Learning**|Van Sy Mai et.al.|[2604.03226](http://arxiv.org/abs/2604.03226)|null|
@@ -593,6 +603,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
+|**2026-04-05**|**Nonlocality Effect in the Alpha decay half-lives of superheavy nuclei with XGBRegressor**|Jinyu Hu et.al.|[2604.04187](http://arxiv.org/abs/2604.04187)|null|
+|**2026-04-05**|**Black Hole Persistence in New General Relativity**|Balkar Yildirim et.al.|[2604.04185](http://arxiv.org/abs/2604.04185)|null|
+|**2026-04-05**|**AURA: Always-On Understanding and Real-Time Assistance via Video Streams**|Xudong Lu et.al.|[2604.04184](http://arxiv.org/abs/2604.04184)|null|
+|**2026-04-05**|**Scale-Aware Vision-Language Adaptation for Extreme Far-Distance Video Person Re-identification**|Ashwat Rajbhandari et.al.|[2604.04183](http://arxiv.org/abs/2604.04183)|null|
+|**2026-04-05**|**Variance Reduction Methods for Dirichlet Expectations**|Ayeong Lee et.al.|[2604.04181](http://arxiv.org/abs/2604.04181)|null|
+|**2026-04-05**|**Beamforming Feedback as a Novel Attack Surface for Wi-Fi Physical-Layer Security**|Jingzhe Zhang et.al.|[2604.04179](http://arxiv.org/abs/2604.04179)|null|
+|**2026-04-05**|**Cohesion-induced hysteresis and breakdown of marginal stability in jammed granular materials**|Michio Otsuki et.al.|[2604.04176](http://arxiv.org/abs/2604.04176)|null|
+|**2026-04-05**|**CoALFake: Collaborative Active Learning with Human-LLM Co-Annotation for Cross-Domain Fake News Detection**|Esma Aïmeur et.al.|[2604.04174](http://arxiv.org/abs/2604.04174)|null|
+|**2026-04-05**|**GENFIG1: Visual Summaries of Scholarly Work as a Challenge for Vision-Language Models**|Yaohan Guan et.al.|[2604.04172](http://arxiv.org/abs/2604.04172)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**Stars Born in the Wind II: Widespread Extra-planar Star Formation in M82's Halo**|Vaishnav V. Rao et.al.|[2604.03230](http://arxiv.org/abs/2604.03230)|null|
 |**2026-04-03**|**Belief Propagation and Tensor Network Expansions for Many-Body Quantum Systems: Rigorous Results and Fundamental Limits**|Siddhant Midha et.al.|[2604.03228](http://arxiv.org/abs/2604.03228)|null|
@@ -1058,6 +1078,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
+|**2026-04-05**|**Separation properties of codimension-1 maps between generalized manifolds**|Edivaldo L. dos Santos et.al.|[2604.04189](http://arxiv.org/abs/2604.04189)|null|
+|**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
+|**2026-04-05**|**Nonlocality Effect in the Alpha decay half-lives of superheavy nuclei with XGBRegressor**|Jinyu Hu et.al.|[2604.04187](http://arxiv.org/abs/2604.04187)|null|
+|**2026-04-05**|**Black Hole Persistence in New General Relativity**|Balkar Yildirim et.al.|[2604.04185](http://arxiv.org/abs/2604.04185)|null|
+|**2026-04-05**|**Scale-Aware Vision-Language Adaptation for Extreme Far-Distance Video Person Re-identification**|Ashwat Rajbhandari et.al.|[2604.04183](http://arxiv.org/abs/2604.04183)|null|
+|**2026-04-05**|**Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty**|Haomiaomiao Wang et.al.|[2604.04182](http://arxiv.org/abs/2604.04182)|null|
+|**2026-04-05**|**Variance Reduction Methods for Dirichlet Expectations**|Ayeong Lee et.al.|[2604.04181](http://arxiv.org/abs/2604.04181)|null|
+|**2026-04-05**|**Analytical Kink-Type Solutions and Streak Formation in Turbulent Channel Flow**|Alex Fedoseyev et.al.|[2604.04180](http://arxiv.org/abs/2604.04180)|null|
+|**2026-04-05**|**Beamforming Feedback as a Novel Attack Surface for Wi-Fi Physical-Layer Security**|Jingzhe Zhang et.al.|[2604.04179](http://arxiv.org/abs/2604.04179)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**Belief Propagation and Tensor Network Expansions for Many-Body Quantum Systems: Rigorous Results and Fundamental Limits**|Siddhant Midha et.al.|[2604.03228](http://arxiv.org/abs/2604.03228)|null|
 |**2026-04-03**|**UNIONS-3500 Weak Lensing: II. B-mode validation for cosmic shear**|C. Daley et.al.|[2604.03227](http://arxiv.org/abs/2604.03227)|null|
@@ -1513,6 +1543,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
+|**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
+|**2026-04-05**|**Nonlocality Effect in the Alpha decay half-lives of superheavy nuclei with XGBRegressor**|Jinyu Hu et.al.|[2604.04187](http://arxiv.org/abs/2604.04187)|null|
+|**2026-04-05**|**Scale-Aware Vision-Language Adaptation for Extreme Far-Distance Video Person Re-identification**|Ashwat Rajbhandari et.al.|[2604.04183](http://arxiv.org/abs/2604.04183)|null|
+|**2026-04-05**|**Analytical Kink-Type Solutions and Streak Formation in Turbulent Channel Flow**|Alex Fedoseyev et.al.|[2604.04180](http://arxiv.org/abs/2604.04180)|null|
+|**2026-04-05**|**Spatial Localization of Relativistic Quantum Systems: The Commutativity Requirement and the Locality Principle. Part II: A Model from Local QFT**|Valter Moretti et.al.|[2604.04173](http://arxiv.org/abs/2604.04173)|null|
+|**2026-04-05**|**A Semi-Automated Annotation Workflow for Paediatric Histopathology Reports Using Small Language Models**|Avish Vijayaraghavan et.al.|[2604.04168](http://arxiv.org/abs/2604.04168)|null|
+|**2026-04-05**|**Input Matrix Optimization for Desired Reachable Set Warping of Linear Systems**|Hrishav Das et.al.|[2604.04165](http://arxiv.org/abs/2604.04165)|null|
+|**2026-04-05**|**Generalized Numerical Construction of MUBs: A Group Theoretical Investigation**|Buğra Gültekin et.al.|[2604.04164](http://arxiv.org/abs/2604.04164)|null|
+|**2026-04-05**|**Hierarchical Co-Embedding of Font Shapes and Impression Tags**|Yugo Kubota et.al.|[2604.04158](http://arxiv.org/abs/2604.04158)|null|
 |**2026-04-03**|**Belief Propagation and Tensor Network Expansions for Many-Body Quantum Systems: Rigorous Results and Fundamental Limits**|Siddhant Midha et.al.|[2604.03228](http://arxiv.org/abs/2604.03228)|null|
 |**2026-04-03**|**Fast and Accurate Inverse Blood Flow Modeling from Minimal Cuff-Pressure Data via PINNs**|Sokratis J. Anagnostopoulos et.al.|[2604.03221](http://arxiv.org/abs/2604.03221)|null|
 |**2026-04-03**|**BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**|Sean Wu et.al.|[2604.03216](http://arxiv.org/abs/2604.03216)|null|
@@ -1988,6 +2028,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
+|**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
+|**2026-04-05**|**Black Hole Persistence in New General Relativity**|Balkar Yildirim et.al.|[2604.04185](http://arxiv.org/abs/2604.04185)|null|
+|**2026-04-05**|**Variance Reduction Methods for Dirichlet Expectations**|Ayeong Lee et.al.|[2604.04181](http://arxiv.org/abs/2604.04181)|null|
+|**2026-04-05**|**Disentangling Flow Contributions from the Chiral Magnetic Effect in U+U Collisions with Forward-Backward Multiplicity Asymmetry**|Kaiser Shafi et.al.|[2604.04178](http://arxiv.org/abs/2604.04178)|null|
+|**2026-04-05**|**Position: Logical Soundness is not a Reliable Criterion for Neurosymbolic Fact-Checking with LLMs**|Jason Chan et.al.|[2604.04177](http://arxiv.org/abs/2604.04177)|null|
+|**2026-04-05**|**Cohesion-induced hysteresis and breakdown of marginal stability in jammed granular materials**|Michio Otsuki et.al.|[2604.04176](http://arxiv.org/abs/2604.04176)|null|
+|**2026-04-05**|**Uncertainty-Aware Foundation Models for Clinical Data**|Qian Zhou et.al.|[2604.04175](http://arxiv.org/abs/2604.04175)|null|
+|**2026-04-05**|**Spatial Localization of Relativistic Quantum Systems: The Commutativity Requirement and the Locality Principle. Part II: A Model from Local QFT**|Valter Moretti et.al.|[2604.04173](http://arxiv.org/abs/2604.04173)|null|
+|**2026-04-05**|**Incomplete Multi-View Multi-Label Classification via Shared Codebook and Fused-Teacher Self-Distillation**|Xu Yan et.al.|[2604.04170](http://arxiv.org/abs/2604.04170)|null|
 |**2026-04-03**|**Belief Propagation and Tensor Network Expansions for Many-Body Quantum Systems: Rigorous Results and Fundamental Limits**|Siddhant Midha et.al.|[2604.03228](http://arxiv.org/abs/2604.03228)|null|
 |**2026-04-03**|**UNIONS-3500 Weak Lensing: II. B-mode validation for cosmic shear**|C. Daley et.al.|[2604.03227](http://arxiv.org/abs/2604.03227)|null|
 |**2026-04-03**|**HyperCT: Low-Rank Hypernet for Unified Chest CT Analysis**|Fengbei Liu et.al.|[2604.03224](http://arxiv.org/abs/2604.03224)|null|
@@ -2453,6 +2503,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
+|**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
+|**2026-04-05**|**Nonlocality Effect in the Alpha decay half-lives of superheavy nuclei with XGBRegressor**|Jinyu Hu et.al.|[2604.04187](http://arxiv.org/abs/2604.04187)|null|
+|**2026-04-05**|**AURA: Always-On Understanding and Real-Time Assistance via Video Streams**|Xudong Lu et.al.|[2604.04184](http://arxiv.org/abs/2604.04184)|null|
+|**2026-04-05**|**Scale-Aware Vision-Language Adaptation for Extreme Far-Distance Video Person Re-identification**|Ashwat Rajbhandari et.al.|[2604.04183](http://arxiv.org/abs/2604.04183)|null|
+|**2026-04-05**|**Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty**|Haomiaomiao Wang et.al.|[2604.04182](http://arxiv.org/abs/2604.04182)|null|
+|**2026-04-05**|**Variance Reduction Methods for Dirichlet Expectations**|Ayeong Lee et.al.|[2604.04181](http://arxiv.org/abs/2604.04181)|null|
+|**2026-04-05**|**Analytical Kink-Type Solutions and Streak Formation in Turbulent Channel Flow**|Alex Fedoseyev et.al.|[2604.04180](http://arxiv.org/abs/2604.04180)|null|
+|**2026-04-05**|**Position: Logical Soundness is not a Reliable Criterion for Neurosymbolic Fact-Checking with LLMs**|Jason Chan et.al.|[2604.04177](http://arxiv.org/abs/2604.04177)|null|
+|**2026-04-05**|**Cohesion-induced hysteresis and breakdown of marginal stability in jammed granular materials**|Michio Otsuki et.al.|[2604.04176](http://arxiv.org/abs/2604.04176)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**Stars Born in the Wind II: Widespread Extra-planar Star Formation in M82's Halo**|Vaishnav V. Rao et.al.|[2604.03230](http://arxiv.org/abs/2604.03230)|null|
 |**2026-04-03**|**Belief Propagation and Tensor Network Expansions for Many-Body Quantum Systems: Rigorous Results and Fundamental Limits**|Siddhant Midha et.al.|[2604.03228](http://arxiv.org/abs/2604.03228)|null|
