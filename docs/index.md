@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model**|Hongxu Zhou et.al.|[2604.05923](http://arxiv.org/abs/2604.05923)|null|
+|**2026-04-07**|**Simplicity of random hypergraphs**|Yanna J. Kraakman et.al.|[2604.05921](http://arxiv.org/abs/2604.05921)|null|
+|**2026-04-07**|**${\cal N}=4$ supersymmetric Yang-Mills thermodynamics to order $λ^{5/2}$**|Margaret E. Carrington et.al.|[2604.05919](http://arxiv.org/abs/2604.05919)|null|
+|**2026-04-07**|**Overview of Bayesian Solvers in EEG Distributed Source Models: Prior Selection, Algorithmic Implementation, and Depth Bias Reduction**|Joonas Lahtinen et.al.|[2604.05913](http://arxiv.org/abs/2604.05913)|null|
+|**2026-04-07**|**Appearance Decomposition Gaussian Splatting for Multi-Traversal Reconstruction**|Yangyi Xiao et.al.|[2604.05908](http://arxiv.org/abs/2604.05908)|null|
+|**2026-04-07**|**Study of the migration of Earth-like planets in planetesimal disks and the formation of debris disks**|O. S. Oleynik et.al.|[2604.05902](http://arxiv.org/abs/2604.05902)|null|
+|**2026-04-07**|**Geodesics from Quantum Field Theory: A Case Study in AdS**|Vaibhav Burman et.al.|[2604.05901](http://arxiv.org/abs/2604.05901)|null|
+|**2026-04-07**|**ALD Zinc Tin Oxide Buffers for Chalcopyrite Solar Cells: Electrical Barriers and Conduction Band Cliffs**|Boaz Koren et.al.|[2604.05891](http://arxiv.org/abs/2604.05891)|null|
+|**2026-04-07**|**HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference**|Bowen Zeng et.al.|[2604.05887](http://arxiv.org/abs/2604.05887)|null|
+|**2026-04-07**|**JZ-Tree: GPU friendly neighbour search and friends-of-friends with dual tree walks in JAX plus CUDA**|Jens Stücker et.al.|[2604.05885](http://arxiv.org/abs/2604.05885)|null|
 |**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
 |**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
 |**2026-04-05**|**Nonlocality Effect in the Alpha decay half-lives of superheavy nuclei with XGBRegressor**|Jinyu Hu et.al.|[2604.04187](http://arxiv.org/abs/2604.04187)|null|
@@ -603,6 +613,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Quantum advantage in transfer of quantum states**|Andrei Stepanenko et.al.|[2604.05915](http://arxiv.org/abs/2604.05915)|null|
+|**2026-04-07**|**Overview of Bayesian Solvers in EEG Distributed Source Models: Prior Selection, Algorithmic Implementation, and Depth Bias Reduction**|Joonas Lahtinen et.al.|[2604.05913](http://arxiv.org/abs/2604.05913)|null|
+|**2026-04-07**|**Exponential mixing for nonlinear Schrödinger equations perturbed by bounded degenerate noise**|Yuxuan Chen et.al.|[2604.05911](http://arxiv.org/abs/2604.05911)|null|
+|**2026-04-07**|**Appearance Decomposition Gaussian Splatting for Multi-Traversal Reconstruction**|Yangyi Xiao et.al.|[2604.05908](http://arxiv.org/abs/2604.05908)|null|
+|**2026-04-07**|**Selective Aggregation of Attention Maps Improves Diffusion-Based Visual Interpretation**|Jungwon Park et.al.|[2604.05906](http://arxiv.org/abs/2604.05906)|null|
+|**2026-04-07**|**Testing X-ray Periodicity and Long-Term Trend in PG 1553+113 via Targeted Swift-XRT Monitoring**|P. Peñil et.al.|[2604.05905](http://arxiv.org/abs/2604.05905)|null|
+|**2026-04-07**|**AICA-Bench: Holistically Examining the Capabilities of VLMs in Affective Image Content Analysis**|Dong She et.al.|[2604.05900](http://arxiv.org/abs/2604.05900)|null|
+|**2026-04-07**|**Physics-Aware Video Instance Removal Benchmark**|Zirui Li et.al.|[2604.05898](http://arxiv.org/abs/2604.05898)|null|
+|**2026-04-07**|**A Data-Driven Fast Simulation Approach for MAPS-based Detectors and their Optimization**|Dumitru Vlad Berlea et.al.|[2604.05893](http://arxiv.org/abs/2604.05893)|null|
+|**2026-04-07**|**ALD Zinc Tin Oxide Buffers for Chalcopyrite Solar Cells: Electrical Barriers and Conduction Band Cliffs**|Boaz Koren et.al.|[2604.05891](http://arxiv.org/abs/2604.05891)|null|
 |**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
 |**2026-04-05**|**Nonlocality Effect in the Alpha decay half-lives of superheavy nuclei with XGBRegressor**|Jinyu Hu et.al.|[2604.04187](http://arxiv.org/abs/2604.04187)|null|
 |**2026-04-05**|**Black Hole Persistence in New General Relativity**|Balkar Yildirim et.al.|[2604.04185](http://arxiv.org/abs/2604.04185)|null|
@@ -1078,6 +1098,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model**|Hongxu Zhou et.al.|[2604.05923](http://arxiv.org/abs/2604.05923)|null|
+|**2026-04-07**|**A Counterexample to Problem 19 on Integer-valued Polynomial Rings**|Haotian Ma et.al.|[2604.05922](http://arxiv.org/abs/2604.05922)|null|
+|**2026-04-07**|**Simplicity of random hypergraphs**|Yanna J. Kraakman et.al.|[2604.05921](http://arxiv.org/abs/2604.05921)|null|
+|**2026-04-07**|**Reference Energies for Non-Relativistic Core Ionization Potentials**|Antoine Marie et.al.|[2604.05920](http://arxiv.org/abs/2604.05920)|null|
+|**2026-04-07**|**${\cal N}=4$ supersymmetric Yang-Mills thermodynamics to order $λ^{5/2}$**|Margaret E. Carrington et.al.|[2604.05919](http://arxiv.org/abs/2604.05919)|null|
+|**2026-04-07**|**Quantum advantage in transfer of quantum states**|Andrei Stepanenko et.al.|[2604.05915](http://arxiv.org/abs/2604.05915)|null|
+|**2026-04-07**|**Machine-State Embeddings as an Operational Coordinate System for Accelerator Operation**|Chris Tennant et.al.|[2604.05914](http://arxiv.org/abs/2604.05914)|null|
+|**2026-04-07**|**Overview of Bayesian Solvers in EEG Distributed Source Models: Prior Selection, Algorithmic Implementation, and Depth Bias Reduction**|Joonas Lahtinen et.al.|[2604.05913](http://arxiv.org/abs/2604.05913)|null|
+|**2026-04-07**|**FrontierFinance: A Long-Horizon Computer-Use Benchmark of Real-World Financial Tasks**|Michael Krumdick et.al.|[2604.05912](http://arxiv.org/abs/2604.05912)|null|
+|**2026-04-07**|**Transfer Learning for Neural Parameter Estimation applied to Building RC Models**|Fabian Raisch et.al.|[2604.05904](http://arxiv.org/abs/2604.05904)|null|
 |**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
 |**2026-04-05**|**Separation properties of codimension-1 maps between generalized manifolds**|Edivaldo L. dos Santos et.al.|[2604.04189](http://arxiv.org/abs/2604.04189)|null|
 |**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
@@ -1543,6 +1573,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**A Counterexample to Problem 19 on Integer-valued Polynomial Rings**|Haotian Ma et.al.|[2604.05922](http://arxiv.org/abs/2604.05922)|null|
+|**2026-04-07**|**Long distance attraction between particles in a soap film**|Youna Louyer et.al.|[2604.05918](http://arxiv.org/abs/2604.05918)|null|
+|**2026-04-07**|**FrontierFinance: A Long-Horizon Computer-Use Benchmark of Real-World Financial Tasks**|Michael Krumdick et.al.|[2604.05912](http://arxiv.org/abs/2604.05912)|null|
+|**2026-04-07**|**Diffusion from particle-coated drops: the subtle role of particle size**|Alexandros T. Oratis et.al.|[2604.05903](http://arxiv.org/abs/2604.05903)|null|
+|**2026-04-07**|**Physics-Aware Video Instance Removal Benchmark**|Zirui Li et.al.|[2604.05898](http://arxiv.org/abs/2604.05898)|null|
+|**2026-04-07**|**Edge modes in Chern-Simons theory on a strip**|Erica Bertolini et.al.|[2604.05889](http://arxiv.org/abs/2604.05889)|null|
+|**2026-04-07**|**JZ-Tree: GPU friendly neighbour search and friends-of-friends with dual tree walks in JAX plus CUDA**|Jens Stücker et.al.|[2604.05885](http://arxiv.org/abs/2604.05885)|null|
+|**2026-04-07**|**Dynamical decoupling and quantum error correction with SU(d) symmetries**|Colin Read et.al.|[2604.05871](http://arxiv.org/abs/2604.05871)|null|
+|**2026-04-07**|**Fault-Tolerant One-Shot Entanglement Generation with Constant-Sized Quantum Devices in the Plane**|Dylan Harley et.al.|[2604.05870](http://arxiv.org/abs/2604.05870)|null|
+|**2026-04-07**|**Beyond Paper-to-Paper: Structured Profiling and Rubric Scoring for Paper-Reviewer Matching**|Yicheng Pan et.al.|[2604.05866](http://arxiv.org/abs/2604.05866)|null|
 |**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
 |**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
 |**2026-04-05**|**Nonlocality Effect in the Alpha decay half-lives of superheavy nuclei with XGBRegressor**|Jinyu Hu et.al.|[2604.04187](http://arxiv.org/abs/2604.04187)|null|
@@ -2028,6 +2068,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model**|Hongxu Zhou et.al.|[2604.05923](http://arxiv.org/abs/2604.05923)|null|
+|**2026-04-07**|**Reference Energies for Non-Relativistic Core Ionization Potentials**|Antoine Marie et.al.|[2604.05920](http://arxiv.org/abs/2604.05920)|null|
+|**2026-04-07**|**${\cal N}=4$ supersymmetric Yang-Mills thermodynamics to order $λ^{5/2}$**|Margaret E. Carrington et.al.|[2604.05919](http://arxiv.org/abs/2604.05919)|null|
+|**2026-04-07**|**Overview of Bayesian Solvers in EEG Distributed Source Models: Prior Selection, Algorithmic Implementation, and Depth Bias Reduction**|Joonas Lahtinen et.al.|[2604.05913](http://arxiv.org/abs/2604.05913)|null|
+|**2026-04-07**|**FrontierFinance: A Long-Horizon Computer-Use Benchmark of Real-World Financial Tasks**|Michael Krumdick et.al.|[2604.05912](http://arxiv.org/abs/2604.05912)|null|
+|**2026-04-07**|**Well-posedness and Hurst parameter estimation for fluid equations driven by fractional transport noise**|Alexandra Blessing Neamtu et.al.|[2604.05910](http://arxiv.org/abs/2604.05910)|null|
+|**2026-04-07**|**The Transit Timing and Transmission Spectrum of Hot Jupiter WASP-43 b from a decade of Multi-band Transit Follow-up Observations**|Napaporn A-thano et.al.|[2604.05907](http://arxiv.org/abs/2604.05907)|null|
+|**2026-04-07**|**Testing X-ray Periodicity and Long-Term Trend in PG 1553+113 via Targeted Swift-XRT Monitoring**|P. Peñil et.al.|[2604.05905](http://arxiv.org/abs/2604.05905)|null|
+|**2026-04-07**|**Transfer Learning for Neural Parameter Estimation applied to Building RC Models**|Fabian Raisch et.al.|[2604.05904](http://arxiv.org/abs/2604.05904)|null|
+|**2026-04-07**|**Geodesics from Quantum Field Theory: A Case Study in AdS**|Vaibhav Burman et.al.|[2604.05901](http://arxiv.org/abs/2604.05901)|null|
 |**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
 |**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
 |**2026-04-05**|**Black Hole Persistence in New General Relativity**|Balkar Yildirim et.al.|[2604.04185](http://arxiv.org/abs/2604.04185)|null|
@@ -2503,6 +2553,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model**|Hongxu Zhou et.al.|[2604.05923](http://arxiv.org/abs/2604.05923)|null|
+|**2026-04-07**|**Simplicity of random hypergraphs**|Yanna J. Kraakman et.al.|[2604.05921](http://arxiv.org/abs/2604.05921)|null|
+|**2026-04-07**|**Reference Energies for Non-Relativistic Core Ionization Potentials**|Antoine Marie et.al.|[2604.05920](http://arxiv.org/abs/2604.05920)|null|
+|**2026-04-07**|**An 18 - 25 GHz spectroscopic survey of southern hemisphere dense cores**|Dariusz C. Lis et.al.|[2604.05917](http://arxiv.org/abs/2604.05917)|null|
+|**2026-04-07**|**Quantum advantage in transfer of quantum states**|Andrei Stepanenko et.al.|[2604.05915](http://arxiv.org/abs/2604.05915)|null|
+|**2026-04-07**|**Machine-State Embeddings as an Operational Coordinate System for Accelerator Operation**|Chris Tennant et.al.|[2604.05914](http://arxiv.org/abs/2604.05914)|null|
+|**2026-04-07**|**Overview of Bayesian Solvers in EEG Distributed Source Models: Prior Selection, Algorithmic Implementation, and Depth Bias Reduction**|Joonas Lahtinen et.al.|[2604.05913](http://arxiv.org/abs/2604.05913)|null|
+|**2026-04-07**|**FrontierFinance: A Long-Horizon Computer-Use Benchmark of Real-World Financial Tasks**|Michael Krumdick et.al.|[2604.05912](http://arxiv.org/abs/2604.05912)|null|
+|**2026-04-07**|**Exponential mixing for nonlinear Schrödinger equations perturbed by bounded degenerate noise**|Yuxuan Chen et.al.|[2604.05911](http://arxiv.org/abs/2604.05911)|null|
+|**2026-04-07**|**Well-posedness and Hurst parameter estimation for fluid equations driven by fractional transport noise**|Alexandra Blessing Neamtu et.al.|[2604.05910](http://arxiv.org/abs/2604.05910)|null|
 |**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
 |**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[2604.04188](http://arxiv.org/abs/2604.04188)|null|
 |**2026-04-05**|**Nonlocality Effect in the Alpha decay half-lives of superheavy nuclei with XGBRegressor**|Jinyu Hu et.al.|[2604.04187](http://arxiv.org/abs/2604.04187)|null|
