@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Correlation function and bound state from the $K D_{s0}^*(2317)$ interaction**|Wen-Hao Jia et.al.|[2604.07261](http://arxiv.org/abs/2604.07261)|null|
+|**2026-04-08**|**Programmable Photocatalysis via Symmetry-Defined Periodic Potentials**|Qun Yang et.al.|[2604.07260](http://arxiv.org/abs/2604.07260)|null|
+|**2026-04-08**|**Pilot Allocation for Multi-Hop Over-the-Air Neural Inference under Imperfect CSI**|Tolga Girici et.al.|[2604.07259](http://arxiv.org/abs/2604.07259)|null|
+|**2026-04-08**|**Quantifying and detecting quantum-state texture**|Xiangyu Chen et.al.|[2604.07257](http://arxiv.org/abs/2604.07257)|null|
+|**2026-04-08**|**Critical scaling and supercritical coarsening in Active Model B+**|Abir Bhowmick et.al.|[2604.07247](http://arxiv.org/abs/2604.07247)|null|
+|**2026-04-08**|**Atomic-Scale Detection of Néel Vector Switching in the Single-Layer A-type Antiferromagnet Cr2S3-2D**|Affan Safeer et.al.|[2604.07245](http://arxiv.org/abs/2604.07245)|null|
+|**2026-04-08**|**Chevalley groups, commutative rings, class-preserving endomorphisms, locally inner endomorphisms, Sha-rigidity**|Elena Bunina et.al.|[2604.07243](http://arxiv.org/abs/2604.07243)|null|
+|**2026-04-08**|**Fock State Generation and SWAP using a Rabi-Driven Qubit**|Natan Karaev et.al.|[2604.07235](http://arxiv.org/abs/2604.07235)|null|
+|**2026-04-08**|**The Random Subsequence Model and Uniform Codes for the Deletion Channel**|Ryan Jeong et.al.|[2604.07234](http://arxiv.org/abs/2604.07234)|null|
+|**2026-04-08**|**How Does Machine Learning Manage Complexity?**|Lance Fortnow et.al.|[2604.07233](http://arxiv.org/abs/2604.07233)|null|
 |**2026-04-07**|**The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model**|Hongxu Zhou et.al.|[2604.05923](http://arxiv.org/abs/2604.05923)|null|
 |**2026-04-07**|**Simplicity of random hypergraphs**|Yanna J. Kraakman et.al.|[2604.05921](http://arxiv.org/abs/2604.05921)|null|
 |**2026-04-07**|**${\cal N}=4$ supersymmetric Yang-Mills thermodynamics to order $λ^{5/2}$**|Margaret E. Carrington et.al.|[2604.05919](http://arxiv.org/abs/2604.05919)|null|
@@ -613,6 +623,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Determining the Free-Carrier Fraction in 2D Perovskites using Power Dependent Photoluminescence**|Antonella Cutrupi et.al.|[2604.07262](http://arxiv.org/abs/2604.07262)|null|
+|**2026-04-08**|**Programmable Photocatalysis via Symmetry-Defined Periodic Potentials**|Qun Yang et.al.|[2604.07260](http://arxiv.org/abs/2604.07260)|null|
+|**2026-04-08**|**A comparative analysis of machine learning models in SHAP analysis**|Justin Lin et.al.|[2604.07258](http://arxiv.org/abs/2604.07258)|null|
+|**2026-04-08**|**Non-identifiability of Explanations from Model Behavior in Deep Networks of Image Authenticity Judgments**|Icaro Re Depaolini et.al.|[2604.07254](http://arxiv.org/abs/2604.07254)|null|
+|**2026-04-08**|**Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving**|Yatong Lan et.al.|[2604.07250](http://arxiv.org/abs/2604.07250)|null|
+|**2026-04-08**|**TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization**|Joseph L. Greene et.al.|[2604.07248](http://arxiv.org/abs/2604.07248)|null|
+|**2026-04-08**|**Non-Lipschitz Inertial Contraction-Type Method for Monotone Variational Inclusion problems**|Feeroz Babu et.al.|[2604.07241](http://arxiv.org/abs/2604.07241)|null|
+|**2026-04-08**|**On the Price of Privacy for Language Identification and Generation**|Xiaoyu Li et.al.|[2604.07238](http://arxiv.org/abs/2604.07238)|null|
+|**2026-04-08**|**Reshaping Inclusive Interpersonal Dynamics through Smart Glasses in Mixed-Vision Social Activities**|Jieqiong Ding et.al.|[2604.07232](http://arxiv.org/abs/2604.07232)|null|
+|**2026-04-08**|**PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing**|Ruihang Xu et.al.|[2604.07230](http://arxiv.org/abs/2604.07230)|null|
 |**2026-04-07**|**Quantum advantage in transfer of quantum states**|Andrei Stepanenko et.al.|[2604.05915](http://arxiv.org/abs/2604.05915)|null|
 |**2026-04-07**|**Overview of Bayesian Solvers in EEG Distributed Source Models: Prior Selection, Algorithmic Implementation, and Depth Bias Reduction**|Joonas Lahtinen et.al.|[2604.05913](http://arxiv.org/abs/2604.05913)|null|
 |**2026-04-07**|**Exponential mixing for nonlinear Schrödinger equations perturbed by bounded degenerate noise**|Yuxuan Chen et.al.|[2604.05911](http://arxiv.org/abs/2604.05911)|null|
@@ -1098,6 +1118,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Determining the Free-Carrier Fraction in 2D Perovskites using Power Dependent Photoluminescence**|Antonella Cutrupi et.al.|[2604.07262](http://arxiv.org/abs/2604.07262)|null|
+|**2026-04-08**|**Programmable Photocatalysis via Symmetry-Defined Periodic Potentials**|Qun Yang et.al.|[2604.07260](http://arxiv.org/abs/2604.07260)|null|
+|**2026-04-08**|**Pilot Allocation for Multi-Hop Over-the-Air Neural Inference under Imperfect CSI**|Tolga Girici et.al.|[2604.07259](http://arxiv.org/abs/2604.07259)|null|
+|**2026-04-08**|**A comparative analysis of machine learning models in SHAP analysis**|Justin Lin et.al.|[2604.07258](http://arxiv.org/abs/2604.07258)|null|
+|**2026-04-08**|**Quantifying and detecting quantum-state texture**|Xiangyu Chen et.al.|[2604.07257](http://arxiv.org/abs/2604.07257)|null|
+|**2026-04-08**|**Revisiting the sphaleron and axion production rates in QCD at high temperatures**|Sayak Guin et.al.|[2604.07256](http://arxiv.org/abs/2604.07256)|null|
+|**2026-04-08**|**Non-identifiability of Explanations from Model Behavior in Deep Networks of Image Authenticity Judgments**|Icaro Re Depaolini et.al.|[2604.07254](http://arxiv.org/abs/2604.07254)|null|
+|**2026-04-08**|**Designing Safe and Accountable GenAI as a Learning Companion with Women Banned from Formal Education**|Hamayoon Behmanush et.al.|[2604.07253](http://arxiv.org/abs/2604.07253)|null|
+|**2026-04-08**|**TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization**|Joseph L. Greene et.al.|[2604.07248](http://arxiv.org/abs/2604.07248)|null|
+|**2026-04-08**|**Non-Lipschitz Inertial Contraction-Type Method for Monotone Variational Inclusion problems**|Feeroz Babu et.al.|[2604.07241](http://arxiv.org/abs/2604.07241)|null|
 |**2026-04-07**|**The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model**|Hongxu Zhou et.al.|[2604.05923](http://arxiv.org/abs/2604.05923)|null|
 |**2026-04-07**|**A Counterexample to Problem 19 on Integer-valued Polynomial Rings**|Haotian Ma et.al.|[2604.05922](http://arxiv.org/abs/2604.05922)|null|
 |**2026-04-07**|**Simplicity of random hypergraphs**|Yanna J. Kraakman et.al.|[2604.05921](http://arxiv.org/abs/2604.05921)|null|
@@ -1573,6 +1603,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving**|Yatong Lan et.al.|[2604.07250](http://arxiv.org/abs/2604.07250)|null|
+|**2026-04-08**|**TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization**|Joseph L. Greene et.al.|[2604.07248](http://arxiv.org/abs/2604.07248)|null|
+|**2026-04-08**|**Critical scaling and supercritical coarsening in Active Model B+**|Abir Bhowmick et.al.|[2604.07247](http://arxiv.org/abs/2604.07247)|null|
+|**2026-04-08**|**$k$-server-bench: Automating Potential Discovery for the $k$ -Server Conjecture**|Kirill Brilliantov et.al.|[2604.07240](http://arxiv.org/abs/2604.07240)|null|
+|**2026-04-08**|**Efficient Learned Data Compression via Dual-Stream Feature Decoupling**|Huidong Ma et.al.|[2604.07239](http://arxiv.org/abs/2604.07239)|null|
+|**2026-04-08**|**How Much LLM Does a Self-Revising Agent Actually Need?**|Seongwoo Jeong et.al.|[2604.07236](http://arxiv.org/abs/2604.07236)|null|
+|**2026-04-08**|**Fock State Generation and SWAP using a Rabi-Driven Qubit**|Natan Karaev et.al.|[2604.07235](http://arxiv.org/abs/2604.07235)|null|
+|**2026-04-08**|**A Trajectory-based Approach to the Computation of Controlled Invariants with application to MPC**|Emmanuel Junior Wafo Wembe et.al.|[2604.07225](http://arxiv.org/abs/2604.07225)|null|
+|**2026-04-08**|**TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories**|Yen-Shan Chen et.al.|[2604.07223](http://arxiv.org/abs/2604.07223)|null|
+|**2026-04-08**|**Viscous Bending Mitigates the Spontaneous Meandering of Rivulets in Hele-Shaw Cells**|Grégoire Le Lay et.al.|[2604.07222](http://arxiv.org/abs/2604.07222)|null|
 |**2026-04-07**|**A Counterexample to Problem 19 on Integer-valued Polynomial Rings**|Haotian Ma et.al.|[2604.05922](http://arxiv.org/abs/2604.05922)|null|
 |**2026-04-07**|**Long distance attraction between particles in a soap film**|Youna Louyer et.al.|[2604.05918](http://arxiv.org/abs/2604.05918)|null|
 |**2026-04-07**|**FrontierFinance: A Long-Horizon Computer-Use Benchmark of Real-World Financial Tasks**|Michael Krumdick et.al.|[2604.05912](http://arxiv.org/abs/2604.05912)|null|
@@ -2068,6 +2108,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Correlation function and bound state from the $K D_{s0}^*(2317)$ interaction**|Wen-Hao Jia et.al.|[2604.07261](http://arxiv.org/abs/2604.07261)|null|
+|**2026-04-08**|**Programmable Photocatalysis via Symmetry-Defined Periodic Potentials**|Qun Yang et.al.|[2604.07260](http://arxiv.org/abs/2604.07260)|null|
+|**2026-04-08**|**Pilot Allocation for Multi-Hop Over-the-Air Neural Inference under Imperfect CSI**|Tolga Girici et.al.|[2604.07259](http://arxiv.org/abs/2604.07259)|null|
+|**2026-04-08**|**Quantifying and detecting quantum-state texture**|Xiangyu Chen et.al.|[2604.07257](http://arxiv.org/abs/2604.07257)|null|
+|**2026-04-08**|**Compactness of Solutions to Sub-Elliptic Equations with Potential on the Heisenberg Group**|Qiang Jiechen et.al.|[2604.07251](http://arxiv.org/abs/2604.07251)|null|
+|**2026-04-08**|**Critical scaling and supercritical coarsening in Active Model B+**|Abir Bhowmick et.al.|[2604.07247](http://arxiv.org/abs/2604.07247)|null|
+|**2026-04-08**|**Flexible Electric Vehicle Charging with Karma**|Ezzat Elokda et.al.|[2604.07246](http://arxiv.org/abs/2604.07246)|null|
+|**2026-04-08**|**Atomic-Scale Detection of Néel Vector Switching in the Single-Layer A-type Antiferromagnet Cr2S3-2D**|Affan Safeer et.al.|[2604.07245](http://arxiv.org/abs/2604.07245)|null|
+|**2026-04-08**|**Observational Tests for Distinguishing Classes of Cosmological Models**|Asta Heinesen et.al.|[2604.07244](http://arxiv.org/abs/2604.07244)|null|
+|**2026-04-08**|**Weaves, Wires, and Morphisms: Formalizing and Implementing the Algebra of Deep Learning**|Vincent Abbott et.al.|[2604.07242](http://arxiv.org/abs/2604.07242)|null|
 |**2026-04-07**|**The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model**|Hongxu Zhou et.al.|[2604.05923](http://arxiv.org/abs/2604.05923)|null|
 |**2026-04-07**|**Reference Energies for Non-Relativistic Core Ionization Potentials**|Antoine Marie et.al.|[2604.05920](http://arxiv.org/abs/2604.05920)|null|
 |**2026-04-07**|**${\cal N}=4$ supersymmetric Yang-Mills thermodynamics to order $λ^{5/2}$**|Margaret E. Carrington et.al.|[2604.05919](http://arxiv.org/abs/2604.05919)|null|
@@ -2553,6 +2603,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Determining the Free-Carrier Fraction in 2D Perovskites using Power Dependent Photoluminescence**|Antonella Cutrupi et.al.|[2604.07262](http://arxiv.org/abs/2604.07262)|null|
+|**2026-04-08**|**Correlation function and bound state from the $K D_{s0}^*(2317)$ interaction**|Wen-Hao Jia et.al.|[2604.07261](http://arxiv.org/abs/2604.07261)|null|
+|**2026-04-08**|**Pilot Allocation for Multi-Hop Over-the-Air Neural Inference under Imperfect CSI**|Tolga Girici et.al.|[2604.07259](http://arxiv.org/abs/2604.07259)|null|
+|**2026-04-08**|**A comparative analysis of machine learning models in SHAP analysis**|Justin Lin et.al.|[2604.07258](http://arxiv.org/abs/2604.07258)|null|
+|**2026-04-08**|**Quantifying and detecting quantum-state texture**|Xiangyu Chen et.al.|[2604.07257](http://arxiv.org/abs/2604.07257)|null|
+|**2026-04-08**|**Non-identifiability of Explanations from Model Behavior in Deep Networks of Image Authenticity Judgments**|Icaro Re Depaolini et.al.|[2604.07254](http://arxiv.org/abs/2604.07254)|null|
+|**2026-04-08**|**Designing Safe and Accountable GenAI as a Learning Companion with Women Banned from Formal Education**|Hamayoon Behmanush et.al.|[2604.07253](http://arxiv.org/abs/2604.07253)|null|
+|**2026-04-08**|**Compactness of Solutions to Sub-Elliptic Equations with Potential on the Heisenberg Group**|Qiang Jiechen et.al.|[2604.07251](http://arxiv.org/abs/2604.07251)|null|
+|**2026-04-08**|**Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving**|Yatong Lan et.al.|[2604.07250](http://arxiv.org/abs/2604.07250)|null|
+|**2026-04-08**|**TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization**|Joseph L. Greene et.al.|[2604.07248](http://arxiv.org/abs/2604.07248)|null|
 |**2026-04-07**|**The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model**|Hongxu Zhou et.al.|[2604.05923](http://arxiv.org/abs/2604.05923)|null|
 |**2026-04-07**|**Simplicity of random hypergraphs**|Yanna J. Kraakman et.al.|[2604.05921](http://arxiv.org/abs/2604.05921)|null|
 |**2026-04-07**|**Reference Energies for Non-Relativistic Core Ionization Potentials**|Antoine Marie et.al.|[2604.05920](http://arxiv.org/abs/2604.05920)|null|
