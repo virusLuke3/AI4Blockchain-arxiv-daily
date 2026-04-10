@@ -1,4 +1,4 @@
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification**|Xun Zhu et.al.|[2604.08333](http://arxiv.org/abs/2604.08333)|null|
+|**2026-04-09**|**Group-invariant moments under tomographic projections**|Amnon Balanov et.al.|[2604.08330](http://arxiv.org/abs/2604.08330)|null|
+|**2026-04-09**|**Data-Driven Moving Horizon Estimators for Linear Systems with Sample Complexity Analysis**|Peihu Duan et.al.|[2604.08328](http://arxiv.org/abs/2604.08328)|null|
+|**2026-04-09**|**Kirkwood-Dirac distributions in classical optics**|Alfredo Luis et.al.|[2604.08325](http://arxiv.org/abs/2604.08325)|null|
+|**2026-04-09**|**Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization**|Benjamin Léger et.al.|[2604.08324](http://arxiv.org/abs/2604.08324)|null|
+|**2026-04-09**|**Exact Generalized Langevin Dynamics of Pair Coordinates in Elastic Networks**|Shunsuke Ando et.al.|[2604.08320](http://arxiv.org/abs/2604.08320)|null|
+|**2026-04-09**|**Orbital-Selective $d$-wave Superconductivity in the Two-Band $t$-$J$ Model: Possible Applications to La$_3$Ni$_2$O$_7$**|Zhan Wang et.al.|[2604.08319](http://arxiv.org/abs/2604.08319)|null|
+|**2026-04-09**|**The peculiar velocity correlation function of the Cosmicflows-4 catalog**|Yuyu Wang et.al.|[2604.08314](http://arxiv.org/abs/2604.08314)|null|
+|**2026-04-09**|**On quadratic binomial vectorial functions with maximal bent components**|Xianhong Xie et.al.|[2604.08311](http://arxiv.org/abs/2604.08311)|null|
+|**2026-04-09**|**Bayesian Inference for Estimating Generation Costs in Electricity Markets**|Matthias Pirlet et.al.|[2604.08309](http://arxiv.org/abs/2604.08309)|null|
 |**2026-04-08**|**Correlation function and bound state from the $K D_{s0}^*(2317)$ interaction**|Wen-Hao Jia et.al.|[2604.07261](http://arxiv.org/abs/2604.07261)|null|
 |**2026-04-08**|**Programmable Photocatalysis via Symmetry-Defined Periodic Potentials**|Qun Yang et.al.|[2604.07260](http://arxiv.org/abs/2604.07260)|null|
 |**2026-04-08**|**Pilot Allocation for Multi-Hop Over-the-Air Neural Inference under Imperfect CSI**|Tolga Girici et.al.|[2604.07259](http://arxiv.org/abs/2604.07259)|null|
@@ -639,12 +649,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification**|Xun Zhu et.al.|[2604.08333](http://arxiv.org/abs/2604.08333)|null|
+|**2026-04-09**|**DiV-INR: Extreme Low-Bitrate Diffusion Video Compression with INR Conditioning**|Eren Çetin et.al.|[2604.08329](http://arxiv.org/abs/2604.08329)|null|
+|**2026-04-09**|**Data-Driven Moving Horizon Estimators for Linear Systems with Sample Complexity Analysis**|Peihu Duan et.al.|[2604.08328](http://arxiv.org/abs/2604.08328)|null|
+|**2026-04-09**|**Finite-time Reachability for Constrained, Partially Uncontrolled Nonlinear Systems**|Ram Padmanabhan et.al.|[2604.08327](http://arxiv.org/abs/2604.08327)|null|
+|**2026-04-09**|**ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection**|He Geng et.al.|[2604.08326](http://arxiv.org/abs/2604.08326)|null|
+|**2026-04-09**|**Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization**|Benjamin Léger et.al.|[2604.08324](http://arxiv.org/abs/2604.08324)|null|
+|**2026-04-09**|**Fundus-R1: Training a Fundus-Reading MLLM with Knowledge-Aware Reasoning on Public Data**|Yuchuan Deng et.al.|[2604.08322](http://arxiv.org/abs/2604.08322)|null|
+|**2026-04-09**|**Weakly-Supervised Lung Nodule Segmentation via Training-Free Guidance of 3D Rectified Flow**|Richard Petersen et.al.|[2604.08313](http://arxiv.org/abs/2604.08313)|null|
+|**2026-04-09**|**Neuromodulation supports robust rhythmic pattern transitions in degenerate central pattern generators with fixed connectivity**|Arthur Fyon et.al.|[2604.08312](http://arxiv.org/abs/2604.08312)|null|
+|**2026-04-09**|**Bayesian Inference for Estimating Generation Costs in Electricity Markets**|Matthias Pirlet et.al.|[2604.08309](http://arxiv.org/abs/2604.08309)|null|
 |**2026-04-08**|**Determining the Free-Carrier Fraction in 2D Perovskites using Power Dependent Photoluminescence**|Antonella Cutrupi et.al.|[2604.07262](http://arxiv.org/abs/2604.07262)|null|
 |**2026-04-08**|**Programmable Photocatalysis via Symmetry-Defined Periodic Potentials**|Qun Yang et.al.|[2604.07260](http://arxiv.org/abs/2604.07260)|null|
 |**2026-04-08**|**A comparative analysis of machine learning models in SHAP analysis**|Justin Lin et.al.|[2604.07258](http://arxiv.org/abs/2604.07258)|null|
@@ -1136,12 +1156,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification**|Xun Zhu et.al.|[2604.08333](http://arxiv.org/abs/2604.08333)|null|
+|**2026-04-09**|**Metacat: a categorical framework for formal systems**|Paul Wilson et.al.|[2604.08331](http://arxiv.org/abs/2604.08331)|null|
+|**2026-04-09**|**Group-invariant moments under tomographic projections**|Amnon Balanov et.al.|[2604.08330](http://arxiv.org/abs/2604.08330)|null|
+|**2026-04-09**|**Data-Driven Moving Horizon Estimators for Linear Systems with Sample Complexity Analysis**|Peihu Duan et.al.|[2604.08328](http://arxiv.org/abs/2604.08328)|null|
+|**2026-04-09**|**ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection**|He Geng et.al.|[2604.08326](http://arxiv.org/abs/2604.08326)|null|
+|**2026-04-09**|**Kirkwood-Dirac distributions in classical optics**|Alfredo Luis et.al.|[2604.08325](http://arxiv.org/abs/2604.08325)|null|
+|**2026-04-09**|**Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization**|Benjamin Léger et.al.|[2604.08324](http://arxiv.org/abs/2604.08324)|null|
+|**2026-04-09**|**Fundus-R1: Training a Fundus-Reading MLLM with Knowledge-Aware Reasoning on Public Data**|Yuchuan Deng et.al.|[2604.08322](http://arxiv.org/abs/2604.08322)|null|
+|**2026-04-09**|**A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments**|Masaki Shiraishi et.al.|[2604.08318](http://arxiv.org/abs/2604.08318)|null|
+|**2026-04-09**|**Active Transport as a Mechanism of Microphase Selection in Biomolecular Condensates**|Le Qiao et.al.|[2604.08316](http://arxiv.org/abs/2604.08316)|null|
 |**2026-04-08**|**Determining the Free-Carrier Fraction in 2D Perovskites using Power Dependent Photoluminescence**|Antonella Cutrupi et.al.|[2604.07262](http://arxiv.org/abs/2604.07262)|null|
 |**2026-04-08**|**Programmable Photocatalysis via Symmetry-Defined Periodic Potentials**|Qun Yang et.al.|[2604.07260](http://arxiv.org/abs/2604.07260)|null|
 |**2026-04-08**|**Pilot Allocation for Multi-Hop Over-the-Air Neural Inference under Imperfect CSI**|Tolga Girici et.al.|[2604.07259](http://arxiv.org/abs/2604.07259)|null|
@@ -1623,12 +1653,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection**|He Geng et.al.|[2604.08326](http://arxiv.org/abs/2604.08326)|null|
+|**2026-04-09**|**A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments**|Masaki Shiraishi et.al.|[2604.08318](http://arxiv.org/abs/2604.08318)|null|
+|**2026-04-09**|**A Dynamical Equilibrium Linking Nanohertz Stochastic Gravitational Wave Background to Cosmic Structure Formation**|Manjia Liang et.al.|[2604.08317](http://arxiv.org/abs/2604.08317)|null|
+|**2026-04-09**|**Active Transport as a Mechanism of Microphase Selection in Biomolecular Condensates**|Le Qiao et.al.|[2604.08316](http://arxiv.org/abs/2604.08316)|null|
+|**2026-04-09**|**Unifying topological, geometric, and complex classifications of black hole thermodynamics**|Shi-Hao Zhang et.al.|[2604.08315](http://arxiv.org/abs/2604.08315)|null|
+|**2026-04-09**|**Bayesian Inference for Estimating Generation Costs in Electricity Markets**|Matthias Pirlet et.al.|[2604.08309](http://arxiv.org/abs/2604.08309)|null|
+|**2026-04-09**|**HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology**|Aasim Bin Saleem et.al.|[2604.08305](http://arxiv.org/abs/2604.08305)|null|
+|**2026-04-09**|**Robust Multi-Objective Optimization for Bicycle Rebalancing in Shared Mobility Systems**|Diego Daniel Pedroza-Perez et.al.|[2604.08296](http://arxiv.org/abs/2604.08296)|null|
+|**2026-04-09**|**Can Vision Language Models Judge Action Quality? An Empirical Evaluation**|Miguel Monte e Freitas et.al.|[2604.08294](http://arxiv.org/abs/2604.08294)|null|
+|**2026-04-09**|**CIAO - Code In Architecture Out - Automated Software Architecture Documentation with Large Language Models**|Marco De Luca et.al.|[2604.08293](http://arxiv.org/abs/2604.08293)|null|
 |**2026-04-08**|**Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving**|Yatong Lan et.al.|[2604.07250](http://arxiv.org/abs/2604.07250)|null|
 |**2026-04-08**|**TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization**|Joseph L. Greene et.al.|[2604.07248](http://arxiv.org/abs/2604.07248)|null|
 |**2026-04-08**|**Critical scaling and supercritical coarsening in Active Model B+**|Abir Bhowmick et.al.|[2604.07247](http://arxiv.org/abs/2604.07247)|null|
@@ -2130,12 +2170,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Discrete symmetries of Feynman integrals**|Claude Duhr et.al.|[2604.08332](http://arxiv.org/abs/2604.08332)|null|
+|**2026-04-09**|**Metacat: a categorical framework for formal systems**|Paul Wilson et.al.|[2604.08331](http://arxiv.org/abs/2604.08331)|null|
+|**2026-04-09**|**Finite-time Reachability for Constrained, Partially Uncontrolled Nonlinear Systems**|Ram Padmanabhan et.al.|[2604.08327](http://arxiv.org/abs/2604.08327)|null|
+|**2026-04-09**|**Kirkwood-Dirac distributions in classical optics**|Alfredo Luis et.al.|[2604.08325](http://arxiv.org/abs/2604.08325)|null|
+|**2026-04-09**|**Preferential orientation of slender elastic floaters in gravity waves**|Wietze Herreman et.al.|[2604.08323](http://arxiv.org/abs/2604.08323)|null|
+|**2026-04-09**|**Fundus-R1: Training a Fundus-Reading MLLM with Knowledge-Aware Reasoning on Public Data**|Yuchuan Deng et.al.|[2604.08322](http://arxiv.org/abs/2604.08322)|null|
+|**2026-04-09**|**Anderson Localization of Ion-Temperature-Gradient Modes and Ion Temperature Clamping in Aperiodic Stellarators**|Amitava Bhattacharjee et.al.|[2604.08321](http://arxiv.org/abs/2604.08321)|null|
+|**2026-04-09**|**A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments**|Masaki Shiraishi et.al.|[2604.08318](http://arxiv.org/abs/2604.08318)|null|
+|**2026-04-09**|**A Dynamical Equilibrium Linking Nanohertz Stochastic Gravitational Wave Background to Cosmic Structure Formation**|Manjia Liang et.al.|[2604.08317](http://arxiv.org/abs/2604.08317)|null|
+|**2026-04-09**|**Unifying topological, geometric, and complex classifications of black hole thermodynamics**|Shi-Hao Zhang et.al.|[2604.08315](http://arxiv.org/abs/2604.08315)|null|
 |**2026-04-08**|**Correlation function and bound state from the $K D_{s0}^*(2317)$ interaction**|Wen-Hao Jia et.al.|[2604.07261](http://arxiv.org/abs/2604.07261)|null|
 |**2026-04-08**|**Programmable Photocatalysis via Symmetry-Defined Periodic Potentials**|Qun Yang et.al.|[2604.07260](http://arxiv.org/abs/2604.07260)|null|
 |**2026-04-08**|**Pilot Allocation for Multi-Hop Over-the-Air Neural Inference under Imperfect CSI**|Tolga Girici et.al.|[2604.07259](http://arxiv.org/abs/2604.07259)|null|
@@ -2627,12 +2677,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification**|Xun Zhu et.al.|[2604.08333](http://arxiv.org/abs/2604.08333)|null|
+|**2026-04-09**|**Metacat: a categorical framework for formal systems**|Paul Wilson et.al.|[2604.08331](http://arxiv.org/abs/2604.08331)|null|
+|**2026-04-09**|**Group-invariant moments under tomographic projections**|Amnon Balanov et.al.|[2604.08330](http://arxiv.org/abs/2604.08330)|null|
+|**2026-04-09**|**DiV-INR: Extreme Low-Bitrate Diffusion Video Compression with INR Conditioning**|Eren Çetin et.al.|[2604.08329](http://arxiv.org/abs/2604.08329)|null|
+|**2026-04-09**|**Data-Driven Moving Horizon Estimators for Linear Systems with Sample Complexity Analysis**|Peihu Duan et.al.|[2604.08328](http://arxiv.org/abs/2604.08328)|null|
+|**2026-04-09**|**Finite-time Reachability for Constrained, Partially Uncontrolled Nonlinear Systems**|Ram Padmanabhan et.al.|[2604.08327](http://arxiv.org/abs/2604.08327)|null|
+|**2026-04-09**|**ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection**|He Geng et.al.|[2604.08326](http://arxiv.org/abs/2604.08326)|null|
+|**2026-04-09**|**Kirkwood-Dirac distributions in classical optics**|Alfredo Luis et.al.|[2604.08325](http://arxiv.org/abs/2604.08325)|null|
+|**2026-04-09**|**Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization**|Benjamin Léger et.al.|[2604.08324](http://arxiv.org/abs/2604.08324)|null|
+|**2026-04-09**|**Preferential orientation of slender elastic floaters in gravity waves**|Wietze Herreman et.al.|[2604.08323](http://arxiv.org/abs/2604.08323)|null|
 |**2026-04-08**|**Determining the Free-Carrier Fraction in 2D Perovskites using Power Dependent Photoluminescence**|Antonella Cutrupi et.al.|[2604.07262](http://arxiv.org/abs/2604.07262)|null|
 |**2026-04-08**|**Correlation function and bound state from the $K D_{s0}^*(2317)$ interaction**|Wen-Hao Jia et.al.|[2604.07261](http://arxiv.org/abs/2604.07261)|null|
 |**2026-04-08**|**Pilot Allocation for Multi-Hop Over-the-Air Neural Inference under Imperfect CSI**|Tolga Girici et.al.|[2604.07259](http://arxiv.org/abs/2604.07259)|null|
@@ -3129,7 +3189,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
