@@ -1,4 +1,4 @@
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-12**|**Real-Time Coordinated Operation of Off-Grid Wind Powered Multi-Electrolyzer Systems Considering Thermal Dynamics and HTO Safety**|Chang Su et.al.|[2604.10565](http://arxiv.org/abs/2604.10565)|null|
+|**2026-04-12**|**Direct Lagrangian tracking simulation of droplet growth in vertically-developing turbulent cloud**|Masaya Iwashima et.al.|[2604.10564](http://arxiv.org/abs/2604.10564)|null|
+|**2026-04-12**|**Heterogeneous Connectivity in Sparse Networks: Fan-in Profiles, Gradient Hierarchy, and Topological Equilibria**|Nikodem Tomczak et.al.|[2604.10560](http://arxiv.org/abs/2604.10560)|null|
+|**2026-04-12**|**On Some Multivariate Extensions to Zenga Curve: Properties and Applications**|Shifna P R et.al.|[2604.10555](http://arxiv.org/abs/2604.10555)|null|
+|**2026-04-12**|**The class C quantum network model with random tunneling and its nonlinear sigma model representation**|D. S. Katkov et.al.|[2604.10552](http://arxiv.org/abs/2604.10552)|null|
+|**2026-04-12**|**Failure Ontology: A Lifelong Learning Framework for Blind Spot Detection and Resilience Design**|Yuan Sun et.al.|[2604.10549](http://arxiv.org/abs/2604.10549)|null|
+|**2026-04-12**|**Agent^2 RL-Bench: Can LLM Agents Engineer Agentic RL Post-Training?**|Wanyi Chen et.al.|[2604.10547](http://arxiv.org/abs/2604.10547)|null|
+|**2026-04-12**|**Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression**|Shiyin Jiang et.al.|[2604.10546](http://arxiv.org/abs/2604.10546)|null|
+|**2026-04-12**|**Finite-temperature quantum Krylov method from real-time overlaps**|Hiroto Yamamoto et.al.|[2604.10543](http://arxiv.org/abs/2604.10543)|null|
+|**2026-04-12**|**VidAudio-Bench: Benchmarking V2A and VT2A Generation across Four Audio Categories**|Qian Zhang et.al.|[2604.10542](http://arxiv.org/abs/2604.10542)|null|
 |**2026-04-10**|**Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization**|Yu Liu et.al.|[2604.09462](http://arxiv.org/abs/2604.09462)|null|
 |**2026-04-10**|**From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models**|Chenchen Zhang et.al.|[2604.09459](http://arxiv.org/abs/2604.09459)|null|
 |**2026-04-10**|**E3-TIR: Enhanced Experience Exploitation for Tool-Integrated Reasoning**|Weiyang Guo et.al.|[2604.09455](http://arxiv.org/abs/2604.09455)|null|
@@ -669,12 +679,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-12**|**Israel-Hamas War on X: A Case Study of Coordinated Campaigns and Information Integrity**|Tuğrulcan Elmas et.al.|[2604.10566](http://arxiv.org/abs/2604.10566)|null|
+|**2026-04-12**|**Real-Time Coordinated Operation of Off-Grid Wind Powered Multi-Electrolyzer Systems Considering Thermal Dynamics and HTO Safety**|Chang Su et.al.|[2604.10565](http://arxiv.org/abs/2604.10565)|null|
+|**2026-04-12**|**Ascending Auctions for Combinatorial Markets with Frictions: A Unified Framework via Discrete Convex Analysis**|Taihei Oki et.al.|[2604.10563](http://arxiv.org/abs/2604.10563)|null|
+|**2026-04-12**|**Aerial IRS Deployment-Aided Secure Computation Offloading Against DISCO Jamming Attacks**|Minghui Min et.al.|[2604.10558](http://arxiv.org/abs/2604.10558)|null|
+|**2026-04-12**|**Lost in Diffusion: Uncovering Hallucination Patterns and Failure Modes in Diffusion Large Language Models**|Zhengnan Guo et.al.|[2604.10556](http://arxiv.org/abs/2604.10556)|null|
+|**2026-04-12**|**Spatio-Temporal Difference Guided Motion Deblurring with the Complementary Vision Sensor**|Yapeng Meng et.al.|[2604.10554](http://arxiv.org/abs/2604.10554)|null|
+|**2026-04-12**|**Topology-Aware PAC-Bayesian Generalization Analysis for Graph Neural Networks**|Xinping Yi et.al.|[2604.10553](http://arxiv.org/abs/2604.10553)|null|
+|**2026-04-12**|**NTIRE 2026 Challenge on Short-form UGC Video Restoration in the Wild with Generative Models: Datasets, Methods and Results**|Xin Li et.al.|[2604.10551](http://arxiv.org/abs/2604.10551)|null|
+|**2026-04-12**|**Failure Ontology: A Lifelong Learning Framework for Blind Spot Detection and Resilience Design**|Yuan Sun et.al.|[2604.10549](http://arxiv.org/abs/2604.10549)|null|
+|**2026-04-12**|**Simple but Stable, Fast and Safe: Achieve End-to-end Control by High-Fidelity Differentiable Simulation**|Fanxing Li et.al.|[2604.10548](http://arxiv.org/abs/2604.10548)|null|
 |**2026-04-10**|**Nonlocal Games Revisited: A Representation-Theoretic Path from Bell Locality to Quantum Pseudo-Telepathy**|Mustafa Mert Özyılmaz et.al.|[2604.09458](http://arxiv.org/abs/2604.09458)|null|
 |**2026-04-10**|**E3-TIR: Enhanced Experience Exploitation for Tool-Integrated Reasoning**|Weiyang Guo et.al.|[2604.09455](http://arxiv.org/abs/2604.09455)|null|
 |**2026-04-10**|**AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2604.09445](http://arxiv.org/abs/2604.09445)|null|
@@ -1196,12 +1216,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-12**|**Ascending Auctions for Combinatorial Markets with Frictions: A Unified Framework via Discrete Convex Analysis**|Taihei Oki et.al.|[2604.10563](http://arxiv.org/abs/2604.10563)|null|
+|**2026-04-12**|**The spontaneous disentanglement hypothesis and causality**|Eyal Buks et.al.|[2604.10562](http://arxiv.org/abs/2604.10562)|null|
+|**2026-04-12**|**LLMs Should Incorporate Explicit Mechanisms for Human Empathy**|Xiaoxing You et.al.|[2604.10557](http://arxiv.org/abs/2604.10557)|null|
+|**2026-04-12**|**Lost in Diffusion: Uncovering Hallucination Patterns and Failure Modes in Diffusion Large Language Models**|Zhengnan Guo et.al.|[2604.10556](http://arxiv.org/abs/2604.10556)|null|
+|**2026-04-12**|**Topology-Aware PAC-Bayesian Generalization Analysis for Graph Neural Networks**|Xinping Yi et.al.|[2604.10553](http://arxiv.org/abs/2604.10553)|null|
+|**2026-04-12**|**The class C quantum network model with random tunneling and its nonlinear sigma model representation**|D. S. Katkov et.al.|[2604.10552](http://arxiv.org/abs/2604.10552)|null|
+|**2026-04-12**|**NTIRE 2026 Challenge on Short-form UGC Video Restoration in the Wild with Generative Models: Datasets, Methods and Results**|Xin Li et.al.|[2604.10551](http://arxiv.org/abs/2604.10551)|null|
+|**2026-04-12**|**Agent^2 RL-Bench: Can LLM Agents Engineer Agentic RL Post-Training?**|Wanyi Chen et.al.|[2604.10547](http://arxiv.org/abs/2604.10547)|null|
+|**2026-04-12**|**Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression**|Shiyin Jiang et.al.|[2604.10546](http://arxiv.org/abs/2604.10546)|null|
+|**2026-04-12**|**WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting**|Shunyu Wu et.al.|[2604.10544](http://arxiv.org/abs/2604.10544)|null|
 |**2026-04-10**|**Free Field Realizations of Superelliptic Affine Lie Algebras**|Felipe Albino dos Santos et.al.|[2604.09461](http://arxiv.org/abs/2604.09461)|null|
 |**2026-04-10**|**From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models**|Chenchen Zhang et.al.|[2604.09459](http://arxiv.org/abs/2604.09459)|null|
 |**2026-04-10**|**Nonlocal Games Revisited: A Representation-Theoretic Path from Bell Locality to Quantum Pseudo-Telepathy**|Mustafa Mert Özyılmaz et.al.|[2604.09458](http://arxiv.org/abs/2604.09458)|null|
@@ -1713,12 +1743,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-12**|**Ascending Auctions for Combinatorial Markets with Frictions: A Unified Framework via Discrete Convex Analysis**|Taihei Oki et.al.|[2604.10563](http://arxiv.org/abs/2604.10563)|null|
+|**2026-04-12**|**Location of the liquid-vapor critical point in aluminum**|Xuyang Long et.al.|[2604.10561](http://arxiv.org/abs/2604.10561)|null|
+|**2026-04-12**|**Topology-Aware PAC-Bayesian Generalization Analysis for Graph Neural Networks**|Xinping Yi et.al.|[2604.10553](http://arxiv.org/abs/2604.10553)|null|
+|**2026-04-12**|**Agent^2 RL-Bench: Can LLM Agents Engineer Agentic RL Post-Training?**|Wanyi Chen et.al.|[2604.10547](http://arxiv.org/abs/2604.10547)|null|
+|**2026-04-12**|**WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting**|Shunyu Wu et.al.|[2604.10544](http://arxiv.org/abs/2604.10544)|null|
+|**2026-04-12**|**VidAudio-Bench: Benchmarking V2A and VT2A Generation across Four Audio Categories**|Qian Zhang et.al.|[2604.10542](http://arxiv.org/abs/2604.10542)|null|
+|**2026-04-12**|**Bidirectional Learning of Facial Action Units and Expressions via Structured Semantic Mapping across Heterogeneous Datasets**|Jia Li et.al.|[2604.10541](http://arxiv.org/abs/2604.10541)|null|
+|**2026-04-12**|**Electro-optically controlled photon group velocity, temporal walk-off and two-photon entanglement via nematic liquid crystal**|Gyaprasad et.al.|[2604.10537](http://arxiv.org/abs/2604.10537)|null|
+|**2026-04-12**|**Machine Learning-Based Detection of MCP Attacks**|Tobias Mattsson et.al.|[2604.10534](http://arxiv.org/abs/2604.10534)|null|
+|**2026-04-12**|**PepBenchmark: A Standardized Benchmark for Peptide Machine Learning**|Jiahui Zhang et.al.|[2604.10531](http://arxiv.org/abs/2604.10531)|null|
 |**2026-04-10**|**Free Field Realizations of Superelliptic Affine Lie Algebras**|Felipe Albino dos Santos et.al.|[2604.09461](http://arxiv.org/abs/2604.09461)|null|
 |**2026-04-10**|**From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models**|Chenchen Zhang et.al.|[2604.09459](http://arxiv.org/abs/2604.09459)|null|
 |**2026-04-10**|**Revisit eddy viscosity in pressure-driven wall turbulence at high Reynolds number**|Ben-Rui Xu et.al.|[2604.09454](http://arxiv.org/abs/2604.09454)|null|
@@ -2250,12 +2290,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-12**|**Real-Time Coordinated Operation of Off-Grid Wind Powered Multi-Electrolyzer Systems Considering Thermal Dynamics and HTO Safety**|Chang Su et.al.|[2604.10565](http://arxiv.org/abs/2604.10565)|null|
+|**2026-04-12**|**Direct Lagrangian tracking simulation of droplet growth in vertically-developing turbulent cloud**|Masaya Iwashima et.al.|[2604.10564](http://arxiv.org/abs/2604.10564)|null|
+|**2026-04-12**|**Ascending Auctions for Combinatorial Markets with Frictions: A Unified Framework via Discrete Convex Analysis**|Taihei Oki et.al.|[2604.10563](http://arxiv.org/abs/2604.10563)|null|
+|**2026-04-12**|**Location of the liquid-vapor critical point in aluminum**|Xuyang Long et.al.|[2604.10561](http://arxiv.org/abs/2604.10561)|null|
+|**2026-04-12**|**Heterogeneous Connectivity in Sparse Networks: Fan-in Profiles, Gradient Hierarchy, and Topological Equilibria**|Nikodem Tomczak et.al.|[2604.10560](http://arxiv.org/abs/2604.10560)|null|
+|**2026-04-12**|**Aerial IRS Deployment-Aided Secure Computation Offloading Against DISCO Jamming Attacks**|Minghui Min et.al.|[2604.10558](http://arxiv.org/abs/2604.10558)|null|
+|**2026-04-12**|**LLMs Should Incorporate Explicit Mechanisms for Human Empathy**|Xiaoxing You et.al.|[2604.10557](http://arxiv.org/abs/2604.10557)|null|
+|**2026-04-12**|**Lost in Diffusion: Uncovering Hallucination Patterns and Failure Modes in Diffusion Large Language Models**|Zhengnan Guo et.al.|[2604.10556](http://arxiv.org/abs/2604.10556)|null|
+|**2026-04-12**|**On Some Multivariate Extensions to Zenga Curve: Properties and Applications**|Shifna P R et.al.|[2604.10555](http://arxiv.org/abs/2604.10555)|null|
+|**2026-04-12**|**Geometric structure of ideal data-driven dynamical model using RfR method**|Natsuki Tsutsumi et.al.|[2604.10550](http://arxiv.org/abs/2604.10550)|null|
 |**2026-04-10**|**From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models**|Chenchen Zhang et.al.|[2604.09459](http://arxiv.org/abs/2604.09459)|null|
 |**2026-04-10**|**Nonlocal Games Revisited: A Representation-Theoretic Path from Bell Locality to Quantum Pseudo-Telepathy**|Mustafa Mert Özyılmaz et.al.|[2604.09458](http://arxiv.org/abs/2604.09458)|null|
 |**2026-04-10**|**Relativistic single-electron wavepacket in quantum electromagnetic fields II: Quantum radiation emitted by a uniformly accelerated electron**|Shih-Yuin Lin et.al.|[2604.09456](http://arxiv.org/abs/2604.09456)|null|
@@ -2777,12 +2827,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-12**|**Israel-Hamas War on X: A Case Study of Coordinated Campaigns and Information Integrity**|Tuğrulcan Elmas et.al.|[2604.10566](http://arxiv.org/abs/2604.10566)|null|
+|**2026-04-12**|**Real-Time Coordinated Operation of Off-Grid Wind Powered Multi-Electrolyzer Systems Considering Thermal Dynamics and HTO Safety**|Chang Su et.al.|[2604.10565](http://arxiv.org/abs/2604.10565)|null|
+|**2026-04-12**|**Ascending Auctions for Combinatorial Markets with Frictions: A Unified Framework via Discrete Convex Analysis**|Taihei Oki et.al.|[2604.10563](http://arxiv.org/abs/2604.10563)|null|
+|**2026-04-12**|**Location of the liquid-vapor critical point in aluminum**|Xuyang Long et.al.|[2604.10561](http://arxiv.org/abs/2604.10561)|null|
+|**2026-04-12**|**Heterogeneous Connectivity in Sparse Networks: Fan-in Profiles, Gradient Hierarchy, and Topological Equilibria**|Nikodem Tomczak et.al.|[2604.10560](http://arxiv.org/abs/2604.10560)|null|
+|**2026-04-12**|**Periods of N-body Systems Determined Through Dimensional Analysis**|Dan Jonsson et.al.|[2604.10559](http://arxiv.org/abs/2604.10559)|null|
+|**2026-04-12**|**Aerial IRS Deployment-Aided Secure Computation Offloading Against DISCO Jamming Attacks**|Minghui Min et.al.|[2604.10558](http://arxiv.org/abs/2604.10558)|null|
+|**2026-04-12**|**LLMs Should Incorporate Explicit Mechanisms for Human Empathy**|Xiaoxing You et.al.|[2604.10557](http://arxiv.org/abs/2604.10557)|null|
+|**2026-04-12**|**Lost in Diffusion: Uncovering Hallucination Patterns and Failure Modes in Diffusion Large Language Models**|Zhengnan Guo et.al.|[2604.10556](http://arxiv.org/abs/2604.10556)|null|
+|**2026-04-12**|**On Some Multivariate Extensions to Zenga Curve: Properties and Applications**|Shifna P R et.al.|[2604.10555](http://arxiv.org/abs/2604.10555)|null|
 |**2026-04-10**|**Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization**|Yu Liu et.al.|[2604.09462](http://arxiv.org/abs/2604.09462)|null|
 |**2026-04-10**|**From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models**|Chenchen Zhang et.al.|[2604.09459](http://arxiv.org/abs/2604.09459)|null|
 |**2026-04-10**|**Nonlocal Games Revisited: A Representation-Theoretic Path from Bell Locality to Quantum Pseudo-Telepathy**|Mustafa Mert Özyılmaz et.al.|[2604.09458](http://arxiv.org/abs/2604.09458)|null|
@@ -3309,7 +3369,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
