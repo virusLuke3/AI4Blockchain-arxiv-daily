@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -1198,6 +1198,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Stably Determining a generalised Impedance Obstacle from a Single Far-Field Pattern**|Huaian Diao et.al.|[2604.12835](http://arxiv.org/abs/2604.12835)|null|
+|**2026-04-14**|**RePAIR: Interactive Machine Unlearning through Prompt-Aware Model Repair**|Jagadeesh Rachapudi et.al.|[2604.12820](http://arxiv.org/abs/2604.12820)|null|
+|**2026-04-14**|**Understanding and Improving Continuous Adversarial Training for LLMs via In-context Learning Theory**|Shaopeng Fu et.al.|[2604.12817](http://arxiv.org/abs/2604.12817)|null|
+|**2026-04-14**|**The role of System 1 and System 2 semantic memory structure in human and LLM biases**|Katherine Abramski et.al.|[2604.12816](http://arxiv.org/abs/2604.12816)|null|
+|**2026-04-14**|**Interpretable Relational Inference with LLM-Guided Symbolic Dynamics Modeling**|Xiaoxiao Liang et.al.|[2604.12806](http://arxiv.org/abs/2604.12806)|null|
+|**2026-04-14**|**Efficiency of Proportional Mechanisms in Online Auto-Bidding Advertising**|Nguyen Kim Thang et.al.|[2604.12799](http://arxiv.org/abs/2604.12799)|null|
+|**2026-04-14**|**A free boundary problem for the mean-field limit of diffusing particles with nonlinear boundary reactivity**|Eliana Fausti et.al.|[2604.12797](http://arxiv.org/abs/2604.12797)|null|
+|**2026-04-14**|**Dark matter heating of Planet 9, and its observational implications**|Tiberiu Harko et.al.|[2604.12787](http://arxiv.org/abs/2604.12787)|null|
+|**2026-04-14**|**Piezomagnetic Switching of Nonvolatile Antiferromagnetic States**|Xilai Bao et.al.|[2604.12786](http://arxiv.org/abs/2604.12786)|null|
+|**2026-04-14**|**Quantum chaos and the holographic principle**|Alexander Altland et.al.|[2604.12784](http://arxiv.org/abs/2604.12784)|null|
 |**2026-04-12**|**Ascending Auctions for Combinatorial Markets with Frictions: A Unified Framework via Discrete Convex Analysis**|Taihei Oki et.al.|[2604.10563](http://arxiv.org/abs/2604.10563)|null|
 |**2026-04-12**|**The spontaneous disentanglement hypothesis and causality**|Eyal Buks et.al.|[2604.10562](http://arxiv.org/abs/2604.10562)|null|
 |**2026-04-12**|**LLMs Should Incorporate Explicit Mechanisms for Human Empathy**|Xiaoxing You et.al.|[2604.10557](http://arxiv.org/abs/2604.10557)|null|
