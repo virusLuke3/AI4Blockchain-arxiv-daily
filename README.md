@@ -1,4 +1,4 @@
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
+|**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
+|**2026-04-15**|**KindHML: formal verification of smart contracts based on Hennessy-Milner logic**|Massimo Bartoletti et.al.|[2604.14038](http://arxiv.org/abs/2604.14038)|null|
+|**2026-04-15**|**Distribution modulo one of linear recurrent sequences**|Zhangchi Chen et.al.|[2604.14036](http://arxiv.org/abs/2604.14036)|null|
+|**2026-04-15**|**First-See-Then-Design: A Multi-Stakeholder View for Optimal Performance-Fairness Trade-Offs**|Kavya Gupta et.al.|[2604.14035](http://arxiv.org/abs/2604.14035)|null|
+|**2026-04-15**|**Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends**|João Bettencourt et.al.|[2604.14034](http://arxiv.org/abs/2604.14034)|null|
+|**2026-04-15**|**Hierarchical Reinforcement Learning with Runtime Safety Shielding for Power Grid Operation**|Gitesh Malik et.al.|[2604.14032](http://arxiv.org/abs/2604.14032)|null|
+|**2026-04-15**|**Dual-Enhancement Product Bundling: Bridging Interactive Graph and Large Language Model**|Zhe Huang et.al.|[2604.14030](http://arxiv.org/abs/2604.14030)|null|
+|**2026-04-15**|**Deformations of fibered Calabi--Yau varieties**|Benjamin Bakker et.al.|[2604.14024](http://arxiv.org/abs/2604.14024)|null|
+|**2026-04-15**|**Crystal structure effects on vortex dynamics in superconducting MgB $_2$ thin films**|Clemens Schmid et.al.|[2604.14022](http://arxiv.org/abs/2604.14022)|null|
 |**2026-04-12**|**Real-Time Coordinated Operation of Off-Grid Wind Powered Multi-Electrolyzer Systems Considering Thermal Dynamics and HTO Safety**|Chang Su et.al.|[2604.10565](http://arxiv.org/abs/2604.10565)|null|
 |**2026-04-12**|**Direct Lagrangian tracking simulation of droplet growth in vertically-developing turbulent cloud**|Masaya Iwashima et.al.|[2604.10564](http://arxiv.org/abs/2604.10564)|null|
 |**2026-04-12**|**Heterogeneous Connectivity in Sparse Networks: Fan-in Profiles, Gradient Hierarchy, and Topological Equilibria**|Nikodem Tomczak et.al.|[2604.10560](http://arxiv.org/abs/2604.10560)|null|
@@ -679,12 +689,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
+|**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
+|**2026-04-15**|**Hole and spin dynamics in an anti-ferromagnet close to half filling**|Magnus Callsen et.al.|[2604.14039](http://arxiv.org/abs/2604.14039)|null|
+|**2026-04-15**|**KindHML: formal verification of smart contracts based on Hennessy-Milner logic**|Massimo Bartoletti et.al.|[2604.14038](http://arxiv.org/abs/2604.14038)|null|
+|**2026-04-15**|**A Complete Symmetry Classification of Shallow ReLU Networks**|Pranavkrishnan Ramakrishnan et.al.|[2604.14037](http://arxiv.org/abs/2604.14037)|null|
+|**2026-04-15**|**First-See-Then-Design: A Multi-Stakeholder View for Optimal Performance-Fairness Trade-Offs**|Kavya Gupta et.al.|[2604.14035](http://arxiv.org/abs/2604.14035)|null|
+|**2026-04-15**|**POINTS-Seeker: Towards Training a Multimodal Agentic Search Model from Scratch**|Yikun Liu et.al.|[2604.14029](http://arxiv.org/abs/2604.14029)|null|
+|**2026-04-15**|**An ASIC Emulated Oscillator Ising/Potts Machine Solving Combinatorial Optimization Problems**|Yilmaz Ege Gonul et.al.|[2604.14027](http://arxiv.org/abs/2604.14027)|null|
+|**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Weijie Wang et.al.|[2604.14025](http://arxiv.org/abs/2604.14025)|null|
+|**2026-04-15**|**Stochastic Trust-Region Methods for Over-parameterized Models**|Aike Yang et.al.|[2604.14017](http://arxiv.org/abs/2604.14017)|null|
 |**2026-04-12**|**Israel-Hamas War on X: A Case Study of Coordinated Campaigns and Information Integrity**|Tuğrulcan Elmas et.al.|[2604.10566](http://arxiv.org/abs/2604.10566)|null|
 |**2026-04-12**|**Real-Time Coordinated Operation of Off-Grid Wind Powered Multi-Electrolyzer Systems Considering Thermal Dynamics and HTO Safety**|Chang Su et.al.|[2604.10565](http://arxiv.org/abs/2604.10565)|null|
 |**2026-04-12**|**Ascending Auctions for Combinatorial Markets with Frictions: A Unified Framework via Discrete Convex Analysis**|Taihei Oki et.al.|[2604.10563](http://arxiv.org/abs/2604.10563)|null|
@@ -1216,12 +1236,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
+|**2026-04-15**|**A lower bound on the Calabi functional for a degeneration of polarized varieties**|Gabriel Frey et.al.|[2604.14040](http://arxiv.org/abs/2604.14040)|null|
+|**2026-04-15**|**First-See-Then-Design: A Multi-Stakeholder View for Optimal Performance-Fairness Trade-Offs**|Kavya Gupta et.al.|[2604.14035](http://arxiv.org/abs/2604.14035)|null|
+|**2026-04-15**|**Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends**|João Bettencourt et.al.|[2604.14034](http://arxiv.org/abs/2604.14034)|null|
+|**2026-04-15**|**On the divergence of the composition of irregular fields with BV functions**|Graziano Crasta et.al.|[2604.14033](http://arxiv.org/abs/2604.14033)|null|
+|**2026-04-15**|**Hierarchical Reinforcement Learning with Runtime Safety Shielding for Power Grid Operation**|Gitesh Malik et.al.|[2604.14032](http://arxiv.org/abs/2604.14032)|null|
+|**2026-04-15**|**Dual-Enhancement Product Bundling: Bridging Interactive Graph and Large Language Model**|Zhe Huang et.al.|[2604.14030](http://arxiv.org/abs/2604.14030)|null|
+|**2026-04-15**|**An ASIC Emulated Oscillator Ising/Potts Machine Solving Combinatorial Optimization Problems**|Yilmaz Ege Gonul et.al.|[2604.14027](http://arxiv.org/abs/2604.14027)|null|
+|**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Weijie Wang et.al.|[2604.14025](http://arxiv.org/abs/2604.14025)|null|
+|**2026-04-15**|**RFID-based Real-Time Geriatric Gait Speed Monitoring System: Design, Implementation and Clinical Evaluation**|Natong Lin et.al.|[2604.14023](http://arxiv.org/abs/2604.14023)|null|
 |**2026-04-14**|**Stably Determining a generalised Impedance Obstacle from a Single Far-Field Pattern**|Huaian Diao et.al.|[2604.12835](http://arxiv.org/abs/2604.12835)|null|
 |**2026-04-14**|**RePAIR: Interactive Machine Unlearning through Prompt-Aware Model Repair**|Jagadeesh Rachapudi et.al.|[2604.12820](http://arxiv.org/abs/2604.12820)|null|
 |**2026-04-14**|**Understanding and Improving Continuous Adversarial Training for LLMs via In-context Learning Theory**|Shaopeng Fu et.al.|[2604.12817](http://arxiv.org/abs/2604.12817)|null|
@@ -1753,12 +1783,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**KindHML: formal verification of smart contracts based on Hennessy-Milner logic**|Massimo Bartoletti et.al.|[2604.14038](http://arxiv.org/abs/2604.14038)|null|
+|**2026-04-15**|**First-See-Then-Design: A Multi-Stakeholder View for Optimal Performance-Fairness Trade-Offs**|Kavya Gupta et.al.|[2604.14035](http://arxiv.org/abs/2604.14035)|null|
+|**2026-04-15**|**Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends**|João Bettencourt et.al.|[2604.14034](http://arxiv.org/abs/2604.14034)|null|
+|**2026-04-15**|**Hierarchical Reinforcement Learning with Runtime Safety Shielding for Power Grid Operation**|Gitesh Malik et.al.|[2604.14032](http://arxiv.org/abs/2604.14032)|null|
+|**2026-04-15**|**Log-based vs Graph-based Approaches to Fault Diagnosis**|Mathis Nguyen et.al.|[2604.14019](http://arxiv.org/abs/2604.14019)|null|
+|**2026-04-15**|**Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents**|Kangsan Kim et.al.|[2604.14004](http://arxiv.org/abs/2604.14004)|null|
+|**2026-04-15**|**Learned or Memorized ? Quantifying Memorization Advantage in Code LLMs**|Djiré Albérick Euraste et.al.|[2604.13997](http://arxiv.org/abs/2604.13997)|null|
+|**2026-04-15**|**A generative model for bipartite gene-sharing networks**|Jaime Iranzo et.al.|[2604.13963](http://arxiv.org/abs/2604.13963)|null|
+|**2026-04-15**|**Continuous correlated states and dual-flatness in a moiré heterostructure**|Mohammed M. Al Ezzi et.al.|[2604.13958](http://arxiv.org/abs/2604.13958)|null|
+|**2026-04-15**|**Quantum Machine Learning for Colorectal Cancer Data: Anastomotic Leak Classification and Risk Factors**|Vojtěch Novák et.al.|[2604.13951](http://arxiv.org/abs/2604.13951)|null|
 |**2026-04-12**|**Ascending Auctions for Combinatorial Markets with Frictions: A Unified Framework via Discrete Convex Analysis**|Taihei Oki et.al.|[2604.10563](http://arxiv.org/abs/2604.10563)|null|
 |**2026-04-12**|**Location of the liquid-vapor critical point in aluminum**|Xuyang Long et.al.|[2604.10561](http://arxiv.org/abs/2604.10561)|null|
 |**2026-04-12**|**Topology-Aware PAC-Bayesian Generalization Analysis for Graph Neural Networks**|Xinping Yi et.al.|[2604.10553](http://arxiv.org/abs/2604.10553)|null|
@@ -2300,12 +2340,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Non-LTE Analysis of Pre-eruptive Prominence Plasma Parameters Effects on the Lyman-beta and Lyman-gamma Lines with Solar Orbiter SPICE Observations**|Yong Zhang et.al.|[2604.14043](http://arxiv.org/abs/2604.14043)|null|
+|**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
+|**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
+|**2026-04-15**|**A lower bound on the Calabi functional for a degeneration of polarized varieties**|Gabriel Frey et.al.|[2604.14040](http://arxiv.org/abs/2604.14040)|null|
+|**2026-04-15**|**A Complete Symmetry Classification of Shallow ReLU Networks**|Pranavkrishnan Ramakrishnan et.al.|[2604.14037](http://arxiv.org/abs/2604.14037)|null|
+|**2026-04-15**|**Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends**|João Bettencourt et.al.|[2604.14034](http://arxiv.org/abs/2604.14034)|null|
+|**2026-04-15**|**On the divergence of the composition of irregular fields with BV functions**|Graziano Crasta et.al.|[2604.14033](http://arxiv.org/abs/2604.14033)|null|
+|**2026-04-15**|**Hierarchical Reinforcement Learning with Runtime Safety Shielding for Power Grid Operation**|Gitesh Malik et.al.|[2604.14032](http://arxiv.org/abs/2604.14032)|null|
+|**2026-04-15**|**Dual-Enhancement Product Bundling: Bridging Interactive Graph and Large Language Model**|Zhe Huang et.al.|[2604.14030](http://arxiv.org/abs/2604.14030)|null|
+|**2026-04-15**|**POINTS-Seeker: Towards Training a Multimodal Agentic Search Model from Scratch**|Yikun Liu et.al.|[2604.14029](http://arxiv.org/abs/2604.14029)|null|
 |**2026-04-12**|**Real-Time Coordinated Operation of Off-Grid Wind Powered Multi-Electrolyzer Systems Considering Thermal Dynamics and HTO Safety**|Chang Su et.al.|[2604.10565](http://arxiv.org/abs/2604.10565)|null|
 |**2026-04-12**|**Direct Lagrangian tracking simulation of droplet growth in vertically-developing turbulent cloud**|Masaya Iwashima et.al.|[2604.10564](http://arxiv.org/abs/2604.10564)|null|
 |**2026-04-12**|**Ascending Auctions for Combinatorial Markets with Frictions: A Unified Framework via Discrete Convex Analysis**|Taihei Oki et.al.|[2604.10563](http://arxiv.org/abs/2604.10563)|null|
@@ -2837,12 +2887,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Non-LTE Analysis of Pre-eruptive Prominence Plasma Parameters Effects on the Lyman-beta and Lyman-gamma Lines with Solar Orbiter SPICE Observations**|Yong Zhang et.al.|[2604.14043](http://arxiv.org/abs/2604.14043)|null|
+|**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
+|**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
+|**2026-04-15**|**KindHML: formal verification of smart contracts based on Hennessy-Milner logic**|Massimo Bartoletti et.al.|[2604.14038](http://arxiv.org/abs/2604.14038)|null|
+|**2026-04-15**|**A Complete Symmetry Classification of Shallow ReLU Networks**|Pranavkrishnan Ramakrishnan et.al.|[2604.14037](http://arxiv.org/abs/2604.14037)|null|
+|**2026-04-15**|**First-See-Then-Design: A Multi-Stakeholder View for Optimal Performance-Fairness Trade-Offs**|Kavya Gupta et.al.|[2604.14035](http://arxiv.org/abs/2604.14035)|null|
+|**2026-04-15**|**Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends**|João Bettencourt et.al.|[2604.14034](http://arxiv.org/abs/2604.14034)|null|
+|**2026-04-15**|**On the divergence of the composition of irregular fields with BV functions**|Graziano Crasta et.al.|[2604.14033](http://arxiv.org/abs/2604.14033)|null|
+|**2026-04-15**|**Hierarchical Reinforcement Learning with Runtime Safety Shielding for Power Grid Operation**|Gitesh Malik et.al.|[2604.14032](http://arxiv.org/abs/2604.14032)|null|
+|**2026-04-15**|**Dual-Enhancement Product Bundling: Bridging Interactive Graph and Large Language Model**|Zhe Huang et.al.|[2604.14030](http://arxiv.org/abs/2604.14030)|null|
 |**2026-04-12**|**Israel-Hamas War on X: A Case Study of Coordinated Campaigns and Information Integrity**|Tuğrulcan Elmas et.al.|[2604.10566](http://arxiv.org/abs/2604.10566)|null|
 |**2026-04-12**|**Real-Time Coordinated Operation of Off-Grid Wind Powered Multi-Electrolyzer Systems Considering Thermal Dynamics and HTO Safety**|Chang Su et.al.|[2604.10565](http://arxiv.org/abs/2604.10565)|null|
 |**2026-04-12**|**Ascending Auctions for Combinatorial Markets with Frictions: A Unified Framework via Discrete Convex Analysis**|Taihei Oki et.al.|[2604.10563](http://arxiv.org/abs/2604.10563)|null|
@@ -3379,7 +3439,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
