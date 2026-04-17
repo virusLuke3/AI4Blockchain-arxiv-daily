@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Codes with Large Minimum Distance in Product Codes: Explicit Constructions and Bounds**|Amit Berman et.al.|[2604.15080](http://arxiv.org/abs/2604.15080)|null|
 |**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
 |**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
 |**2026-04-15**|**KindHML: formal verification of smart contracts based on Hennessy-Milner logic**|Massimo Bartoletti et.al.|[2604.14038](http://arxiv.org/abs/2604.14038)|null|
@@ -139,6 +140,11 @@ layout: default
 |**2026-04-15**|**Dual-Enhancement Product Bundling: Bridging Interactive Graph and Large Language Model**|Zhe Huang et.al.|[2604.14030](http://arxiv.org/abs/2604.14030)|null|
 |**2026-04-15**|**Deformations of fibered Calabi--Yau varieties**|Benjamin Bakker et.al.|[2604.14024](http://arxiv.org/abs/2604.14024)|null|
 |**2026-04-15**|**Crystal structure effects on vortex dynamics in superconducting MgB $_2$ thin films**|Clemens Schmid et.al.|[2604.14022](http://arxiv.org/abs/2604.14022)|null|
+|**2026-04-15**|**V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution**|Jingwen Zhang et.al.|[2604.13611](http://arxiv.org/abs/2604.13611)|null|
+|**2026-04-14**|**Graph-based Hierarchical Deep Reinforcement Learning for Deliverable Block Propagation with Optimal Hybrid Cost in Web 3.0**|Shi Chen et.al.|[2604.12920](http://arxiv.org/abs/2604.12920)|null|
+|**2026-04-14**|**UniDetect: LLM-Driven Universal Fraud Detection across Heterogeneous Blockchains**|Shuyi Miao et.al.|[2604.12329](http://arxiv.org/abs/2604.12329)|null|
+|**2026-04-13**|**BLAST: Blockchain-based LLM-powered Agentic Spectrum Trading**|Anas Abognah et.al.|[2604.12127](http://arxiv.org/abs/2604.12127)|null|
+|**2026-04-13**|**AmBox: Device-to-Blockchain Ambient Sensing for Food Traceability**|João Miguel Guerreiro Fernandes et.al.|[2604.11681](http://arxiv.org/abs/2604.11681)|null|
 |**2026-04-12**|**Real-Time Coordinated Operation of Off-Grid Wind Powered Multi-Electrolyzer Systems Considering Thermal Dynamics and HTO Safety**|Chang Su et.al.|[2604.10565](http://arxiv.org/abs/2604.10565)|null|
 |**2026-04-12**|**Direct Lagrangian tracking simulation of droplet growth in vertically-developing turbulent cloud**|Masaya Iwashima et.al.|[2604.10564](http://arxiv.org/abs/2604.10564)|null|
 |**2026-04-12**|**Heterogeneous Connectivity in Sparse Networks: Fan-in Profiles, Gradient Hierarchy, and Topological Equilibria**|Nikodem Tomczak et.al.|[2604.10560](http://arxiv.org/abs/2604.10560)|null|
@@ -149,6 +155,8 @@ layout: default
 |**2026-04-12**|**Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression**|Shiyin Jiang et.al.|[2604.10546](http://arxiv.org/abs/2604.10546)|null|
 |**2026-04-12**|**Finite-temperature quantum Krylov method from real-time overlaps**|Hiroto Yamamoto et.al.|[2604.10543](http://arxiv.org/abs/2604.10543)|null|
 |**2026-04-12**|**VidAudio-Bench: Benchmarking V2A and VT2A Generation across Four Audio Categories**|Qian Zhang et.al.|[2604.10542](http://arxiv.org/abs/2604.10542)|null|
+|**2026-04-12**|**AI Identification: An Integrated Framework for Sustainable Governance in Digital Enterprises**|Di Kevin Gao et.al.|[2604.10473](http://arxiv.org/abs/2604.10473)|null|
+|**2026-04-11**|**GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship**|Hongxu Su et.al.|[2604.10160](http://arxiv.org/abs/2604.10160)|null|
 |**2026-04-10**|**Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization**|Yu Liu et.al.|[2604.09462](http://arxiv.org/abs/2604.09462)|null|
 |**2026-04-10**|**From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models**|Chenchen Zhang et.al.|[2604.09459](http://arxiv.org/abs/2604.09459)|null|
 |**2026-04-10**|**E3-TIR: Enhanced Experience Exploitation for Tool-Integrated Reasoning**|Weiyang Guo et.al.|[2604.09455](http://arxiv.org/abs/2604.09455)|null|
@@ -179,6 +187,7 @@ layout: default
 |**2026-04-09**|**The peculiar velocity correlation function of the Cosmicflows-4 catalog**|Yuyu Wang et.al.|[2604.08314](http://arxiv.org/abs/2604.08314)|null|
 |**2026-04-09**|**On quadratic binomial vectorial functions with maximal bent components**|Xianhong Xie et.al.|[2604.08311](http://arxiv.org/abs/2604.08311)|null|
 |**2026-04-09**|**Bayesian Inference for Estimating Generation Costs in Electricity Markets**|Matthias Pirlet et.al.|[2604.08309](http://arxiv.org/abs/2604.08309)|null|
+|**2026-04-09**|**Competitive Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items**|Marcin Bienkowski et.al.|[2604.08205](http://arxiv.org/abs/2604.08205)|null|
 |**2026-04-08**|**Correlation function and bound state from the $K D_{s0}^*(2317)$ interaction**|Wen-Hao Jia et.al.|[2604.07261](http://arxiv.org/abs/2604.07261)|null|
 |**2026-04-08**|**Programmable Photocatalysis via Symmetry-Defined Periodic Potentials**|Qun Yang et.al.|[2604.07260](http://arxiv.org/abs/2604.07260)|null|
 |**2026-04-08**|**Pilot Allocation for Multi-Hop Over-the-Air Neural Inference under Imperfect CSI**|Tolga Girici et.al.|[2604.07259](http://arxiv.org/abs/2604.07259)|null|
