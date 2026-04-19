@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.18
+## Updated on 2026.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Gravitational-wave lensing beyond rays: a disordered-system approach**|Ripalta Amoruso et.al.|[2604.15313](http://arxiv.org/abs/2604.15313)|null|
+|**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Hao Gao et.al.|[2604.15308](http://arxiv.org/abs/2604.15308)|null|
+|**2026-04-16**|**Erdős's diameter conjecture for separated distances fails in high dimensions**|Boon Suan Ho et.al.|[2604.15305](http://arxiv.org/abs/2604.15305)|null|
+|**2026-04-16**|**A Validated Low-to-Intermediate Mass Planetary Interior Structure Model and New Mass-Radius Relations**|Bennett Neil Skinner et.al.|[2604.15304](http://arxiv.org/abs/2604.15304)|null|
+|**2026-04-16**|**Diameter bounds for arbitrary finite groups and applications**|Sean Eberhard et.al.|[2604.15303](http://arxiv.org/abs/2604.15303)|null|
+|**2026-04-16**|**Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations**|Manan Gupta et.al.|[2604.15302](http://arxiv.org/abs/2604.15302)|null|
+|**2026-04-16**|**Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation**|Yiyang Jiang et.al.|[2604.15301](http://arxiv.org/abs/2604.15301)|null|
+|**2026-04-16**|**Ensembles of random quantum states tunable from volume law to area law**|Héloïse Albot et.al.|[2604.15300](http://arxiv.org/abs/2604.15300)|null|
+|**2026-04-16**|**Super-Constant Weight Dicke States in Constant Depth Without Fanout**|Lucas Gretta et.al.|[2604.15298](http://arxiv.org/abs/2604.15298)|null|
+|**2026-04-16**|**How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study**|Zhen Yang et.al.|[2604.15294](http://arxiv.org/abs/2604.15294)|null|
 |**2026-04-16**|**Codes with Large Minimum Distance in Product Codes: Explicit Constructions and Bounds**|Amit Berman et.al.|[2604.15080](http://arxiv.org/abs/2604.15080)|null|
 |**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
 |**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
@@ -682,6 +692,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo**|Ninghui Xu et.al.|[2604.15312](http://arxiv.org/abs/2604.15312)|null|
+|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|
+|**2026-04-16**|**TokenLight: Precise Lighting Control in Images using Attribute Tokens**|Sumit Chaturvedi et.al.|[2604.15310](http://arxiv.org/abs/2604.15310)|null|
+|**2026-04-16**|**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**|Yan Li et.al.|[2604.15309](http://arxiv.org/abs/2604.15309)|null|
+|**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Hao Gao et.al.|[2604.15308](http://arxiv.org/abs/2604.15308)|null|
+|**2026-04-16**|**Generalization in LLM Problem Solving: The Case of the Shortest Path**|Yao Tong et.al.|[2604.15306](http://arxiv.org/abs/2604.15306)|null|
+|**2026-04-16**|**Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation**|Yiyang Jiang et.al.|[2604.15301](http://arxiv.org/abs/2604.15301)|null|
+|**2026-04-16**|**AnimationBench: Are Video Models Good at Character-Centric Animation?**|Leyi Wu et.al.|[2604.15299](http://arxiv.org/abs/2604.15299)|null|
+|**2026-04-16**|**Benchmarking Optimizers for MLPs in Tabular Deep Learning**|Yury Gorishniy et.al.|[2604.15297](http://arxiv.org/abs/2604.15297)|null|
+|**2026-04-16**|**Unity and Diversity of Intracellular pH Maintenance Mechanisms**|Guillaume Terradot et.al.|[2604.15296](http://arxiv.org/abs/2604.15296)|null|
 |**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
 |**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
 |**2026-04-15**|**Hole and spin dynamics in an anti-ferromagnet close to half filling**|Magnus Callsen et.al.|[2604.14039](http://arxiv.org/abs/2604.14039)|null|
@@ -1227,6 +1247,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|
+|**2026-04-16**|**TokenLight: Precise Lighting Control in Images using Attribute Tokens**|Sumit Chaturvedi et.al.|[2604.15310](http://arxiv.org/abs/2604.15310)|null|
+|**2026-04-16**|**Heuristic Search for Minimum-Distance Upper-Bound Witnesses in Quantum APM-LDPC Codes**|Kenta Kasai et.al.|[2604.15307](http://arxiv.org/abs/2604.15307)|null|
+|**2026-04-16**|**Erdős's diameter conjecture for separated distances fails in high dimensions**|Boon Suan Ho et.al.|[2604.15305](http://arxiv.org/abs/2604.15305)|null|
+|**2026-04-16**|**A Validated Low-to-Intermediate Mass Planetary Interior Structure Model and New Mass-Radius Relations**|Bennett Neil Skinner et.al.|[2604.15304](http://arxiv.org/abs/2604.15304)|null|
+|**2026-04-16**|**Ensembles of random quantum states tunable from volume law to area law**|Héloïse Albot et.al.|[2604.15300](http://arxiv.org/abs/2604.15300)|null|
+|**2026-04-16**|**Super-Constant Weight Dicke States in Constant Depth Without Fanout**|Lucas Gretta et.al.|[2604.15298](http://arxiv.org/abs/2604.15298)|null|
+|**2026-04-16**|**Benchmarking Optimizers for MLPs in Tabular Deep Learning**|Yury Gorishniy et.al.|[2604.15297](http://arxiv.org/abs/2604.15297)|null|
+|**2026-04-16**|**Unity and Diversity of Intracellular pH Maintenance Mechanisms**|Guillaume Terradot et.al.|[2604.15296](http://arxiv.org/abs/2604.15296)|null|
+|**2026-04-16**|**Reed--Muller Codes Achieve the Symmetric Capacity on Finite-State Channels**|Henry D. Pfister et.al.|[2604.15295](http://arxiv.org/abs/2604.15295)|null|
 |**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
 |**2026-04-15**|**A lower bound on the Calabi functional for a degeneration of polarized varieties**|Gabriel Frey et.al.|[2604.14040](http://arxiv.org/abs/2604.14040)|null|
 |**2026-04-15**|**First-See-Then-Design: A Multi-Stakeholder View for Optimal Performance-Fairness Trade-Offs**|Kavya Gupta et.al.|[2604.14035](http://arxiv.org/abs/2604.14035)|null|
@@ -1772,6 +1802,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**TokenLight: Precise Lighting Control in Images using Attribute Tokens**|Sumit Chaturvedi et.al.|[2604.15310](http://arxiv.org/abs/2604.15310)|null|
+|**2026-04-16**|**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**|Yan Li et.al.|[2604.15309](http://arxiv.org/abs/2604.15309)|null|
+|**2026-04-16**|**Heuristic Search for Minimum-Distance Upper-Bound Witnesses in Quantum APM-LDPC Codes**|Kenta Kasai et.al.|[2604.15307](http://arxiv.org/abs/2604.15307)|null|
+|**2026-04-16**|**Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations**|Manan Gupta et.al.|[2604.15302](http://arxiv.org/abs/2604.15302)|null|
+|**2026-04-16**|**Super-Constant Weight Dicke States in Constant Depth Without Fanout**|Lucas Gretta et.al.|[2604.15298](http://arxiv.org/abs/2604.15298)|null|
+|**2026-04-16**|**Benchmarking Optimizers for MLPs in Tabular Deep Learning**|Yury Gorishniy et.al.|[2604.15297](http://arxiv.org/abs/2604.15297)|null|
+|**2026-04-16**|**Cloudy with a chance of metals: Indications of CO $_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy**|L. Nortmann et.al.|[2604.15292](http://arxiv.org/abs/2604.15292)|null|
+|**2026-04-16**|**A Manual Bar-by-Bar Tempo Measurement Protocol for Polyphonic Chamber Music Recordings: Design, Validation, and Application to Beethoven's Piano and Cello Sonatas**|Ignasi Sole et.al.|[2604.15278](http://arxiv.org/abs/2604.15278)|null|
+|**2026-04-16**|**How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations**|Nouhaila Innan et.al.|[2604.15273](http://arxiv.org/abs/2604.15273)|null|
+|**2026-04-16**|**SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation**|Tianhao Fu et.al.|[2604.15271](http://arxiv.org/abs/2604.15271)|null|
 |**2026-04-15**|**KindHML: formal verification of smart contracts based on Hennessy-Milner logic**|Massimo Bartoletti et.al.|[2604.14038](http://arxiv.org/abs/2604.14038)|null|
 |**2026-04-15**|**First-See-Then-Design: A Multi-Stakeholder View for Optimal Performance-Fairness Trade-Offs**|Kavya Gupta et.al.|[2604.14035](http://arxiv.org/abs/2604.14035)|null|
 |**2026-04-15**|**Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends**|João Bettencourt et.al.|[2604.14034](http://arxiv.org/abs/2604.14034)|null|
@@ -2327,6 +2367,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Gravitational-wave lensing beyond rays: a disordered-system approach**|Ripalta Amoruso et.al.|[2604.15313](http://arxiv.org/abs/2604.15313)|null|
+|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|
+|**2026-04-16**|**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**|Yan Li et.al.|[2604.15309](http://arxiv.org/abs/2604.15309)|null|
+|**2026-04-16**|**Erdős's diameter conjecture for separated distances fails in high dimensions**|Boon Suan Ho et.al.|[2604.15305](http://arxiv.org/abs/2604.15305)|null|
+|**2026-04-16**|**A Validated Low-to-Intermediate Mass Planetary Interior Structure Model and New Mass-Radius Relations**|Bennett Neil Skinner et.al.|[2604.15304](http://arxiv.org/abs/2604.15304)|null|
+|**2026-04-16**|**Diameter bounds for arbitrary finite groups and applications**|Sean Eberhard et.al.|[2604.15303](http://arxiv.org/abs/2604.15303)|null|
+|**2026-04-16**|**Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations**|Manan Gupta et.al.|[2604.15302](http://arxiv.org/abs/2604.15302)|null|
+|**2026-04-16**|**Unity and Diversity of Intracellular pH Maintenance Mechanisms**|Guillaume Terradot et.al.|[2604.15296](http://arxiv.org/abs/2604.15296)|null|
+|**2026-04-16**|**Borel--Bernstein and Hirst-type Theorems for Nearest-Integer Complex Continued Fractions over Euclidean Imaginary Quadratic Fields**|Kangrae Park et.al.|[2604.15293](http://arxiv.org/abs/2604.15293)|null|
+|**2026-04-16**|**Cloudy with a chance of metals: Indications of CO $_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy**|L. Nortmann et.al.|[2604.15292](http://arxiv.org/abs/2604.15292)|null|
 |**2026-04-15**|**Non-LTE Analysis of Pre-eruptive Prominence Plasma Parameters Effects on the Lyman-beta and Lyman-gamma Lines with Solar Orbiter SPICE Observations**|Yong Zhang et.al.|[2604.14043](http://arxiv.org/abs/2604.14043)|null|
 |**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
 |**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
@@ -2872,6 +2922,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo**|Ninghui Xu et.al.|[2604.15312](http://arxiv.org/abs/2604.15312)|null|
+|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|
+|**2026-04-16**|**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**|Yan Li et.al.|[2604.15309](http://arxiv.org/abs/2604.15309)|null|
+|**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Hao Gao et.al.|[2604.15308](http://arxiv.org/abs/2604.15308)|null|
+|**2026-04-16**|**Generalization in LLM Problem Solving: The Case of the Shortest Path**|Yao Tong et.al.|[2604.15306](http://arxiv.org/abs/2604.15306)|null|
+|**2026-04-16**|**Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations**|Manan Gupta et.al.|[2604.15302](http://arxiv.org/abs/2604.15302)|null|
+|**2026-04-16**|**AnimationBench: Are Video Models Good at Character-Centric Animation?**|Leyi Wu et.al.|[2604.15299](http://arxiv.org/abs/2604.15299)|null|
+|**2026-04-16**|**Benchmarking Optimizers for MLPs in Tabular Deep Learning**|Yury Gorishniy et.al.|[2604.15297](http://arxiv.org/abs/2604.15297)|null|
+|**2026-04-16**|**Unity and Diversity of Intracellular pH Maintenance Mechanisms**|Guillaume Terradot et.al.|[2604.15296](http://arxiv.org/abs/2604.15296)|null|
+|**2026-04-16**|**How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study**|Zhen Yang et.al.|[2604.15294](http://arxiv.org/abs/2604.15294)|null|
 |**2026-04-15**|**Non-LTE Analysis of Pre-eruptive Prominence Plasma Parameters Effects on the Lyman-beta and Lyman-gamma Lines with Solar Orbiter SPICE Observations**|Yong Zhang et.al.|[2604.14043](http://arxiv.org/abs/2604.14043)|null|
 |**2026-04-15**|**On the Scalability of Quasi-Complementary Sequence Sets: Quadratic and Cubic Laws**|Huaning Liu et.al.|[2604.14042](http://arxiv.org/abs/2604.14042)|null|
 |**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
