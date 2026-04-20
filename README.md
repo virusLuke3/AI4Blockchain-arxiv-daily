@@ -1,4 +1,4 @@
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Degradation mechanisms and efficiency of heavily cratered regions on Ceres**|Reem Vitale et.al.|[2604.16223](http://arxiv.org/abs/2604.16223)|null|
+|**2026-04-17**|**OT on the Map: Quantifying Domain Shifts in Geographic Space**|Haoran Zhang et.al.|[2604.16220](http://arxiv.org/abs/2604.16220)|null|
+|**2026-04-17**|**Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations**|Yanli Wang et.al.|[2604.16217](http://arxiv.org/abs/2604.16217)|null|
+|**2026-04-17**|**Data-Driven Distributed Stability Certification for Power Systems via Input-State Trajectories**|Xiaohui Zhang et.al.|[2604.16212](http://arxiv.org/abs/2604.16212)|null|
+|**2026-04-17**|**Preparation and detection of quasiparticles for quantum simulations of scattering**|Mattia Morgavi et.al.|[2604.16210](http://arxiv.org/abs/2604.16210)|null|
+|**2026-04-17**|**Towards Ultra-High-Rate Quantum Error Correction with Reconfigurable Atom Arrays**|Chen Zhao et.al.|[2604.16209](http://arxiv.org/abs/2604.16209)|null|
+|**2026-04-17**|**From Papers to Progress: Rethinking Knowledge Accumulation in Software Engineering**|Jason Cusati et.al.|[2604.16208](http://arxiv.org/abs/2604.16208)|null|
+|**2026-04-17**|**Extrapolation of max-stable random fields with Fréchet marginals**|Vitalii Makogin et.al.|[2604.16206](http://arxiv.org/abs/2604.16206)|null|
+|**2026-04-17**|**ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis**|Vitor F. Grizzi et.al.|[2604.16205](http://arxiv.org/abs/2604.16205)|null|
+|**2026-04-17**|**A Bayesian Updating Framework for Long-term Multi-Environment Trial Data in Plant Breeding**|Stephan Bark et.al.|[2604.16203](http://arxiv.org/abs/2604.16203)|null|
 |**2026-04-16**|**Gravitational-wave lensing beyond rays: a disordered-system approach**|Ripalta Amoruso et.al.|[2604.15313](http://arxiv.org/abs/2604.15313)|null|
 |**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Hao Gao et.al.|[2604.15308](http://arxiv.org/abs/2604.15308)|null|
 |**2026-04-16**|**Erdős's diameter conjecture for separated distances fails in high dimensions**|Boon Suan Ho et.al.|[2604.15305](http://arxiv.org/abs/2604.15305)|null|
@@ -708,12 +718,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**"Taking Stock at FAccT": Using Participatory Design to Co-Create a Vision for the Fairness, Accountability and Transparency Community**|Shiran Dudy et.al.|[2604.16224](http://arxiv.org/abs/2604.16224)|null|
+|**2026-04-17**|**OT on the Map: Quantifying Domain Shifts in Geographic Space**|Haoran Zhang et.al.|[2604.16220](http://arxiv.org/abs/2604.16220)|null|
+|**2026-04-17**|**GAViD: A Large-Scale Multimodal Dataset for Context-Aware Group Affect Recognition from Videos**|Deepak Kumar et.al.|[2604.16214](http://arxiv.org/abs/2604.16214)|null|
+|**2026-04-17**|**Data-Driven Distributed Stability Certification for Power Systems via Input-State Trajectories**|Xiaohui Zhang et.al.|[2604.16212](http://arxiv.org/abs/2604.16212)|null|
+|**2026-04-17**|**AIFIND: Artifact-Aware Interpreting Fine-Grained Alignment for Incremental Face Forgery Detection**|Hao Wang et.al.|[2604.16207](http://arxiv.org/abs/2604.16207)|null|
+|**2026-04-17**|**Apple Peel Unfolding of Archimedean and Catalan Solids**|Takashi Yoshino et.al.|[2604.16204](http://arxiv.org/abs/2604.16204)|null|
+|**2026-04-17**|**A Bayesian Updating Framework for Long-term Multi-Environment Trial Data in Plant Breeding**|Stephan Bark et.al.|[2604.16203](http://arxiv.org/abs/2604.16203)|null|
+|**2026-04-17**|**DENALI: A Dataset Enabling Non-Line-of-Sight Spatial Reasoning with Low-Cost LiDARs**|Nikhil Behari et.al.|[2604.16201](http://arxiv.org/abs/2604.16201)|null|
+|**2026-04-17**|**Saturation-Aware Space-Variant Blind Image Deblurring**|Muhammad Z. Alam et.al.|[2604.16200](http://arxiv.org/abs/2604.16200)|null|
+|**2026-04-17**|**Optimization of Phase Change Material Integration for Active Cooling Control**|Asmaou S. Ouedraogo et.al.|[2604.16199](http://arxiv.org/abs/2604.16199)|null|
 |**2026-04-16**|**Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo**|Ninghui Xu et.al.|[2604.15312](http://arxiv.org/abs/2604.15312)|null|
 |**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|
 |**2026-04-16**|**TokenLight: Precise Lighting Control in Images using Attribute Tokens**|Sumit Chaturvedi et.al.|[2604.15310](http://arxiv.org/abs/2604.15310)|null|
@@ -1265,12 +1285,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**"Taking Stock at FAccT": Using Participatory Design to Co-Create a Vision for the Fairness, Accountability and Transparency Community**|Shiran Dudy et.al.|[2604.16224](http://arxiv.org/abs/2604.16224)|null|
+|**2026-04-17**|**Degradation mechanisms and efficiency of heavily cratered regions on Ceres**|Reem Vitale et.al.|[2604.16223](http://arxiv.org/abs/2604.16223)|null|
+|**2026-04-17**|**Consensus Clustering for the Identification of Coherent Regions with Varied Generation Mix**|Kiran Kumar Challa et.al.|[2604.16222](http://arxiv.org/abs/2604.16222)|null|
+|**2026-04-17**|**Simultaneous Inference for Covariance and Precision Matrices of Long-Range Dependent Time Series**|Percy S. Zhai et.al.|[2604.16219](http://arxiv.org/abs/2604.16219)|null|
+|**2026-04-17**|**Quantum Tomography and Entanglement in Semi-Leptonic $h\to VV^*$ Decays at Higher Orders**|Dorival Gonçalves et.al.|[2604.16218](http://arxiv.org/abs/2604.16218)|null|
+|**2026-04-17**|**Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations**|Yanli Wang et.al.|[2604.16217](http://arxiv.org/abs/2604.16217)|null|
+|**2026-04-17**|**A digitally controlled silicon quantum processing unit**|Members of the HRL Quantum Team et.al.|[2604.16216](http://arxiv.org/abs/2604.16216)|null|
+|**2026-04-17**|**Preparation and detection of quasiparticles for quantum simulations of scattering**|Mattia Morgavi et.al.|[2604.16210](http://arxiv.org/abs/2604.16210)|null|
+|**2026-04-17**|**Towards Ultra-High-Rate Quantum Error Correction with Reconfigurable Atom Arrays**|Chen Zhao et.al.|[2604.16209](http://arxiv.org/abs/2604.16209)|null|
+|**2026-04-17**|**From Papers to Progress: Rethinking Knowledge Accumulation in Software Engineering**|Jason Cusati et.al.|[2604.16208](http://arxiv.org/abs/2604.16208)|null|
 |**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|
 |**2026-04-16**|**TokenLight: Precise Lighting Control in Images using Attribute Tokens**|Sumit Chaturvedi et.al.|[2604.15310](http://arxiv.org/abs/2604.15310)|null|
 |**2026-04-16**|**Heuristic Search for Minimum-Distance Upper-Bound Witnesses in Quantum APM-LDPC Codes**|Kenta Kasai et.al.|[2604.15307](http://arxiv.org/abs/2604.15307)|null|
@@ -1822,12 +1852,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|null|
+|**2026-04-17**|**AIFIND: Artifact-Aware Interpreting Fine-Grained Alignment for Incremental Face Forgery Detection**|Hao Wang et.al.|[2604.16207](http://arxiv.org/abs/2604.16207)|null|
+|**2026-04-17**|**ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis**|Vitor F. Grizzi et.al.|[2604.16205](http://arxiv.org/abs/2604.16205)|null|
+|**2026-04-17**|**A Bayesian Updating Framework for Long-term Multi-Environment Trial Data in Plant Breeding**|Stephan Bark et.al.|[2604.16203](http://arxiv.org/abs/2604.16203)|null|
+|**2026-04-17**|**Sketching the Readout of Large Language Models for Scalable Data Attribution and Valuation**|Yide Ran et.al.|[2604.16197](http://arxiv.org/abs/2604.16197)|null|
+|**2026-04-17**|**Strain-induced modification of spin-optical dynamics in silicon vacancy centers for integrated quantum technologies**|Maximilian Hollendonner et.al.|[2604.16194](http://arxiv.org/abs/2604.16194)|null|
+|**2026-04-17**|**Correcting socioeconomic bias in mobile phone mobility estimates using multilevel regression and poststratification**|Leo Ferres et.al.|[2604.16193](http://arxiv.org/abs/2604.16193)|null|
+|**2026-04-17**|**Path-Explosive Behaviour in Economic Time Series: A Realization-Centred Exploratory Framework**|José Francisco Perles-Ribes et.al.|[2604.16186](http://arxiv.org/abs/2604.16186)|null|
+|**2026-04-17**|**Solar Cycle Prediction: Challenges, Progress, and Future Perspectives**|Bidya Binay Karak et.al.|[2604.16183](http://arxiv.org/abs/2604.16183)|null|
+|**2026-04-17**|**Synthetic data in cryptocurrencies using generative models**|André Saimon S. Sousa et.al.|[2604.16182](http://arxiv.org/abs/2604.16182)|null|
 |**2026-04-16**|**TokenLight: Precise Lighting Control in Images using Attribute Tokens**|Sumit Chaturvedi et.al.|[2604.15310](http://arxiv.org/abs/2604.15310)|null|
 |**2026-04-16**|**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**|Yan Li et.al.|[2604.15309](http://arxiv.org/abs/2604.15309)|null|
 |**2026-04-16**|**Heuristic Search for Minimum-Distance Upper-Bound Witnesses in Quantum APM-LDPC Codes**|Kenta Kasai et.al.|[2604.15307](http://arxiv.org/abs/2604.15307)|null|
@@ -2389,12 +2429,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Batalin-Vilkovisky quantization with an angular twist**|Djordje Bogdanović et.al.|[2604.16225](http://arxiv.org/abs/2604.16225)|null|
+|**2026-04-17**|**OT on the Map: Quantifying Domain Shifts in Geographic Space**|Haoran Zhang et.al.|[2604.16220](http://arxiv.org/abs/2604.16220)|null|
+|**2026-04-17**|**Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations**|Yanli Wang et.al.|[2604.16217](http://arxiv.org/abs/2604.16217)|null|
+|**2026-04-17**|**A digitally controlled silicon quantum processing unit**|Members of the HRL Quantum Team et.al.|[2604.16216](http://arxiv.org/abs/2604.16216)|null|
+|**2026-04-17**|**GAViD: A Large-Scale Multimodal Dataset for Context-Aware Group Affect Recognition from Videos**|Deepak Kumar et.al.|[2604.16214](http://arxiv.org/abs/2604.16214)|null|
+|**2026-04-17**|**Investigating Conversational Agents to Support Secondary School Students Learning CSP**|Matthew Frazier et.al.|[2604.16213](http://arxiv.org/abs/2604.16213)|null|
+|**2026-04-17**|**Preparation and detection of quasiparticles for quantum simulations of scattering**|Mattia Morgavi et.al.|[2604.16210](http://arxiv.org/abs/2604.16210)|null|
+|**2026-04-17**|**Towards Ultra-High-Rate Quantum Error Correction with Reconfigurable Atom Arrays**|Chen Zhao et.al.|[2604.16209](http://arxiv.org/abs/2604.16209)|null|
+|**2026-04-17**|**From Papers to Progress: Rethinking Knowledge Accumulation in Software Engineering**|Jason Cusati et.al.|[2604.16208](http://arxiv.org/abs/2604.16208)|null|
+|**2026-04-17**|**ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis**|Vitor F. Grizzi et.al.|[2604.16205](http://arxiv.org/abs/2604.16205)|null|
 |**2026-04-16**|**Gravitational-wave lensing beyond rays: a disordered-system approach**|Ripalta Amoruso et.al.|[2604.15313](http://arxiv.org/abs/2604.15313)|null|
 |**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|
 |**2026-04-16**|**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**|Yan Li et.al.|[2604.15309](http://arxiv.org/abs/2604.15309)|null|
@@ -2946,12 +2996,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Batalin-Vilkovisky quantization with an angular twist**|Djordje Bogdanović et.al.|[2604.16225](http://arxiv.org/abs/2604.16225)|null|
+|**2026-04-17**|**"Taking Stock at FAccT": Using Participatory Design to Co-Create a Vision for the Fairness, Accountability and Transparency Community**|Shiran Dudy et.al.|[2604.16224](http://arxiv.org/abs/2604.16224)|null|
+|**2026-04-17**|**Consensus Clustering for the Identification of Coherent Regions with Varied Generation Mix**|Kiran Kumar Challa et.al.|[2604.16222](http://arxiv.org/abs/2604.16222)|null|
+|**2026-04-17**|**Network Meta-analysis and Diffusion**|Gerta Rücker et.al.|[2604.16221](http://arxiv.org/abs/2604.16221)|null|
+|**2026-04-17**|**OT on the Map: Quantifying Domain Shifts in Geographic Space**|Haoran Zhang et.al.|[2604.16220](http://arxiv.org/abs/2604.16220)|null|
+|**2026-04-17**|**Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations**|Yanli Wang et.al.|[2604.16217](http://arxiv.org/abs/2604.16217)|null|
+|**2026-04-17**|**A digitally controlled silicon quantum processing unit**|Members of the HRL Quantum Team et.al.|[2604.16216](http://arxiv.org/abs/2604.16216)|null|
+|**2026-04-17**|**Investigating Conversational Agents to Support Secondary School Students Learning CSP**|Matthew Frazier et.al.|[2604.16213](http://arxiv.org/abs/2604.16213)|null|
+|**2026-04-17**|**Data-Driven Distributed Stability Certification for Power Systems via Input-State Trajectories**|Xiaohui Zhang et.al.|[2604.16212](http://arxiv.org/abs/2604.16212)|null|
+|**2026-04-17**|**Preparation and detection of quasiparticles for quantum simulations of scattering**|Mattia Morgavi et.al.|[2604.16210](http://arxiv.org/abs/2604.16210)|null|
 |**2026-04-16**|**Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo**|Ninghui Xu et.al.|[2604.15312](http://arxiv.org/abs/2604.15312)|null|
 |**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|
 |**2026-04-16**|**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**|Yan Li et.al.|[2604.15309](http://arxiv.org/abs/2604.15309)|null|
@@ -3508,7 +3568,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
