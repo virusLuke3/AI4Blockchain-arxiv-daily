@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**VIBE: Voice-Induced open-ended Bias Evaluation for Large Audio-Language Models via Real-World Speech**|Yi-Cheng Lin et.al.|[2604.17248](http://arxiv.org/abs/2604.17248)|null|
+|**2026-04-19**|**DORA Explorer: Improving the Exploration Ability of LLMs Without Training**|Priya Gurjar et.al.|[2604.17244](http://arxiv.org/abs/2604.17244)|null|
+|**2026-04-19**|**Generalized spectral Turán problems for disjoint cliques**|Yi Xu et.al.|[2604.17242](http://arxiv.org/abs/2604.17242)|null|
+|**2026-04-19**|**Safe and Policy-Compliant Multi-Agent Orchestration for Enterprise AI**|Vinil Pasupuleti et.al.|[2604.17240](http://arxiv.org/abs/2604.17240)|null|
+|**2026-04-19**|**HeadRank: Decoding-Free Passage Reranking via Preference-Aligned Attention Heads**|Juyuan Wang et.al.|[2604.17237](http://arxiv.org/abs/2604.17237)|null|
+|**2026-04-19**|**Learning Mixtures of Nonparametric and Convolutional Measures on Effectively Low-dimensional Affine Spaces**|Sunrit Chakraborty et.al.|[2604.17236](http://arxiv.org/abs/2604.17236)|null|
+|**2026-04-19**|**Yanasse: Finding New Proofs from Deep Vision's Analogies, Part 1**|Alexandre Linhares et.al.|[2604.17229](http://arxiv.org/abs/2604.17229)|null|
+|**2026-04-19**|**Revisiting Auxiliary Losses for Conditional Depth Routing: An Empirical Study**|Qingwei Lin et.al.|[2604.17228](http://arxiv.org/abs/2604.17228)|null|
+|**2026-04-19**|**Cloud-native and Distributed Systems for Efficient and Scalable Large Language Models -- A Research Agenda**|Minxian Xu et.al.|[2604.17227](http://arxiv.org/abs/2604.17227)|null|
+|**2026-04-19**|**Separating Matchings in Cubic Graphs**|Juan Gutiérrez et.al.|[2604.17226](http://arxiv.org/abs/2604.17226)|null|
 |**2026-04-17**|**Degradation mechanisms and efficiency of heavily cratered regions on Ceres**|Reem Vitale et.al.|[2604.16223](http://arxiv.org/abs/2604.16223)|null|
 |**2026-04-17**|**OT on the Map: Quantifying Domain Shifts in Geographic Space**|Haoran Zhang et.al.|[2604.16220](http://arxiv.org/abs/2604.16220)|null|
 |**2026-04-17**|**Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations**|Yanli Wang et.al.|[2604.16217](http://arxiv.org/abs/2604.16217)|null|
@@ -702,6 +712,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**All Public Voices Are Equal, But Are Some More Equal Than Others to LLMs?**|Sola Kim et.al.|[2604.17247](http://arxiv.org/abs/2604.17247)|null|
+|**2026-04-19**|**DORA Explorer: Improving the Exploration Ability of LLMs Without Training**|Priya Gurjar et.al.|[2604.17244](http://arxiv.org/abs/2604.17244)|null|
+|**2026-04-19**|**RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation**|Rui Min et.al.|[2604.17243](http://arxiv.org/abs/2604.17243)|null|
+|**2026-04-19**|**Safe and Policy-Compliant Multi-Agent Orchestration for Enterprise AI**|Vinil Pasupuleti et.al.|[2604.17240](http://arxiv.org/abs/2604.17240)|null|
+|**2026-04-19**|**Breaking Euston: Recovering Private Inputs from Secure Inference by Exploiting Subspace Leakage**|Jiaqi Zhao et.al.|[2604.17238](http://arxiv.org/abs/2604.17238)|null|
+|**2026-04-19**|**HeadRank: Decoding-Free Passage Reranking via Preference-Aligned Attention Heads**|Juyuan Wang et.al.|[2604.17237](http://arxiv.org/abs/2604.17237)|null|
+|**2026-04-19**|**Learning Mixtures of Nonparametric and Convolutional Measures on Effectively Low-dimensional Affine Spaces**|Sunrit Chakraborty et.al.|[2604.17236](http://arxiv.org/abs/2604.17236)|null|
+|**2026-04-19**|**From Language to Action: Enhancing LLM Task Efficiency with Task-Aware MCP Server Recommendation**|Shiyu He et.al.|[2604.17234](http://arxiv.org/abs/2604.17234)|null|
+|**2026-04-19**|**Enhancing Zero-shot Personalized Image Aesthetics Assessment with Profile-aware Multimodal LLM**|Chun Wang et.al.|[2604.17233](http://arxiv.org/abs/2604.17233)|null|
+|**2026-04-19**|**Fringe Projection Based Vision Pipeline for Autonomous Hard Drive Disassembly**|Badrinath Balasubramaniam et.al.|[2604.17231](http://arxiv.org/abs/2604.17231)|null|
 |**2026-04-17**|**"Taking Stock at FAccT": Using Participatory Design to Co-Create a Vision for the Fairness, Accountability and Transparency Community**|Shiran Dudy et.al.|[2604.16224](http://arxiv.org/abs/2604.16224)|null|
 |**2026-04-17**|**OT on the Map: Quantifying Domain Shifts in Geographic Space**|Haoran Zhang et.al.|[2604.16220](http://arxiv.org/abs/2604.16220)|null|
 |**2026-04-17**|**GAViD: A Large-Scale Multimodal Dataset for Context-Aware Group Affect Recognition from Videos**|Deepak Kumar et.al.|[2604.16214](http://arxiv.org/abs/2604.16214)|null|
@@ -1267,6 +1287,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**VIBE: Voice-Induced open-ended Bias Evaluation for Large Audio-Language Models via Real-World Speech**|Yi-Cheng Lin et.al.|[2604.17248](http://arxiv.org/abs/2604.17248)|null|
+|**2026-04-19**|**All Public Voices Are Equal, But Are Some More Equal Than Others to LLMs?**|Sola Kim et.al.|[2604.17247](http://arxiv.org/abs/2604.17247)|null|
+|**2026-04-19**|**MM-Hand: A 21-DOF Multi-modal Modular Dexterous Robotic Hand with Remote Actuation**|Zhuoheng Li et.al.|[2604.17245](http://arxiv.org/abs/2604.17245)|null|
+|**2026-04-19**|**Safe and Policy-Compliant Multi-Agent Orchestration for Enterprise AI**|Vinil Pasupuleti et.al.|[2604.17240](http://arxiv.org/abs/2604.17240)|null|
+|**2026-04-19**|**Bootstrap consistency for general double/debiased machine learning estimators**|Ziming Lin et.al.|[2604.17239](http://arxiv.org/abs/2604.17239)|null|
+|**2026-04-19**|**Breaking Euston: Recovering Private Inputs from Secure Inference by Exploiting Subspace Leakage**|Jiaqi Zhao et.al.|[2604.17238](http://arxiv.org/abs/2604.17238)|null|
+|**2026-04-19**|**Learning Mixtures of Nonparametric and Convolutional Measures on Effectively Low-dimensional Affine Spaces**|Sunrit Chakraborty et.al.|[2604.17236](http://arxiv.org/abs/2604.17236)|null|
+|**2026-04-19**|**Massive-scale unlabeled field and labeled synthetic seismic datasets of global shelf-edge clinothems**|Hui Gao et.al.|[2604.17235](http://arxiv.org/abs/2604.17235)|null|
+|**2026-04-19**|**From Language to Action: Enhancing LLM Task Efficiency with Task-Aware MCP Server Recommendation**|Shiyu He et.al.|[2604.17234](http://arxiv.org/abs/2604.17234)|null|
+|**2026-04-19**|**Alternating and Symmetric Separability of Free Products**|Dongxiao Zhao et.al.|[2604.17232](http://arxiv.org/abs/2604.17232)|null|
 |**2026-04-17**|**"Taking Stock at FAccT": Using Participatory Design to Co-Create a Vision for the Fairness, Accountability and Transparency Community**|Shiran Dudy et.al.|[2604.16224](http://arxiv.org/abs/2604.16224)|null|
 |**2026-04-17**|**Degradation mechanisms and efficiency of heavily cratered regions on Ceres**|Reem Vitale et.al.|[2604.16223](http://arxiv.org/abs/2604.16223)|null|
 |**2026-04-17**|**Consensus Clustering for the Identification of Coherent Regions with Varied Generation Mix**|Kiran Kumar Challa et.al.|[2604.16222](http://arxiv.org/abs/2604.16222)|null|
@@ -1832,6 +1862,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Safe and Policy-Compliant Multi-Agent Orchestration for Enterprise AI**|Vinil Pasupuleti et.al.|[2604.17240](http://arxiv.org/abs/2604.17240)|null|
+|**2026-04-19**|**Breaking Euston: Recovering Private Inputs from Secure Inference by Exploiting Subspace Leakage**|Jiaqi Zhao et.al.|[2604.17238](http://arxiv.org/abs/2604.17238)|null|
+|**2026-04-19**|**Massive-scale unlabeled field and labeled synthetic seismic datasets of global shelf-edge clinothems**|Hui Gao et.al.|[2604.17235](http://arxiv.org/abs/2604.17235)|null|
+|**2026-04-19**|**From Language to Action: Enhancing LLM Task Efficiency with Task-Aware MCP Server Recommendation**|Shiyu He et.al.|[2604.17234](http://arxiv.org/abs/2604.17234)|null|
+|**2026-04-19**|**Fringe Projection Based Vision Pipeline for Autonomous Hard Drive Disassembly**|Badrinath Balasubramaniam et.al.|[2604.17231](http://arxiv.org/abs/2604.17231)|null|
+|**2026-04-19**|**PAC-Bayes Bounds for Gibbs Posteriors via Singular Learning Theory**|Chenyang Wang et.al.|[2604.17219](http://arxiv.org/abs/2604.17219)|null|
+|**2026-04-19**|**DREAM: Dynamic Retinal Enhancement with Adaptive Multi-modal Fusion for Expert Precision Medical Report Generation**|Nagur Shareef Shaik et.al.|[2604.17209](http://arxiv.org/abs/2604.17209)|null|
+|**2026-04-19**|**SciDraw-6K: A Multilingual Scientific Illustration Dataset Generated by Google Gemini**|Davie Chen et.al.|[2604.17206](http://arxiv.org/abs/2604.17206)|null|
+|**2026-04-19**|**Unraveling the significance of Raman modes, Gruneisen parameters and phonon lifetimes in the hexagonal allotropes of Silicon and Germanium compounds**|Lekshmi S M et.al.|[2604.17204](http://arxiv.org/abs/2604.17204)|null|
+|**2026-04-19**|**Forecast Sports Outcomes under Efficient Market Hypothesis: Theoretical and Experimental Analysis of Odds-Only and Generalised Linear Models**|Kaito Goto et.al.|[2604.17194](http://arxiv.org/abs/2604.17194)|null|
 |**2026-04-17**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|null|
 |**2026-04-17**|**AIFIND: Artifact-Aware Interpreting Fine-Grained Alignment for Incremental Face Forgery Detection**|Hao Wang et.al.|[2604.16207](http://arxiv.org/abs/2604.16207)|null|
 |**2026-04-17**|**ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis**|Vitor F. Grizzi et.al.|[2604.16205](http://arxiv.org/abs/2604.16205)|null|
@@ -2407,6 +2447,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**VIBE: Voice-Induced open-ended Bias Evaluation for Large Audio-Language Models via Real-World Speech**|Yi-Cheng Lin et.al.|[2604.17248](http://arxiv.org/abs/2604.17248)|null|
+|**2026-04-19**|**DORA Explorer: Improving the Exploration Ability of LLMs Without Training**|Priya Gurjar et.al.|[2604.17244](http://arxiv.org/abs/2604.17244)|null|
+|**2026-04-19**|**GaLa: Hypergraph-Guided Visual Language Models for Procedural Planning**|Kun Wang et.al.|[2604.17241](http://arxiv.org/abs/2604.17241)|null|
+|**2026-04-19**|**Safe and Policy-Compliant Multi-Agent Orchestration for Enterprise AI**|Vinil Pasupuleti et.al.|[2604.17240](http://arxiv.org/abs/2604.17240)|null|
+|**2026-04-19**|**Bootstrap consistency for general double/debiased machine learning estimators**|Ziming Lin et.al.|[2604.17239](http://arxiv.org/abs/2604.17239)|null|
+|**2026-04-19**|**Enhancing Zero-shot Personalized Image Aesthetics Assessment with Profile-aware Multimodal LLM**|Chun Wang et.al.|[2604.17233](http://arxiv.org/abs/2604.17233)|null|
+|**2026-04-19**|**Yanasse: Finding New Proofs from Deep Vision's Analogies, Part 1**|Alexandre Linhares et.al.|[2604.17229](http://arxiv.org/abs/2604.17229)|null|
+|**2026-04-19**|**Revisiting Auxiliary Losses for Conditional Depth Routing: An Empirical Study**|Qingwei Lin et.al.|[2604.17228](http://arxiv.org/abs/2604.17228)|null|
+|**2026-04-19**|**Cloud-native and Distributed Systems for Efficient and Scalable Large Language Models -- A Research Agenda**|Minxian Xu et.al.|[2604.17227](http://arxiv.org/abs/2604.17227)|null|
+|**2026-04-19**|**A Multi-Agent Approach for Claim Verification from Tabular Data Documents**|Rudra Ranajee Saha et.al.|[2604.17225](http://arxiv.org/abs/2604.17225)|null|
 |**2026-04-17**|**Batalin-Vilkovisky quantization with an angular twist**|Djordje Bogdanović et.al.|[2604.16225](http://arxiv.org/abs/2604.16225)|null|
 |**2026-04-17**|**OT on the Map: Quantifying Domain Shifts in Geographic Space**|Haoran Zhang et.al.|[2604.16220](http://arxiv.org/abs/2604.16220)|null|
 |**2026-04-17**|**Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations**|Yanli Wang et.al.|[2604.16217](http://arxiv.org/abs/2604.16217)|null|
@@ -2972,6 +3022,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**All Public Voices Are Equal, But Are Some More Equal Than Others to LLMs?**|Sola Kim et.al.|[2604.17247](http://arxiv.org/abs/2604.17247)|null|
+|**2026-04-19**|**DORA Explorer: Improving the Exploration Ability of LLMs Without Training**|Priya Gurjar et.al.|[2604.17244](http://arxiv.org/abs/2604.17244)|null|
+|**2026-04-19**|**RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation**|Rui Min et.al.|[2604.17243](http://arxiv.org/abs/2604.17243)|null|
+|**2026-04-19**|**GaLa: Hypergraph-Guided Visual Language Models for Procedural Planning**|Kun Wang et.al.|[2604.17241](http://arxiv.org/abs/2604.17241)|null|
+|**2026-04-19**|**Safe and Policy-Compliant Multi-Agent Orchestration for Enterprise AI**|Vinil Pasupuleti et.al.|[2604.17240](http://arxiv.org/abs/2604.17240)|null|
+|**2026-04-19**|**Bootstrap consistency for general double/debiased machine learning estimators**|Ziming Lin et.al.|[2604.17239](http://arxiv.org/abs/2604.17239)|null|
+|**2026-04-19**|**Breaking Euston: Recovering Private Inputs from Secure Inference by Exploiting Subspace Leakage**|Jiaqi Zhao et.al.|[2604.17238](http://arxiv.org/abs/2604.17238)|null|
+|**2026-04-19**|**HeadRank: Decoding-Free Passage Reranking via Preference-Aligned Attention Heads**|Juyuan Wang et.al.|[2604.17237](http://arxiv.org/abs/2604.17237)|null|
+|**2026-04-19**|**Learning Mixtures of Nonparametric and Convolutional Measures on Effectively Low-dimensional Affine Spaces**|Sunrit Chakraborty et.al.|[2604.17236](http://arxiv.org/abs/2604.17236)|null|
+|**2026-04-19**|**Massive-scale unlabeled field and labeled synthetic seismic datasets of global shelf-edge clinothems**|Hui Gao et.al.|[2604.17235](http://arxiv.org/abs/2604.17235)|null|
 |**2026-04-17**|**Batalin-Vilkovisky quantization with an angular twist**|Djordje Bogdanović et.al.|[2604.16225](http://arxiv.org/abs/2604.16225)|null|
 |**2026-04-17**|**"Taking Stock at FAccT": Using Participatory Design to Co-Create a Vision for the Fairness, Accountability and Transparency Community**|Shiran Dudy et.al.|[2604.16224](http://arxiv.org/abs/2604.16224)|null|
 |**2026-04-17**|**Consensus Clustering for the Identification of Coherent Regions with Varied Generation Mix**|Kiran Kumar Challa et.al.|[2604.16222](http://arxiv.org/abs/2604.16222)|null|
