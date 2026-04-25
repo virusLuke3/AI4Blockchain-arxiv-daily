@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.24
+## Updated on 2026.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -2517,6 +2517,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
+|**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
+|**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
+|**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|
+|**2026-04-23**|**A structure-preserving semi-implicit finite volume scheme on vertex-staggered unstructured meshes**|Elena Bernardelli et.al.|[2604.21906](http://arxiv.org/abs/2604.21906)|null|
+|**2026-04-23**|**A Universal Quantum Information Preserving Photonic Switch for Scalable Quantum Networks**|Jiapeng Zhao et.al.|[2604.21902](http://arxiv.org/abs/2604.21902)|null|
+|**2026-04-23**|**Three-periodic helices on elliptic curves and their associated regular algebras**|Daniel Chan et.al.|[2604.21900](http://arxiv.org/abs/2604.21900)|null|
+|**2026-04-23**|**TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale**|Jun Wang et.al.|[2604.21889](http://arxiv.org/abs/2604.21889)|null|
+|**2026-04-23**|**Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms**|Yuto Nishida et.al.|[2604.21882](http://arxiv.org/abs/2604.21882)|null|
+|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|
 |**2026-04-23**|**High-energy photon hologram of a photon gas**|P. O. Kazinski et.al.|[2604.21835](http://arxiv.org/abs/2604.21835)|null|
 |**2026-04-23**|**Hierarchical organization of critical brain dynamics**|Gustavo G. Cambrainha et.al.|[2604.21832](http://arxiv.org/abs/2604.21832)|null|
 |**2026-04-23**|**Complexity Classes Arising from Circuits over Finite Algebraic Structures**|Piotr Kawałek et.al.|[2604.21831](http://arxiv.org/abs/2604.21831)|null|
@@ -3112,6 +3122,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
+|**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
+|**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
+|**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
+|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
+|**2026-04-23**|**The Sample Complexity of Multicalibration**|Natalie Collina et.al.|[2604.21923](http://arxiv.org/abs/2604.21923)|null|
+|**2026-04-23**|**Characterizing Streaming Decidability of CSPs via Non-Redundancy**|Amatya Sharma et.al.|[2604.21922](http://arxiv.org/abs/2604.21922)|null|
+|**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
+|**2026-04-23**|**First measurement of wind line formation regions in an early O-type star**|D. Pauli et.al.|[2604.21920](http://arxiv.org/abs/2604.21920)|null|
+|**2026-04-23**|**Algorithmic Locality via Provable Convergence in Quantum Tensor Networks**|Siddhant Midha et.al.|[2604.21919](http://arxiv.org/abs/2604.21919)|null|
 |**2026-04-23**|**True Leptonium ( $l^+ l^-$ ) Production in UPC Triphoton Interaction**|Qi-Ming Feng et.al.|[2604.21838](http://arxiv.org/abs/2604.21838)|null|
 |**2026-04-23**|**Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion**|Eghbal A. Hosseini et.al.|[2604.21836](http://arxiv.org/abs/2604.21836)|null|
 |**2026-04-23**|**Hierarchical organization of critical brain dynamics**|Gustavo G. Cambrainha et.al.|[2604.21832](http://arxiv.org/abs/2604.21832)|null|
