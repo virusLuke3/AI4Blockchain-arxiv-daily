@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.25
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
+|**2026-04-23**|**Evaluation of Automatic Speech Recognition Using Generative Large Language Models**|Thibault Bañeras-Roux et.al.|[2604.21928](http://arxiv.org/abs/2604.21928)|null|
+|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
+|**2026-04-23**|**The Sample Complexity of Multicalibration**|Natalie Collina et.al.|[2604.21923](http://arxiv.org/abs/2604.21923)|null|
+|**2026-04-23**|**Wave physics as a choreographic notation for partner dance**|Fernando Ramiro-Manzano et.al.|[2604.21918](http://arxiv.org/abs/2604.21918)|null|
+|**2026-04-23**|**CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis**|Arunabh Majumdar et.al.|[2604.21917](http://arxiv.org/abs/2604.21917)|null|
+|**2026-04-23**|**Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics**|Ludwig Holleis et.al.|[2604.21912](http://arxiv.org/abs/2604.21912)|null|
+|**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|
+|**2026-04-23**|**Directional Confusions Reveal Divergent Inductive Biases Through Rate-Distortion Geometry in Human and Machine Vision**|Leyla Roksan Caglar et.al.|[2604.21909](http://arxiv.org/abs/2604.21909)|null|
+|**2026-04-23**|**Efficient Classical Simulation of Heuristic Peaked Quantum Circuits**|David Kremer et.al.|[2604.21908](http://arxiv.org/abs/2604.21908)|null|
 |**2026-04-22**|**Uniqueness and Mixing in the Low-Temperature Random-Cluster Model on Trees and Random Graphs**|Antonio Blanca et.al.|[2604.20693](http://arxiv.org/abs/2604.20693)|null|
 |**2026-04-22**|**Bayesian approach for uncertainty quantification of hybrid spectral unmixing in $γ$ -ray spectrometry**|Dinh Triem Phan et.al.|[2604.20691](http://arxiv.org/abs/2604.20691)|null|
 |**2026-04-22**|**Kinematic Optimization of Phalanx Length Ratios in Robotic Hands Using Potential Dexterity**|HyoJae Kang et.al.|[2604.20686](http://arxiv.org/abs/2604.20686)|null|
@@ -722,6 +732,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
+|**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
+|**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
+|**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
+|**2026-04-23**|**The Sample Complexity of Multicalibration**|Natalie Collina et.al.|[2604.21923](http://arxiv.org/abs/2604.21923)|null|
+|**2026-04-23**|**Characterizing Streaming Decidability of CSPs via Non-Redundancy**|Amatya Sharma et.al.|[2604.21922](http://arxiv.org/abs/2604.21922)|null|
+|**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
+|**2026-04-23**|**Wave physics as a choreographic notation for partner dance**|Fernando Ramiro-Manzano et.al.|[2604.21918](http://arxiv.org/abs/2604.21918)|null|
+|**2026-04-23**|**CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis**|Arunabh Majumdar et.al.|[2604.21917](http://arxiv.org/abs/2604.21917)|null|
+|**2026-04-23**|**Vista4D: Video Reshooting with 4D Point Clouds**|Kuan Heng Lin et.al.|[2604.21915](http://arxiv.org/abs/2604.21915)|null|
 |**2026-04-23**|**High-energy photon hologram of a photon gas**|P. O. Kazinski et.al.|[2604.21835](http://arxiv.org/abs/2604.21835)|null|
 |**2026-04-23**|**Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study**|Zihan Wang et.al.|[2604.21829](http://arxiv.org/abs/2604.21829)|null|
 |**2026-04-23**|**ProDock: From multi-target consensus docking into database-backed storage**|Tieu-Long Phan et.al.|[2604.21828](http://arxiv.org/abs/2604.21828)|null|
@@ -1317,6 +1337,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
+|**2026-04-23**|**Subsystem-Resolved Spectral Theory for Quantum Many-Body Hamiltonians**|MD Nahidul Hasan Sabit et.al.|[2604.21929](http://arxiv.org/abs/2604.21929)|null|
+|**2026-04-23**|**Evaluation of Automatic Speech Recognition Using Generative Large Language Models**|Thibault Bañeras-Roux et.al.|[2604.21928](http://arxiv.org/abs/2604.21928)|null|
+|**2026-04-23**|**Algorithmic Locality via Provable Convergence in Quantum Tensor Networks**|Siddhant Midha et.al.|[2604.21919](http://arxiv.org/abs/2604.21919)|null|
+|**2026-04-23**|**MathDuels: Evaluating LLMs as Problem Posers and Solvers**|Zhiqiu Xu et.al.|[2604.21916](http://arxiv.org/abs/2604.21916)|null|
+|**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
+|**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
+|**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|
+|**2026-04-23**|**Efficient Classical Simulation of Heuristic Peaked Quantum Circuits**|David Kremer et.al.|[2604.21908](http://arxiv.org/abs/2604.21908)|null|
+|**2026-04-23**|**A structure-preserving semi-implicit finite volume scheme on vertex-staggered unstructured meshes**|Elena Bernardelli et.al.|[2604.21906](http://arxiv.org/abs/2604.21906)|null|
 |**2026-04-23**|**True Leptonium ( $l^+ l^-$ ) Production in UPC Triphoton Interaction**|Qi-Ming Feng et.al.|[2604.21838](http://arxiv.org/abs/2604.21838)|null|
 |**2026-04-23**|**Effects conditional on post-treatment events generated by independent mechanisms**|Marco Piccininni et.al.|[2604.21837](http://arxiv.org/abs/2604.21837)|null|
 |**2026-04-23**|**Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion**|Eghbal A. Hosseini et.al.|[2604.21836](http://arxiv.org/abs/2604.21836)|null|
@@ -1912,6 +1942,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
+|**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
+|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
+|**2026-04-23**|**Dual-use quantum hardware for quantum resource generation and energy storage**|Vaibhav Sharma et.al.|[2604.21913](http://arxiv.org/abs/2604.21913)|null|
+|**2026-04-23**|**Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics**|Ludwig Holleis et.al.|[2604.21912](http://arxiv.org/abs/2604.21912)|null|
+|**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|
+|**2026-04-23**|**A structure-preserving semi-implicit finite volume scheme on vertex-staggered unstructured meshes**|Elena Bernardelli et.al.|[2604.21906](http://arxiv.org/abs/2604.21906)|null|
+|**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
+|**2026-04-23**|**Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors**|Sherly Alfonso-Sánchez et.al.|[2604.21893](http://arxiv.org/abs/2604.21893)|null|
+|**2026-04-23**|**A Multi-Stage Warm-Start Deep Learning Framework for Unit Commitment**|Muhy Eddin Za'ter et.al.|[2604.21891](http://arxiv.org/abs/2604.21891)|null|
 |**2026-04-23**|**True Leptonium ( $l^+ l^-$ ) Production in UPC Triphoton Interaction**|Qi-Ming Feng et.al.|[2604.21838](http://arxiv.org/abs/2604.21838)|null|
 |**2026-04-23**|**Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study**|Zihan Wang et.al.|[2604.21829](http://arxiv.org/abs/2604.21829)|null|
 |**2026-04-23**|**Deterministic generation of grid states with programmable nonlinear bosonic circuits**|Yanis Le Fur et.al.|[2604.21824](http://arxiv.org/abs/2604.21824)|null|
@@ -2517,8 +2557,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
+|**2026-04-23**|**Evaluation of Automatic Speech Recognition Using Generative Large Language Models**|Thibault Bañeras-Roux et.al.|[2604.21928](http://arxiv.org/abs/2604.21928)|null|
 |**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
+|**2026-04-23**|**The Sample Complexity of Multicalibration**|Natalie Collina et.al.|[2604.21923](http://arxiv.org/abs/2604.21923)|null|
 |**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
+|**2026-04-23**|**First measurement of wind line formation regions in an early O-type star**|D. Pauli et.al.|[2604.21920](http://arxiv.org/abs/2604.21920)|null|
+|**2026-04-23**|**Algorithmic Locality via Provable Convergence in Quantum Tensor Networks**|Siddhant Midha et.al.|[2604.21919](http://arxiv.org/abs/2604.21919)|null|
+|**2026-04-23**|**CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis**|Arunabh Majumdar et.al.|[2604.21917](http://arxiv.org/abs/2604.21917)|null|
+|**2026-04-23**|**MathDuels: Evaluating LLMs as Problem Posers and Solvers**|Zhiqiu Xu et.al.|[2604.21916](http://arxiv.org/abs/2604.21916)|null|
+|**2026-04-23**|**Dual-use quantum hardware for quantum resource generation and energy storage**|Vaibhav Sharma et.al.|[2604.21913](http://arxiv.org/abs/2604.21913)|null|
 |**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
 |**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|
 |**2026-04-23**|**A structure-preserving semi-implicit finite volume scheme on vertex-staggered unstructured meshes**|Elena Bernardelli et.al.|[2604.21906](http://arxiv.org/abs/2604.21906)|null|
