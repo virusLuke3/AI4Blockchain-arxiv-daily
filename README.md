@@ -1,4 +1,4 @@
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**From Physics to Statistics: A Simple Route to Exponential Families via Maximum Entropy**|Korbinian Strimmer et.al.|[2604.22752](http://arxiv.org/abs/2604.22752)|null|
+|**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
+|**2026-04-24**|**Multiplex Hypergraph Modeling of Higher Order Structures in Psychometric Networks**|Francesca Possenti et.al.|[2604.22744](http://arxiv.org/abs/2604.22744)|null|
+|**2026-04-24**|**Thermometry for a Kagome Lattice Dipolar Rydberg Simulator**|Erik Fitzner et.al.|[2604.22743](http://arxiv.org/abs/2604.22743)|null|
+|**2026-04-24**|**Boolean PCSPs through the lens of Fourier Analysis**|Demian Banakh et.al.|[2604.22742](http://arxiv.org/abs/2604.22742)|null|
+|**2026-04-24**|**Minimax Optimal Procedures for Joint Detection and Estimation**|Dominik Reinhard et.al.|[2604.22740](http://arxiv.org/abs/2604.22740)|null|
+|**2026-04-24**|**On the redshift evolution of the spin parameter in cosmological simulations**|Tomas Riera et.al.|[2604.22738](http://arxiv.org/abs/2604.22738)|null|
+|**2026-04-24**|**Radiation outer boundary conditions and near-to-far field signal transformations for the Bardeen-Press equation**|Som Dev Bishoyi et.al.|[2604.22734](http://arxiv.org/abs/2604.22734)|null|
+|**2026-04-24**|**Precision Analysis for $\boldsymbol{H_0}$ Using Upcoming Multi-band Gravitational Wave Observations**|Setabuddin et.al.|[2604.22731](http://arxiv.org/abs/2604.22731)|null|
+|**2026-04-24**|**Revisiting confinement scalings and fusion performance with a perspective optimized for extrapolation**|Jalal Butt et.al.|[2604.22728](http://arxiv.org/abs/2604.22728)|null|
 |**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
 |**2026-04-23**|**Evaluation of Automatic Speech Recognition Using Generative Large Language Models**|Thibault Bañeras-Roux et.al.|[2604.21928](http://arxiv.org/abs/2604.21928)|null|
 |**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
@@ -748,12 +758,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
+|**2026-04-24**|**Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels**|Ashley J. Chen et.al.|[2604.22747](http://arxiv.org/abs/2604.22747)|null|
+|**2026-04-24**|**Relaxation-Informed Training of Neural Network Surrogate Models**|Calvin Tsay et.al.|[2604.22746](http://arxiv.org/abs/2604.22746)|null|
+|**2026-04-24**|**Thermometry for a Kagome Lattice Dipolar Rydberg Simulator**|Erik Fitzner et.al.|[2604.22743](http://arxiv.org/abs/2604.22743)|null|
+|**2026-04-24**|**Minimax Optimal Procedures for Joint Detection and Estimation**|Dominik Reinhard et.al.|[2604.22740](http://arxiv.org/abs/2604.22740)|null|
+|**2026-04-24**|**Inter-Stance: A Dyadic Multimodal Corpus for Conversational Stance Analysis**|Xiang Zhang et.al.|[2604.22739](http://arxiv.org/abs/2604.22739)|null|
+|**2026-04-24**|**A Vehicle Routing Problem for Human-Centered Electric Mobility**|Mostafa Emam et.al.|[2604.22737](http://arxiv.org/abs/2604.22737)|null|
+|**2026-04-24**|**Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data**|Hillary Mutisya et.al.|[2604.22730](http://arxiv.org/abs/2604.22730)|null|
+|**2026-04-24**|**Simulation of a protoplanetary disk accretion activity due to a collision with a gas stream**|Vitaliy Grigoryev et.al.|[2604.22729](http://arxiv.org/abs/2604.22729)|null|
+|**2026-04-24**|**Revisiting confinement scalings and fusion performance with a perspective optimized for extrapolation**|Jalal Butt et.al.|[2604.22728](http://arxiv.org/abs/2604.22728)|null|
 |**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
 |**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
 |**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
@@ -1355,12 +1375,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities**|Ilana Nguyen et.al.|[2604.22749](http://arxiv.org/abs/2604.22749)|null|
+|**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
+|**2026-04-24**|**Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels**|Ashley J. Chen et.al.|[2604.22747](http://arxiv.org/abs/2604.22747)|null|
+|**2026-04-24**|**Relaxation-Informed Training of Neural Network Surrogate Models**|Calvin Tsay et.al.|[2604.22746](http://arxiv.org/abs/2604.22746)|null|
+|**2026-04-24**|**Multiplex Hypergraph Modeling of Higher Order Structures in Psychometric Networks**|Francesca Possenti et.al.|[2604.22744](http://arxiv.org/abs/2604.22744)|null|
+|**2026-04-24**|**Boolean PCSPs through the lens of Fourier Analysis**|Demian Banakh et.al.|[2604.22742](http://arxiv.org/abs/2604.22742)|null|
+|**2026-04-24**|**Minimax Optimal Procedures for Joint Detection and Estimation**|Dominik Reinhard et.al.|[2604.22740](http://arxiv.org/abs/2604.22740)|null|
+|**2026-04-24**|**On the redshift evolution of the spin parameter in cosmological simulations**|Tomas Riera et.al.|[2604.22738](http://arxiv.org/abs/2604.22738)|null|
+|**2026-04-24**|**A Vehicle Routing Problem for Human-Centered Electric Mobility**|Mostafa Emam et.al.|[2604.22737](http://arxiv.org/abs/2604.22737)|null|
+|**2026-04-24**|**An Undecidability Proof for the Plan Existence Problem**|Antonis Achilleos et.al.|[2604.22736](http://arxiv.org/abs/2604.22736)|null|
 |**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
 |**2026-04-23**|**Subsystem-Resolved Spectral Theory for Quantum Many-Body Hamiltonians**|MD Nahidul Hasan Sabit et.al.|[2604.21929](http://arxiv.org/abs/2604.21929)|null|
 |**2026-04-23**|**Evaluation of Automatic Speech Recognition Using Generative Large Language Models**|Thibault Bañeras-Roux et.al.|[2604.21928](http://arxiv.org/abs/2604.21928)|null|
@@ -1962,12 +1992,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection**|Sijie Li et.al.|[2604.22753](http://arxiv.org/abs/2604.22753)|null|
+|**2026-04-24**|**Carrollian quantum states and flat space holography**|Stefan Fredenhagen et.al.|[2604.22745](http://arxiv.org/abs/2604.22745)|null|
+|**2026-04-24**|**Thermometry for a Kagome Lattice Dipolar Rydberg Simulator**|Erik Fitzner et.al.|[2604.22743](http://arxiv.org/abs/2604.22743)|null|
+|**2026-04-24**|**Boolean PCSPs through the lens of Fourier Analysis**|Demian Banakh et.al.|[2604.22742](http://arxiv.org/abs/2604.22742)|null|
+|**2026-04-24**|**Mechanical Scaling Laws and Deformation Behavior of Nanoporous Tantalum Microparticles**|J. I. Ramallo et.al.|[2604.22726](http://arxiv.org/abs/2604.22726)|null|
+|**2026-04-24**|**Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation**|Rajinder Sandhu et.al.|[2604.22722](http://arxiv.org/abs/2604.22722)|null|
+|**2026-04-24**|**Long-tail Internet photo reconstruction**|Yuan Li et.al.|[2604.22714](http://arxiv.org/abs/2604.22714)|null|
+|**2026-04-24**|**OpenMRF: A Modular, Vendor-Neutral Open-Source Framework for Reproducible Magnetic Resonance Fingerprinting using Pulseq**|Tom Griesler et.al.|[2604.22713](http://arxiv.org/abs/2604.22713)|null|
+|**2026-04-24**|**When AI Meets Terahertz: A Survey on the Symbiosis of Artificial Intelligence and Terahertz Networks**|Chong Han et.al.|[2604.22706](http://arxiv.org/abs/2604.22706)|null|
+|**2026-04-24**|**Approaching the Limit of Quantum Clock Precision**|Chad Nelmes et.al.|[2604.22704](http://arxiv.org/abs/2604.22704)|null|
 |**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
 |**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
 |**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
@@ -2579,12 +2619,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
+|**2026-04-24**|**Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities**|Ilana Nguyen et.al.|[2604.22749](http://arxiv.org/abs/2604.22749)|null|
+|**2026-04-24**|**Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels**|Ashley J. Chen et.al.|[2604.22747](http://arxiv.org/abs/2604.22747)|null|
+|**2026-04-24**|**Relaxation-Informed Training of Neural Network Surrogate Models**|Calvin Tsay et.al.|[2604.22746](http://arxiv.org/abs/2604.22746)|null|
+|**2026-04-24**|**Carrollian quantum states and flat space holography**|Stefan Fredenhagen et.al.|[2604.22745](http://arxiv.org/abs/2604.22745)|null|
+|**2026-04-24**|**Boolean PCSPs through the lens of Fourier Analysis**|Demian Banakh et.al.|[2604.22742](http://arxiv.org/abs/2604.22742)|null|
+|**2026-04-24**|**Describing the swdatatoolkit: A Space Weather Data Analysis Library**|Dustin Kempton et.al.|[2604.22741](http://arxiv.org/abs/2604.22741)|null|
+|**2026-04-24**|**On the redshift evolution of the spin parameter in cosmological simulations**|Tomas Riera et.al.|[2604.22738](http://arxiv.org/abs/2604.22738)|null|
+|**2026-04-24**|**An Undecidability Proof for the Plan Existence Problem**|Antonis Achilleos et.al.|[2604.22736](http://arxiv.org/abs/2604.22736)|null|
+|**2026-04-24**|**Non-linear geometry of multiple zeta values**|Francis Brown et.al.|[2604.22735](http://arxiv.org/abs/2604.22735)|null|
 |**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
 |**2026-04-23**|**Evaluation of Automatic Speech Recognition Using Generative Large Language Models**|Thibault Bañeras-Roux et.al.|[2604.21928](http://arxiv.org/abs/2604.21928)|null|
 |**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
@@ -3194,12 +3244,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection**|Sijie Li et.al.|[2604.22753](http://arxiv.org/abs/2604.22753)|null|
+|**2026-04-24**|**From Physics to Statistics: A Simple Route to Exponential Families via Maximum Entropy**|Korbinian Strimmer et.al.|[2604.22752](http://arxiv.org/abs/2604.22752)|null|
+|**2026-04-24**|**Correlated Quantum Dephasometry: Symmetry-Resolved Noise Spectroscopy of Two-Dimensional Superconductors and Altermagnets**|Wenbo Sun et.al.|[2604.22751](http://arxiv.org/abs/2604.22751)|null|
+|**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
+|**2026-04-24**|**Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities**|Ilana Nguyen et.al.|[2604.22749](http://arxiv.org/abs/2604.22749)|null|
+|**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
+|**2026-04-24**|**Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels**|Ashley J. Chen et.al.|[2604.22747](http://arxiv.org/abs/2604.22747)|null|
+|**2026-04-24**|**Relaxation-Informed Training of Neural Network Surrogate Models**|Calvin Tsay et.al.|[2604.22746](http://arxiv.org/abs/2604.22746)|null|
+|**2026-04-24**|**Multiplex Hypergraph Modeling of Higher Order Structures in Psychometric Networks**|Francesca Possenti et.al.|[2604.22744](http://arxiv.org/abs/2604.22744)|null|
+|**2026-04-24**|**Boolean PCSPs through the lens of Fourier Analysis**|Demian Banakh et.al.|[2604.22742](http://arxiv.org/abs/2604.22742)|null|
 |**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
 |**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
 |**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
@@ -3806,7 +3866,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
