@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -2597,6 +2597,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Hawking Temperature, Sparsity and Energy Emission Rate of Dark Matter Halo Regular Black Holes**|Faizuddin Ahmed et.al.|[2604.24659](http://arxiv.org/abs/2604.24659)|null|
+|**2026-04-27**|**Densification Converses for Walker Constellations With Explicit Constants and Reuse Scaling Laws**|Ali Khalesi et.al.|[2604.24656](http://arxiv.org/abs/2604.24656)|null|
+|**2026-04-27**|**Verification of Correlated Equilibria in Concurrent Reachability Games**|Senthil Rajasekaran et.al.|[2604.24655](http://arxiv.org/abs/2604.24655)|null|
+|**2026-04-27**|**\texttt{SWIM}: Stochastic Warm Inflation Module to generate and analyse Warm Inflationary power spectrum**|Umang Kumar et.al.|[2604.24654](http://arxiv.org/abs/2604.24654)|null|
+|**2026-04-27**|**Déjà Vu Packing: Optimizing FPGA Logic Clustering Runtime via Pattern Memoization**|Milo Liebster et.al.|[2604.24649](http://arxiv.org/abs/2604.24649)|null|
+|**2026-04-27**|**Computational Design and Co-Robotic Fabrication for Material Reuse in Architecture**|Arash Adel et.al.|[2604.24648](http://arxiv.org/abs/2604.24648)|null|
+|**2026-04-27**|**DepthKV: Layer-Dependent KV Cache Pruning for Long-Context LLM Inference**|Zahra Dehghanighobadi et.al.|[2604.24647](http://arxiv.org/abs/2604.24647)|null|
+|**2026-04-27**|**K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology**|Soyeon Kim et.al.|[2604.24645](http://arxiv.org/abs/2604.24645)|null|
+|**2026-04-27**|**Workplace Demands and Emotional Expression Among Early Childhood Educators: A Computational Analysis of Professional Online Discourse**|Hailong Jiang et.al.|[2604.24643](http://arxiv.org/abs/2604.24643)|null|
+|**2026-04-27**|**DiffQEC: A versatile diffusion model for quantum error correction**|Tianyi Xu et.al.|[2604.24640](http://arxiv.org/abs/2604.24640)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities**|Ilana Nguyen et.al.|[2604.22749](http://arxiv.org/abs/2604.22749)|null|
 |**2026-04-24**|**Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels**|Ashley J. Chen et.al.|[2604.22747](http://arxiv.org/abs/2604.22747)|null|
@@ -3220,6 +3230,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**The Last Human-Written Paper: Agent-Native Research Artifacts**|Jiachen Liu et.al.|[2604.24658](http://arxiv.org/abs/2604.24658)|null|
+|**2026-04-27**|**AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents**|Yixiang Zhang et.al.|[2604.24657](http://arxiv.org/abs/2604.24657)|null|
+|**2026-04-27**|**Verification of Correlated Equilibria in Concurrent Reachability Games**|Senthil Rajasekaran et.al.|[2604.24655](http://arxiv.org/abs/2604.24655)|null|
+|**2026-04-27**|**\texttt{SWIM}: Stochastic Warm Inflation Module to generate and analyse Warm Inflationary power spectrum**|Umang Kumar et.al.|[2604.24654](http://arxiv.org/abs/2604.24654)|null|
+|**2026-04-27**|**A step-by-step workflow to extract the genuine circular dichroism of thin films**|Franziska Schölzel et.al.|[2604.24653](http://arxiv.org/abs/2604.24653)|null|
+|**2026-04-27**|**Benefits and Costs of Adaptive Sampling**|Yu-Shiou Willy Lin et.al.|[2604.24652](http://arxiv.org/abs/2604.24652)|null|
+|**2026-04-27**|**Electrical tunability of terahertz nonlinearity in graphene**|Sergey Kovalev et.al.|[2604.24651](http://arxiv.org/abs/2604.24651)|null|
+|**2026-04-27**|**Déjà Vu Packing: Optimizing FPGA Logic Clustering Runtime via Pattern Memoization**|Milo Liebster et.al.|[2604.24649](http://arxiv.org/abs/2604.24649)|null|
+|**2026-04-27**|**Reduced-Order Data Assimilation for Thermospheric Density Using Physics-informed SINDyc Models**|Sriram Narayanan et.al.|[2604.24646](http://arxiv.org/abs/2604.24646)|null|
+|**2026-04-27**|**K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology**|Soyeon Kim et.al.|[2604.24645](http://arxiv.org/abs/2604.24645)|null|
 |**2026-04-24**|**Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection**|Sijie Li et.al.|[2604.22753](http://arxiv.org/abs/2604.22753)|null|
 |**2026-04-24**|**From Physics to Statistics: A Simple Route to Exponential Families via Maximum Entropy**|Korbinian Strimmer et.al.|[2604.22752](http://arxiv.org/abs/2604.22752)|null|
 |**2026-04-24**|**Correlated Quantum Dephasometry: Symmetry-Resolved Noise Spectroscopy of Two-Dimensional Superconductors and Altermagnets**|Wenbo Sun et.al.|[2604.22751](http://arxiv.org/abs/2604.22751)|null|

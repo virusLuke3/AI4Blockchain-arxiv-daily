@@ -1,4 +1,4 @@
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,7 +143,7 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Blockchain
 
@@ -758,7 +758,7 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Smart Contract
 
@@ -1375,7 +1375,7 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Consensus
 
@@ -1992,7 +1992,7 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## DeFi
 
@@ -2619,12 +2619,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Hawking Temperature, Sparsity and Energy Emission Rate of Dark Matter Halo Regular Black Holes**|Faizuddin Ahmed et.al.|[2604.24659](http://arxiv.org/abs/2604.24659)|null|
+|**2026-04-27**|**Densification Converses for Walker Constellations With Explicit Constants and Reuse Scaling Laws**|Ali Khalesi et.al.|[2604.24656](http://arxiv.org/abs/2604.24656)|null|
+|**2026-04-27**|**Verification of Correlated Equilibria in Concurrent Reachability Games**|Senthil Rajasekaran et.al.|[2604.24655](http://arxiv.org/abs/2604.24655)|null|
+|**2026-04-27**|**\texttt{SWIM}: Stochastic Warm Inflation Module to generate and analyse Warm Inflationary power spectrum**|Umang Kumar et.al.|[2604.24654](http://arxiv.org/abs/2604.24654)|null|
+|**2026-04-27**|**Déjà Vu Packing: Optimizing FPGA Logic Clustering Runtime via Pattern Memoization**|Milo Liebster et.al.|[2604.24649](http://arxiv.org/abs/2604.24649)|null|
+|**2026-04-27**|**Computational Design and Co-Robotic Fabrication for Material Reuse in Architecture**|Arash Adel et.al.|[2604.24648](http://arxiv.org/abs/2604.24648)|null|
+|**2026-04-27**|**DepthKV: Layer-Dependent KV Cache Pruning for Long-Context LLM Inference**|Zahra Dehghanighobadi et.al.|[2604.24647](http://arxiv.org/abs/2604.24647)|null|
+|**2026-04-27**|**K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology**|Soyeon Kim et.al.|[2604.24645](http://arxiv.org/abs/2604.24645)|null|
+|**2026-04-27**|**Workplace Demands and Emotional Expression Among Early Childhood Educators: A Computational Analysis of Professional Online Discourse**|Hailong Jiang et.al.|[2604.24643](http://arxiv.org/abs/2604.24643)|null|
+|**2026-04-27**|**DiffQEC: A versatile diffusion model for quantum error correction**|Tianyi Xu et.al.|[2604.24640](http://arxiv.org/abs/2604.24640)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities**|Ilana Nguyen et.al.|[2604.22749](http://arxiv.org/abs/2604.22749)|null|
 |**2026-04-24**|**Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels**|Ashley J. Chen et.al.|[2604.22747](http://arxiv.org/abs/2604.22747)|null|
@@ -3244,12 +3254,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**The Last Human-Written Paper: Agent-Native Research Artifacts**|Jiachen Liu et.al.|[2604.24658](http://arxiv.org/abs/2604.24658)|null|
+|**2026-04-27**|**AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents**|Yixiang Zhang et.al.|[2604.24657](http://arxiv.org/abs/2604.24657)|null|
+|**2026-04-27**|**Verification of Correlated Equilibria in Concurrent Reachability Games**|Senthil Rajasekaran et.al.|[2604.24655](http://arxiv.org/abs/2604.24655)|null|
+|**2026-04-27**|**\texttt{SWIM}: Stochastic Warm Inflation Module to generate and analyse Warm Inflationary power spectrum**|Umang Kumar et.al.|[2604.24654](http://arxiv.org/abs/2604.24654)|null|
+|**2026-04-27**|**A step-by-step workflow to extract the genuine circular dichroism of thin films**|Franziska Schölzel et.al.|[2604.24653](http://arxiv.org/abs/2604.24653)|null|
+|**2026-04-27**|**Benefits and Costs of Adaptive Sampling**|Yu-Shiou Willy Lin et.al.|[2604.24652](http://arxiv.org/abs/2604.24652)|null|
+|**2026-04-27**|**Electrical tunability of terahertz nonlinearity in graphene**|Sergey Kovalev et.al.|[2604.24651](http://arxiv.org/abs/2604.24651)|null|
+|**2026-04-27**|**Déjà Vu Packing: Optimizing FPGA Logic Clustering Runtime via Pattern Memoization**|Milo Liebster et.al.|[2604.24649](http://arxiv.org/abs/2604.24649)|null|
+|**2026-04-27**|**Reduced-Order Data Assimilation for Thermospheric Density Using Physics-informed SINDyc Models**|Sriram Narayanan et.al.|[2604.24646](http://arxiv.org/abs/2604.24646)|null|
+|**2026-04-27**|**K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology**|Soyeon Kim et.al.|[2604.24645](http://arxiv.org/abs/2604.24645)|null|
 |**2026-04-24**|**Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection**|Sijie Li et.al.|[2604.22753](http://arxiv.org/abs/2604.22753)|null|
 |**2026-04-24**|**From Physics to Statistics: A Simple Route to Exponential Families via Maximum Entropy**|Korbinian Strimmer et.al.|[2604.22752](http://arxiv.org/abs/2604.22752)|null|
 |**2026-04-24**|**Correlated Quantum Dephasometry: Symmetry-Resolved Noise Spectroscopy of Two-Dimensional Superconductors and Altermagnets**|Wenbo Sun et.al.|[2604.22751](http://arxiv.org/abs/2604.22751)|null|
@@ -3866,7 +3886,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
