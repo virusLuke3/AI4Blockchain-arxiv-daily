@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX**|Ignat Melnikov et.al.|[2604.28014](http://arxiv.org/abs/2604.28014)|null|
+|**2026-04-30**|**The Origins of MEV: Systematic Attribution of Arbitrage Opportunity Creation at Scale**|Andrei Seoev et.al.|[2604.27979](http://arxiv.org/abs/2604.27979)|null|
+|**2026-04-30**|**Feature-Centric Methodology for Analyzing Cross-Chain NFT Migration Compatibility**|Mohd Sameen Chishti et.al.|[2604.27805](http://arxiv.org/abs/2604.27805)|null|
+|**2026-04-30**|**Back to the Future: Rethinking Endorsement in Order-Execute Blockchains**|Rongji Huang et.al.|[2604.27659](http://arxiv.org/abs/2604.27659)|null|
+|**2026-04-29**|**End-to-End and Phase-Level Performance Optimization for Hyperledger Fabric**|Pavan Sollu et.al.|[2604.27174](http://arxiv.org/abs/2604.27174)|null|
+|**2026-04-29**|**Catching the Fly: Practical Challenges in Making Blockchain FlyClient Real**|Pericle Perazzo et.al.|[2604.26736](http://arxiv.org/abs/2604.26736)|null|
+|**2026-04-29**|**An Effective Orchestral Approach to Satisfiability Modulo Prime Fields**|Miguel Isabel et.al.|[2604.26709](http://arxiv.org/abs/2604.26709)|null|
+|**2026-04-29**|**Identifying and Characterizing Semantic Clones of Solidity Functions**|Ermanno Francesco Sannini et.al.|[2604.26526](http://arxiv.org/abs/2604.26526)|null|
+|**2026-04-28**|**GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade**|Bowen Cai et.al.|[2604.26094](http://arxiv.org/abs/2604.26094)|null|
+|**2026-04-28**|**From CRUD to Autonomous Agents: Formal Validation and Zero-Trust Security for Semantic Gateways in AI-Native Enterprise Systems**|Ignacio Peyrano et.al.|[2604.25555](http://arxiv.org/abs/2604.25555)|null|
 |**2026-04-24**|**From Physics to Statistics: A Simple Route to Exponential Families via Maximum Entropy**|Korbinian Strimmer et.al.|[2604.22752](http://arxiv.org/abs/2604.22752)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Multiplex Hypergraph Modeling of Higher Order Structures in Psychometric Networks**|Francesca Possenti et.al.|[2604.22744](http://arxiv.org/abs/2604.22744)|null|
@@ -1357,6 +1367,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
+|**2026-04-30**|**Covariant Locally Localized Gravity and vDVZ Continuity**|Hao Geng et.al.|[2604.28194](http://arxiv.org/abs/2604.28194)|null|
+|**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
+|**2026-04-30**|**Representation Fréchet Loss for Visual Generation**|Jiawei Yang et.al.|[2604.28190](http://arxiv.org/abs/2604.28190)|null|
+|**2026-04-30**|**Enhancement of superconducting stiffness in hybrid superconducting-metallic bilayers**|J. E. Ebot et.al.|[2604.28187](http://arxiv.org/abs/2604.28187)|null|
+|**2026-04-30**|**Computing Equilibrium beyond Unilateral Deviation**|Mingyang Liu et.al.|[2604.28186](http://arxiv.org/abs/2604.28186)|null|
+|**2026-04-30**|**Intrinsic anomalous thermal hall effect as a signature of quantum metric in d-wave altermagnets**|Rishi G. Gopalakrishnan et.al.|[2604.28184](http://arxiv.org/abs/2604.28184)|null|
+|**2026-04-30**|**Exploration Hacking: Can LLMs Learn to Resist RL Training?**|Eyon Jang et.al.|[2604.28182](http://arxiv.org/abs/2604.28182)|null|
+|**2026-04-30**|**Synthetic Computers at Scale for Long-Horizon Productivity Simulation**|Tao Ge et.al.|[2604.28181](http://arxiv.org/abs/2604.28181)|null|
+|**2026-04-30**|**An adaptive wavelet-based PINN for problems with localized high-magnitude source**|Himanshu Pandey et.al.|[2604.28180](http://arxiv.org/abs/2604.28180)|null|
 |**2026-04-28**|**How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum**|Chu-Cheng Lin et.al.|[2604.25907](http://arxiv.org/abs/2604.25907)|null|
 |**2026-04-28**|**Robust Deepfake Detection: Mitigating Spatial Attention Drift via Calibrated Complementary Ensembles**|Minh-Khoa Le-Phan et.al.|[2604.25889](http://arxiv.org/abs/2604.25889)|null|
 |**2026-04-28**|**Optimized thermal control of a dual-wavelength-resonant nonlinear cavity**|Fabian Meylahn et.al.|[2604.25883](http://arxiv.org/abs/2604.25883)|null|
@@ -1982,6 +2002,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction**|Junyoung Lee et.al.|[2604.28197](http://arxiv.org/abs/2604.28197)|null|
+|**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
+|**2026-04-30**|**Representation Fréchet Loss for Visual Generation**|Jiawei Yang et.al.|[2604.28190](http://arxiv.org/abs/2604.28190)|null|
+|**2026-04-30**|**Stop Holding Your Breath: CT-Informed Gaussian Splatting for Dynamic Bronchoscopy**|Andrea Dunn Beltran et.al.|[2604.28179](http://arxiv.org/abs/2604.28179)|null|
+|**2026-04-30**|**LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis**|Lincan Li et.al.|[2604.28178](http://arxiv.org/abs/2604.28178)|null|
+|**2026-04-30**|**AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images**|Bo Zhang et.al.|[2604.28177](http://arxiv.org/abs/2604.28177)|null|
+|**2026-04-30**|**Phase Transitions in Economic Inequality:Taxation and Extremal Replacement Dynamics**|Lautaro Giordano et.al.|[2604.28168](http://arxiv.org/abs/2604.28168)|null|
+|**2026-04-30**|**Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists**|Yujun Wu et.al.|[2604.28158](http://arxiv.org/abs/2604.28158)|null|
+|**2026-04-30**|**Design and Characteristics of a Thin-Film ThermoMesh for the Efficient Embedded Sensing of a Spatio-Temporally Sparse Heat Source**|Sajjad Boorghan Farahan et.al.|[2604.28148](http://arxiv.org/abs/2604.28148)|null|
+|**2026-04-30**|**Global Optimality for Constrained Exploration via Penalty Regularization**|Florian Wolf et.al.|[2604.28144](http://arxiv.org/abs/2604.28144)|null|
 |**2026-04-29**|**Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**|Gongbo Zhang et.al.|[2604.26951](http://arxiv.org/abs/2604.26951)|null|
 |**2026-04-29**|**Optimizing Dynamic Metasurface Antenna Configurations for Direction-of-Arrival and Polarization Estimation Using an Experimentally Calibrated Multiport-Network Model**|Jean Tapie et.al.|[2604.26948](http://arxiv.org/abs/2604.26948)|null|
 |**2026-04-29**|**Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation**|Wanrong Zheng et.al.|[2604.26946](http://arxiv.org/abs/2604.26946)|null|
@@ -2617,6 +2647,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
+|**2026-04-30**|**Chemical Taxonomy of $ω$ ~Centauri: Ten Populations Reveal a Multi-Phase Enrichment History**|Furkan Akbaba et.al.|[2604.28195](http://arxiv.org/abs/2604.28195)|null|
+|**2026-04-30**|**Covariant Locally Localized Gravity and vDVZ Continuity**|Hao Geng et.al.|[2604.28194](http://arxiv.org/abs/2604.28194)|null|
+|**2026-04-30**|**Representation Fréchet Loss for Visual Generation**|Jiawei Yang et.al.|[2604.28190](http://arxiv.org/abs/2604.28190)|null|
+|**2026-04-30**|**Towards Systematics of Calabi-Yau Landscape for String Cosmology**|George K. Leontaris et.al.|[2604.28189](http://arxiv.org/abs/2604.28189)|null|
+|**2026-04-30**|**Computing Equilibrium beyond Unilateral Deviation**|Mingyang Liu et.al.|[2604.28186](http://arxiv.org/abs/2604.28186)|null|
+|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
+|**2026-04-30**|**Intrinsic anomalous thermal hall effect as a signature of quantum metric in d-wave altermagnets**|Rishi G. Gopalakrishnan et.al.|[2604.28184](http://arxiv.org/abs/2604.28184)|null|
+|**2026-04-30**|**Uniaxial strain-driven ferroelastic domain control in LaAlO3**|Matthias Roeper et.al.|[2604.28183](http://arxiv.org/abs/2604.28183)|null|
+|**2026-04-30**|**Exploration Hacking: Can LLMs Learn to Resist RL Training?**|Eyon Jang et.al.|[2604.28182](http://arxiv.org/abs/2604.28182)|null|
 |**2026-04-29**|**Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**|Gongbo Zhang et.al.|[2604.26951](http://arxiv.org/abs/2604.26951)|null|
 |**2026-04-29**|**Weighted Linearization of Vector Fields via a Formal Moser Trick**|Arthur Lei Qiu et.al.|[2604.26950](http://arxiv.org/abs/2604.26950)|null|
 |**2026-04-29**|**Anomalous Transport and Explicit Symmetry Breaking in Holography**|Ashis Tamang et.al.|[2604.26949](http://arxiv.org/abs/2604.26949)|null|
@@ -3270,6 +3310,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
+|**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[2604.28193](http://arxiv.org/abs/2604.28193)|null|
+|**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
+|**2026-04-30**|**Observation of Vinen turbulence during far-from-equilibrium Bose-Einstein condensation**|Sebastian J. Morris et.al.|[2604.28191](http://arxiv.org/abs/2604.28191)|null|
+|**2026-04-30**|**Representation Fréchet Loss for Visual Generation**|Jiawei Yang et.al.|[2604.28190](http://arxiv.org/abs/2604.28190)|null|
+|**2026-04-30**|**Computing Equilibrium beyond Unilateral Deviation**|Mingyang Liu et.al.|[2604.28186](http://arxiv.org/abs/2604.28186)|null|
+|**2026-04-30**|**Intrinsic anomalous thermal hall effect as a signature of quantum metric in d-wave altermagnets**|Rishi G. Gopalakrishnan et.al.|[2604.28184](http://arxiv.org/abs/2604.28184)|null|
+|**2026-04-30**|**Uniaxial strain-driven ferroelastic domain control in LaAlO3**|Matthias Roeper et.al.|[2604.28183](http://arxiv.org/abs/2604.28183)|null|
+|**2026-04-30**|**Exploration Hacking: Can LLMs Learn to Resist RL Training?**|Eyon Jang et.al.|[2604.28182](http://arxiv.org/abs/2604.28182)|null|
+|**2026-04-30**|**Synthetic Computers at Scale for Long-Horizon Productivity Simulation**|Tao Ge et.al.|[2604.28181](http://arxiv.org/abs/2604.28181)|null|
 |**2026-04-29**|**Outer-Crust Equations of State for Neutron Stars**|P. S. Koliogiannis et.al.|[2604.26952](http://arxiv.org/abs/2604.26952)|null|
 |**2026-04-29**|**Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**|Gongbo Zhang et.al.|[2604.26951](http://arxiv.org/abs/2604.26951)|null|
 |**2026-04-29**|**Weighted Linearization of Vector Fields via a Formal Moser Trick**|Arthur Lei Qiu et.al.|[2604.26950](http://arxiv.org/abs/2604.26950)|null|
