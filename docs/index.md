@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.01
+## Updated on 2026.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Covariant Locally Localized Gravity and vDVZ Continuity**|Hao Geng et.al.|[2604.28194](http://arxiv.org/abs/2604.28194)|null|
+|**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
+|**2026-04-30**|**Observation of Vinen turbulence during far-from-equilibrium Bose-Einstein condensation**|Sebastian J. Morris et.al.|[2604.28191](http://arxiv.org/abs/2604.28191)|null|
+|**2026-04-30**|**Representation Fréchet Loss for Visual Generation**|Jiawei Yang et.al.|[2604.28190](http://arxiv.org/abs/2604.28190)|null|
+|**2026-04-30**|**Cosmology of fractional gravity**|Iván Salvador-García et.al.|[2604.28188](http://arxiv.org/abs/2604.28188)|null|
+|**2026-04-30**|**Enhancement of superconducting stiffness in hybrid superconducting-metallic bilayers**|J. E. Ebot et.al.|[2604.28187](http://arxiv.org/abs/2604.28187)|null|
+|**2026-04-30**|**AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images**|Bo Zhang et.al.|[2604.28177](http://arxiv.org/abs/2604.28177)|null|
+|**2026-04-30**|**Superpolynomial Length Lower Bounds for Tree-Like Semantic Proof Systems with Bounded Line Size**|Susanna F. de Rezende et.al.|[2604.28172](http://arxiv.org/abs/2604.28172)|null|
+|**2026-04-30**|**Deeply virtual pion production through two-loop order**|Wen Chen et.al.|[2604.28164](http://arxiv.org/abs/2604.28164)|null|
+|**2026-04-30**|**Sequential Inference for Gaussian Processes: A Signal Processing Perspective**|Daniel Waxman et.al.|[2604.28163](http://arxiv.org/abs/2604.28163)|null|
 |**2026-04-30**|**From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX**|Ignat Melnikov et.al.|[2604.28014](http://arxiv.org/abs/2604.28014)|null|
 |**2026-04-30**|**The Origins of MEV: Systematic Attribution of Arbitrage Opportunity Creation at Scale**|Andrei Seoev et.al.|[2604.27979](http://arxiv.org/abs/2604.27979)|null|
 |**2026-04-30**|**Feature-Centric Methodology for Analyzing Cross-Chain NFT Migration Compatibility**|Mohd Sameen Chishti et.al.|[2604.27805](http://arxiv.org/abs/2604.27805)|null|
@@ -752,6 +762,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction**|Junyoung Lee et.al.|[2604.28197](http://arxiv.org/abs/2604.28197)|null|
+|**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
+|**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[2604.28193](http://arxiv.org/abs/2604.28193)|null|
+|**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
+|**2026-04-30**|**Observation of Vinen turbulence during far-from-equilibrium Bose-Einstein condensation**|Sebastian J. Morris et.al.|[2604.28191](http://arxiv.org/abs/2604.28191)|null|
+|**2026-04-30**|**Representation Fréchet Loss for Visual Generation**|Jiawei Yang et.al.|[2604.28190](http://arxiv.org/abs/2604.28190)|null|
+|**2026-04-30**|**Enhancement of superconducting stiffness in hybrid superconducting-metallic bilayers**|J. E. Ebot et.al.|[2604.28187](http://arxiv.org/abs/2604.28187)|null|
+|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
+|**2026-04-30**|**Stop Holding Your Breath: CT-Informed Gaussian Splatting for Dynamic Bronchoscopy**|Andrea Dunn Beltran et.al.|[2604.28179](http://arxiv.org/abs/2604.28179)|null|
+|**2026-04-30**|**AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images**|Bo Zhang et.al.|[2604.28177](http://arxiv.org/abs/2604.28177)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels**|Ashley J. Chen et.al.|[2604.22747](http://arxiv.org/abs/2604.22747)|null|
 |**2026-04-24**|**Relaxation-Informed Training of Neural Network Surrogate Models**|Calvin Tsay et.al.|[2604.22746](http://arxiv.org/abs/2604.22746)|null|
