@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
+|**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
+|**2026-05-01**|**W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators**|Afsaneh Kianfar et.al.|[2605.00819](http://arxiv.org/abs/2605.00819)|null|
+|**2026-05-01**|**Revealing the origin of XMCD in an altermagnet via three-dimensional control of spins**|Daire Mallon et.al.|[2605.00815](http://arxiv.org/abs/2605.00815)|null|
+|**2026-05-01**|**On the Schur multiplier of $p$-groups with abelianization $s$ -elementary abelian**|Sumana Hatui et.al.|[2605.00810](http://arxiv.org/abs/2605.00810)|null|
+|**2026-05-01**|**Let ViT Speak: Generative Language-Image Pre-training**|Yan Fang et.al.|[2605.00809](http://arxiv.org/abs/2605.00809)|null|
+|**2026-05-01**|**Probability Distribution Analysis of the Cascaded Variational Quantum Eigensolver**|Yi-Hua Lai et.al.|[2605.00807](http://arxiv.org/abs/2605.00807)|null|
+|**2026-05-01**|**Existence of dipoles of Klein-Gordon-Zakharov system**|Vicente Alvarez et.al.|[2605.00805](http://arxiv.org/abs/2605.00805)|null|
+|**2026-05-01**|**Determination of Density Functional Tight Binding Models for Cerium Allotropes**|Nir Goldman et.al.|[2605.00802](http://arxiv.org/abs/2605.00802)|null|
+|**2026-05-01**|**GMGaze: MoE-Based Context-Aware Gaze Estimation with CLIP and Multiscale Transformer**|Xinyuan Zhao et.al.|[2605.00799](http://arxiv.org/abs/2605.00799)|null|
 |**2026-04-30**|**Covariant Locally Localized Gravity and vDVZ Continuity**|Hao Geng et.al.|[2604.28194](http://arxiv.org/abs/2604.28194)|null|
 |**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
 |**2026-04-30**|**Observation of Vinen turbulence during far-from-equilibrium Bose-Einstein condensation**|Sebastian J. Morris et.al.|[2604.28191](http://arxiv.org/abs/2604.28191)|null|
@@ -762,6 +772,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
+|**2026-05-01**|**Reliability, Robustness, and Resilience Modeling for Surveillance System in Advanced Air Mobility Operations**|Esrat Farhana Dulia et.al.|[2605.00823](http://arxiv.org/abs/2605.00823)|null|
+|**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
+|**2026-05-01**|**$4\times3$ Point Correlation Functions in Galaxy Surveys: Impact of Baryonic Feedback**|Avijit Bera et.al.|[2605.00818](http://arxiv.org/abs/2605.00818)|null|
+|**2026-05-01**|**Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs**|Siyuan Huang et.al.|[2605.00814](http://arxiv.org/abs/2605.00814)|null|
+|**2026-05-01**|**Statistical mechanics for Scrabble predicts strategy, entropy and language**|Olivier Witteveen et.al.|[2605.00813](http://arxiv.org/abs/2605.00813)|null|
+|**2026-05-01**|**Let ViT Speak: Generative Language-Image Pre-training**|Yan Fang et.al.|[2605.00809](http://arxiv.org/abs/2605.00809)|null|
+|**2026-05-01**|**Smooth and stable Euler implosions**|Jiajie Chen et.al.|[2605.00808](http://arxiv.org/abs/2605.00808)|null|
+|**2026-05-01**|**Probability Distribution Analysis of the Cascaded Variational Quantum Eigensolver**|Yi-Hua Lai et.al.|[2605.00807](http://arxiv.org/abs/2605.00807)|null|
+|**2026-05-01**|**High-Dimensional Multivariate VAR Estimation with Spatio-Temporal Structure**|Peiliang Bai et.al.|[2605.00806](http://arxiv.org/abs/2605.00806)|null|
 |**2026-04-30**|**OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction**|Junyoung Lee et.al.|[2604.28197](http://arxiv.org/abs/2604.28197)|null|
 |**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
 |**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[2604.28193](http://arxiv.org/abs/2604.28193)|null|
@@ -1387,6 +1407,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
+|**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
+|**2026-05-01**|**W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators**|Afsaneh Kianfar et.al.|[2605.00819](http://arxiv.org/abs/2605.00819)|null|
+|**2026-05-01**|**When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models**|Sailesh Panda et.al.|[2605.00817](http://arxiv.org/abs/2605.00817)|null|
+|**2026-05-01**|**Revealing the origin of XMCD in an altermagnet via three-dimensional control of spins**|Daire Mallon et.al.|[2605.00815](http://arxiv.org/abs/2605.00815)|null|
+|**2026-05-01**|**Statistical mechanics for Scrabble predicts strategy, entropy and language**|Olivier Witteveen et.al.|[2605.00813](http://arxiv.org/abs/2605.00813)|null|
+|**2026-05-01**|**Conjectural duality for iterated $q$-integrals on $\mathbb{P}^{1}$ minus four generic points**|Minoru Hirose et.al.|[2605.00811](http://arxiv.org/abs/2605.00811)|null|
+|**2026-05-01**|**On the Schur multiplier of $p$-groups with abelianization $s$ -elementary abelian**|Sumana Hatui et.al.|[2605.00810](http://arxiv.org/abs/2605.00810)|null|
+|**2026-05-01**|**Probability Distribution Analysis of the Cascaded Variational Quantum Eigensolver**|Yi-Hua Lai et.al.|[2605.00807](http://arxiv.org/abs/2605.00807)|null|
+|**2026-05-01**|**High-Dimensional Multivariate VAR Estimation with Spatio-Temporal Structure**|Peiliang Bai et.al.|[2605.00806](http://arxiv.org/abs/2605.00806)|null|
 |**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
 |**2026-04-30**|**Covariant Locally Localized Gravity and vDVZ Continuity**|Hao Geng et.al.|[2604.28194](http://arxiv.org/abs/2604.28194)|null|
 |**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
@@ -2022,6 +2052,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
+|**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
+|**2026-05-01**|**HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs**|Jinpai Zhao et.al.|[2605.00820](http://arxiv.org/abs/2605.00820)|null|
+|**2026-05-01**|**Smooth and stable Euler implosions**|Jiajie Chen et.al.|[2605.00808](http://arxiv.org/abs/2605.00808)|null|
+|**2026-05-01**|**Probability Distribution Analysis of the Cascaded Variational Quantum Eigensolver**|Yi-Hua Lai et.al.|[2605.00807](http://arxiv.org/abs/2605.00807)|null|
+|**2026-05-01**|**A Faster Deterministic Algorithm for Fully Dynamic Maximal Matching**|Julia Chuzhoy et.al.|[2605.00797](http://arxiv.org/abs/2605.00797)|null|
+|**2026-05-01**|**Recursive Maximum Likelihood Estimation for Interacting Particle Systems using Virtual Particles**|Louis Sharrock et.al.|[2605.00786](http://arxiv.org/abs/2605.00786)|null|
+|**2026-05-01**|**GeoContra: From Fluent GIS Code to Verifiable Spatial Analysis with Geography-Grounded Repair**|Yinhao Xiao et.al.|[2605.00782](http://arxiv.org/abs/2605.00782)|null|
+|**2026-05-01**|**Entanglement capacity of complex networks from quantum walks**|Pravy Prerana et.al.|[2605.00772](http://arxiv.org/abs/2605.00772)|null|
+|**2026-05-01**|**Penalized Likelihood for Dyadic Network Formation Models with Degree Heterogeneity**|Zizhong Yan et.al.|[2605.00771](http://arxiv.org/abs/2605.00771)|null|
 |**2026-04-30**|**OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction**|Junyoung Lee et.al.|[2604.28197](http://arxiv.org/abs/2604.28197)|null|
 |**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
 |**2026-04-30**|**Representation Fréchet Loss for Visual Generation**|Jiawei Yang et.al.|[2604.28190](http://arxiv.org/abs/2604.28190)|null|
@@ -2667,6 +2707,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
+|**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
+|**2026-05-01**|**W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators**|Afsaneh Kianfar et.al.|[2605.00819](http://arxiv.org/abs/2605.00819)|null|
+|**2026-05-01**|**$4\times3$ Point Correlation Functions in Galaxy Surveys: Impact of Baryonic Feedback**|Avijit Bera et.al.|[2605.00818](http://arxiv.org/abs/2605.00818)|null|
+|**2026-05-01**|**When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models**|Sailesh Panda et.al.|[2605.00817](http://arxiv.org/abs/2605.00817)|null|
+|**2026-05-01**|**Revealing the origin of XMCD in an altermagnet via three-dimensional control of spins**|Daire Mallon et.al.|[2605.00815](http://arxiv.org/abs/2605.00815)|null|
+|**2026-05-01**|**Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs**|Siyuan Huang et.al.|[2605.00814](http://arxiv.org/abs/2605.00814)|null|
+|**2026-05-01**|**Statistical mechanics for Scrabble predicts strategy, entropy and language**|Olivier Witteveen et.al.|[2605.00813](http://arxiv.org/abs/2605.00813)|null|
+|**2026-05-01**|**Univalence without function extensionality**|Evan Cavallo et.al.|[2605.00812](http://arxiv.org/abs/2605.00812)|null|
+|**2026-05-01**|**Conjectural duality for iterated $q$-integrals on $\mathbb{P}^{1}$ minus four generic points**|Minoru Hirose et.al.|[2605.00811](http://arxiv.org/abs/2605.00811)|null|
 |**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
 |**2026-04-30**|**Chemical Taxonomy of $ω$ ~Centauri: Ten Populations Reveal a Multi-Phase Enrichment History**|Furkan Akbaba et.al.|[2604.28195](http://arxiv.org/abs/2604.28195)|null|
 |**2026-04-30**|**Covariant Locally Localized Gravity and vDVZ Continuity**|Hao Geng et.al.|[2604.28194](http://arxiv.org/abs/2604.28194)|null|
@@ -3330,6 +3380,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
+|**2026-05-01**|**Reliability, Robustness, and Resilience Modeling for Surveillance System in Advanced Air Mobility Operations**|Esrat Farhana Dulia et.al.|[2605.00823](http://arxiv.org/abs/2605.00823)|null|
+|**2026-05-01**|**PEARLS: Two Distinct Populations of AGN Hosts Moving Between Star Formation and Quiescence**|Gibson B. Bowling et.al.|[2605.00822](http://arxiv.org/abs/2605.00822)|null|
+|**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
+|**2026-05-01**|**HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs**|Jinpai Zhao et.al.|[2605.00820](http://arxiv.org/abs/2605.00820)|null|
+|**2026-05-01**|**W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators**|Afsaneh Kianfar et.al.|[2605.00819](http://arxiv.org/abs/2605.00819)|null|
+|**2026-05-01**|**When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models**|Sailesh Panda et.al.|[2605.00817](http://arxiv.org/abs/2605.00817)|null|
+|**2026-05-01**|**Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs**|Siyuan Huang et.al.|[2605.00814](http://arxiv.org/abs/2605.00814)|null|
+|**2026-05-01**|**Statistical mechanics for Scrabble predicts strategy, entropy and language**|Olivier Witteveen et.al.|[2605.00813](http://arxiv.org/abs/2605.00813)|null|
+|**2026-05-01**|**Univalence without function extensionality**|Evan Cavallo et.al.|[2605.00812](http://arxiv.org/abs/2605.00812)|null|
 |**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
 |**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[2604.28193](http://arxiv.org/abs/2604.28193)|null|
 |**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
