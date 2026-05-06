@@ -1,4 +1,4 @@
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Quantum metrology of mixed states via purification**|Sisi Zhou et.al.|[2605.03975](http://arxiv.org/abs/2605.03975)|null|
+|**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
+|**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
+|**2026-05-05**|**Matrix parabolic problems in Sobolev spaces of generalized smoothness**|Valerii Los et.al.|[2605.03967](http://arxiv.org/abs/2605.03967)|null|
+|**2026-05-05**|**Constraining F-theory Model Building with QCD Axions**|Keren Chen et.al.|[2605.03963](http://arxiv.org/abs/2605.03963)|null|
+|**2026-05-05**|**Randomized and Diverse Input State Generation for Quantum Program Testing**|Maryse Ernzer et.al.|[2605.03957](http://arxiv.org/abs/2605.03957)|null|
+|**2026-05-05**|**Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software**|Shravya Kanchi et.al.|[2605.03956](http://arxiv.org/abs/2605.03956)|null|
+|**2026-05-05**|**Closing the gap: Maz'ya-Shaposhnikova and asymptotics of fractional perimeters**|Elisa Davoli et.al.|[2605.03955](http://arxiv.org/abs/2605.03955)|null|
+|**2026-05-05**|**Transformers with Selective Access to Early Representations**|Skye Gunasekaran et.al.|[2605.03953](http://arxiv.org/abs/2605.03953)|null|
+|**2026-05-05**|**MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents**|Jonathan Steinberg et.al.|[2605.03952](http://arxiv.org/abs/2605.03952)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
 |**2026-05-01**|**W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators**|Afsaneh Kianfar et.al.|[2605.00819](http://arxiv.org/abs/2605.00819)|null|
@@ -788,12 +798,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity**|Erfan Iravani et.al.|[2605.03974](http://arxiv.org/abs/2605.03974)|null|
+|**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
+|**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
+|**2026-05-05**|**Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretraining and Fine-Tuning**|Zakarya Elmimouni et.al.|[2605.03968](http://arxiv.org/abs/2605.03968)|null|
+|**2026-05-05**|**Demographic Divides in Political Content Exposure on Facebook**|S M Mehedi Zaman et.al.|[2605.03962](http://arxiv.org/abs/2605.03962)|null|
+|**2026-05-05**|**Extended-variable relaxations for the constrained generalized maximum-entropy sampling problem**|Gabriel Ponte et.al.|[2605.03959](http://arxiv.org/abs/2605.03959)|null|
+|**2026-05-05**|**Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software**|Shravya Kanchi et.al.|[2605.03956](http://arxiv.org/abs/2605.03956)|null|
+|**2026-05-05**|**Inconsistent Databases and Argumentation Frameworks with Collective Attacks**|Yasir Mahmood et.al.|[2605.03954](http://arxiv.org/abs/2605.03954)|null|
+|**2026-05-05**|**Transformers with Selective Access to Early Representations**|Skye Gunasekaran et.al.|[2605.03953](http://arxiv.org/abs/2605.03953)|null|
+|**2026-05-05**|**MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents**|Jonathan Steinberg et.al.|[2605.03952](http://arxiv.org/abs/2605.03952)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Reliability, Robustness, and Resilience Modeling for Surveillance System in Advanced Air Mobility Operations**|Esrat Farhana Dulia et.al.|[2605.00823](http://arxiv.org/abs/2605.00823)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
@@ -1425,12 +1445,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity**|Erfan Iravani et.al.|[2605.03974](http://arxiv.org/abs/2605.03974)|null|
+|**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
+|**2026-05-05**|**Kinematic reversibility in a low Reynolds number cold atom fluid**|Sara Sloman et.al.|[2605.03970](http://arxiv.org/abs/2605.03970)|null|
+|**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
+|**2026-05-05**|**The Real Interest Rate as a Control Variable in the Open Economy**|Carlos Esteban Posada et.al.|[2605.03966](http://arxiv.org/abs/2605.03966)|null|
+|**2026-05-05**|**Tree-independence number of $P_5$ -free graphs with no large bicliques**|Václav Blažej et.al.|[2605.03965](http://arxiv.org/abs/2605.03965)|null|
+|**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
+|**2026-05-05**|**The jet-shaped pipe morphology in planetary nebulae and core-collapse supernova remnants**|Noam Soker et.al.|[2605.03961](http://arxiv.org/abs/2605.03961)|null|
+|**2026-05-05**|**Extended-variable relaxations for the constrained generalized maximum-entropy sampling problem**|Gabriel Ponte et.al.|[2605.03959](http://arxiv.org/abs/2605.03959)|null|
+|**2026-05-05**|**Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials**|Ashique Lal et.al.|[2605.03737](http://arxiv.org/abs/2605.03737)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
 |**2026-05-01**|**W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators**|Afsaneh Kianfar et.al.|[2605.00819](http://arxiv.org/abs/2605.00819)|null|
@@ -2072,12 +2102,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
+|**2026-05-05**|**The Real Interest Rate as a Control Variable in the Open Economy**|Carlos Esteban Posada et.al.|[2605.03966](http://arxiv.org/abs/2605.03966)|null|
+|**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
+|**2026-05-05**|**Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software**|Shravya Kanchi et.al.|[2605.03956](http://arxiv.org/abs/2605.03956)|null|
+|**2026-05-05**|**MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents**|Jonathan Steinberg et.al.|[2605.03952](http://arxiv.org/abs/2605.03952)|null|
+|**2026-05-05**|**Effects of magnetically driven shocks on nucleosynthesis and kilonovae from neutron star mergers**|Yuan Feng et.al.|[2605.03947](http://arxiv.org/abs/2605.03947)|null|
+|**2026-05-05**|**Deterministic Sparse FFT via Keyed Multi-View Gating with $O(\sqrt{N} \log k)$ Expected Time**|Aaron R. Flouro et.al.|[2605.03935](http://arxiv.org/abs/2605.03935)|null|
+|**2026-05-05**|**Turbulent Boundary Layer Height Scales in Hurricanes**|Kishore Ram Sathia et.al.|[2605.03933](http://arxiv.org/abs/2605.03933)|null|
+|**2026-05-05**|**PHALAR: Phasors for Learned Musical Audio Representations**|Davide Marincione et.al.|[2605.03929](http://arxiv.org/abs/2605.03929)|null|
+|**2026-05-05**|**The Multiplicative Quasi-Instrumental Variable Model**|Jiewen Liu et.al.|[2605.03911](http://arxiv.org/abs/2605.03911)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
 |**2026-05-01**|**HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs**|Jinpai Zhao et.al.|[2605.00820](http://arxiv.org/abs/2605.00820)|null|
@@ -2729,12 +2769,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity**|Erfan Iravani et.al.|[2605.03974](http://arxiv.org/abs/2605.03974)|null|
+|**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
+|**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
+|**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
+|**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
+|**2026-05-05**|**Matrix parabolic problems in Sobolev spaces of generalized smoothness**|Valerii Los et.al.|[2605.03967](http://arxiv.org/abs/2605.03967)|null|
+|**2026-05-05**|**Tree-independence number of $P_5$ -free graphs with no large bicliques**|Václav Blažej et.al.|[2605.03965](http://arxiv.org/abs/2605.03965)|null|
+|**2026-05-05**|**Extended-variable relaxations for the constrained generalized maximum-entropy sampling problem**|Gabriel Ponte et.al.|[2605.03959](http://arxiv.org/abs/2605.03959)|null|
+|**2026-05-05**|**Randomized and Diverse Input State Generation for Quantum Program Testing**|Maryse Ernzer et.al.|[2605.03957](http://arxiv.org/abs/2605.03957)|null|
+|**2026-05-05**|**Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials**|Ashique Lal et.al.|[2605.03737](http://arxiv.org/abs/2605.03737)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
 |**2026-05-01**|**W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators**|Afsaneh Kianfar et.al.|[2605.00819](http://arxiv.org/abs/2605.00819)|null|
@@ -3404,12 +3454,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
+|**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
+|**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
+|**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
+|**2026-05-05**|**Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretraining and Fine-Tuning**|Zakarya Elmimouni et.al.|[2605.03968](http://arxiv.org/abs/2605.03968)|null|
+|**2026-05-05**|**Matrix parabolic problems in Sobolev spaces of generalized smoothness**|Valerii Los et.al.|[2605.03967](http://arxiv.org/abs/2605.03967)|null|
+|**2026-05-05**|**The Real Interest Rate as a Control Variable in the Open Economy**|Carlos Esteban Posada et.al.|[2605.03966](http://arxiv.org/abs/2605.03966)|null|
+|**2026-05-05**|**Tree-independence number of $P_5$ -free graphs with no large bicliques**|Václav Blažej et.al.|[2605.03965](http://arxiv.org/abs/2605.03965)|null|
+|**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
+|**2026-05-05**|**Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials**|Ashique Lal et.al.|[2605.03737](http://arxiv.org/abs/2605.03737)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Reliability, Robustness, and Resilience Modeling for Surveillance System in Advanced Air Mobility Operations**|Esrat Farhana Dulia et.al.|[2605.00823](http://arxiv.org/abs/2605.00823)|null|
 |**2026-05-01**|**PEARLS: Two Distinct Populations of AGN Hosts Moving Between Star Formation and Quiescence**|Gibson B. Bowling et.al.|[2605.00822](http://arxiv.org/abs/2605.00822)|null|
@@ -4076,7 +4136,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors

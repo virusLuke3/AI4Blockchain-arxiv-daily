@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Quantum metrology of mixed states via purification**|Sisi Zhou et.al.|[2605.03975](http://arxiv.org/abs/2605.03975)|null|
+|**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
+|**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
+|**2026-05-05**|**Matrix parabolic problems in Sobolev spaces of generalized smoothness**|Valerii Los et.al.|[2605.03967](http://arxiv.org/abs/2605.03967)|null|
+|**2026-05-05**|**Constraining F-theory Model Building with QCD Axions**|Keren Chen et.al.|[2605.03963](http://arxiv.org/abs/2605.03963)|null|
+|**2026-05-05**|**Randomized and Diverse Input State Generation for Quantum Program Testing**|Maryse Ernzer et.al.|[2605.03957](http://arxiv.org/abs/2605.03957)|null|
+|**2026-05-05**|**Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software**|Shravya Kanchi et.al.|[2605.03956](http://arxiv.org/abs/2605.03956)|null|
+|**2026-05-05**|**Closing the gap: Maz'ya-Shaposhnikova and asymptotics of fractional perimeters**|Elisa Davoli et.al.|[2605.03955](http://arxiv.org/abs/2605.03955)|null|
+|**2026-05-05**|**Transformers with Selective Access to Early Representations**|Skye Gunasekaran et.al.|[2605.03953](http://arxiv.org/abs/2605.03953)|null|
+|**2026-05-05**|**MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents**|Jonathan Steinberg et.al.|[2605.03952](http://arxiv.org/abs/2605.03952)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
 |**2026-05-01**|**W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators**|Afsaneh Kianfar et.al.|[2605.00819](http://arxiv.org/abs/2605.00819)|null|
@@ -772,6 +782,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity**|Erfan Iravani et.al.|[2605.03974](http://arxiv.org/abs/2605.03974)|null|
+|**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
+|**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
+|**2026-05-05**|**Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretraining and Fine-Tuning**|Zakarya Elmimouni et.al.|[2605.03968](http://arxiv.org/abs/2605.03968)|null|
+|**2026-05-05**|**Demographic Divides in Political Content Exposure on Facebook**|S M Mehedi Zaman et.al.|[2605.03962](http://arxiv.org/abs/2605.03962)|null|
+|**2026-05-05**|**Extended-variable relaxations for the constrained generalized maximum-entropy sampling problem**|Gabriel Ponte et.al.|[2605.03959](http://arxiv.org/abs/2605.03959)|null|
+|**2026-05-05**|**Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software**|Shravya Kanchi et.al.|[2605.03956](http://arxiv.org/abs/2605.03956)|null|
+|**2026-05-05**|**Inconsistent Databases and Argumentation Frameworks with Collective Attacks**|Yasir Mahmood et.al.|[2605.03954](http://arxiv.org/abs/2605.03954)|null|
+|**2026-05-05**|**Transformers with Selective Access to Early Representations**|Skye Gunasekaran et.al.|[2605.03953](http://arxiv.org/abs/2605.03953)|null|
+|**2026-05-05**|**MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents**|Jonathan Steinberg et.al.|[2605.03952](http://arxiv.org/abs/2605.03952)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Reliability, Robustness, and Resilience Modeling for Surveillance System in Advanced Air Mobility Operations**|Esrat Farhana Dulia et.al.|[2605.00823](http://arxiv.org/abs/2605.00823)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
@@ -1407,6 +1427,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity**|Erfan Iravani et.al.|[2605.03974](http://arxiv.org/abs/2605.03974)|null|
+|**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
+|**2026-05-05**|**Kinematic reversibility in a low Reynolds number cold atom fluid**|Sara Sloman et.al.|[2605.03970](http://arxiv.org/abs/2605.03970)|null|
+|**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
+|**2026-05-05**|**The Real Interest Rate as a Control Variable in the Open Economy**|Carlos Esteban Posada et.al.|[2605.03966](http://arxiv.org/abs/2605.03966)|null|
+|**2026-05-05**|**Tree-independence number of $P_5$ -free graphs with no large bicliques**|Václav Blažej et.al.|[2605.03965](http://arxiv.org/abs/2605.03965)|null|
+|**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
+|**2026-05-05**|**The jet-shaped pipe morphology in planetary nebulae and core-collapse supernova remnants**|Noam Soker et.al.|[2605.03961](http://arxiv.org/abs/2605.03961)|null|
+|**2026-05-05**|**Extended-variable relaxations for the constrained generalized maximum-entropy sampling problem**|Gabriel Ponte et.al.|[2605.03959](http://arxiv.org/abs/2605.03959)|null|
+|**2026-05-05**|**Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials**|Ashique Lal et.al.|[2605.03737](http://arxiv.org/abs/2605.03737)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
 |**2026-05-01**|**W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators**|Afsaneh Kianfar et.al.|[2605.00819](http://arxiv.org/abs/2605.00819)|null|
@@ -2052,6 +2082,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
+|**2026-05-05**|**The Real Interest Rate as a Control Variable in the Open Economy**|Carlos Esteban Posada et.al.|[2605.03966](http://arxiv.org/abs/2605.03966)|null|
+|**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
+|**2026-05-05**|**Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software**|Shravya Kanchi et.al.|[2605.03956](http://arxiv.org/abs/2605.03956)|null|
+|**2026-05-05**|**MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents**|Jonathan Steinberg et.al.|[2605.03952](http://arxiv.org/abs/2605.03952)|null|
+|**2026-05-05**|**Effects of magnetically driven shocks on nucleosynthesis and kilonovae from neutron star mergers**|Yuan Feng et.al.|[2605.03947](http://arxiv.org/abs/2605.03947)|null|
+|**2026-05-05**|**Deterministic Sparse FFT via Keyed Multi-View Gating with $O(\sqrt{N} \log k)$ Expected Time**|Aaron R. Flouro et.al.|[2605.03935](http://arxiv.org/abs/2605.03935)|null|
+|**2026-05-05**|**Turbulent Boundary Layer Height Scales in Hurricanes**|Kishore Ram Sathia et.al.|[2605.03933](http://arxiv.org/abs/2605.03933)|null|
+|**2026-05-05**|**PHALAR: Phasors for Learned Musical Audio Representations**|Davide Marincione et.al.|[2605.03929](http://arxiv.org/abs/2605.03929)|null|
+|**2026-05-05**|**The Multiplicative Quasi-Instrumental Variable Model**|Jiewen Liu et.al.|[2605.03911](http://arxiv.org/abs/2605.03911)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
 |**2026-05-01**|**HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs**|Jinpai Zhao et.al.|[2605.00820](http://arxiv.org/abs/2605.00820)|null|
@@ -2707,6 +2747,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity**|Erfan Iravani et.al.|[2605.03974](http://arxiv.org/abs/2605.03974)|null|
+|**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
+|**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
+|**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
+|**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
+|**2026-05-05**|**Matrix parabolic problems in Sobolev spaces of generalized smoothness**|Valerii Los et.al.|[2605.03967](http://arxiv.org/abs/2605.03967)|null|
+|**2026-05-05**|**Tree-independence number of $P_5$ -free graphs with no large bicliques**|Václav Blažej et.al.|[2605.03965](http://arxiv.org/abs/2605.03965)|null|
+|**2026-05-05**|**Extended-variable relaxations for the constrained generalized maximum-entropy sampling problem**|Gabriel Ponte et.al.|[2605.03959](http://arxiv.org/abs/2605.03959)|null|
+|**2026-05-05**|**Randomized and Diverse Input State Generation for Quantum Program Testing**|Maryse Ernzer et.al.|[2605.03957](http://arxiv.org/abs/2605.03957)|null|
+|**2026-05-05**|**Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials**|Ashique Lal et.al.|[2605.03737](http://arxiv.org/abs/2605.03737)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
 |**2026-05-01**|**W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators**|Afsaneh Kianfar et.al.|[2605.00819](http://arxiv.org/abs/2605.00819)|null|
@@ -3380,6 +3430,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
+|**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
+|**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
+|**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
+|**2026-05-05**|**Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretraining and Fine-Tuning**|Zakarya Elmimouni et.al.|[2605.03968](http://arxiv.org/abs/2605.03968)|null|
+|**2026-05-05**|**Matrix parabolic problems in Sobolev spaces of generalized smoothness**|Valerii Los et.al.|[2605.03967](http://arxiv.org/abs/2605.03967)|null|
+|**2026-05-05**|**The Real Interest Rate as a Control Variable in the Open Economy**|Carlos Esteban Posada et.al.|[2605.03966](http://arxiv.org/abs/2605.03966)|null|
+|**2026-05-05**|**Tree-independence number of $P_5$ -free graphs with no large bicliques**|Václav Blažej et.al.|[2605.03965](http://arxiv.org/abs/2605.03965)|null|
+|**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
+|**2026-05-05**|**Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials**|Ashique Lal et.al.|[2605.03737](http://arxiv.org/abs/2605.03737)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Reliability, Robustness, and Resilience Modeling for Surveillance System in Advanced Air Mobility Operations**|Esrat Farhana Dulia et.al.|[2605.00823](http://arxiv.org/abs/2605.00823)|null|
 |**2026-05-01**|**PEARLS: Two Distinct Populations of AGN Hosts Moving Between Star Formation and Quiescence**|Gibson B. Bowling et.al.|[2605.00822](http://arxiv.org/abs/2605.00822)|null|
