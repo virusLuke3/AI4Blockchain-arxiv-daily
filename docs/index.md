@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Randompack: Cross-Platform Reproducible Random Number Generation and Distribution Sampling**|Kristján Jónasson et.al.|[2605.05099](http://arxiv.org/abs/2605.05099)|null|
+|**2026-05-06**|**Energy-minimizing measures supported near fractal 1-sets**|Rosemarie Bongers et.al.|[2605.05098](http://arxiv.org/abs/2605.05098)|null|
+|**2026-05-06**|**Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics**|Andreas Pattichis et.al.|[2605.05097](http://arxiv.org/abs/2605.05097)|null|
+|**2026-05-06**|**CapsID: Soft-Routed Variable-Length Semantic IDs for Generative Recommendation**|Wenzhuo Cheng et.al.|[2605.05096](http://arxiv.org/abs/2605.05096)|null|
+|**2026-05-06**|**A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry**|Jingsen Zhu et.al.|[2605.05095](http://arxiv.org/abs/2605.05095)|null|
+|**2026-05-06**|**Dynamic Collateral Control for Permissionless Spot Perpetual Basis Trading**|Anatoly Krestenko et.al.|[2605.05089](http://arxiv.org/abs/2605.05089)|null|
+|**2026-05-06**|**The top cohomology of principal congruence subgroups of special linear groups over Euclidean number rings**|Urshita Pal et.al.|[2605.05087](http://arxiv.org/abs/2605.05087)|null|
+|**2026-05-06**|**External Validation of Deep Learning Models for BI-RADS Breast Density Prediction from Ultrasound Images**|Yuxuan Chen et.al.|[2605.05082](http://arxiv.org/abs/2605.05082)|null|
+|**2026-05-06**|**Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations**|Xiaofan Xia et.al.|[2605.05081](http://arxiv.org/abs/2605.05081)|null|
+|**2026-05-06**|**On the minimal generating weighted IFS of self-similar measure**|Junda Zhang et.al.|[2605.05078](http://arxiv.org/abs/2605.05078)|null|
 |**2026-05-05**|**Quantum metrology of mixed states via purification**|Sisi Zhou et.al.|[2605.03975](http://arxiv.org/abs/2605.03975)|null|
 |**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
 |**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
@@ -782,6 +792,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry**|Jingsen Zhu et.al.|[2605.05095](http://arxiv.org/abs/2605.05095)|null|
+|**2026-05-06**|**Proximal Projection for Doubly Sparse Regularized Models**|Jia Wei He et.al.|[2605.05093](http://arxiv.org/abs/2605.05093)|null|
+|**2026-05-06**|**Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout**|Haozhuang Chi et.al.|[2605.05092](http://arxiv.org/abs/2605.05092)|null|
+|**2026-05-06**|**Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models**|Quintin Pope et.al.|[2605.05090](http://arxiv.org/abs/2605.05090)|null|
+|**2026-05-06**|**Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis**|Yunfei Bai et.al.|[2605.05088](http://arxiv.org/abs/2605.05088)|null|
+|**2026-05-06**|**CHAP: A Hybrid GPU-CPU Heuristic for MIP**|Gennesaret Kharistio Tjusila et.al.|[2605.05086](http://arxiv.org/abs/2605.05086)|null|
+|**2026-05-06**|**A formation pathway for giant planets in S-type discs of γ-Cephei-like compact binaries**|María Paula Ronco et.al.|[2605.05085](http://arxiv.org/abs/2605.05085)|null|
+|**2026-05-06**|**Order Matters: Improving Domain Adaptation by Reordering Data**|Andrea Napoli et.al.|[2605.05084](http://arxiv.org/abs/2605.05084)|null|
+|**2026-05-06**|**External Validation of Deep Learning Models for BI-RADS Breast Density Prediction from Ultrasound Images**|Yuxuan Chen et.al.|[2605.05082](http://arxiv.org/abs/2605.05082)|null|
+|**2026-05-06**|**Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations**|Xiaofan Xia et.al.|[2605.05081](http://arxiv.org/abs/2605.05081)|null|
 |**2026-05-05**|**LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity**|Erfan Iravani et.al.|[2605.03974](http://arxiv.org/abs/2605.03974)|null|
 |**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
 |**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
@@ -1427,6 +1447,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics**|Andreas Pattichis et.al.|[2605.05097](http://arxiv.org/abs/2605.05097)|null|
+|**2026-05-06**|**A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry**|Jingsen Zhu et.al.|[2605.05095](http://arxiv.org/abs/2605.05095)|null|
+|**2026-05-06**|**Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout**|Haozhuang Chi et.al.|[2605.05092](http://arxiv.org/abs/2605.05092)|null|
+|**2026-05-06**|**Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior**|Hanbo Xie et.al.|[2605.05091](http://arxiv.org/abs/2605.05091)|null|
+|**2026-05-06**|**Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models**|Quintin Pope et.al.|[2605.05090](http://arxiv.org/abs/2605.05090)|null|
+|**2026-05-06**|**Dynamic Collateral Control for Permissionless Spot Perpetual Basis Trading**|Anatoly Krestenko et.al.|[2605.05089](http://arxiv.org/abs/2605.05089)|null|
+|**2026-05-06**|**Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis**|Yunfei Bai et.al.|[2605.05088](http://arxiv.org/abs/2605.05088)|null|
+|**2026-05-06**|**CHAP: A Hybrid GPU-CPU Heuristic for MIP**|Gennesaret Kharistio Tjusila et.al.|[2605.05086](http://arxiv.org/abs/2605.05086)|null|
+|**2026-05-06**|**Order Matters: Improving Domain Adaptation by Reordering Data**|Andrea Napoli et.al.|[2605.05084](http://arxiv.org/abs/2605.05084)|null|
+|**2026-05-06**|**Time-Fractional Schrödinger Evolution in Coupled Double Quantum Dots: Memory Effects on Quantum Resources**|Abdessamie Chhieb et.al.|[2605.05083](http://arxiv.org/abs/2605.05083)|null|
 |**2026-05-05**|**LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity**|Erfan Iravani et.al.|[2605.03974](http://arxiv.org/abs/2605.03974)|null|
 |**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
 |**2026-05-05**|**Kinematic reversibility in a low Reynolds number cold atom fluid**|Sara Sloman et.al.|[2605.03970](http://arxiv.org/abs/2605.03970)|null|
@@ -2082,6 +2112,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout**|Haozhuang Chi et.al.|[2605.05092](http://arxiv.org/abs/2605.05092)|null|
+|**2026-05-06**|**Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior**|Hanbo Xie et.al.|[2605.05091](http://arxiv.org/abs/2605.05091)|null|
+|**2026-05-06**|**Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models**|Quintin Pope et.al.|[2605.05090](http://arxiv.org/abs/2605.05090)|null|
+|**2026-05-06**|**Dynamic Collateral Control for Permissionless Spot Perpetual Basis Trading**|Anatoly Krestenko et.al.|[2605.05089](http://arxiv.org/abs/2605.05089)|null|
+|**2026-05-06**|**CHAP: A Hybrid GPU-CPU Heuristic for MIP**|Gennesaret Kharistio Tjusila et.al.|[2605.05086](http://arxiv.org/abs/2605.05086)|null|
+|**2026-05-06**|**External Validation of Deep Learning Models for BI-RADS Breast Density Prediction from Ultrasound Images**|Yuxuan Chen et.al.|[2605.05082](http://arxiv.org/abs/2605.05082)|null|
+|**2026-05-06**|**Heterogeneous Judge-Aware Ranking with Sensitivity, Disagreement, and Confidence**|Shibo Yu et.al.|[2605.05073](http://arxiv.org/abs/2605.05073)|null|
+|**2026-05-06**|**Look Once, Beam Twice: Camera-Primed Real-Time Double-Directional mmWave Beam Management for Vehicular Connectivity**|Avhishek Biswas et.al.|[2605.05071](http://arxiv.org/abs/2605.05071)|null|
+|**2026-05-06**|**Full-chip CMP modelling based on Fully Convolutional Network leveraging White Light Interferometry**|Jules Exbrayat et.al.|[2605.05062](http://arxiv.org/abs/2605.05062)|null|
+|**2026-05-06**|**Growth of shear failure in snow slab avalanche release: analytical solution for a compliant weak layer with finite softening**|Johan Gaume et.al.|[2605.05061](http://arxiv.org/abs/2605.05061)|null|
 |**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
 |**2026-05-05**|**The Real Interest Rate as a Control Variable in the Open Economy**|Carlos Esteban Posada et.al.|[2605.03966](http://arxiv.org/abs/2605.03966)|null|
 |**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
@@ -2747,6 +2787,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Randompack: Cross-Platform Reproducible Random Number Generation and Distribution Sampling**|Kristján Jónasson et.al.|[2605.05099](http://arxiv.org/abs/2605.05099)|null|
+|**2026-05-06**|**Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics**|Andreas Pattichis et.al.|[2605.05097](http://arxiv.org/abs/2605.05097)|null|
+|**2026-05-06**|**Theta functions and transformations of bilateral basic hypergeometric series**|Nian Hong Zhou et.al.|[2605.05094](http://arxiv.org/abs/2605.05094)|null|
+|**2026-05-06**|**Proximal Projection for Doubly Sparse Regularized Models**|Jia Wei He et.al.|[2605.05093](http://arxiv.org/abs/2605.05093)|null|
+|**2026-05-06**|**Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior**|Hanbo Xie et.al.|[2605.05091](http://arxiv.org/abs/2605.05091)|null|
+|**2026-05-06**|**Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models**|Quintin Pope et.al.|[2605.05090](http://arxiv.org/abs/2605.05090)|null|
+|**2026-05-06**|**Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis**|Yunfei Bai et.al.|[2605.05088](http://arxiv.org/abs/2605.05088)|null|
+|**2026-05-06**|**Order Matters: Improving Domain Adaptation by Reordering Data**|Andrea Napoli et.al.|[2605.05084](http://arxiv.org/abs/2605.05084)|null|
+|**2026-05-06**|**The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences**|Hubert Plisiecki et.al.|[2605.05080](http://arxiv.org/abs/2605.05080)|null|
+|**2026-05-06**|**On the minimal generating weighted IFS of self-similar measure**|Junda Zhang et.al.|[2605.05078](http://arxiv.org/abs/2605.05078)|null|
 |**2026-05-05**|**LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity**|Erfan Iravani et.al.|[2605.03974](http://arxiv.org/abs/2605.03974)|null|
 |**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
 |**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
@@ -3430,6 +3480,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Energy-minimizing measures supported near fractal 1-sets**|Rosemarie Bongers et.al.|[2605.05098](http://arxiv.org/abs/2605.05098)|null|
+|**2026-05-06**|**Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics**|Andreas Pattichis et.al.|[2605.05097](http://arxiv.org/abs/2605.05097)|null|
+|**2026-05-06**|**A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry**|Jingsen Zhu et.al.|[2605.05095](http://arxiv.org/abs/2605.05095)|null|
+|**2026-05-06**|**Theta functions and transformations of bilateral basic hypergeometric series**|Nian Hong Zhou et.al.|[2605.05094](http://arxiv.org/abs/2605.05094)|null|
+|**2026-05-06**|**Proximal Projection for Doubly Sparse Regularized Models**|Jia Wei He et.al.|[2605.05093](http://arxiv.org/abs/2605.05093)|null|
+|**2026-05-06**|**Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout**|Haozhuang Chi et.al.|[2605.05092](http://arxiv.org/abs/2605.05092)|null|
+|**2026-05-06**|**Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior**|Hanbo Xie et.al.|[2605.05091](http://arxiv.org/abs/2605.05091)|null|
+|**2026-05-06**|**Dynamic Collateral Control for Permissionless Spot Perpetual Basis Trading**|Anatoly Krestenko et.al.|[2605.05089](http://arxiv.org/abs/2605.05089)|null|
+|**2026-05-06**|**Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis**|Yunfei Bai et.al.|[2605.05088](http://arxiv.org/abs/2605.05088)|null|
+|**2026-05-06**|**CHAP: A Hybrid GPU-CPU Heuristic for MIP**|Gennesaret Kharistio Tjusila et.al.|[2605.05086](http://arxiv.org/abs/2605.05086)|null|
 |**2026-05-05**|**Geometry-controlled heat transport pathways and optimal heat transfer in differentially heated cavities**|Krishan Chand et.al.|[2605.03973](http://arxiv.org/abs/2605.03973)|null|
 |**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
 |**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
