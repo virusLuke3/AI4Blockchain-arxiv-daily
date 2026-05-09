@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.08
+## Updated on 2026.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**The Kubo-Thermalization Correspondence**|Songtao Huang et.al.|[2605.06666](http://arxiv.org/abs/2605.06666)|null|
+|**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[2605.06665](http://arxiv.org/abs/2605.06665)|null|
+|**2026-05-07**|**BAMI: Training-Free Bias Mitigation in GUI Grounding**|Borui Zhang et.al.|[2605.06664](http://arxiv.org/abs/2605.06664)|null|
+|**2026-05-07**|**Multi-Robot Coordination in V2X Environments**|John Pravin Arockiasamy et.al.|[2605.06662](http://arxiv.org/abs/2605.06662)|null|
+|**2026-05-07**|**The Pulsar Radial Acceleration Relation**|Tariq Yasin et.al.|[2605.06659](http://arxiv.org/abs/2605.06659)|null|
+|**2026-05-07**|**Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML**|Jai Moondra et.al.|[2605.06656](http://arxiv.org/abs/2605.06656)|null|
+|**2026-05-07**|**Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less**|Yuxing Liu et.al.|[2605.06654](http://arxiv.org/abs/2605.06654)|null|
+|**2026-05-07**|**When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels**|Sushant Gautam et.al.|[2605.06652](http://arxiv.org/abs/2605.06652)|null|
+|**2026-05-07**|**Colossal Magnetoresistance and Phonon Driven Exchange Dynamics in Eu $_5$Sn$_2$As$_6$**|Luke Pritchard Cairns et.al.|[2605.06649](http://arxiv.org/abs/2605.06649)|null|
+|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643](http://arxiv.org/abs/2605.06643)|null|
 |**2026-05-06**|**Randompack: Cross-Platform Reproducible Random Number Generation and Distribution Sampling**|Kristján Jónasson et.al.|[2605.05099](http://arxiv.org/abs/2605.05099)|null|
 |**2026-05-06**|**Energy-minimizing measures supported near fractal 1-sets**|Rosemarie Bongers et.al.|[2605.05098](http://arxiv.org/abs/2605.05098)|null|
 |**2026-05-06**|**Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics**|Andreas Pattichis et.al.|[2605.05097](http://arxiv.org/abs/2605.05097)|null|
@@ -792,6 +802,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
+|**2026-05-07**|**The Kubo-Thermalization Correspondence**|Songtao Huang et.al.|[2605.06666](http://arxiv.org/abs/2605.06666)|null|
+|**2026-05-07**|**BAMI: Training-Free Bias Mitigation in GUI Grounding**|Borui Zhang et.al.|[2605.06664](http://arxiv.org/abs/2605.06664)|null|
+|**2026-05-07**|**Multi-Robot Coordination in V2X Environments**|John Pravin Arockiasamy et.al.|[2605.06662](http://arxiv.org/abs/2605.06662)|null|
+|**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|null|
+|**2026-05-07**|**Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML**|Jai Moondra et.al.|[2605.06656](http://arxiv.org/abs/2605.06656)|null|
+|**2026-05-07**|**Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less**|Yuxing Liu et.al.|[2605.06654](http://arxiv.org/abs/2605.06654)|null|
+|**2026-05-07**|**When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels**|Sushant Gautam et.al.|[2605.06652](http://arxiv.org/abs/2605.06652)|null|
+|**2026-05-07**|**AI Co-Mathematician: Accelerating Mathematicians with Agentic AI**|Daniel Zheng et.al.|[2605.06651](http://arxiv.org/abs/2605.06651)|null|
+|**2026-05-07**|**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**|Mingwei Xu et.al.|[2605.06650](http://arxiv.org/abs/2605.06650)|null|
 |**2026-05-06**|**A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry**|Jingsen Zhu et.al.|[2605.05095](http://arxiv.org/abs/2605.05095)|null|
 |**2026-05-06**|**Proximal Projection for Doubly Sparse Regularized Models**|Jia Wei He et.al.|[2605.05093](http://arxiv.org/abs/2605.05093)|null|
 |**2026-05-06**|**Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout**|Haozhuang Chi et.al.|[2605.05092](http://arxiv.org/abs/2605.05092)|null|
@@ -1447,6 +1467,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Rational homology disk degenerations of elliptic surfaces**|Marcos Canedo et.al.|[2605.06668](http://arxiv.org/abs/2605.06668)|null|
+|**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[2605.06665](http://arxiv.org/abs/2605.06665)|null|
+|**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
+|**2026-05-07**|**Multi-Robot Coordination in V2X Environments**|John Pravin Arockiasamy et.al.|[2605.06662](http://arxiv.org/abs/2605.06662)|null|
+|**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)|null|
+|**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|null|
+|**2026-05-07**|**Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML**|Jai Moondra et.al.|[2605.06656](http://arxiv.org/abs/2605.06656)|null|
+|**2026-05-07**|**Improving Variance Estimation for Covariate Adjustment with Binary Outcomes**|Kaitlyn Lee et.al.|[2605.06655](http://arxiv.org/abs/2605.06655)|null|
+|**2026-05-07**|**When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels**|Sushant Gautam et.al.|[2605.06652](http://arxiv.org/abs/2605.06652)|null|
+|**2026-05-07**|**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**|Mingwei Xu et.al.|[2605.06650](http://arxiv.org/abs/2605.06650)|null|
 |**2026-05-06**|**Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics**|Andreas Pattichis et.al.|[2605.05097](http://arxiv.org/abs/2605.05097)|null|
 |**2026-05-06**|**A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry**|Jingsen Zhu et.al.|[2605.05095](http://arxiv.org/abs/2605.05095)|null|
 |**2026-05-06**|**Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout**|Haozhuang Chi et.al.|[2605.05092](http://arxiv.org/abs/2605.05092)|null|
@@ -2112,6 +2142,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[2605.06665](http://arxiv.org/abs/2605.06665)|null|
+|**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
+|**2026-05-07**|**Multi-Robot Coordination in V2X Environments**|John Pravin Arockiasamy et.al.|[2605.06662](http://arxiv.org/abs/2605.06662)|null|
+|**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)|null|
+|**2026-05-07**|**Significant heat transfer enhancement via polymer additives in two-dimensional sheared convection**|Guanhan Li et.al.|[2605.06657](http://arxiv.org/abs/2605.06657)|null|
+|**2026-05-07**|**Improving Variance Estimation for Covariate Adjustment with Binary Outcomes**|Kaitlyn Lee et.al.|[2605.06655](http://arxiv.org/abs/2605.06655)|null|
+|**2026-05-07**|**A preliminary exploration of the effects of baseline length for the LIFE space mission**|Jonah T. Hansen et.al.|[2605.06648](http://arxiv.org/abs/2605.06648)|null|
+|**2026-05-07**|**Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction**|Yuchen Xiong et.al.|[2605.06644](http://arxiv.org/abs/2605.06644)|null|
+|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643](http://arxiv.org/abs/2605.06643)|null|
+|**2026-05-07**|**Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key**|Tianle Wang et.al.|[2605.06638](http://arxiv.org/abs/2605.06638)|null|
 |**2026-05-06**|**Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout**|Haozhuang Chi et.al.|[2605.05092](http://arxiv.org/abs/2605.05092)|null|
 |**2026-05-06**|**Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior**|Hanbo Xie et.al.|[2605.05091](http://arxiv.org/abs/2605.05091)|null|
 |**2026-05-06**|**Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models**|Quintin Pope et.al.|[2605.05090](http://arxiv.org/abs/2605.05090)|null|
@@ -2787,6 +2827,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Rational homology disk degenerations of elliptic surfaces**|Marcos Canedo et.al.|[2605.06668](http://arxiv.org/abs/2605.06668)|null|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
+|**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
+|**2026-05-07**|**Multi-Robot Coordination in V2X Environments**|John Pravin Arockiasamy et.al.|[2605.06662](http://arxiv.org/abs/2605.06662)|null|
+|**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)|null|
+|**2026-05-07**|**The Pulsar Radial Acceleration Relation**|Tariq Yasin et.al.|[2605.06659](http://arxiv.org/abs/2605.06659)|null|
+|**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|null|
+|**2026-05-07**|**Improving Variance Estimation for Covariate Adjustment with Binary Outcomes**|Kaitlyn Lee et.al.|[2605.06655](http://arxiv.org/abs/2605.06655)|null|
+|**2026-05-07**|**Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less**|Yuxing Liu et.al.|[2605.06654](http://arxiv.org/abs/2605.06654)|null|
+|**2026-05-07**|**From Baby Universes to Narain Moduli: Topological Boundary Averaging in SymTFTs**|Xingyang Yu et.al.|[2605.06653](http://arxiv.org/abs/2605.06653)|null|
 |**2026-05-06**|**Randompack: Cross-Platform Reproducible Random Number Generation and Distribution Sampling**|Kristján Jónasson et.al.|[2605.05099](http://arxiv.org/abs/2605.05099)|null|
 |**2026-05-06**|**Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics**|Andreas Pattichis et.al.|[2605.05097](http://arxiv.org/abs/2605.05097)|null|
 |**2026-05-06**|**Theta functions and transformations of bilateral basic hypergeometric series**|Nian Hong Zhou et.al.|[2605.05094](http://arxiv.org/abs/2605.05094)|null|
