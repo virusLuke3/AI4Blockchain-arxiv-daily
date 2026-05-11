@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -802,6 +802,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Fermionic trace relations and supersymmetric indices at finite $N$**|Giorgos Eleftheriou et.al.|[2605.08085](http://arxiv.org/abs/2605.08085)|null|
+|**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
+|**2026-05-08**|**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**|Tong Zheng et.al.|[2605.08083](http://arxiv.org/abs/2605.08083)|null|
+|**2026-05-08**|**Chase-like Decoding: Test Pattern Design and Performance Analysis**|Tim Janz et.al.|[2605.08081](http://arxiv.org/abs/2605.08081)|null|
+|**2026-05-08**|**Normalizing Trajectory Models**|Jiatao Gu et.al.|[2605.08078](http://arxiv.org/abs/2605.08078)|null|
+|**2026-05-08**|**EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction**|Wei Yu et.al.|[2605.08073](http://arxiv.org/abs/2605.08073)|null|
+|**2026-05-08**|**Vibe Econometrics and the Analysis Contract**|Lydia Ashton et.al.|[2605.08071](http://arxiv.org/abs/2605.08071)|null|
+|**2026-05-08**|**Covert Signaling for Communication and Sensing over the Bosonic Channels**|Tianrui Tan et.al.|[2605.08066](http://arxiv.org/abs/2605.08066)|null|
+|**2026-05-08**|**Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment**|Jerry Jiang et.al.|[2605.08064](http://arxiv.org/abs/2605.08064)|null|
+|**2026-05-08**|**Flow-OPD: On-Policy Distillation for Flow Matching Models**|Zhen Fang et.al.|[2605.08063](http://arxiv.org/abs/2605.08063)|null|
 |**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
 |**2026-05-07**|**The Kubo-Thermalization Correspondence**|Songtao Huang et.al.|[2605.06666](http://arxiv.org/abs/2605.06666)|null|
 |**2026-05-07**|**BAMI: Training-Free Bias Mitigation in GUI Grounding**|Borui Zhang et.al.|[2605.06664](http://arxiv.org/abs/2605.06664)|null|
@@ -1467,6 +1477,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Magnetar field dynamics driven by chiral anomalies without magnetic helicity**|Clara Dehman et.al.|[2605.08068](http://arxiv.org/abs/2605.08068)|null|
+|**2026-05-08**|**The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents**|Jiayuan Liu et.al.|[2605.08060](http://arxiv.org/abs/2605.08060)|null|
+|**2026-05-08**|**An Exactly Solvable Absorbing Quantum Walk**|Francisco Riberi et.al.|[2605.08056](http://arxiv.org/abs/2605.08056)|null|
+|**2026-05-08**|**Light-driven octupolar inverse Faraday effect and multipolar order in Mott insulators**|Saikat Banerjee et.al.|[2605.08049](http://arxiv.org/abs/2605.08049)|null|
+|**2026-05-08**|**ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education**|Yizhou Zhou et.al.|[2605.08040](http://arxiv.org/abs/2605.08040)|null|
+|**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|null|
+|**2026-05-08**|**Dynamical mechanisms of flexible phase-locking in cortical theta oscillators**|Yangyang Wang et.al.|[2605.08014](http://arxiv.org/abs/2605.08014)|null|
+|**2026-05-08**|**Learning CLI Agents with Structured Action Credit under Selective Observation**|Haoyang Su et.al.|[2605.08013](http://arxiv.org/abs/2605.08013)|null|
+|**2026-05-08**|**Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering**|Bhaskar Dutta et.al.|[2605.08010](http://arxiv.org/abs/2605.08010)|null|
+|**2026-05-08**|**Space as a spectroscopic laboratory: High-resolution spectroscopy of the [ $^{13}$ C II] hyperfine structure with SOFIA/upGREAT**|S. Kabanovic et.al.|[2605.07995](http://arxiv.org/abs/2605.07995)|null|
 |**2026-05-07**|**Rational homology disk degenerations of elliptic surfaces**|Marcos Canedo et.al.|[2605.06668](http://arxiv.org/abs/2605.06668)|null|
 |**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[2605.06665](http://arxiv.org/abs/2605.06665)|null|
 |**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
@@ -2142,6 +2162,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Unlocking vacuum entanglement**|Andrew Steane et.al.|[2605.08076](http://arxiv.org/abs/2605.08076)|null|
+|**2026-05-08**|**GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs**|Peyman Baghershahi et.al.|[2605.08074](http://arxiv.org/abs/2605.08074)|null|
+|**2026-05-08**|**EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction**|Wei Yu et.al.|[2605.08073](http://arxiv.org/abs/2605.08073)|null|
+|**2026-05-08**|**Empirical Bayes Rebiasing**|Wanyi Ling et.al.|[2605.08069](http://arxiv.org/abs/2605.08069)|null|
+|**2026-05-08**|**Flow-OPD: On-Policy Distillation for Flow Matching Models**|Zhen Fang et.al.|[2605.08063](http://arxiv.org/abs/2605.08063)|null|
+|**2026-05-08**|**Light-driven octupolar inverse Faraday effect and multipolar order in Mott insulators**|Saikat Banerjee et.al.|[2605.08049](http://arxiv.org/abs/2605.08049)|null|
+|**2026-05-08**|**Accurate and Efficient Statistical Testing for Word Semantic Breadth**|Yo Ehara et.al.|[2605.08048](http://arxiv.org/abs/2605.08048)|null|
+|**2026-05-08**|**Semi-supervised Method for Risk Prediction with Doubly Censored EHR Data**|Jie Zhou et.al.|[2605.08046](http://arxiv.org/abs/2605.08046)|null|
+|**2026-05-08**|**Semiparametric Efficient Test for Interpretable Distributional Treatment Effects**|Houssam Zenati et.al.|[2605.08034](http://arxiv.org/abs/2605.08034)|null|
+|**2026-05-08**|**Weak Order on the MacNeille Completion of Bruhat Order**|Colin Defant et.al.|[2605.08033](http://arxiv.org/abs/2605.08033)|null|
 |**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[2605.06665](http://arxiv.org/abs/2605.06665)|null|
 |**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
 |**2026-05-07**|**Multi-Robot Coordination in V2X Environments**|John Pravin Arockiasamy et.al.|[2605.06662](http://arxiv.org/abs/2605.06662)|null|
@@ -2827,6 +2857,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Fermionic trace relations and supersymmetric indices at finite $N$**|Giorgos Eleftheriou et.al.|[2605.08085](http://arxiv.org/abs/2605.08085)|null|
+|**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
+|**2026-05-08**|**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**|Tong Zheng et.al.|[2605.08083](http://arxiv.org/abs/2605.08083)|null|
+|**2026-05-08**|**Multiscale Structure of Eigenstate Thermalization**|Pavel Orlov et.al.|[2605.08079](http://arxiv.org/abs/2605.08079)|null|
+|**2026-05-08**|**Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration**|Shuhang Lin et.al.|[2605.08077](http://arxiv.org/abs/2605.08077)|null|
+|**2026-05-08**|**Unlocking vacuum entanglement**|Andrew Steane et.al.|[2605.08076](http://arxiv.org/abs/2605.08076)|null|
+|**2026-05-08**|**Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping**|Maryam Maghsoudi et.al.|[2605.08075](http://arxiv.org/abs/2605.08075)|null|
+|**2026-05-08**|**GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs**|Peyman Baghershahi et.al.|[2605.08074](http://arxiv.org/abs/2605.08074)|null|
+|**2026-05-08**|**EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction**|Wei Yu et.al.|[2605.08073](http://arxiv.org/abs/2605.08073)|null|
+|**2026-05-08**|**A Note on Non-Negative $L_1$ -Approximating Polynomials**|Jane H. Lee et.al.|[2605.08072](http://arxiv.org/abs/2605.08072)|null|
 |**2026-05-07**|**Rational homology disk degenerations of elliptic surfaces**|Marcos Canedo et.al.|[2605.06668](http://arxiv.org/abs/2605.06668)|null|
 |**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
 |**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
@@ -3530,6 +3570,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
+|**2026-05-08**|**Advances in quantum learning theory with bosonic systems**|Francesco Anna Mele et.al.|[2605.08082](http://arxiv.org/abs/2605.08082)|null|
+|**2026-05-08**|**Chase-like Decoding: Test Pattern Design and Performance Analysis**|Tim Janz et.al.|[2605.08081](http://arxiv.org/abs/2605.08081)|null|
+|**2026-05-08**|**Multiscale Structure of Eigenstate Thermalization**|Pavel Orlov et.al.|[2605.08079](http://arxiv.org/abs/2605.08079)|null|
+|**2026-05-08**|**Normalizing Trajectory Models**|Jiatao Gu et.al.|[2605.08078](http://arxiv.org/abs/2605.08078)|null|
+|**2026-05-08**|**Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration**|Shuhang Lin et.al.|[2605.08077](http://arxiv.org/abs/2605.08077)|null|
+|**2026-05-08**|**Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping**|Maryam Maghsoudi et.al.|[2605.08075](http://arxiv.org/abs/2605.08075)|null|
+|**2026-05-08**|**GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs**|Peyman Baghershahi et.al.|[2605.08074](http://arxiv.org/abs/2605.08074)|null|
+|**2026-05-08**|**A Note on Non-Negative $L_1$ -Approximating Polynomials**|Jane H. Lee et.al.|[2605.08072](http://arxiv.org/abs/2605.08072)|null|
+|**2026-05-08**|**Vibe Econometrics and the Analysis Contract**|Lydia Ashton et.al.|[2605.08071](http://arxiv.org/abs/2605.08071)|null|
 |**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
 |**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[2605.06665](http://arxiv.org/abs/2605.06665)|null|
 |**2026-05-07**|**BAMI: Training-Free Bias Mitigation in GUI Grounding**|Borui Zhang et.al.|[2605.06664](http://arxiv.org/abs/2605.06664)|null|
