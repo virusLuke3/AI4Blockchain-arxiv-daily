@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -2857,6 +2857,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Relations Are Channels: Knowledge Graph Embedding via Kraus Decompositions**|Sayan Kumar Chaki et.al.|[2605.10317](http://arxiv.org/abs/2605.10317)|null|
+|**2026-05-11**|**Mind Modeling: A ToM-Based Framework for Personalization**|Cristina Gena et.al.|[2605.10306](http://arxiv.org/abs/2605.10306)|null|
+|**2026-05-11**|**Proof of a conjecture of Andrews and Bachraoui on a Hecke sum**|Koustav Banerjee et.al.|[2605.10300](http://arxiv.org/abs/2605.10300)|null|
+|**2026-05-11**|**Robust Probabilistic Shielding for Safe Offline Reinforcement Learning**|Maris F. L. Galesloot et.al.|[2605.10293](http://arxiv.org/abs/2605.10293)|null|
+|**2026-05-11**|**Principal specializations of Grothendieck polynomials**|Haojun Bai et.al.|[2605.10276](http://arxiv.org/abs/2605.10276)|null|
+|**2026-05-11**|**IndustryBench: Probing the Industrial Knowledge Boundaries of LLMs**|Songlin Bai et.al.|[2605.10267](http://arxiv.org/abs/2605.10267)|null|
+|**2026-05-11**|**Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation**|Peiru Yang et.al.|[2605.10253](http://arxiv.org/abs/2605.10253)|null|
+|**2026-05-11**|**Efficient Hybrid CNN-GNN Architecture for Monocular Depth Estimation**|Ishan Narayan et.al.|[2605.10251](http://arxiv.org/abs/2605.10251)|null|
+|**2026-05-11**|**SciIntegrity-Bench: A Benchmark for Evaluating Academic Integrity in AI Scientist Systems**|Zonglin Yang et.al.|[2605.10246](http://arxiv.org/abs/2605.10246)|null|
+|**2026-05-11**|**The Vote-Left Equilibrium: A Deterministic Coordination Strategy for the Faithful in The Traitors**|Vince Knight et.al.|[2605.10233](http://arxiv.org/abs/2605.10233)|null|
 |**2026-05-08**|**Fermionic trace relations and supersymmetric indices at finite $N$**|Giorgos Eleftheriou et.al.|[2605.08085](http://arxiv.org/abs/2605.08085)|null|
 |**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
 |**2026-05-08**|**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**|Tong Zheng et.al.|[2605.08083](http://arxiv.org/abs/2605.08083)|null|
@@ -3570,6 +3580,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Extending Confidence-Based Text2Cypher with Grammar and Schema Aware Filtering**|Makbule Gulcin Ozsoy et.al.|[2605.10318](http://arxiv.org/abs/2605.10318)|null|
+|**2026-05-11**|**Relations Are Channels: Knowledge Graph Embedding via Kraus Decompositions**|Sayan Kumar Chaki et.al.|[2605.10317](http://arxiv.org/abs/2605.10317)|null|
+|**2026-05-11**|**Mapping Partisan Fault Lines Within DAOs**|Thomas Lloyd et.al.|[2605.10316](http://arxiv.org/abs/2605.10316)|null|
+|**2026-05-11**|**Active Tabular Augmentation via Policy-Guided Diffusion Inpainting**|Zheyu Zhang et.al.|[2605.10315](http://arxiv.org/abs/2605.10315)|null|
+|**2026-05-11**|**Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards**|Xin Guo et.al.|[2605.10313](http://arxiv.org/abs/2605.10313)|null|
+|**2026-05-11**|**FusionRCG: Orchestrating Recursive Computation Graphs across GPU Memory Hierarchies**|Yihong Zhang et.al.|[2605.10312](http://arxiv.org/abs/2605.10312)|null|
+|**2026-05-11**|**Do Water Molecules Always Stabilize Resonances? Microhydration Effects on Thymine Shape Resonances**|Sujan Mandal et.al.|[2605.10311](http://arxiv.org/abs/2605.10311)|null|
+|**2026-05-11**|**Positive Alignment: Artificial Intelligence for Human Flourishing**|Ruben Laukkonen et.al.|[2605.10310](http://arxiv.org/abs/2605.10310)|null|
+|**2026-05-11**|**Exponential Decay of $L^2$ -Solutions to Stochastic Nonlinear Schrödinger Equations Driven by Continuous Martingales**|Isamu Dôku et.al.|[2605.10309](http://arxiv.org/abs/2605.10309)|null|
+|**2026-05-11**|**PaMoSplat: Part-Aware Motion-Guided Gaussian Splatting for Dynamic Scene Reconstruction**|Yinan Deng et.al.|[2605.10307](http://arxiv.org/abs/2605.10307)|null|
 |**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
 |**2026-05-08**|**Advances in quantum learning theory with bosonic systems**|Francesco Anna Mele et.al.|[2605.08082](http://arxiv.org/abs/2605.08082)|null|
 |**2026-05-08**|**Chase-like Decoding: Test Pattern Design and Performance Analysis**|Tim Janz et.al.|[2605.08081](http://arxiv.org/abs/2605.08081)|null|
