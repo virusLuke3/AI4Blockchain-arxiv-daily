@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -802,6 +802,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Towards Affordable Energy: A Gymnasium Environment for Electric Utility Demand-Response Programs**|Jose E. Aguilar Escamilla et.al.|[2605.12462](http://arxiv.org/abs/2605.12462)|null|
+|**2026-05-12**|**SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation**|Luke James Miller et.al.|[2605.12389](http://arxiv.org/abs/2605.12389)|null|
+|**2026-05-12**|**Optimized but Unowned: How AI-Authored Goals Undermine the Motivation They Are Meant to Drive**|Vivienne Bihe Chi et.al.|[2605.12344](http://arxiv.org/abs/2605.12344)|null|
+|**2026-05-12**|**Iterative Audit Convergence in LLM-Managed Multi-Agent Systems: A Case Study in Prompt Engineering Quality Assurance**|Elias Calboreanu et.al.|[2605.12280](http://arxiv.org/abs/2605.12280)|null|
+|**2026-05-12**|**Topological Entropy for Power-Law Unimodal Maps**|Michael Benedicks et.al.|[2605.12238](http://arxiv.org/abs/2605.12238)|null|
+|**2026-05-12**|**Following the thread: surface and bulk solvent migration in silicone elastomers from local volumetric swelling**|Chenzhuo Li et.al.|[2605.12125](http://arxiv.org/abs/2605.12125)|null|
+|**2026-05-12**|**Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning**|Jingduo Pan et.al.|[2605.11975](http://arxiv.org/abs/2605.11975)|null|
+|**2026-05-12**|**Bayesian low-rank latent-cluster regression for mixed health outcomes**|Hsin-Hsiung Huang et.al.|[2605.11935](http://arxiv.org/abs/2605.11935)|null|
+|**2026-05-12**|**A comparison of the weakest contractive conditions for Banach and Kannan mappings**|Shunya Hashimoto et.al.|[2605.11883](http://arxiv.org/abs/2605.11883)|null|
+|**2026-05-12**|**Dynamics of the Longest-Edge Altitude Bisection Algorithm**|Jérôme Michaud et.al.|[2605.11842](http://arxiv.org/abs/2605.11842)|null|
 |**2026-05-08**|**Fermionic trace relations and supersymmetric indices at finite $N$**|Giorgos Eleftheriou et.al.|[2605.08085](http://arxiv.org/abs/2605.08085)|null|
 |**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
 |**2026-05-08**|**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**|Tong Zheng et.al.|[2605.08083](http://arxiv.org/abs/2605.08083)|null|
