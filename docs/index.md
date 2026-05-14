@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Extending Blockchain Untraceability with Plausible Deniability**|Eunchan Park et.al.|[2605.13132](http://arxiv.org/abs/2605.13132)|null|
+|**2026-05-13**|**Empirical confirmation of bosonic wealth statistics in Bitcoin UTXOs**|Chanhee Park et.al.|[2605.12853](http://arxiv.org/abs/2605.12853)|null|
+|**2026-05-12**|**Dynamic Transaction Scheduling and Pricing in the Ethereum Mempool**|Fatemeh Fardno et.al.|[2605.12794](http://arxiv.org/abs/2605.12794)|null|
+|**2026-05-12**|**ORCHID: Orchestrated Reduction Consensus for Hash-based Integrity in Distributed Ledgers**|Abraham Itzhak Weinberg et.al.|[2605.12211](http://arxiv.org/abs/2605.12211)|null|
+|**2026-05-12**|**PROTECT-DB: Protecting Data using Replicated State Machines: Efficient Corruption Detection & Recovery**|Anant Utgikar et.al.|[2605.11953](http://arxiv.org/abs/2605.11953)|null|
+|**2026-05-12**|**Five Attacks on x402 Agentic Payment Protocol**|Zelin Li et.al.|[2605.11781](http://arxiv.org/abs/2605.11781)|null|
+|**2026-05-12**|**Deanonymizable Scoped Linkable Ring Signatures**|Montassar Naghmouchi et.al.|[2605.11715](http://arxiv.org/abs/2605.11715)|null|
+|**2026-05-11**|**Benchmarking LLM-Based Static Analysis for Secure Smart Contract Development: Reliability, Limitations, and Potential Hybrid Solutions**|Stefan-Claudiu Susan et.al.|[2605.11163](http://arxiv.org/abs/2605.11163)|null|
+|**2026-05-10**|**PumpSense: Real-Time Detection and Target Extraction of Crypto Pump-and-Dumps on Telegram**|Ahmed Mahrous et.al.|[2605.09431](http://arxiv.org/abs/2605.09431)|null|
+|**2026-05-09**|**Smart Contract Security Beyond Detection**|Tamer Abdelaziz et.al.|[2605.09124](http://arxiv.org/abs/2605.09124)|null|
 |**2026-05-07**|**The Kubo-Thermalization Correspondence**|Songtao Huang et.al.|[2605.06666](http://arxiv.org/abs/2605.06666)|null|
 |**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[2605.06665](http://arxiv.org/abs/2605.06665)|null|
 |**2026-05-07**|**BAMI: Training-Free Bias Mitigation in GUI Grounding**|Borui Zhang et.al.|[2605.06664](http://arxiv.org/abs/2605.06664)|null|
@@ -802,6 +812,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Quantitative Linear Logic for Neuro-Symbolic Learning and Verification**|Thomas Flinkow et.al.|[2605.13845](http://arxiv.org/abs/2605.13845)|null|
+|**2026-05-13**|**R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow**|Zijie Wu et.al.|[2605.13838](http://arxiv.org/abs/2605.13838)|null|
+|**2026-05-13**|**Nagaoka supermetal in the particle-doped triangular Hubbard model**|Rui Cao et.al.|[2605.13837](http://arxiv.org/abs/2605.13837)|null|
+|**2026-05-13**|**Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning**|Hao Sun et.al.|[2605.13835](http://arxiv.org/abs/2605.13835)|null|
+|**2026-05-13**|**QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling**|Hoang-Quan Nguyen et.al.|[2605.13833](http://arxiv.org/abs/2605.13833)|null|
+|**2026-05-13**|**Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context**|Zhaowei Wang et.al.|[2605.13831](http://arxiv.org/abs/2605.13831)|null|
+|**2026-05-13**|**History Anchors: How Prior Behavior Steers LLM Decisions Toward Unsafe Actions**|Alberto G. Rodríguez Salgado et.al.|[2605.13825](http://arxiv.org/abs/2605.13825)|null|
+|**2026-05-13**|**Harnessing Agentic Evolution**|Jiayi Zhang et.al.|[2605.13821](http://arxiv.org/abs/2605.13821)|null|
+|**2026-05-13**|**Neurosymbolic Auditing of Natural-Language Software Requirements**|Bethel Hall et.al.|[2605.13817](http://arxiv.org/abs/2605.13817)|null|
+|**2026-05-13**|**OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation**|Youquan Liu et.al.|[2605.13815](http://arxiv.org/abs/2605.13815)|null|
 |**2026-05-12**|**Towards Affordable Energy: A Gymnasium Environment for Electric Utility Demand-Response Programs**|Jose E. Aguilar Escamilla et.al.|[2605.12462](http://arxiv.org/abs/2605.12462)|null|
 |**2026-05-12**|**SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation**|Luke James Miller et.al.|[2605.12389](http://arxiv.org/abs/2605.12389)|null|
 |**2026-05-12**|**Optimized but Unowned: How AI-Authored Goals Undermine the Motivation They Are Meant to Drive**|Vivienne Bihe Chi et.al.|[2605.12344](http://arxiv.org/abs/2605.12344)|null|
@@ -1487,6 +1507,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data**|Ziheng Zhang et.al.|[2605.13846](http://arxiv.org/abs/2605.13846)|null|
+|**2026-05-13**|**Quantitative Linear Logic for Neuro-Symbolic Learning and Verification**|Thomas Flinkow et.al.|[2605.13845](http://arxiv.org/abs/2605.13845)|null|
+|**2026-05-13**|**The Galaxy Luminosity Functions in ASTRID: Predictions for LSST**|Fatemeh Hafezianzadeh et.al.|[2605.13843](http://arxiv.org/abs/2605.13843)|null|
+|**2026-05-13**|**EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents**|Tara Bogavelli et.al.|[2605.13841](http://arxiv.org/abs/2605.13841)|null|
+|**2026-05-13**|**What is Learnable in Valiant's Theory of the Learnable?**|Steve Hanneke et.al.|[2605.13840](http://arxiv.org/abs/2605.13840)|null|
+|**2026-05-13**|**R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow**|Zijie Wu et.al.|[2605.13838](http://arxiv.org/abs/2605.13838)|null|
+|**2026-05-13**|**Nagaoka supermetal in the particle-doped triangular Hubbard model**|Rui Cao et.al.|[2605.13837](http://arxiv.org/abs/2605.13837)|null|
+|**2026-05-13**|**Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning**|Hao Sun et.al.|[2605.13835](http://arxiv.org/abs/2605.13835)|null|
+|**2026-05-13**|**QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling**|Hoang-Quan Nguyen et.al.|[2605.13833](http://arxiv.org/abs/2605.13833)|null|
+|**2026-05-13**|**Combining moment matrices, symmetric extension, and Lovász theta: $Φ_{\text{E8}}$ is entangled**|Jȩdrzej Stempin et.al.|[2605.13832](http://arxiv.org/abs/2605.13832)|null|
 |**2026-05-08**|**Magnetar field dynamics driven by chiral anomalies without magnetic helicity**|Clara Dehman et.al.|[2605.08068](http://arxiv.org/abs/2605.08068)|null|
 |**2026-05-08**|**The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents**|Jiayuan Liu et.al.|[2605.08060](http://arxiv.org/abs/2605.08060)|null|
 |**2026-05-08**|**An Exactly Solvable Absorbing Quantum Walk**|Francisco Riberi et.al.|[2605.08056](http://arxiv.org/abs/2605.08056)|null|
@@ -2172,6 +2202,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Analytical Fluxes from Generic Schwarzschild Geodesics**|Majed Khalaf et.al.|[2605.13847](http://arxiv.org/abs/2605.13847)|null|
+|**2026-05-13**|**From DES to KiDS: Domain adaptation for cross-survey detection of low-surface-brightness galaxies**|Hareesh Thuruthipilly et.al.|[2605.13842](http://arxiv.org/abs/2605.13842)|null|
+|**2026-05-13**|**Nagaoka supermetal in the particle-doped triangular Hubbard model**|Rui Cao et.al.|[2605.13837](http://arxiv.org/abs/2605.13837)|null|
+|**2026-05-13**|**Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning**|Hao Sun et.al.|[2605.13835](http://arxiv.org/abs/2605.13835)|null|
+|**2026-05-13**|**Combining moment matrices, symmetric extension, and Lovász theta: $Φ_{\text{E8}}$ is entangled**|Jȩdrzej Stempin et.al.|[2605.13832](http://arxiv.org/abs/2605.13832)|null|
+|**2026-05-13**|**Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context**|Zhaowei Wang et.al.|[2605.13831](http://arxiv.org/abs/2605.13831)|null|
+|**2026-05-13**|**Loiter UAV Reinsertion Guidance for Fixed-wing UAV Corridors**|Pradeep J et.al.|[2605.13822](http://arxiv.org/abs/2605.13822)|null|
+|**2026-05-13**|**Emergency Vehicle Preemption Strategies using Machine Learning to Optimize Traffic Operations**|Somdut Roy et.al.|[2605.13814](http://arxiv.org/abs/2605.13814)|null|
+|**2026-05-13**|**JANUS: Anatomy-Conditioned Gating for Robust CT Triage Under Distribution Shift**|Lavsen Dahal et.al.|[2605.13813](http://arxiv.org/abs/2605.13813)|null|
+|**2026-05-13**|**Photometric metallicity of Galactic RR Lyrae stars in the Gaia DR3 era**|Mahiguhappriyaprakash et.al.|[2605.13811](http://arxiv.org/abs/2605.13811)|null|
 |**2026-05-08**|**Unlocking vacuum entanglement**|Andrew Steane et.al.|[2605.08076](http://arxiv.org/abs/2605.08076)|null|
 |**2026-05-08**|**GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs**|Peyman Baghershahi et.al.|[2605.08074](http://arxiv.org/abs/2605.08074)|null|
 |**2026-05-08**|**EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction**|Wei Yu et.al.|[2605.08073](http://arxiv.org/abs/2605.08073)|null|
@@ -2867,6 +2907,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Analytical Fluxes from Generic Schwarzschild Geodesics**|Majed Khalaf et.al.|[2605.13847](http://arxiv.org/abs/2605.13847)|null|
+|**2026-05-13**|**WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data**|Ziheng Zhang et.al.|[2605.13846](http://arxiv.org/abs/2605.13846)|null|
+|**2026-05-13**|**Quantitative Linear Logic for Neuro-Symbolic Learning and Verification**|Thomas Flinkow et.al.|[2605.13845](http://arxiv.org/abs/2605.13845)|null|
+|**2026-05-13**|**Fields where torsion forms decompose**|M. Archita et.al.|[2605.13844](http://arxiv.org/abs/2605.13844)|null|
+|**2026-05-13**|**The Galaxy Luminosity Functions in ASTRID: Predictions for LSST**|Fatemeh Hafezianzadeh et.al.|[2605.13843](http://arxiv.org/abs/2605.13843)|null|
+|**2026-05-13**|**EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents**|Tara Bogavelli et.al.|[2605.13841](http://arxiv.org/abs/2605.13841)|null|
+|**2026-05-13**|**What is Learnable in Valiant's Theory of the Learnable?**|Steve Hanneke et.al.|[2605.13840](http://arxiv.org/abs/2605.13840)|null|
+|**2026-05-13**|**Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights**|Wenrui Bao et.al.|[2605.13839](http://arxiv.org/abs/2605.13839)|null|
+|**2026-05-13**|**Nagaoka supermetal in the particle-doped triangular Hubbard model**|Rui Cao et.al.|[2605.13837](http://arxiv.org/abs/2605.13837)|null|
+|**2026-05-13**|**Reachable-Set Decomposition for Real-Time Aggregation of Multi-Zone HVAC Fleets**|Jingguan Liu et.al.|[2605.13836](http://arxiv.org/abs/2605.13836)|null|
 |**2026-05-11**|**Relations Are Channels: Knowledge Graph Embedding via Kraus Decompositions**|Sayan Kumar Chaki et.al.|[2605.10317](http://arxiv.org/abs/2605.10317)|null|
 |**2026-05-11**|**Mind Modeling: A ToM-Based Framework for Personalization**|Cristina Gena et.al.|[2605.10306](http://arxiv.org/abs/2605.10306)|null|
 |**2026-05-11**|**Proof of a conjecture of Andrews and Bachraoui on a Hecke sum**|Koustav Banerjee et.al.|[2605.10300](http://arxiv.org/abs/2605.10300)|null|
@@ -3590,6 +3640,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Quantitative Linear Logic for Neuro-Symbolic Learning and Verification**|Thomas Flinkow et.al.|[2605.13845](http://arxiv.org/abs/2605.13845)|null|
+|**2026-05-13**|**The Galaxy Luminosity Functions in ASTRID: Predictions for LSST**|Fatemeh Hafezianzadeh et.al.|[2605.13843](http://arxiv.org/abs/2605.13843)|null|
+|**2026-05-13**|**From DES to KiDS: Domain adaptation for cross-survey detection of low-surface-brightness galaxies**|Hareesh Thuruthipilly et.al.|[2605.13842](http://arxiv.org/abs/2605.13842)|null|
+|**2026-05-13**|**EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents**|Tara Bogavelli et.al.|[2605.13841](http://arxiv.org/abs/2605.13841)|null|
+|**2026-05-13**|**What is Learnable in Valiant's Theory of the Learnable?**|Steve Hanneke et.al.|[2605.13840](http://arxiv.org/abs/2605.13840)|null|
+|**2026-05-13**|**Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights**|Wenrui Bao et.al.|[2605.13839](http://arxiv.org/abs/2605.13839)|null|
+|**2026-05-13**|**R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow**|Zijie Wu et.al.|[2605.13838](http://arxiv.org/abs/2605.13838)|null|
+|**2026-05-13**|**Reachable-Set Decomposition for Real-Time Aggregation of Multi-Zone HVAC Fleets**|Jingguan Liu et.al.|[2605.13836](http://arxiv.org/abs/2605.13836)|null|
+|**2026-05-13**|**Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning**|Hao Sun et.al.|[2605.13835](http://arxiv.org/abs/2605.13835)|null|
+|**2026-05-13**|**Topology-Preserving Neural Operator Learning via Hodge Decomposition**|Dongzhe Zheng et.al.|[2605.13834](http://arxiv.org/abs/2605.13834)|null|
 |**2026-05-11**|**Extending Confidence-Based Text2Cypher with Grammar and Schema Aware Filtering**|Makbule Gulcin Ozsoy et.al.|[2605.10318](http://arxiv.org/abs/2605.10318)|null|
 |**2026-05-11**|**Relations Are Channels: Knowledge Graph Embedding via Kraus Decompositions**|Sayan Kumar Chaki et.al.|[2605.10317](http://arxiv.org/abs/2605.10317)|null|
 |**2026-05-11**|**Mapping Partisan Fault Lines Within DAOs**|Thomas Lloyd et.al.|[2605.10316](http://arxiv.org/abs/2605.10316)|null|
