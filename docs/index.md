@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.15
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -1507,6 +1507,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Mixed-State Long-Range Entanglement from Dimensional Constraints**|Leonardo A. Lessa et.al.|[2605.15201](http://arxiv.org/abs/2605.15201)|null|
+|**2026-05-14**|**Primordial Black Hole from Tensor-induced Density Fluctuation: First-order Phase Transitions and Domain Walls**|Utkarsh Kumar et.al.|[2605.15197](http://arxiv.org/abs/2605.15197)|null|
+|**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195](http://arxiv.org/abs/2605.15195)|null|
+|**2026-05-14**|**Non-Invertible Symmetries on Tensor-Product Hilbert Spaces and Quantum Cellular Automata**|Rui Wen et.al.|[2605.15194](http://arxiv.org/abs/2605.15194)|null|
+|**2026-05-14**|**Isocurvature-Free QCD Axion Dark Matter from Inflaton-Driven Early QCD: the Necessity of Inflationary Plateaus**|Katherine Freese et.al.|[2605.15192](http://arxiv.org/abs/2605.15192)|null|
+|**2026-05-14**|**From Coffee Rings to Self-Driven Assembly: Active Matter Enabled Design of Drying Droplets**|Meneka Banik et.al.|[2605.15191](http://arxiv.org/abs/2605.15191)|null|
+|**2026-05-14**|**Strong Gravitational Lensing with the James Webb Space Telescope**|Adi Zitrin et.al.|[2605.15189](http://arxiv.org/abs/2605.15189)|null|
+|**2026-05-14**|**Articraft: An Agentic System for Scalable Articulated 3D Asset Generation**|Matt Zhou et.al.|[2605.15187](http://arxiv.org/abs/2605.15187)|null|
+|**2026-05-14**|**Is Grep All You Need? How Agent Harnesses Reshape Agentic Search**|Sahil Sen et.al.|[2605.15184](http://arxiv.org/abs/2605.15184)|null|
+|**2026-05-14**|**When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability**|ML Nissen Gonzalez et.al.|[2605.15183](http://arxiv.org/abs/2605.15183)|null|
 |**2026-05-13**|**WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data**|Ziheng Zhang et.al.|[2605.13846](http://arxiv.org/abs/2605.13846)|null|
 |**2026-05-13**|**Quantitative Linear Logic for Neuro-Symbolic Learning and Verification**|Thomas Flinkow et.al.|[2605.13845](http://arxiv.org/abs/2605.13845)|null|
 |**2026-05-13**|**The Galaxy Luminosity Functions in ASTRID: Predictions for LSST**|Fatemeh Hafezianzadeh et.al.|[2605.13843](http://arxiv.org/abs/2605.13843)|null|
