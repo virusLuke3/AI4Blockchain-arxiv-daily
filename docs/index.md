@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.16
+## Updated on 2026.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -1517,6 +1517,11 @@ layout: default
 |**2026-05-14**|**Articraft: An Agentic System for Scalable Articulated 3D Asset Generation**|Matt Zhou et.al.|[2605.15187](http://arxiv.org/abs/2605.15187)|null|
 |**2026-05-14**|**Is Grep All You Need? How Agent Harnesses Reshape Agentic Search**|Sahil Sen et.al.|[2605.15184](http://arxiv.org/abs/2605.15184)|null|
 |**2026-05-14**|**When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability**|ML Nissen Gonzalez et.al.|[2605.15183](http://arxiv.org/abs/2605.15183)|null|
+|**2026-05-14**|**Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing**|Ellwil Sharma et.al.|[2605.15179](http://arxiv.org/abs/2605.15179)|null|
+|**2026-05-14**|**Evidential Reasoning Advances Interpretable Real-World Disease Screening**|Chenyu Lian et.al.|[2605.15171](http://arxiv.org/abs/2605.15171)|null|
+|**2026-05-14**|**Axion magnetohydrodynamics and reconnection-driven axion bursts**|H. Terças et.al.|[2605.15162](http://arxiv.org/abs/2605.15162)|null|
+|**2026-05-14**|**MeMo: Memory as a Model**|Ryan Wei Heng Quek et.al.|[2605.15156](http://arxiv.org/abs/2605.15156)|null|
+|**2026-05-14**|**Effective Matter Flavor Conversion Mediated by Pseudo-Sterile States as the Possible Origin of Neutrino Oscillation Anomalies**|Sabya Sachi Chatterjee et.al.|[2605.15146](http://arxiv.org/abs/2605.15146)|null|
 |**2026-05-13**|**WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data**|Ziheng Zhang et.al.|[2605.13846](http://arxiv.org/abs/2605.13846)|null|
 |**2026-05-13**|**Quantitative Linear Logic for Neuro-Symbolic Learning and Verification**|Thomas Flinkow et.al.|[2605.13845](http://arxiv.org/abs/2605.13845)|null|
 |**2026-05-13**|**The Galaxy Luminosity Functions in ASTRID: Predictions for LSST**|Fatemeh Hafezianzadeh et.al.|[2605.13843](http://arxiv.org/abs/2605.13843)|null|
@@ -2232,6 +2237,9 @@ layout: default
 |**2026-05-13**|**Emergency Vehicle Preemption Strategies using Machine Learning to Optimize Traffic Operations**|Somdut Roy et.al.|[2605.13814](http://arxiv.org/abs/2605.13814)|null|
 |**2026-05-13**|**JANUS: Anatomy-Conditioned Gating for Robust CT Triage Under Distribution Shift**|Lavsen Dahal et.al.|[2605.13813](http://arxiv.org/abs/2605.13813)|null|
 |**2026-05-13**|**Photometric metallicity of Galactic RR Lyrae stars in the Gaia DR3 era**|Mahiguhappriyaprakash et.al.|[2605.13811](http://arxiv.org/abs/2605.13811)|null|
+|**2026-05-13**|**Extending Blockchain Untraceability with Plausible Deniability**|Eunchan Park et.al.|[2605.13132](http://arxiv.org/abs/2605.13132)|null|
+|**2026-05-12**|**State Twins: An Off-Chain Substrate for Agentic Reasoning over Decentralized Finance Protocols**|Ian C. Moore et.al.|[2605.11522](http://arxiv.org/abs/2605.11522)|null|
+|**2026-05-11**|**Optimal Control of the Ethena Yield-Bearing Stablecoin**|Matthew Lorig et.al.|[2605.11263](http://arxiv.org/abs/2605.11263)|null|
 |**2026-05-08**|**Unlocking vacuum entanglement**|Andrew Steane et.al.|[2605.08076](http://arxiv.org/abs/2605.08076)|null|
 |**2026-05-08**|**GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs**|Peyman Baghershahi et.al.|[2605.08074](http://arxiv.org/abs/2605.08074)|null|
 |**2026-05-08**|**EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction**|Wei Yu et.al.|[2605.08073](http://arxiv.org/abs/2605.08073)|null|
@@ -2252,6 +2260,8 @@ layout: default
 |**2026-05-07**|**Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction**|Yuchen Xiong et.al.|[2605.06644](http://arxiv.org/abs/2605.06644)|null|
 |**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643](http://arxiv.org/abs/2605.06643)|null|
 |**2026-05-07**|**Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key**|Tianle Wang et.al.|[2605.06638](http://arxiv.org/abs/2605.06638)|null|
+|**2026-05-07**|**Quantum Electron Quasicrystal**|Pierre-Antoine Graham et.al.|[2605.06302](http://arxiv.org/abs/2605.06302)|null|
+|**2026-05-06**|**Toward a Risk Assessment Framework for Institutional DeFi: A Nine-Dimension Approach**|Eva Oberholzer et.al.|[2605.05145](http://arxiv.org/abs/2605.05145)|null|
 |**2026-05-06**|**Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout**|Haozhuang Chi et.al.|[2605.05092](http://arxiv.org/abs/2605.05092)|null|
 |**2026-05-06**|**Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior**|Hanbo Xie et.al.|[2605.05091](http://arxiv.org/abs/2605.05091)|null|
 |**2026-05-06**|**Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models**|Quintin Pope et.al.|[2605.05090](http://arxiv.org/abs/2605.05090)|null|
@@ -2262,6 +2272,7 @@ layout: default
 |**2026-05-06**|**Look Once, Beam Twice: Camera-Primed Real-Time Double-Directional mmWave Beam Management for Vehicular Connectivity**|Avhishek Biswas et.al.|[2605.05071](http://arxiv.org/abs/2605.05071)|null|
 |**2026-05-06**|**Full-chip CMP modelling based on Fully Convolutional Network leveraging White Light Interferometry**|Jules Exbrayat et.al.|[2605.05062](http://arxiv.org/abs/2605.05062)|null|
 |**2026-05-06**|**Growth of shear failure in snow slab avalanche release: analytical solution for a compliant weak layer with finite softening**|Johan Gaume et.al.|[2605.05061](http://arxiv.org/abs/2605.05061)|null|
+|**2026-05-06**|**Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models**|Bartlomiej Sobieski et.al.|[2605.05026](http://arxiv.org/abs/2605.05026)|null|
 |**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969](http://arxiv.org/abs/2605.03969)|null|
 |**2026-05-05**|**The Real Interest Rate as a Control Variable in the Open Economy**|Carlos Esteban Posada et.al.|[2605.03966](http://arxiv.org/abs/2605.03966)|null|
 |**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
@@ -2272,6 +2283,7 @@ layout: default
 |**2026-05-05**|**Turbulent Boundary Layer Height Scales in Hurricanes**|Kishore Ram Sathia et.al.|[2605.03933](http://arxiv.org/abs/2605.03933)|null|
 |**2026-05-05**|**PHALAR: Phasors for Learned Musical Audio Representations**|Davide Marincione et.al.|[2605.03929](http://arxiv.org/abs/2605.03929)|null|
 |**2026-05-05**|**The Multiplicative Quasi-Instrumental Variable Model**|Jiewen Liu et.al.|[2605.03911](http://arxiv.org/abs/2605.03911)|null|
+|**2026-05-04**|**EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs**|Ruichao Liang et.al.|[2605.02868](http://arxiv.org/abs/2605.02868)|null|
 |**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
 |**2026-05-01**|**Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**|J. Mena-Fernández et.al.|[2605.00821](http://arxiv.org/abs/2605.00821)|null|
 |**2026-05-01**|**HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs**|Jinpai Zhao et.al.|[2605.00820](http://arxiv.org/abs/2605.00820)|null|
@@ -2282,6 +2294,7 @@ layout: default
 |**2026-05-01**|**GeoContra: From Fluent GIS Code to Verifiable Spatial Analysis with Geography-Grounded Repair**|Yinhao Xiao et.al.|[2605.00782](http://arxiv.org/abs/2605.00782)|null|
 |**2026-05-01**|**Entanglement capacity of complex networks from quantum walks**|Pravy Prerana et.al.|[2605.00772](http://arxiv.org/abs/2605.00772)|null|
 |**2026-05-01**|**Penalized Likelihood for Dyadic Network Formation Models with Degree Heterogeneity**|Zizhong Yan et.al.|[2605.00771](http://arxiv.org/abs/2605.00771)|null|
+|**2026-05-01**|**Experimental Evidence of Fractional Entropy in Critical Kondo Systems**|C. Piquard et.al.|[2605.00669](http://arxiv.org/abs/2605.00669)|null|
 |**2026-04-30**|**OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction**|Junyoung Lee et.al.|[2604.28197](http://arxiv.org/abs/2604.28197)|null|
 |**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
 |**2026-04-30**|**Representation Fréchet Loss for Visual Generation**|Jiawei Yang et.al.|[2604.28190](http://arxiv.org/abs/2604.28190)|null|
@@ -2292,6 +2305,8 @@ layout: default
 |**2026-04-30**|**Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists**|Yujun Wu et.al.|[2604.28158](http://arxiv.org/abs/2604.28158)|null|
 |**2026-04-30**|**Design and Characteristics of a Thin-Film ThermoMesh for the Efficient Embedded Sensing of a Spatio-Temporally Sparse Heat Source**|Sajjad Boorghan Farahan et.al.|[2604.28148](http://arxiv.org/abs/2604.28148)|null|
 |**2026-04-30**|**Global Optimality for Constrained Exploration via Penalty Regularization**|Florian Wolf et.al.|[2604.28144](http://arxiv.org/abs/2604.28144)|null|
+|**2026-04-30**|**From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX**|Ignat Melnikov et.al.|[2604.28014](http://arxiv.org/abs/2604.28014)|null|
+|**2026-04-30**|**Intent2Tx: Benchmarking LLMs for Translating Natural Language Intents into Ethereum Transactions**|Zhuoran Pan et.al.|[2604.27763](http://arxiv.org/abs/2604.27763)|null|
 |**2026-04-29**|**Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**|Gongbo Zhang et.al.|[2604.26951](http://arxiv.org/abs/2604.26951)|null|
 |**2026-04-29**|**Optimizing Dynamic Metasurface Antenna Configurations for Direction-of-Arrival and Polarization Estimation Using an Experimentally Calibrated Multiport-Network Model**|Jean Tapie et.al.|[2604.26948](http://arxiv.org/abs/2604.26948)|null|
 |**2026-04-29**|**Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation**|Wanrong Zheng et.al.|[2604.26946](http://arxiv.org/abs/2604.26946)|null|
