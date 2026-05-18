@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.17
+## Updated on 2026.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-15**|**Designing Datacenter Power Delivery Hierarchies for the AI Era**|Grant Wilkins et.al.|[2605.16255](http://arxiv.org/abs/2605.16255)|null|
+|**2026-05-15**|**Fortuity and Complexity in a Simple Quark Model**|Jackson R. Fliss et.al.|[2605.16254](http://arxiv.org/abs/2605.16254)|null|
+|**2026-05-15**|**The fractal dimension of Brownian dynamics in liquids**|Michael C. Thumann et.al.|[2605.16252](http://arxiv.org/abs/2605.16252)|null|
+|**2026-05-15**|**A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation**|Pavan Manjunath et.al.|[2605.16250](http://arxiv.org/abs/2605.16250)|null|
+|**2026-05-15**|**The Collapse of Unentangled Stoquastic Merlin-Arthur Proof Systems**|William Gay et.al.|[2605.16249](http://arxiv.org/abs/2605.16249)|null|
+|**2026-05-15**|**Brownian motion: non-equilibrium states from equilibrium trajectories -- recovering hydrodynamic regimes from prepared displacement measurements**|Jason Boynewicz et.al.|[2605.16247](http://arxiv.org/abs/2605.16247)|null|
+|**2026-05-15**|**FRESH: Information-Geometric Calibration of Patient-Level Models to Aggregate Evidence**|Franklin Fuller et.al.|[2605.16246](http://arxiv.org/abs/2605.16246)|null|
+|**2026-05-15**|**Burnside process on parking functions and Dyck paths**|Ivan Z. Feng et.al.|[2605.16244](http://arxiv.org/abs/2605.16244)|null|
+|**2026-05-15**|**Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism**|Mohamed El Gazzah et.al.|[2605.16242](http://arxiv.org/abs/2605.16242)|null|
+|**2026-05-15**|**Evaluation of two determinants involving $q$ -integers**|Zhi-Wei Sun et.al.|[2605.16240](http://arxiv.org/abs/2605.16240)|null|
 |**2026-05-13**|**Extending Blockchain Untraceability with Plausible Deniability**|Eunchan Park et.al.|[2605.13132](http://arxiv.org/abs/2605.13132)|null|
 |**2026-05-13**|**Empirical confirmation of bosonic wealth statistics in Bitcoin UTXOs**|Chanhee Park et.al.|[2605.12853](http://arxiv.org/abs/2605.12853)|null|
 |**2026-05-12**|**Dynamic Transaction Scheduling and Pricing in the Ethereum Mempool**|Fatemeh Fardno et.al.|[2605.12794](http://arxiv.org/abs/2605.12794)|null|
