@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.18
+## Updated on 2026.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**ASSESSING THE STOCHASTIC PROPERTIES OF MODERN PSEUDO-RANDOM GENERATORS FOR PARALLEL COMPUTING**|Théau Wartel et.al.|[2605.18227](http://arxiv.org/abs/2605.18227)|null|
+|**2026-05-18**|**Dynamic Evolution of Pore-scale Heterogeneity and Transport Conditions Control Mineral Dissolution Regimes**|Jinlei Wang et.al.|[2605.18223](http://arxiv.org/abs/2605.18223)|null|
+|**2026-05-18**|**Photometric classification of quasars from DES and photo- $z$ estimation with Machine Learning**|Pablo Motta et.al.|[2605.18218](http://arxiv.org/abs/2605.18218)|null|
+|**2026-05-18**|**3D CO-TALIF distribution above a micro cavity discharge: A systematic approach for plasma catalysis**|Henrik van Impel et.al.|[2605.18217](http://arxiv.org/abs/2605.18217)|null|
+|**2026-05-18**|**Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction**|Luu Huu Phuc et.al.|[2605.18211](http://arxiv.org/abs/2605.18211)|null|
+|**2026-05-18**|**SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning**|Pawat Chunhachatrachai et.al.|[2605.18209](http://arxiv.org/abs/2605.18209)|null|
+|**2026-05-18**|**Phonon-bottlenecked spin relaxation of Er $^{3+}$:CaWO$_4$ at milliKelvin temperatures**|S. Rajendran et.al.|[2605.18208](http://arxiv.org/abs/2605.18208)|null|
+|**2026-05-18**|**Kerr-like black holes shadow surrounded by dark matter halos: Comparison between various dark matter profiles**|Malihe Heydari-Fard et.al.|[2605.18205](http://arxiv.org/abs/2605.18205)|null|
+|**2026-05-18**|**Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster**|Grigory Bartosh et.al.|[2605.18204](http://arxiv.org/abs/2605.18204)|null|
+|**2026-05-18**|**Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models**|Samuele Bortolotti et.al.|[2605.18202](http://arxiv.org/abs/2605.18202)|null|
 |**2026-05-15**|**Designing Datacenter Power Delivery Hierarchies for the AI Era**|Grant Wilkins et.al.|[2605.16255](http://arxiv.org/abs/2605.16255)|null|
 |**2026-05-15**|**Fortuity and Complexity in a Simple Quark Model**|Jackson R. Fliss et.al.|[2605.16254](http://arxiv.org/abs/2605.16254)|null|
 |**2026-05-15**|**The fractal dimension of Brownian dynamics in liquids**|Michael C. Thumann et.al.|[2605.16252](http://arxiv.org/abs/2605.16252)|null|
@@ -822,6 +832,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**Are Sparse Autoencoder Benchmarks Reliable?**|David Chanin et.al.|[2605.18229](http://arxiv.org/abs/2605.18229)|null|
+|**2026-05-18**|**SIREM: Speech-Informed MRI Reconstruction with Learned Sampling**|Md Hasan et.al.|[2605.18221](http://arxiv.org/abs/2605.18221)|null|
+|**2026-05-18**|**3D CO-TALIF distribution above a micro cavity discharge: A systematic approach for plasma catalysis**|Henrik van Impel et.al.|[2605.18217](http://arxiv.org/abs/2605.18217)|null|
+|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
+|**2026-05-18**|**Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction**|Luu Huu Phuc et.al.|[2605.18211](http://arxiv.org/abs/2605.18211)|null|
+|**2026-05-18**|**SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning**|Pawat Chunhachatrachai et.al.|[2605.18209](http://arxiv.org/abs/2605.18209)|null|
+|**2026-05-18**|**Sharp error estimates in stochastic homogenization of parabolic systems with time-dependent coefficients**|Jun Geng et.al.|[2605.18201](http://arxiv.org/abs/2605.18201)|null|
+|**2026-05-18**|**Large deviations of crowding in finite $β$ -ensembles**|Kartick Adhikari et.al.|[2605.18198](http://arxiv.org/abs/2605.18198)|null|
+|**2026-05-18**|**RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots**|Giorgia Modi et.al.|[2605.18197](http://arxiv.org/abs/2605.18197)|null|
+|**2026-05-18**|**Beyond the Cartesian Illusion: Testing Two-Stage Multi-Modal Theory of Mind under Perceptual Bottlenecks**|Yajing Zhou et.al.|[2605.18194](http://arxiv.org/abs/2605.18194)|null|
 |**2026-05-13**|**Quantitative Linear Logic for Neuro-Symbolic Learning and Verification**|Thomas Flinkow et.al.|[2605.13845](http://arxiv.org/abs/2605.13845)|null|
 |**2026-05-13**|**R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow**|Zijie Wu et.al.|[2605.13838](http://arxiv.org/abs/2605.13838)|null|
 |**2026-05-13**|**Nagaoka supermetal in the particle-doped triangular Hubbard model**|Rui Cao et.al.|[2605.13837](http://arxiv.org/abs/2605.13837)|null|
@@ -1517,6 +1537,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**Consistency, unanimity, and the Borda rule in social ranking**|Takahiro Suzuki et.al.|[2605.18228](http://arxiv.org/abs/2605.18228)|null|
+|**2026-05-18**|**Contextual Biasing for Streaming ASR via CTC-based Word Spotting**|Kai-Chen Tsai et.al.|[2605.18222](http://arxiv.org/abs/2605.18222)|null|
+|**2026-05-18**|**SIREM: Speech-Informed MRI Reconstruction with Learned Sampling**|Md Hasan et.al.|[2605.18221](http://arxiv.org/abs/2605.18221)|null|
+|**2026-05-18**|**Photometric classification of quasars from DES and photo- $z$ estimation with Machine Learning**|Pablo Motta et.al.|[2605.18218](http://arxiv.org/abs/2605.18218)|null|
+|**2026-05-18**|**3D CO-TALIF distribution above a micro cavity discharge: A systematic approach for plasma catalysis**|Henrik van Impel et.al.|[2605.18217](http://arxiv.org/abs/2605.18217)|null|
+|**2026-05-18**|**A discrete Boltzmann model with state-dependent power-law relaxation time for nonequilibrium transport in compressible flows**|Demei Li et.al.|[2605.18216](http://arxiv.org/abs/2605.18216)|null|
+|**2026-05-18**|**Tangent Blow-Ups for Processing Non-Manifold Geometry**|Alice Petrov et.al.|[2605.18215](http://arxiv.org/abs/2605.18215)|null|
+|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
+|**2026-05-18**|**Short-Range Tests of the Gravitational Inverse-Square Law**|Jiro Murata et.al.|[2605.18212](http://arxiv.org/abs/2605.18212)|null|
+|**2026-05-18**|**Motion-Enabled Tomography via Gaussian Mixture Models**|Daniel Burrows et.al.|[2605.18210](http://arxiv.org/abs/2605.18210)|null|
 |**2026-05-14**|**Mixed-State Long-Range Entanglement from Dimensional Constraints**|Leonardo A. Lessa et.al.|[2605.15201](http://arxiv.org/abs/2605.15201)|null|
 |**2026-05-14**|**Primordial Black Hole from Tensor-induced Density Fluctuation: First-order Phase Transitions and Domain Walls**|Utkarsh Kumar et.al.|[2605.15197](http://arxiv.org/abs/2605.15197)|null|
 |**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195](http://arxiv.org/abs/2605.15195)|null|
@@ -2227,6 +2257,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**Pressure Effects on CeMnSi: Evolution of Ce 4f and Mn 3d Electronic States and Negative Thermal Expansion**|Sae Nishiyama et.al.|[2605.18230](http://arxiv.org/abs/2605.18230)|null|
+|**2026-05-18**|**SIREM: Speech-Informed MRI Reconstruction with Learned Sampling**|Md Hasan et.al.|[2605.18221](http://arxiv.org/abs/2605.18221)|null|
+|**2026-05-18**|**Photometric classification of quasars from DES and photo- $z$ estimation with Machine Learning**|Pablo Motta et.al.|[2605.18218](http://arxiv.org/abs/2605.18218)|null|
+|**2026-05-18**|**Large deviations of crowding in finite $β$ -ensembles**|Kartick Adhikari et.al.|[2605.18198](http://arxiv.org/abs/2605.18198)|null|
+|**2026-05-18**|**View-Aware Semantic Alignment for Aerial-Ground Person Re-Identification**|Quan Zhang et.al.|[2605.18192](http://arxiv.org/abs/2605.18192)|null|
+|**2026-05-18**|**Token-Space Mask Prediction for Efficient Vision Transformer Segmentation**|Calvin Galagain et.al.|[2605.18177](http://arxiv.org/abs/2605.18177)|null|
+|**2026-05-18**|**Early-Stabilizing Counting**|Christoph Lenzen et.al.|[2605.18171](http://arxiv.org/abs/2605.18171)|null|
+|**2026-05-18**|**Buffer-Parameterized Machine Learning Surrogate Models for Cross-Technology Signal Integrity Analysis and Optimization**|Julian Withöft et.al.|[2605.18170](http://arxiv.org/abs/2605.18170)|null|
+|**2026-05-18**|**Hypergraphx-data: a repository for higher-order network data**|Quintino Francesco Lotito et.al.|[2605.18166](http://arxiv.org/abs/2605.18166)|null|
+|**2026-05-18**|**Explicit entropy bounds for symmetric nearest-neighbor subshifts**|Vuong Bui et.al.|[2605.18164](http://arxiv.org/abs/2605.18164)|null|
 |**2026-05-14**|**EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation**|Ruozhen He et.al.|[2605.15199](http://arxiv.org/abs/2605.15199)|null|
 |**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195](http://arxiv.org/abs/2605.15195)|null|
 |**2026-05-14**|**RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO**|Yanzuo Lu et.al.|[2605.15190](http://arxiv.org/abs/2605.15190)|null|
@@ -2952,6 +2992,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**ASSESSING THE STOCHASTIC PROPERTIES OF MODERN PSEUDO-RANDOM GENERATORS FOR PARALLEL COMPUTING**|Théau Wartel et.al.|[2605.18227](http://arxiv.org/abs/2605.18227)|null|
+|**2026-05-18**|**Context Memorization for Efficient Long Context Generation**|Yasuyuki Okoshi et.al.|[2605.18226](http://arxiv.org/abs/2605.18226)|null|
+|**2026-05-18**|**A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders**|Zegu Zhang et.al.|[2605.18224](http://arxiv.org/abs/2605.18224)|null|
+|**2026-05-18**|**Contextual Biasing for Streaming ASR via CTC-based Word Spotting**|Kai-Chen Tsai et.al.|[2605.18222](http://arxiv.org/abs/2605.18222)|null|
+|**2026-05-18**|**SIREM: Speech-Informed MRI Reconstruction with Learned Sampling**|Md Hasan et.al.|[2605.18221](http://arxiv.org/abs/2605.18221)|null|
+|**2026-05-18**|**Photometric classification of quasars from DES and photo- $z$ estimation with Machine Learning**|Pablo Motta et.al.|[2605.18218](http://arxiv.org/abs/2605.18218)|null|
+|**2026-05-18**|**Tangent Blow-Ups for Processing Non-Manifold Geometry**|Alice Petrov et.al.|[2605.18215](http://arxiv.org/abs/2605.18215)|null|
+|**2026-05-18**|**Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction**|Luu Huu Phuc et.al.|[2605.18211](http://arxiv.org/abs/2605.18211)|null|
+|**2026-05-18**|**Motion-Enabled Tomography via Gaussian Mixture Models**|Daniel Burrows et.al.|[2605.18210](http://arxiv.org/abs/2605.18210)|null|
+|**2026-05-18**|**SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning**|Pawat Chunhachatrachai et.al.|[2605.18209](http://arxiv.org/abs/2605.18209)|null|
 |**2026-05-14**|**Translation symmetry-enforced long-range entanglement in mixed states**|Ryan Thorngren et.al.|[2605.15200](http://arxiv.org/abs/2605.15200)|null|
 |**2026-05-14**|**ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both**|Ziyu Guo et.al.|[2605.15198](http://arxiv.org/abs/2605.15198)|null|
 |**2026-05-14**|**Non-Invertible Symmetries on Tensor-Product Hilbert Spaces and Quantum Cellular Automata**|Rui Wen et.al.|[2605.15194](http://arxiv.org/abs/2605.15194)|null|
@@ -3695,6 +3745,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**Are Sparse Autoencoder Benchmarks Reliable?**|David Chanin et.al.|[2605.18229](http://arxiv.org/abs/2605.18229)|null|
+|**2026-05-18**|**Context Memorization for Efficient Long Context Generation**|Yasuyuki Okoshi et.al.|[2605.18226](http://arxiv.org/abs/2605.18226)|null|
+|**2026-05-18**|**A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders**|Zegu Zhang et.al.|[2605.18224](http://arxiv.org/abs/2605.18224)|null|
+|**2026-05-18**|**Dynamic Evolution of Pore-scale Heterogeneity and Transport Conditions Control Mineral Dissolution Regimes**|Jinlei Wang et.al.|[2605.18223](http://arxiv.org/abs/2605.18223)|null|
+|**2026-05-18**|**Contextual Biasing for Streaming ASR via CTC-based Word Spotting**|Kai-Chen Tsai et.al.|[2605.18222](http://arxiv.org/abs/2605.18222)|null|
+|**2026-05-18**|**SIREM: Speech-Informed MRI Reconstruction with Learned Sampling**|Md Hasan et.al.|[2605.18221](http://arxiv.org/abs/2605.18221)|null|
+|**2026-05-18**|**Short-range order in the CoCrFeMnNi high-entropy alloy from cluster expansion**|Wei Chen et.al.|[2605.18219](http://arxiv.org/abs/2605.18219)|null|
+|**2026-05-18**|**Photometric classification of quasars from DES and photo- $z$ estimation with Machine Learning**|Pablo Motta et.al.|[2605.18218](http://arxiv.org/abs/2605.18218)|null|
+|**2026-05-18**|**A discrete Boltzmann model with state-dependent power-law relaxation time for nonequilibrium transport in compressible flows**|Demei Li et.al.|[2605.18216](http://arxiv.org/abs/2605.18216)|null|
+|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
 |**2026-05-14**|**Translation symmetry-enforced long-range entanglement in mixed states**|Ryan Thorngren et.al.|[2605.15200](http://arxiv.org/abs/2605.15200)|null|
 |**2026-05-14**|**ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both**|Ziyu Guo et.al.|[2605.15198](http://arxiv.org/abs/2605.15198)|null|
 |**2026-05-14**|**RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**|Xiang Fan et.al.|[2605.15196](http://arxiv.org/abs/2605.15196)|null|
