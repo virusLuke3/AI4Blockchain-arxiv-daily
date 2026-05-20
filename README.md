@@ -1,4 +1,4 @@
-## Updated on 2026.05.19
+## Updated on 2026.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,16 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**Swimming with Whales: Analysis of Power Imbalances in Stake-Weighted Governance**|Yuzhe Zhang et.al.|[2605.19264](http://arxiv.org/abs/2605.19264)|null|
+|**2026-05-18**|**Designing On-Chain Options: Amortizing Perpetual Options**|Maxim Bichuch et.al.|[2605.19146](http://arxiv.org/abs/2605.19146)|null|
+|**2026-05-18**|**Concave is the New Linear: The Impossibility of Anti-Plutocratic DAO Governance**|Austin Bennett et.al.|[2605.18990](http://arxiv.org/abs/2605.18990)|null|
+|**2026-05-18**|**Bridging the Cybersecurity Gap Between Web2 and Web3 - An Incident-Based Analysis of Organizational and Application-Level Security Failures**|Tarkan Yavas et.al.|[2605.18484](http://arxiv.org/abs/2605.18484)|null|
 |**2026-05-18**|**ASSESSING THE STOCHASTIC PROPERTIES OF MODERN PSEUDO-RANDOM GENERATORS FOR PARALLEL COMPUTING**|Théau Wartel et.al.|[2605.18227](http://arxiv.org/abs/2605.18227)|null|
 |**2026-05-18**|**Dynamic Evolution of Pore-scale Heterogeneity and Transport Conditions Control Mineral Dissolution Regimes**|Jinlei Wang et.al.|[2605.18223](http://arxiv.org/abs/2605.18223)|null|
 |**2026-05-18**|**Photometric classification of quasars from DES and photo- $z$ estimation with Machine Learning**|Pablo Motta et.al.|[2605.18218](http://arxiv.org/abs/2605.18218)|null|
@@ -159,6 +163,8 @@
 |**2026-05-18**|**Kerr-like black holes shadow surrounded by dark matter halos: Comparison between various dark matter profiles**|Malihe Heydari-Fard et.al.|[2605.18205](http://arxiv.org/abs/2605.18205)|null|
 |**2026-05-18**|**Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster**|Grigory Bartosh et.al.|[2605.18204](http://arxiv.org/abs/2605.18204)|null|
 |**2026-05-18**|**Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models**|Samuele Bortolotti et.al.|[2605.18202](http://arxiv.org/abs/2605.18202)|null|
+|**2026-05-19**|**DARTIC: Decentralized Anonymous Reputation at Scale for Trustworthy Crowdsourcing**|Mouhamed Amine Bouchiha et.al.|[2605.18146](http://arxiv.org/abs/2605.18146)|null|
+|**2026-05-17**|**The Viability of Blockchain Markets under Discrete Clearing and Paid Priority**|Agostino Capponi et.al.|[2605.17425](http://arxiv.org/abs/2605.17425)|null|
 |**2026-05-15**|**Designing Datacenter Power Delivery Hierarchies for the AI Era**|Grant Wilkins et.al.|[2605.16255](http://arxiv.org/abs/2605.16255)|null|
 |**2026-05-15**|**Fortuity and Complexity in a Simple Quark Model**|Jackson R. Fliss et.al.|[2605.16254](http://arxiv.org/abs/2605.16254)|null|
 |**2026-05-15**|**The fractal dimension of Brownian dynamics in liquids**|Michael C. Thumann et.al.|[2605.16252](http://arxiv.org/abs/2605.16252)|null|
@@ -169,6 +175,9 @@
 |**2026-05-15**|**Burnside process on parking functions and Dyck paths**|Ivan Z. Feng et.al.|[2605.16244](http://arxiv.org/abs/2605.16244)|null|
 |**2026-05-15**|**Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism**|Mohamed El Gazzah et.al.|[2605.16242](http://arxiv.org/abs/2605.16242)|null|
 |**2026-05-15**|**Evaluation of two determinants involving $q$ -integers**|Zhi-Wei Sun et.al.|[2605.16240](http://arxiv.org/abs/2605.16240)|null|
+|**2026-05-15**|**Quantum Futures Interactive: A Live Demonstration of Post-Quantum Blockchain Security, Infrastructure Tradeoffs, and Sustainable Distributed Trust**|Dongping Liu et.al.|[2605.15991](http://arxiv.org/abs/2605.15991)|null|
+|**2026-05-15**|**Privacy is Fungibility: Why Endogenous Tokens Are Not Money**|Alex Lynham et.al.|[2605.15934](http://arxiv.org/abs/2605.15934)|null|
+|**2026-05-15**|**Optimum Peer-Turbo: A Scalable and Efficient Solution for P2P Broadcasting**|Muriel Médard et.al.|[2605.15715](http://arxiv.org/abs/2605.15715)|null|
 |**2026-05-13**|**Extending Blockchain Untraceability with Plausible Deniability**|Eunchan Park et.al.|[2605.13132](http://arxiv.org/abs/2605.13132)|null|
 |**2026-05-13**|**Empirical confirmation of bosonic wealth statistics in Bitcoin UTXOs**|Chanhee Park et.al.|[2605.12853](http://arxiv.org/abs/2605.12853)|null|
 |**2026-05-12**|**Dynamic Transaction Scheduling and Pricing in the Ethereum Mempool**|Fatemeh Fardno et.al.|[2605.12794](http://arxiv.org/abs/2605.12794)|null|
@@ -848,12 +857,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars**|Julian Kaltheuner et.al.|[2605.20185](http://arxiv.org/abs/2605.20185)|null|
+|**2026-05-19**|**Hypercube geodesics with few colour changes**|Lawrence Hollom et.al.|[2605.20184](http://arxiv.org/abs/2605.20184)|null|
+|**2026-05-19**|**MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation**|Yujie Wei et.al.|[2605.20183](http://arxiv.org/abs/2605.20183)|null|
+|**2026-05-19**|**Atoms of Thought: Universal EEG Representation Learning with Microstates**|Xinyang Tian et.al.|[2605.20182](http://arxiv.org/abs/2605.20182)|null|
+|**2026-05-19**|**TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload**|Zhiben Chen et.al.|[2605.20179](http://arxiv.org/abs/2605.20179)|null|
+|**2026-05-19**|**From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models**|Juncheng Wu et.al.|[2605.20177](http://arxiv.org/abs/2605.20177)|null|
+|**2026-05-19**|**Multi-axis Analysis of Image Manipulation Localization**|Keanu Nichols et.al.|[2605.20174](http://arxiv.org/abs/2605.20174)|null|
+|**2026-05-19**|**A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents**|Vasundra Srinivasan et.al.|[2605.20173](http://arxiv.org/abs/2605.20173)|null|
+|**2026-05-19**|**Long-term Power Grid Planning via Answer Set Programming**|Antonio Ielo et.al.|[2605.20172](http://arxiv.org/abs/2605.20172)|null|
+|**2026-05-19**|**The OAPS solution: a real-time predictive system for flexible PWR operation**|Guillaume Dupré et.al.|[2605.20169](http://arxiv.org/abs/2605.20169)|null|
 |**2026-05-18**|**Are Sparse Autoencoder Benchmarks Reliable?**|David Chanin et.al.|[2605.18229](http://arxiv.org/abs/2605.18229)|null|
 |**2026-05-18**|**SIREM: Speech-Informed MRI Reconstruction with Learned Sampling**|Md Hasan et.al.|[2605.18221](http://arxiv.org/abs/2605.18221)|null|
 |**2026-05-18**|**3D CO-TALIF distribution above a micro cavity discharge: A systematic approach for plasma catalysis**|Henrik van Impel et.al.|[2605.18217](http://arxiv.org/abs/2605.18217)|null|
@@ -1555,12 +1574,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars**|Julian Kaltheuner et.al.|[2605.20185](http://arxiv.org/abs/2605.20185)|null|
+|**2026-05-19**|**MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation**|Yujie Wei et.al.|[2605.20183](http://arxiv.org/abs/2605.20183)|null|
+|**2026-05-19**|**Atoms of Thought: Universal EEG Representation Learning with Microstates**|Xinyang Tian et.al.|[2605.20182](http://arxiv.org/abs/2605.20182)|null|
+|**2026-05-19**|**Band Structure and topology of a periodically deformed Kitaev honeycomb model**|Abdullah AlJishi et.al.|[2605.20181](http://arxiv.org/abs/2605.20181)|null|
+|**2026-05-19**|**Beyond the Purcell Effect: Controlling Pure Quantum Dephasing with Spin Noise Metasurfaces**|Wenbo Sun et.al.|[2605.20180](http://arxiv.org/abs/2605.20180)|null|
+|**2026-05-19**|**TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload**|Zhiben Chen et.al.|[2605.20179](http://arxiv.org/abs/2605.20179)|null|
+|**2026-05-19**|**Sharp systolic inequalities for Kähler manifolds**|Raphael Tsiamis et.al.|[2605.20178](http://arxiv.org/abs/2605.20178)|null|
+|**2026-05-19**|**From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models**|Juncheng Wu et.al.|[2605.20177](http://arxiv.org/abs/2605.20177)|null|
+|**2026-05-19**|**ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**|Juncheng Wu et.al.|[2605.20176](http://arxiv.org/abs/2605.20176)|null|
+|**2026-05-19**|**Complex deformations of the circle: Group cohomology and Virasoro uniformization**|Sid Maibach et.al.|[2605.20175](http://arxiv.org/abs/2605.20175)|null|
 |**2026-05-18**|**Consistency, unanimity, and the Borda rule in social ranking**|Takahiro Suzuki et.al.|[2605.18228](http://arxiv.org/abs/2605.18228)|null|
 |**2026-05-18**|**Contextual Biasing for Streaming ASR via CTC-based Word Spotting**|Kai-Chen Tsai et.al.|[2605.18222](http://arxiv.org/abs/2605.18222)|null|
 |**2026-05-18**|**SIREM: Speech-Informed MRI Reconstruction with Learned Sampling**|Md Hasan et.al.|[2605.18221](http://arxiv.org/abs/2605.18221)|null|
@@ -2277,12 +2306,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars**|Julian Kaltheuner et.al.|[2605.20185](http://arxiv.org/abs/2605.20185)|null|
+|**2026-05-19**|**Band Structure and topology of a periodically deformed Kitaev honeycomb model**|Abdullah AlJishi et.al.|[2605.20181](http://arxiv.org/abs/2605.20181)|null|
+|**2026-05-19**|**TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload**|Zhiben Chen et.al.|[2605.20179](http://arxiv.org/abs/2605.20179)|null|
+|**2026-05-19**|**From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models**|Juncheng Wu et.al.|[2605.20177](http://arxiv.org/abs/2605.20177)|null|
+|**2026-05-19**|**ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**|Juncheng Wu et.al.|[2605.20176](http://arxiv.org/abs/2605.20176)|null|
+|**2026-05-19**|**Long-term Power Grid Planning via Answer Set Programming**|Antonio Ielo et.al.|[2605.20172](http://arxiv.org/abs/2605.20172)|null|
+|**2026-05-19**|**One in Eight OpenAlex Abstracts Has Integrity Issues**|Seorin Kim et.al.|[2605.20168](http://arxiv.org/abs/2605.20168)|null|
+|**2026-05-19**|**HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands**|Salma Hoque Talukdar Koli et.al.|[2605.20167](http://arxiv.org/abs/2605.20167)|null|
+|**2026-05-19**|**Towards a Matrix Product Ansatz in Two Dimensions**|Chandraniva Guha Ray et.al.|[2605.20160](http://arxiv.org/abs/2605.20160)|null|
+|**2026-05-19**|**Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerospace SiC/SiC Composites**|Antonio Peña Corredor et.al.|[2605.20159](http://arxiv.org/abs/2605.20159)|null|
 |**2026-05-18**|**Pressure Effects on CeMnSi: Evolution of Ce 4f and Mn 3d Electronic States and Negative Thermal Expansion**|Sae Nishiyama et.al.|[2605.18230](http://arxiv.org/abs/2605.18230)|null|
 |**2026-05-18**|**SIREM: Speech-Informed MRI Reconstruction with Learned Sampling**|Md Hasan et.al.|[2605.18221](http://arxiv.org/abs/2605.18221)|null|
 |**2026-05-18**|**Photometric classification of quasars from DES and photo- $z$ estimation with Machine Learning**|Pablo Motta et.al.|[2605.18218](http://arxiv.org/abs/2605.18218)|null|
@@ -3014,12 +3053,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**Atoms of Thought: Universal EEG Representation Learning with Microstates**|Xinyang Tian et.al.|[2605.20182](http://arxiv.org/abs/2605.20182)|null|
+|**2026-05-19**|**TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload**|Zhiben Chen et.al.|[2605.20179](http://arxiv.org/abs/2605.20179)|null|
+|**2026-05-19**|**From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models**|Juncheng Wu et.al.|[2605.20177](http://arxiv.org/abs/2605.20177)|null|
+|**2026-05-19**|**ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**|Juncheng Wu et.al.|[2605.20176](http://arxiv.org/abs/2605.20176)|null|
+|**2026-05-19**|**Complex deformations of the circle: Group cohomology and Virasoro uniformization**|Sid Maibach et.al.|[2605.20175](http://arxiv.org/abs/2605.20175)|null|
+|**2026-05-19**|**A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents**|Vasundra Srinivasan et.al.|[2605.20173](http://arxiv.org/abs/2605.20173)|null|
+|**2026-05-19**|**Controlled expansion for correlated electrons with concentrated kinematics**|Pavel A Nosov et.al.|[2605.20171](http://arxiv.org/abs/2605.20171)|null|
+|**2026-05-19**|**KoRe: Compact Knowledge Representations for Large Language Models**|Davide Cavicchini et.al.|[2605.20170](http://arxiv.org/abs/2605.20170)|null|
+|**2026-05-19**|**One in Eight OpenAlex Abstracts Has Integrity Issues**|Seorin Kim et.al.|[2605.20168](http://arxiv.org/abs/2605.20168)|null|
+|**2026-05-19**|**HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands**|Salma Hoque Talukdar Koli et.al.|[2605.20167](http://arxiv.org/abs/2605.20167)|null|
 |**2026-05-18**|**ASSESSING THE STOCHASTIC PROPERTIES OF MODERN PSEUDO-RANDOM GENERATORS FOR PARALLEL COMPUTING**|Théau Wartel et.al.|[2605.18227](http://arxiv.org/abs/2605.18227)|null|
 |**2026-05-18**|**Context Memorization for Efficient Long Context Generation**|Yasuyuki Okoshi et.al.|[2605.18226](http://arxiv.org/abs/2605.18226)|null|
 |**2026-05-18**|**A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders**|Zegu Zhang et.al.|[2605.18224](http://arxiv.org/abs/2605.18224)|null|
@@ -3769,12 +3818,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**WIMP-like Dark Matter Without Thermalization At Freeze-Out**|Dan Hooper et.al.|[2605.20186](http://arxiv.org/abs/2605.20186)|null|
+|**2026-05-19**|**PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars**|Julian Kaltheuner et.al.|[2605.20185](http://arxiv.org/abs/2605.20185)|null|
+|**2026-05-19**|**Hypercube geodesics with few colour changes**|Lawrence Hollom et.al.|[2605.20184](http://arxiv.org/abs/2605.20184)|null|
+|**2026-05-19**|**Atoms of Thought: Universal EEG Representation Learning with Microstates**|Xinyang Tian et.al.|[2605.20182](http://arxiv.org/abs/2605.20182)|null|
+|**2026-05-19**|**Band Structure and topology of a periodically deformed Kitaev honeycomb model**|Abdullah AlJishi et.al.|[2605.20181](http://arxiv.org/abs/2605.20181)|null|
+|**2026-05-19**|**TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload**|Zhiben Chen et.al.|[2605.20179](http://arxiv.org/abs/2605.20179)|null|
+|**2026-05-19**|**From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models**|Juncheng Wu et.al.|[2605.20177](http://arxiv.org/abs/2605.20177)|null|
+|**2026-05-19**|**ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**|Juncheng Wu et.al.|[2605.20176](http://arxiv.org/abs/2605.20176)|null|
+|**2026-05-19**|**Multi-axis Analysis of Image Manipulation Localization**|Keanu Nichols et.al.|[2605.20174](http://arxiv.org/abs/2605.20174)|null|
+|**2026-05-19**|**A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents**|Vasundra Srinivasan et.al.|[2605.20173](http://arxiv.org/abs/2605.20173)|null|
 |**2026-05-18**|**Are Sparse Autoencoder Benchmarks Reliable?**|David Chanin et.al.|[2605.18229](http://arxiv.org/abs/2605.18229)|null|
 |**2026-05-18**|**Context Memorization for Efficient Long Context Generation**|Yasuyuki Okoshi et.al.|[2605.18226](http://arxiv.org/abs/2605.18226)|null|
 |**2026-05-18**|**A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders**|Zegu Zhang et.al.|[2605.18224](http://arxiv.org/abs/2605.18224)|null|
@@ -4521,7 +4580,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
