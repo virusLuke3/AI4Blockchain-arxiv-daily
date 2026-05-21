@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.20
+## Updated on 2026.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
+|**2026-05-20**|**Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning**|Benhao Huang et.al.|[2605.21488](http://arxiv.org/abs/2605.21488)|null|
+|**2026-05-20**|**Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate**|Dayal Singh Kalra et.al.|[2605.21486](http://arxiv.org/abs/2605.21486)|null|
+|**2026-05-20**|**EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation**|Mansoor Ahmed et.al.|[2605.21485](http://arxiv.org/abs/2605.21485)|null|
+|**2026-05-20**|**Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction**|Tilman Tröster et.al.|[2605.21483](http://arxiv.org/abs/2605.21483)|null|
+|**2026-05-20**|**DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation**|Sixiong Xie et.al.|[2605.21482](http://arxiv.org/abs/2605.21482)|null|
+|**2026-05-20**|**Latent Dynamics for Full Body Avatar Animation**|Shichong Peng et.al.|[2605.21478](http://arxiv.org/abs/2605.21478)|null|
+|**2026-05-20**|**Sharp omega results for the divisor and circle problems**|Youness Lamzouri et.al.|[2605.21476](http://arxiv.org/abs/2605.21476)|null|
+|**2026-05-20**|**Ramsey properties for tilings in random graphs**|Lucas Aragão et.al.|[2605.21471](http://arxiv.org/abs/2605.21471)|null|
+|**2026-05-20**|**Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling**|Caleb Winston et.al.|[2605.21470](http://arxiv.org/abs/2605.21470)|null|
 |**2026-05-19**|**Swimming with Whales: Analysis of Power Imbalances in Stake-Weighted Governance**|Yuzhe Zhang et.al.|[2605.19264](http://arxiv.org/abs/2605.19264)|null|
 |**2026-05-18**|**Designing On-Chain Options: Amortizing Perpetual Options**|Maxim Bichuch et.al.|[2605.19146](http://arxiv.org/abs/2605.19146)|null|
 |**2026-05-18**|**Concave is the New Linear: The Impossibility of Anti-Plutocratic DAO Governance**|Austin Bennett et.al.|[2605.18990](http://arxiv.org/abs/2605.18990)|null|
@@ -841,6 +851,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
+|**2026-05-20**|**Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning**|Benhao Huang et.al.|[2605.21488](http://arxiv.org/abs/2605.21488)|null|
+|**2026-05-20**|**Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning**|Dian Zheng et.al.|[2605.21487](http://arxiv.org/abs/2605.21487)|null|
+|**2026-05-20**|**Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate**|Dayal Singh Kalra et.al.|[2605.21486](http://arxiv.org/abs/2605.21486)|null|
+|**2026-05-20**|**EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation**|Mansoor Ahmed et.al.|[2605.21485](http://arxiv.org/abs/2605.21485)|null|
+|**2026-05-20**|**One-Step Distillation of Discrete Diffusion Image Generators via Fixed-Point Iteration**|Chaoyang Wang et.al.|[2605.21484](http://arxiv.org/abs/2605.21484)|null|
+|**2026-05-20**|**DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation**|Sixiong Xie et.al.|[2605.21482](http://arxiv.org/abs/2605.21482)|null|
+|**2026-05-20**|**WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata**|Basel Shbita et.al.|[2605.21479](http://arxiv.org/abs/2605.21479)|null|
+|**2026-05-20**|**Latent Dynamics for Full Body Avatar Animation**|Shichong Peng et.al.|[2605.21478](http://arxiv.org/abs/2605.21478)|null|
+|**2026-05-20**|**Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning**|Yi Huang et.al.|[2605.21475](http://arxiv.org/abs/2605.21475)|null|
 |**2026-05-19**|**PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars**|Julian Kaltheuner et.al.|[2605.20185](http://arxiv.org/abs/2605.20185)|null|
 |**2026-05-19**|**Hypercube geodesics with few colour changes**|Lawrence Hollom et.al.|[2605.20184](http://arxiv.org/abs/2605.20184)|null|
 |**2026-05-19**|**MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation**|Yujie Wei et.al.|[2605.20183](http://arxiv.org/abs/2605.20183)|null|
@@ -1556,6 +1576,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
+|**2026-05-20**|**Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning**|Benhao Huang et.al.|[2605.21488](http://arxiv.org/abs/2605.21488)|null|
+|**2026-05-20**|**Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate**|Dayal Singh Kalra et.al.|[2605.21486](http://arxiv.org/abs/2605.21486)|null|
+|**2026-05-20**|**One-Step Distillation of Discrete Diffusion Image Generators via Fixed-Point Iteration**|Chaoyang Wang et.al.|[2605.21484](http://arxiv.org/abs/2605.21484)|null|
+|**2026-05-20**|**DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation**|Sixiong Xie et.al.|[2605.21482](http://arxiv.org/abs/2605.21482)|null|
+|**2026-05-20**|**AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists**|Junshu Pan et.al.|[2605.21481](http://arxiv.org/abs/2605.21481)|null|
+|**2026-05-20**|**WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata**|Basel Shbita et.al.|[2605.21479](http://arxiv.org/abs/2605.21479)|null|
+|**2026-05-20**|**Latent Dynamics for Full Body Avatar Animation**|Shichong Peng et.al.|[2605.21478](http://arxiv.org/abs/2605.21478)|null|
+|**2026-05-20**|**Sharp omega results for the divisor and circle problems**|Youness Lamzouri et.al.|[2605.21476](http://arxiv.org/abs/2605.21476)|null|
+|**2026-05-20**|**Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning**|Yi Huang et.al.|[2605.21475](http://arxiv.org/abs/2605.21475)|null|
 |**2026-05-19**|**PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars**|Julian Kaltheuner et.al.|[2605.20185](http://arxiv.org/abs/2605.20185)|null|
 |**2026-05-19**|**MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation**|Yujie Wei et.al.|[2605.20183](http://arxiv.org/abs/2605.20183)|null|
 |**2026-05-19**|**Atoms of Thought: Universal EEG Representation Learning with Microstates**|Xinyang Tian et.al.|[2605.20182](http://arxiv.org/abs/2605.20182)|null|
@@ -2286,6 +2316,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning**|Dian Zheng et.al.|[2605.21487](http://arxiv.org/abs/2605.21487)|null|
+|**2026-05-20**|**Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction**|Tilman Tröster et.al.|[2605.21483](http://arxiv.org/abs/2605.21483)|null|
+|**2026-05-20**|**AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists**|Junshu Pan et.al.|[2605.21481](http://arxiv.org/abs/2605.21481)|null|
+|**2026-05-20**|**Latent Dynamics for Full Body Avatar Animation**|Shichong Peng et.al.|[2605.21478](http://arxiv.org/abs/2605.21478)|null|
+|**2026-05-20**|**Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling**|Caleb Winston et.al.|[2605.21470](http://arxiv.org/abs/2605.21470)|null|
+|**2026-05-20**|**You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories**|Zhepei Wei et.al.|[2605.21468](http://arxiv.org/abs/2605.21468)|null|
+|**2026-05-20**|**Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution**|Weixing Zhang et.al.|[2605.21465](http://arxiv.org/abs/2605.21465)|null|
+|**2026-05-20**|**A Machine Learning Framework for Weighted Least Squares GNSS Positioning based on Activation Functions**|Pin-Hsun Lee et.al.|[2605.21461](http://arxiv.org/abs/2605.21461)|null|
+|**2026-05-20**|**An Exponential Sample-Complexity Advantage for Coherent Quantum Inference**|Zhaoyi Li et.al.|[2605.21457](http://arxiv.org/abs/2605.21457)|null|
+|**2026-05-20**|**ProtoPathway: Biologically Structured Prototype-Pathway Fusion for Multimodal Cancer Survival Prediction**|Amaya Gallagher-Syed et.al.|[2605.21454](http://arxiv.org/abs/2605.21454)|null|
 |**2026-05-19**|**PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars**|Julian Kaltheuner et.al.|[2605.20185](http://arxiv.org/abs/2605.20185)|null|
 |**2026-05-19**|**Band Structure and topology of a periodically deformed Kitaev honeycomb model**|Abdullah AlJishi et.al.|[2605.20181](http://arxiv.org/abs/2605.20181)|null|
 |**2026-05-19**|**TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload**|Zhiben Chen et.al.|[2605.20179](http://arxiv.org/abs/2605.20179)|null|
@@ -3031,6 +3071,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
+|**2026-05-20**|**Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning**|Benhao Huang et.al.|[2605.21488](http://arxiv.org/abs/2605.21488)|null|
+|**2026-05-20**|**EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation**|Mansoor Ahmed et.al.|[2605.21485](http://arxiv.org/abs/2605.21485)|null|
+|**2026-05-20**|**One-Step Distillation of Discrete Diffusion Image Generators via Fixed-Point Iteration**|Chaoyang Wang et.al.|[2605.21484](http://arxiv.org/abs/2605.21484)|null|
+|**2026-05-20**|**Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction**|Tilman Tröster et.al.|[2605.21483](http://arxiv.org/abs/2605.21483)|null|
+|**2026-05-20**|**AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists**|Junshu Pan et.al.|[2605.21481](http://arxiv.org/abs/2605.21481)|null|
+|**2026-05-20**|**Thresholds for geometric graphs**|Bhargav Narayanan et.al.|[2605.21480](http://arxiv.org/abs/2605.21480)|null|
+|**2026-05-20**|**WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata**|Basel Shbita et.al.|[2605.21479](http://arxiv.org/abs/2605.21479)|null|
+|**2026-05-20**|**Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning**|Yi Huang et.al.|[2605.21475](http://arxiv.org/abs/2605.21475)|null|
+|**2026-05-20**|**The Gamified Katětov order is not linear (in fact, very much not so)**|Takayuki Kihara et.al.|[2605.21473](http://arxiv.org/abs/2605.21473)|null|
 |**2026-05-19**|**Atoms of Thought: Universal EEG Representation Learning with Microstates**|Xinyang Tian et.al.|[2605.20182](http://arxiv.org/abs/2605.20182)|null|
 |**2026-05-19**|**TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload**|Zhiben Chen et.al.|[2605.20179](http://arxiv.org/abs/2605.20179)|null|
 |**2026-05-19**|**From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models**|Juncheng Wu et.al.|[2605.20177](http://arxiv.org/abs/2605.20177)|null|
@@ -3794,6 +3844,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
+|**2026-05-20**|**Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning**|Benhao Huang et.al.|[2605.21488](http://arxiv.org/abs/2605.21488)|null|
+|**2026-05-20**|**Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning**|Dian Zheng et.al.|[2605.21487](http://arxiv.org/abs/2605.21487)|null|
+|**2026-05-20**|**Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate**|Dayal Singh Kalra et.al.|[2605.21486](http://arxiv.org/abs/2605.21486)|null|
+|**2026-05-20**|**EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation**|Mansoor Ahmed et.al.|[2605.21485](http://arxiv.org/abs/2605.21485)|null|
+|**2026-05-20**|**One-Step Distillation of Discrete Diffusion Image Generators via Fixed-Point Iteration**|Chaoyang Wang et.al.|[2605.21484](http://arxiv.org/abs/2605.21484)|null|
+|**2026-05-20**|**Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction**|Tilman Tröster et.al.|[2605.21483](http://arxiv.org/abs/2605.21483)|null|
+|**2026-05-20**|**DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation**|Sixiong Xie et.al.|[2605.21482](http://arxiv.org/abs/2605.21482)|null|
+|**2026-05-20**|**AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists**|Junshu Pan et.al.|[2605.21481](http://arxiv.org/abs/2605.21481)|null|
+|**2026-05-20**|**Latent Dynamics for Full Body Avatar Animation**|Shichong Peng et.al.|[2605.21478](http://arxiv.org/abs/2605.21478)|null|
 |**2026-05-19**|**WIMP-like Dark Matter Without Thermalization At Freeze-Out**|Dan Hooper et.al.|[2605.20186](http://arxiv.org/abs/2605.20186)|null|
 |**2026-05-19**|**PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars**|Julian Kaltheuner et.al.|[2605.20185](http://arxiv.org/abs/2605.20185)|null|
 |**2026-05-19**|**Hypercube geodesics with few colour changes**|Lawrence Hollom et.al.|[2605.20184](http://arxiv.org/abs/2605.20184)|null|
