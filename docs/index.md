@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.21
+## Updated on 2026.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -1576,6 +1576,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation**|Wenxuan Guo et.al.|[2605.22816](http://arxiv.org/abs/2605.22816)|null|
+|**2026-05-21**|**Hollow Needle Puncture Mechanics for Biopsy Sampling**|Yiting Wu et.al.|[2605.22790](http://arxiv.org/abs/2605.22790)|null|
+|**2026-05-21**|**DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback**|Yunpeng Dong et.al.|[2605.22781](http://arxiv.org/abs/2605.22781)|null|
+|**2026-05-21**|**Generation of Quantum Turbulence by Neutrino Cooling in Neutron Stars**|J. A. Sauls et.al.|[2605.22768](http://arxiv.org/abs/2605.22768)|null|
+|**2026-05-21**|**Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation**|Samson Gourevitch et.al.|[2605.22765](http://arxiv.org/abs/2605.22765)|null|
+|**2026-05-21**|**Global existence and stability of solutions for the 2D non-resistive compressible MHD system**|Yi Zhu et.al.|[2605.22741](http://arxiv.org/abs/2605.22741)|null|
+|**2026-05-21**|**ChronoMedKG: A Temporally-Grounded Biomedical Knowledge Graph and Benchmark for Clinical Reasoning**|Md Shamim Ahmed et.al.|[2605.22734](http://arxiv.org/abs/2605.22734)|null|
+|**2026-05-21**|**HarnessAPI: A Skill-First Framework for Unified Streaming APIs and MCP Tools**|Edwin Jose et.al.|[2605.22733](http://arxiv.org/abs/2605.22733)|null|
+|**2026-05-21**|**AMEL: Accumulated Message Effects on LLM Judgments**|Sid-ali Temkit et.al.|[2605.22714](http://arxiv.org/abs/2605.22714)|null|
+|**2026-05-21**|**Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals**|Shuo Yang et.al.|[2605.22703](http://arxiv.org/abs/2605.22703)|null|
 |**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
 |**2026-05-20**|**Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning**|Benhao Huang et.al.|[2605.21488](http://arxiv.org/abs/2605.21488)|null|
 |**2026-05-20**|**Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate**|Dayal Singh Kalra et.al.|[2605.21486](http://arxiv.org/abs/2605.21486)|null|
