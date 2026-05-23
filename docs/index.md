@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.22
+## Updated on 2026.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**Monotone Erasure Codes**|Vivien Bammert et.al.|[2605.22426](http://arxiv.org/abs/2605.22426)|null|
+|**2026-05-21**|**An Architecture for Decentralised Deployment and Operation of Blockchain Applications**|Fabian Stiehle et.al.|[2605.22239](http://arxiv.org/abs/2605.22239)|null|
+|**2026-05-21**|**Single-Item Auctions with a Monopolist Intermediary**|Jingyi Liu et.al.|[2605.21934](http://arxiv.org/abs/2605.21934)|null|
+|**2026-05-20**|**bioETH-PRS: Confidential Polygenic Risk Scoring without a Trusted Evaluator via Fully Homomorphic Encryption on a Programmable Blockchain**|Kimon Antonios Provatas et.al.|[2605.21634](http://arxiv.org/abs/2605.21634)|null|
 |**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
 |**2026-05-20**|**Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning**|Benhao Huang et.al.|[2605.21488](http://arxiv.org/abs/2605.21488)|null|
 |**2026-05-20**|**Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate**|Dayal Singh Kalra et.al.|[2605.21486](http://arxiv.org/abs/2605.21486)|null|
@@ -139,10 +143,12 @@ layout: default
 |**2026-05-20**|**Sharp omega results for the divisor and circle problems**|Youness Lamzouri et.al.|[2605.21476](http://arxiv.org/abs/2605.21476)|null|
 |**2026-05-20**|**Ramsey properties for tilings in random graphs**|Lucas Aragão et.al.|[2605.21471](http://arxiv.org/abs/2605.21471)|null|
 |**2026-05-20**|**Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling**|Caleb Winston et.al.|[2605.21470](http://arxiv.org/abs/2605.21470)|null|
+|**2026-05-20**|**Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs**|Mouhamed Amine Bouchiha et.al.|[2605.21115](http://arxiv.org/abs/2605.21115)|null|
+|**2026-05-19**|**Modern Portfolio Theory in the Crypto-Wilderness**|Ivan Vynyavskyy et.al.|[2605.20528](http://arxiv.org/abs/2605.20528)|null|
 |**2026-05-19**|**Swimming with Whales: Analysis of Power Imbalances in Stake-Weighted Governance**|Yuzhe Zhang et.al.|[2605.19264](http://arxiv.org/abs/2605.19264)|null|
 |**2026-05-18**|**Designing On-Chain Options: Amortizing Perpetual Options**|Maxim Bichuch et.al.|[2605.19146](http://arxiv.org/abs/2605.19146)|null|
 |**2026-05-18**|**Concave is the New Linear: The Impossibility of Anti-Plutocratic DAO Governance**|Austin Bennett et.al.|[2605.18990](http://arxiv.org/abs/2605.18990)|null|
-|**2026-05-18**|**Bridging the Cybersecurity Gap Between Web2 and Web3 - An Incident-Based Analysis of Organizational and Application-Level Security Failures**|Tarkan Yavas et.al.|[2605.18484](http://arxiv.org/abs/2605.18484)|null|
+|**2026-05-18**|**Bridging the Cybersecurity Gap Between Web2 and Web3 -- An Incident-Based Analysis of Organizational and Application-Level Security Failures**|Tarkan Yavas et.al.|[2605.18484](http://arxiv.org/abs/2605.18484)|null|
 |**2026-05-18**|**ASSESSING THE STOCHASTIC PROPERTIES OF MODERN PSEUDO-RANDOM GENERATORS FOR PARALLEL COMPUTING**|Théau Wartel et.al.|[2605.18227](http://arxiv.org/abs/2605.18227)|null|
 |**2026-05-18**|**Dynamic Evolution of Pore-scale Heterogeneity and Transport Conditions Control Mineral Dissolution Regimes**|Jinlei Wang et.al.|[2605.18223](http://arxiv.org/abs/2605.18223)|null|
 |**2026-05-18**|**Photometric classification of quasars from DES and photo- $z$ estimation with Machine Learning**|Pablo Motta et.al.|[2605.18218](http://arxiv.org/abs/2605.18218)|null|
@@ -851,6 +857,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs**|Jongseo Lee et.al.|[2605.22823](http://arxiv.org/abs/2605.22823)|null|
+|**2026-05-21**|**Tokenisation via Convex Relaxations**|Jan Tempus et.al.|[2605.22821](http://arxiv.org/abs/2605.22821)|null|
+|**2026-05-21**|**Cambrian-P: Pose-Grounded Video Understanding**|Jihan Yang et.al.|[2605.22819](http://arxiv.org/abs/2605.22819)|null|
+|**2026-05-21**|**MotiMotion: Motion-Controlled Video Generation with Visual Reasoning**|Lee Hsin-Ying et.al.|[2605.22818](http://arxiv.org/abs/2605.22818)|null|
+|**2026-05-21**|**Vector Policy Optimization: Training for Diversity Improves Test-Time Search**|Ryan Bahlous-Boldi et.al.|[2605.22817](http://arxiv.org/abs/2605.22817)|null|
+|**2026-05-21**|**AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation**|Wenxuan Guo et.al.|[2605.22816](http://arxiv.org/abs/2605.22816)|null|
+|**2026-05-21**|**Optimal Testing of Reed-Muller Codes with an Online Adversary**|Esty Kelman et.al.|[2605.22813](http://arxiv.org/abs/2605.22813)|null|
+|**2026-05-21**|**GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations**|Wenxuan Guo et.al.|[2605.22812](http://arxiv.org/abs/2605.22812)|null|
+|**2026-05-21**|**Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving**|Jiahao Wang et.al.|[2605.22809](http://arxiv.org/abs/2605.22809)|null|
+|**2026-05-21**|**From protogalaxy through thick and thin: Why did the Milky Way evolve in three kinematic phases?**|Olti Myrtaj et.al.|[2605.22806](http://arxiv.org/abs/2605.22806)|null|
 |**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
 |**2026-05-20**|**Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning**|Benhao Huang et.al.|[2605.21488](http://arxiv.org/abs/2605.21488)|null|
 |**2026-05-20**|**Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning**|Dian Zheng et.al.|[2605.21487](http://arxiv.org/abs/2605.21487)|null|
@@ -2326,6 +2342,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**Tokenisation via Convex Relaxations**|Jan Tempus et.al.|[2605.22821](http://arxiv.org/abs/2605.22821)|null|
+|**2026-05-21**|**Integrable Elasticity via Neural Demand Potentials**|Carlos Heredia et.al.|[2605.22820](http://arxiv.org/abs/2605.22820)|null|
+|**2026-05-21**|**MotiMotion: Motion-Controlled Video Generation with Visual Reasoning**|Lee Hsin-Ying et.al.|[2605.22818](http://arxiv.org/abs/2605.22818)|null|
+|**2026-05-21**|**New constraints on physics within and beyond the standard model from the latest CONUS datasets**|N. Ackermann et.al.|[2605.22815](http://arxiv.org/abs/2605.22815)|null|
+|**2026-05-21**|**Another Look at the Weak-Field Limit of Generalized Hybrid Metric-Palatini Gravity**|Gustavo Melgarejo et.al.|[2605.22801](http://arxiv.org/abs/2605.22801)|null|
+|**2026-05-21**|**Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models**|Krishnakumar Balasubramanian et.al.|[2605.22795](http://arxiv.org/abs/2605.22795)|null|
+|**2026-05-21**|**From Arbitrage Removal to Density Extraction: A Model-Free Framework for Short-Dated Options**|Aaron Wizman et.al.|[2605.22792](http://arxiv.org/abs/2605.22792)|null|
+|**2026-05-21**|**Evaluating Commercial AI Chatbots as News Intermediaries**|Mirac Suzgun et.al.|[2605.22785](http://arxiv.org/abs/2605.22785)|null|
+|**2026-05-21**|**MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data**|Amir Mousavi et.al.|[2605.22775](http://arxiv.org/abs/2605.22775)|null|
+|**2026-05-21**|**Adiabatic Quantum Phase Estimation**|Alexander Schmidhuber et.al.|[2605.22770](http://arxiv.org/abs/2605.22770)|null|
 |**2026-05-20**|**Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning**|Dian Zheng et.al.|[2605.21487](http://arxiv.org/abs/2605.21487)|null|
 |**2026-05-20**|**Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction**|Tilman Tröster et.al.|[2605.21483](http://arxiv.org/abs/2605.21483)|null|
 |**2026-05-20**|**AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists**|Junshu Pan et.al.|[2605.21481](http://arxiv.org/abs/2605.21481)|null|
@@ -3081,6 +3107,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**Bottom-up open EFT for non-Abelian gauge theory with dynamical color environment**|Yoshihiko Abe et.al.|[2605.22822](http://arxiv.org/abs/2605.22822)|null|
+|**2026-05-21**|**Tokenisation via Convex Relaxations**|Jan Tempus et.al.|[2605.22821](http://arxiv.org/abs/2605.22821)|null|
+|**2026-05-21**|**Integrable Elasticity via Neural Demand Potentials**|Carlos Heredia et.al.|[2605.22820](http://arxiv.org/abs/2605.22820)|null|
+|**2026-05-21**|**Cambrian-P: Pose-Grounded Video Understanding**|Jihan Yang et.al.|[2605.22819](http://arxiv.org/abs/2605.22819)|null|
+|**2026-05-21**|**MotiMotion: Motion-Controlled Video Generation with Visual Reasoning**|Lee Hsin-Ying et.al.|[2605.22818](http://arxiv.org/abs/2605.22818)|null|
+|**2026-05-21**|**Vector Policy Optimization: Training for Diversity Improves Test-Time Search**|Ryan Bahlous-Boldi et.al.|[2605.22817](http://arxiv.org/abs/2605.22817)|null|
+|**2026-05-21**|**Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration**|Lily Goli et.al.|[2605.22814](http://arxiv.org/abs/2605.22814)|null|
+|**2026-05-21**|**Optimal Testing of Reed-Muller Codes with an Online Adversary**|Esty Kelman et.al.|[2605.22813](http://arxiv.org/abs/2605.22813)|null|
+|**2026-05-21**|**Signatures of the Quantum Geometric Dipole of Interlayer Excitons in Counterflow Conductivity**|Fanuel I. Mendez et.al.|[2605.22810](http://arxiv.org/abs/2605.22810)|null|
+|**2026-05-21**|**Betti Numbers of Cut Complexes of Squared Paths and a Recurrence Conjecture**|Yutong Zhang et.al.|[2605.22808](http://arxiv.org/abs/2605.22808)|null|
 |**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
 |**2026-05-20**|**Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning**|Benhao Huang et.al.|[2605.21488](http://arxiv.org/abs/2605.21488)|null|
 |**2026-05-20**|**EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation**|Mansoor Ahmed et.al.|[2605.21485](http://arxiv.org/abs/2605.21485)|null|
@@ -3854,6 +3890,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs**|Jongseo Lee et.al.|[2605.22823](http://arxiv.org/abs/2605.22823)|null|
+|**2026-05-21**|**Tokenisation via Convex Relaxations**|Jan Tempus et.al.|[2605.22821](http://arxiv.org/abs/2605.22821)|null|
+|**2026-05-21**|**Integrable Elasticity via Neural Demand Potentials**|Carlos Heredia et.al.|[2605.22820](http://arxiv.org/abs/2605.22820)|null|
+|**2026-05-21**|**Vector Policy Optimization: Training for Diversity Improves Test-Time Search**|Ryan Bahlous-Boldi et.al.|[2605.22817](http://arxiv.org/abs/2605.22817)|null|
+|**2026-05-21**|**AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation**|Wenxuan Guo et.al.|[2605.22816](http://arxiv.org/abs/2605.22816)|null|
+|**2026-05-21**|**New constraints on physics within and beyond the standard model from the latest CONUS datasets**|N. Ackermann et.al.|[2605.22815](http://arxiv.org/abs/2605.22815)|null|
+|**2026-05-21**|**Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration**|Lily Goli et.al.|[2605.22814](http://arxiv.org/abs/2605.22814)|null|
+|**2026-05-21**|**Optimal Testing of Reed-Muller Codes with an Online Adversary**|Esty Kelman et.al.|[2605.22813](http://arxiv.org/abs/2605.22813)|null|
+|**2026-05-21**|**GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations**|Wenxuan Guo et.al.|[2605.22812](http://arxiv.org/abs/2605.22812)|null|
+|**2026-05-21**|**On the Parameterized Complexity of Min-Sum-Radii**|Pankaj Kumar et.al.|[2605.22804](http://arxiv.org/abs/2605.22804)|null|
 |**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
 |**2026-05-20**|**Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning**|Benhao Huang et.al.|[2605.21488](http://arxiv.org/abs/2605.21488)|null|
 |**2026-05-20**|**Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning**|Dian Zheng et.al.|[2605.21487](http://arxiv.org/abs/2605.21487)|null|
