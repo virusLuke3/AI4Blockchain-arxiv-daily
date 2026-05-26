@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.25
+## Updated on 2026.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -857,6 +857,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-25**|**Semantic Validation of Packer Identification Tools: Characterization, Repair, and Downstream Impact**|Fangtian Zhong et.al.|[2605.25923](http://arxiv.org/abs/2605.25923)|null|
+|**2026-05-25**|**The Quantization Benefits of Residual-Free Transformers**|Yiping Ji et.al.|[2605.25880](http://arxiv.org/abs/2605.25880)|null|
+|**2026-05-25**|**SAM3-Assisted Training of Lightweight YOLO Models for Precision Pig Farming**|Marcos Vinicius Mendes Faria et.al.|[2605.25860](http://arxiv.org/abs/2605.25860)|null|
+|**2026-05-25**|**Optimal Dispatch of Connected and Autonomous Electric Vehicles to Enhance Short-Term Grid Flexibility in Smart Cities**|Nikolas Sacchi et.al.|[2605.25847](http://arxiv.org/abs/2605.25847)|null|
+|**2026-05-25**|**Spectral Properties of the Chen-Nagano Gauge on Einstein Manifolds**|Sergey Stepanov et.al.|[2605.25723](http://arxiv.org/abs/2605.25723)|null|
+|**2026-05-25**|**Neural Router: Semantic Content Matching for Agentic AI**|Lauri Lovén et.al.|[2605.25701](http://arxiv.org/abs/2605.25701)|null|
+|**2026-05-25**|**Meta-Engineering Harnesses for AI-Native Software Production: A Contract-Driven Adversarial Verification Architecture with Early Deployment Report**|Satadru Sengupta et.al.|[2605.25665](http://arxiv.org/abs/2605.25665)|null|
+|**2026-05-25**|**Insuring Every Action: An Authority Frontier Framework for Runtime Actuarial Control of Autonomous AI Agents**|Hao-Hsuan Chen et.al.|[2605.25632](http://arxiv.org/abs/2605.25632)|null|
+|**2026-05-25**|**Guided Flow Matching for Forward and Inverse PDE Problems with Sparse Observations: Algorithm and Theory**|Xifeng Zhang et.al.|[2605.25509](http://arxiv.org/abs/2605.25509)|null|
+|**2026-05-25**|**The Diagrammar of Quantum Magnusian**|Li Guo et.al.|[2605.25473](http://arxiv.org/abs/2605.25473)|null|
 |**2026-05-21**|**Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs**|Jongseo Lee et.al.|[2605.22823](http://arxiv.org/abs/2605.22823)|null|
 |**2026-05-21**|**Tokenisation via Convex Relaxations**|Jan Tempus et.al.|[2605.22821](http://arxiv.org/abs/2605.22821)|null|
 |**2026-05-21**|**Cambrian-P: Pose-Grounded Video Understanding**|Jihan Yang et.al.|[2605.22819](http://arxiv.org/abs/2605.22819)|null|
@@ -3890,6 +3900,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-25**|**Causal methods for LLM development and evaluation**|Dennis Frauen et.al.|[2605.25998](http://arxiv.org/abs/2605.25998)|null|
+|**2026-05-25**|**Deployment-complete benchmarking**|El Mustapha Mansouri et.al.|[2605.25997](http://arxiv.org/abs/2605.25997)|null|
+|**2026-05-25**|**Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models**|Inés Gonzalez-Pepe et.al.|[2605.25991](http://arxiv.org/abs/2605.25991)|null|
+|**2026-05-25**|**SafeCtrl-RL: Inference-Time Adaptive Behaviour Control for LLM Dialogue via RL-Driven Prompt Optimisation**|Michael Orme et.al.|[2605.25984](http://arxiv.org/abs/2605.25984)|null|
+|**2026-05-25**|**Creative Quality Alignment: Expert Tacit Knowledge Transfer via Chain-of-Thought Fine-Tuning**|Bo Zou et.al.|[2605.25977](http://arxiv.org/abs/2605.25977)|null|
+|**2026-05-25**|**Anticipate and Learn: Unleashing Idle-Time Compute in Proactive Agents**|Haoyi Hu et.al.|[2605.25971](http://arxiv.org/abs/2605.25971)|null|
+|**2026-05-25**|**PathWISE: Multi-Agent Cancer Pathway Triaging Ontology Learning from Clinical Flowcharts**|Sofiat Abioye et.al.|[2605.25970](http://arxiv.org/abs/2605.25970)|null|
+|**2026-05-25**|**Context-driven Missing-Modality Learning for Robust Medical Diagnosis with Image-Tabular Data**|Tianling Liu et.al.|[2605.25968](http://arxiv.org/abs/2605.25968)|null|
+|**2026-05-25**|**Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio**|Georgios Milis et.al.|[2605.25967](http://arxiv.org/abs/2605.25967)|null|
+|**2026-05-25**|**Mapping the Schedule x Bit-Width Boundary in Sub-100M Quantisation-Aware Training**|Christian Brandt Thomassen et.al.|[2605.25966](http://arxiv.org/abs/2605.25966)|null|
 |**2026-05-21**|**Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs**|Jongseo Lee et.al.|[2605.22823](http://arxiv.org/abs/2605.22823)|null|
 |**2026-05-21**|**Tokenisation via Convex Relaxations**|Jan Tempus et.al.|[2605.22821](http://arxiv.org/abs/2605.22821)|null|
 |**2026-05-21**|**Integrable Elasticity via Neural Demand Potentials**|Carlos Heredia et.al.|[2605.22820](http://arxiv.org/abs/2605.22820)|null|
