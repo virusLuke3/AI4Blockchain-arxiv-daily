@@ -1,4 +1,4 @@
-## Updated on 2026.05.26
+## Updated on 2026.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-26**|**First Light and Reionization Epoch Simulations (FLARES) XXII: UV-dust spatial offsets at the Epoch of Reionisation**|Paurush Punyasheel et.al.|[2605.27370](http://arxiv.org/abs/2605.27370)|null|
+|**2026-05-26**|**A Minute-Cadence Deep Bulge Survey: First Data Release of DREAMS**|Hongjing Yang et.al.|[2605.27364](http://arxiv.org/abs/2605.27364)|null|
+|**2026-05-26**|**The first near-infrared high-resolution échelle spectroscopy of the outflow in NGC 4151. A study of the clouds covering the Eye of Sauron**|Francesco Gabriele Saturni et.al.|[2605.27363](http://arxiv.org/abs/2605.27363)|null|
+|**2026-05-26**|**Hot Jupiters' Isolation Is Not Unique to High-Eccentricity Tidal Migration**|Brandon Radzom et.al.|[2605.27362](http://arxiv.org/abs/2605.27362)|null|
+|**2026-05-26**|**GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing**|Tamerlan Aghayev et.al.|[2605.27360](http://arxiv.org/abs/2605.27360)|null|
+|**2026-05-26**|**MobileMoE: Scaling On-Device Mixture of Experts**|Yanbei Chen et.al.|[2605.27358](http://arxiv.org/abs/2605.27358)|null|
+|**2026-05-26**|**Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases**|Dongyoon Hahm et.al.|[2605.27355](http://arxiv.org/abs/2605.27355)|null|
+|**2026-05-26**|**Postselection-free ballistic-diffusive transition in monitored spin chains**|K. G. S. H. Gunawardana et.al.|[2605.27350](http://arxiv.org/abs/2605.27350)|null|
+|**2026-05-26**|**When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection**|Kim Jihyeon et.al.|[2605.27348](http://arxiv.org/abs/2605.27348)|null|
+|**2026-05-26**|**Closed-Form Analytical Charge Response Model for Silicon Photomultipliers with Recursive Correlated Avalanches**|Yiqi Liu et.al.|[2605.27340](http://arxiv.org/abs/2605.27340)|null|
 |**2026-05-21**|**Monotone Erasure Codes**|Vivien Bammert et.al.|[2605.22426](http://arxiv.org/abs/2605.22426)|null|
 |**2026-05-21**|**An Architecture for Decentralised Deployment and Operation of Blockchain Applications**|Fabian Stiehle et.al.|[2605.22239](http://arxiv.org/abs/2605.22239)|null|
 |**2026-05-21**|**Single-Item Auctions with a Monopolist Intermediary**|Jingyi Liu et.al.|[2605.21934](http://arxiv.org/abs/2605.21934)|null|
@@ -873,12 +883,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-26**|**G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing**|Bharath Raj Nagoor Kani et.al.|[2605.27372](http://arxiv.org/abs/2605.27372)|null|
+|**2026-05-26**|**Generalized multilevel amplitude damping channels and their thermodynamic performances**|Vito Vetrano et.al.|[2605.27369](http://arxiv.org/abs/2605.27369)|null|
+|**2026-05-26**|**SpatialBench: Is Your Spatial Foundation Model an All-Round Player?**|Haosong Peng et.al.|[2605.27367](http://arxiv.org/abs/2605.27367)|null|
+|**2026-05-26**|**LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding**|Shihao Wang et.al.|[2605.27365](http://arxiv.org/abs/2605.27365)|null|
+|**2026-05-26**|**Hot Jupiters' Isolation Is Not Unique to High-Eccentricity Tidal Migration**|Brandon Radzom et.al.|[2605.27362](http://arxiv.org/abs/2605.27362)|null|
+|**2026-05-26**|**Natural Language Query to Configuration for Retrieval Agents**|Melissa Z. Pan et.al.|[2605.27361](http://arxiv.org/abs/2605.27361)|null|
+|**2026-05-26**|**GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing**|Tamerlan Aghayev et.al.|[2605.27360](http://arxiv.org/abs/2605.27360)|null|
+|**2026-05-26**|**MobileMoE: Scaling On-Device Mixture of Experts**|Yanbei Chen et.al.|[2605.27358](http://arxiv.org/abs/2605.27358)|null|
+|**2026-05-26**|**Quantum Resistance Paradox of Low-Dimensional Superfluids**|Simon Wili et.al.|[2605.27356](http://arxiv.org/abs/2605.27356)|null|
+|**2026-05-26**|**Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases**|Dongyoon Hahm et.al.|[2605.27355](http://arxiv.org/abs/2605.27355)|null|
 |**2026-05-25**|**Semantic Validation of Packer Identification Tools: Characterization, Repair, and Downstream Impact**|Fangtian Zhong et.al.|[2605.25923](http://arxiv.org/abs/2605.25923)|null|
 |**2026-05-25**|**The Quantization Benefits of Residual-Free Transformers**|Yiping Ji et.al.|[2605.25880](http://arxiv.org/abs/2605.25880)|null|
 |**2026-05-25**|**SAM3-Assisted Training of Lightweight YOLO Models for Precision Pig Farming**|Marcos Vinicius Mendes Faria et.al.|[2605.25860](http://arxiv.org/abs/2605.25860)|null|
@@ -1620,12 +1640,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-26**|**G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing**|Bharath Raj Nagoor Kani et.al.|[2605.27372](http://arxiv.org/abs/2605.27372)|null|
+|**2026-05-26**|**Algorithmic Monocultures in Hiring**|Rishi Bommasani et.al.|[2605.27371](http://arxiv.org/abs/2605.27371)|null|
+|**2026-05-26**|**Generalized multilevel amplitude damping channels and their thermodynamic performances**|Vito Vetrano et.al.|[2605.27369](http://arxiv.org/abs/2605.27369)|null|
+|**2026-05-26**|**LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding**|Shihao Wang et.al.|[2605.27365](http://arxiv.org/abs/2605.27365)|null|
+|**2026-05-26**|**The first near-infrared high-resolution échelle spectroscopy of the outflow in NGC 4151. A study of the clouds covering the Eye of Sauron**|Francesco Gabriele Saturni et.al.|[2605.27363](http://arxiv.org/abs/2605.27363)|null|
+|**2026-05-26**|**Natural Language Query to Configuration for Retrieval Agents**|Melissa Z. Pan et.al.|[2605.27361](http://arxiv.org/abs/2605.27361)|null|
+|**2026-05-26**|**GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing**|Tamerlan Aghayev et.al.|[2605.27360](http://arxiv.org/abs/2605.27360)|null|
+|**2026-05-26**|**Wilson coefficients from a non-renormalization theorem in 2D SYM**|Kabir Bajaj et.al.|[2605.27359](http://arxiv.org/abs/2605.27359)|null|
+|**2026-05-26**|**Quantum Resistance Paradox of Low-Dimensional Superfluids**|Simon Wili et.al.|[2605.27356](http://arxiv.org/abs/2605.27356)|null|
+|**2026-05-26**|**Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases**|Dongyoon Hahm et.al.|[2605.27355](http://arxiv.org/abs/2605.27355)|null|
 |**2026-05-21**|**AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation**|Wenxuan Guo et.al.|[2605.22816](http://arxiv.org/abs/2605.22816)|null|
 |**2026-05-21**|**Hollow Needle Puncture Mechanics for Biopsy Sampling**|Yiting Wu et.al.|[2605.22790](http://arxiv.org/abs/2605.22790)|null|
 |**2026-05-21**|**DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback**|Yunpeng Dong et.al.|[2605.22781](http://arxiv.org/abs/2605.22781)|null|
@@ -2372,12 +2402,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-26**|**GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing**|Tamerlan Aghayev et.al.|[2605.27360](http://arxiv.org/abs/2605.27360)|null|
+|**2026-05-26**|**Quantum Resistance Paradox of Low-Dimensional Superfluids**|Simon Wili et.al.|[2605.27356](http://arxiv.org/abs/2605.27356)|null|
+|**2026-05-26**|**From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models**|Yuchen Liang et.al.|[2605.27352](http://arxiv.org/abs/2605.27352)|null|
+|**2026-05-26**|**Exploring Agent Interactions in MoltBook through Social Network Analysis**|I-Hsien Ting et.al.|[2605.27349](http://arxiv.org/abs/2605.27349)|null|
+|**2026-05-26**|**Closed-Form Analytical Charge Response Model for Silicon Photomultipliers with Recursive Correlated Avalanches**|Yiqi Liu et.al.|[2605.27340](http://arxiv.org/abs/2605.27340)|null|
+|**2026-05-26**|**Learning to reoptimize: a GNN-aided fix-and-optimize approach and an application to the Lot Sizing problem**|Mathieu Lerouge et.al.|[2605.27339](http://arxiv.org/abs/2605.27339)|null|
+|**2026-05-26**|**FinHarness: An Inline Lifecycle Safety Harness for Finance LLM Agents**|Haoxuan Jia et.al.|[2605.27333](http://arxiv.org/abs/2605.27333)|null|
+|**2026-05-26**|**Shortest Path Problem with Subnormal Gaussian Fuzzy Costs**|Murat Moran et.al.|[2605.27317](http://arxiv.org/abs/2605.27317)|null|
+|**2026-05-26**|**Real Images, Worse Judgments: Evaluating Vision-Language Models on Concreteness and Imagery**|Yifan Jiang et.al.|[2605.27315](http://arxiv.org/abs/2605.27315)|null|
+|**2026-05-26**|**Explicit class of finite-dimensional polynomial algebras with Wronskians over $\mathbb{R}^d$ as $N$-ary Lie brackets: beyond $\mathfrak{sl}(2)$**|Markuss G. Ķēniņš et.al.|[2605.27305](http://arxiv.org/abs/2605.27305)|null|
 |**2026-05-21**|**Tokenisation via Convex Relaxations**|Jan Tempus et.al.|[2605.22821](http://arxiv.org/abs/2605.22821)|null|
 |**2026-05-21**|**Integrable Elasticity via Neural Demand Potentials**|Carlos Heredia et.al.|[2605.22820](http://arxiv.org/abs/2605.22820)|null|
 |**2026-05-21**|**MotiMotion: Motion-Controlled Video Generation with Visual Reasoning**|Lee Hsin-Ying et.al.|[2605.22818](http://arxiv.org/abs/2605.22818)|null|
@@ -3139,12 +3179,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-26**|**First Light and Reionization Epoch Simulations (FLARES) XXII: UV-dust spatial offsets at the Epoch of Reionisation**|Paurush Punyasheel et.al.|[2605.27370](http://arxiv.org/abs/2605.27370)|null|
+|**2026-05-26**|**Generalized multilevel amplitude damping channels and their thermodynamic performances**|Vito Vetrano et.al.|[2605.27369](http://arxiv.org/abs/2605.27369)|null|
+|**2026-05-26**|**Spontaneous persistent currents and time-reversal symmetry breaking in thick-walled Weyl semimetal cylinders**|J. C. Pérez-Pedraza et.al.|[2605.27368](http://arxiv.org/abs/2605.27368)|null|
+|**2026-05-26**|**MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation**|Huawei Lin et.al.|[2605.27366](http://arxiv.org/abs/2605.27366)|null|
+|**2026-05-26**|**A Minute-Cadence Deep Bulge Survey: First Data Release of DREAMS**|Hongjing Yang et.al.|[2605.27364](http://arxiv.org/abs/2605.27364)|null|
+|**2026-05-26**|**GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing**|Tamerlan Aghayev et.al.|[2605.27360](http://arxiv.org/abs/2605.27360)|null|
+|**2026-05-26**|**MobileMoE: Scaling On-Device Mixture of Experts**|Yanbei Chen et.al.|[2605.27358](http://arxiv.org/abs/2605.27358)|null|
+|**2026-05-26**|**Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases**|Dongyoon Hahm et.al.|[2605.27355](http://arxiv.org/abs/2605.27355)|null|
+|**2026-05-26**|**Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders**|Yi Jing et.al.|[2605.27354](http://arxiv.org/abs/2605.27354)|null|
+|**2026-05-26**|**From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models**|Yuchen Liang et.al.|[2605.27352](http://arxiv.org/abs/2605.27352)|null|
 |**2026-05-21**|**Bottom-up open EFT for non-Abelian gauge theory with dynamical color environment**|Yoshihiko Abe et.al.|[2605.22822](http://arxiv.org/abs/2605.22822)|null|
 |**2026-05-21**|**Tokenisation via Convex Relaxations**|Jan Tempus et.al.|[2605.22821](http://arxiv.org/abs/2605.22821)|null|
 |**2026-05-21**|**Integrable Elasticity via Neural Demand Potentials**|Carlos Heredia et.al.|[2605.22820](http://arxiv.org/abs/2605.22820)|null|
@@ -3924,12 +3974,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-26**|**G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing**|Bharath Raj Nagoor Kani et.al.|[2605.27372](http://arxiv.org/abs/2605.27372)|null|
+|**2026-05-26**|**Algorithmic Monocultures in Hiring**|Rishi Bommasani et.al.|[2605.27371](http://arxiv.org/abs/2605.27371)|null|
+|**2026-05-26**|**Generalized multilevel amplitude damping channels and their thermodynamic performances**|Vito Vetrano et.al.|[2605.27369](http://arxiv.org/abs/2605.27369)|null|
+|**2026-05-26**|**SpatialBench: Is Your Spatial Foundation Model an All-Round Player?**|Haosong Peng et.al.|[2605.27367](http://arxiv.org/abs/2605.27367)|null|
+|**2026-05-26**|**MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation**|Huawei Lin et.al.|[2605.27366](http://arxiv.org/abs/2605.27366)|null|
+|**2026-05-26**|**LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding**|Shihao Wang et.al.|[2605.27365](http://arxiv.org/abs/2605.27365)|null|
+|**2026-05-26**|**A Minute-Cadence Deep Bulge Survey: First Data Release of DREAMS**|Hongjing Yang et.al.|[2605.27364](http://arxiv.org/abs/2605.27364)|null|
+|**2026-05-26**|**Hot Jupiters' Isolation Is Not Unique to High-Eccentricity Tidal Migration**|Brandon Radzom et.al.|[2605.27362](http://arxiv.org/abs/2605.27362)|null|
+|**2026-05-26**|**Natural Language Query to Configuration for Retrieval Agents**|Melissa Z. Pan et.al.|[2605.27361](http://arxiv.org/abs/2605.27361)|null|
+|**2026-05-26**|**GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing**|Tamerlan Aghayev et.al.|[2605.27360](http://arxiv.org/abs/2605.27360)|null|
 |**2026-05-25**|**Causal methods for LLM development and evaluation**|Dennis Frauen et.al.|[2605.25998](http://arxiv.org/abs/2605.25998)|null|
 |**2026-05-25**|**Deployment-complete benchmarking**|El Mustapha Mansouri et.al.|[2605.25997](http://arxiv.org/abs/2605.25997)|null|
 |**2026-05-25**|**Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models**|Inés Gonzalez-Pepe et.al.|[2605.25991](http://arxiv.org/abs/2605.25991)|null|
@@ -4716,7 +4776,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
