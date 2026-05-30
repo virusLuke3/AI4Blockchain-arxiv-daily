@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.29
+## Updated on 2026.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -3157,6 +3157,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**|Nhat-Minh Nguyen et.al.|[2605.30353](http://arxiv.org/abs/2605.30353)|null|
+|**2026-05-28**|**YoCausal: How Far is Video Generation from World Model? A Causality Perspective**|You-Zhe Xie et.al.|[2605.30346](http://arxiv.org/abs/2605.30346)|null|
+|**2026-05-28**|**Reasoning with Sampling: Cutting at Decision Points**|Felix Zhou et.al.|[2605.30327](http://arxiv.org/abs/2605.30327)|null|
+|**2026-05-28**|**Gram: Assessing sabotage propensities via automated alignment auditing**|David Lindner et.al.|[2605.30322](http://arxiv.org/abs/2605.30322)|null|
+|**2026-05-28**|**A Bayesian Proof and Interpretation of Talagrand's Majorizing Measure Theorem**|Ilias Zadik et.al.|[2605.30321](http://arxiv.org/abs/2605.30321)|null|
+|**2026-05-28**|**Improved Guarantees for Heterogeneous Treatment-Effect Estimation via Matrix Completion**|Anay Mehrotra et.al.|[2605.30319](http://arxiv.org/abs/2605.30319)|null|
+|**2026-05-28**|**Visualizing orbital magnetism in electron doped rhombohedral multilayer graphene**|Owen I. Sheekey et.al.|[2605.30316](http://arxiv.org/abs/2605.30316)|null|
+|**2026-05-28**|**Ergodic Theorems, Almost Invariant Sets, and Values of Averages**|Valery V. Ryzhikov et.al.|[2605.30309](http://arxiv.org/abs/2605.30309)|null|
+|**2026-05-28**|**Zero-Scan Data Quality: Leveraging Table Format Metadata for Continuous Observability at Scale**|Mohit Verma et.al.|[2605.30308](http://arxiv.org/abs/2605.30308)|null|
+|**2026-05-28**|**Augmented Correlation Functions for Spectroscopic Galaxy Surveys**|Davide Bianchi et.al.|[2605.30305](http://arxiv.org/abs/2605.30305)|null|
 |**2026-05-26**|**First Light and Reionization Epoch Simulations (FLARES) XXII: UV-dust spatial offsets at the Epoch of Reionisation**|Paurush Punyasheel et.al.|[2605.27370](http://arxiv.org/abs/2605.27370)|null|
 |**2026-05-26**|**Generalized multilevel amplitude damping channels and their thermodynamic performances**|Vito Vetrano et.al.|[2605.27369](http://arxiv.org/abs/2605.27369)|null|
 |**2026-05-26**|**Spontaneous persistent currents and time-reversal symmetry breaking in thick-walled Weyl semimetal cylinders**|J. C. Pérez-Pedraza et.al.|[2605.27368](http://arxiv.org/abs/2605.27368)|null|
@@ -3950,6 +3960,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**|Nhat-Minh Nguyen et.al.|[2605.30353](http://arxiv.org/abs/2605.30353)|null|
+|**2026-05-28**|**VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion**|Hidir Yesiltepe et.al.|[2605.30351](http://arxiv.org/abs/2605.30351)|null|
+|**2026-05-28**|**DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**|Jusuk Lee et.al.|[2605.30350](http://arxiv.org/abs/2605.30350)|null|
+|**2026-05-28**|**LLMSurgeon: Diagnosing Data Mixture of Large Language Models**|Yaxin Luo et.al.|[2605.30348](http://arxiv.org/abs/2605.30348)|null|
+|**2026-05-28**|**NeuROK: Generative 4D Neural Object Kinematics**|Chen Geng et.al.|[2605.30347](http://arxiv.org/abs/2605.30347)|null|
+|**2026-05-28**|**SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations**|Qinpei Luo et.al.|[2605.30345](http://arxiv.org/abs/2605.30345)|null|
+|**2026-05-28**|**Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection**|Xiaona Zhou et.al.|[2605.30344](http://arxiv.org/abs/2605.30344)|null|
+|**2026-05-28**|**Unlocking the Working Memory of Large Language Models for Latent Reasoning**|Lukas Aichberger et.al.|[2605.30343](http://arxiv.org/abs/2605.30343)|null|
+|**2026-05-28**|**Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field**|Shangjie Xue et.al.|[2605.30342](http://arxiv.org/abs/2605.30342)|null|
+|**2026-05-28**|**Benchmarking Single-Factor Physical Video-to-Audio Generation**|Tingle Li et.al.|[2605.30339](http://arxiv.org/abs/2605.30339)|null|
 |**2026-05-26**|**G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing**|Bharath Raj Nagoor Kani et.al.|[2605.27372](http://arxiv.org/abs/2605.27372)|null|
 |**2026-05-26**|**Algorithmic Monocultures in Hiring**|Rishi Bommasani et.al.|[2605.27371](http://arxiv.org/abs/2605.27371)|null|
 |**2026-05-26**|**Generalized multilevel amplitude damping channels and their thermodynamic performances**|Vito Vetrano et.al.|[2605.27369](http://arxiv.org/abs/2605.27369)|null|
