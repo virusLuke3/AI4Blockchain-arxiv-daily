@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.30
+## Updated on 2026.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -867,6 +867,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor**|Minseo Lee et.al.|[2605.30277](http://arxiv.org/abs/2605.30277)|null|
+|**2026-05-28**|**Self-dual holography: four-point AdS/CFT correlators in higher-spin gravity**|Evgeny Skvortsov et.al.|[2605.30276](http://arxiv.org/abs/2605.30276)|null|
+|**2026-05-28**|**Wasserstein Contraction of Coordinate Ascent Variational Inference**|Rocco Caprio et.al.|[2605.30253](http://arxiv.org/abs/2605.30253)|null|
+|**2026-05-28**|**Connection of hypocoercivity and hypocontractivity via the $θ$ -methods**|Anton Arnold et.al.|[2605.30197](http://arxiv.org/abs/2605.30197)|null|
+|**2026-05-28**|**The relative interfacial thermal contraction as a possible origin of the low-energy excess in cryogenic calorimeters**|Vanessa Zema et.al.|[2605.30194](http://arxiv.org/abs/2605.30194)|null|
+|**2026-05-28**|**SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation**|Zhuguanyu Wu et.al.|[2605.30116](http://arxiv.org/abs/2605.30116)|null|
+|**2026-05-28**|**From GPS Points to Travel Patterns: Flexible and Semantic Trajectory Generation with LLMs**|Silin Zhou et.al.|[2605.30014](http://arxiv.org/abs/2605.30014)|null|
+|**2026-05-28**|**Precomputed 1D-CNNs for Atrial Fibrillation Detection on Tiny Smart Sensor Systems**|Lukas Einhaus et.al.|[2605.29994](http://arxiv.org/abs/2605.29994)|null|
+|**2026-05-28**|**Quadratic Sums-of-Powers for Fixed-Parameter Tractable Quantum-Circuit Simulation**|Alexis de Colnet et.al.|[2605.29944](http://arxiv.org/abs/2605.29944)|null|
+|**2026-05-28**|**Weak rank rigidity for groups with a navigable path system**|Cornelia Drutu et.al.|[2605.29837](http://arxiv.org/abs/2605.29837)|null|
 |**2026-05-26**|**G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing**|Bharath Raj Nagoor Kani et.al.|[2605.27372](http://arxiv.org/abs/2605.27372)|null|
 |**2026-05-26**|**Generalized multilevel amplitude damping channels and their thermodynamic performances**|Vito Vetrano et.al.|[2605.27369](http://arxiv.org/abs/2605.27369)|null|
 |**2026-05-26**|**SpatialBench: Is Your Spatial Foundation Model an All-Round Player?**|Haosong Peng et.al.|[2605.27367](http://arxiv.org/abs/2605.27367)|null|
@@ -1622,6 +1632,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Quiver Approach to Symmetry Theories**|Vivek Chakrabhavi et.al.|[2605.30354](http://arxiv.org/abs/2605.30354)|null|
+|**2026-05-28**|**Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**|Nhat-Minh Nguyen et.al.|[2605.30353](http://arxiv.org/abs/2605.30353)|null|
+|**2026-05-28**|**VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion**|Hidir Yesiltepe et.al.|[2605.30351](http://arxiv.org/abs/2605.30351)|null|
+|**2026-05-28**|**DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**|Jusuk Lee et.al.|[2605.30350](http://arxiv.org/abs/2605.30350)|null|
+|**2026-05-28**|**LLMSurgeon: Diagnosing Data Mixture of Large Language Models**|Yaxin Luo et.al.|[2605.30348](http://arxiv.org/abs/2605.30348)|null|
+|**2026-05-28**|**NeuROK: Generative 4D Neural Object Kinematics**|Chen Geng et.al.|[2605.30347](http://arxiv.org/abs/2605.30347)|null|
+|**2026-05-28**|**Unlocking the Working Memory of Large Language Models for Latent Reasoning**|Lukas Aichberger et.al.|[2605.30343](http://arxiv.org/abs/2605.30343)|null|
+|**2026-05-28**|**GPIC: A Giant Permissive Image Corpus for Visual Generation**|Keshigeyan Chandrasegaran et.al.|[2605.30341](http://arxiv.org/abs/2605.30341)|null|
+|**2026-05-28**|**Carr criterion and mass gaps in non-singular primordial black hole formation**|Jens Boos et.al.|[2605.30340](http://arxiv.org/abs/2605.30340)|null|
+|**2026-05-28**|**Benchmarking Single-Factor Physical Video-to-Audio Generation**|Tingle Li et.al.|[2605.30339](http://arxiv.org/abs/2605.30339)|null|
 |**2026-05-26**|**G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing**|Bharath Raj Nagoor Kani et.al.|[2605.27372](http://arxiv.org/abs/2605.27372)|null|
 |**2026-05-26**|**Algorithmic Monocultures in Hiring**|Rishi Bommasani et.al.|[2605.27371](http://arxiv.org/abs/2605.27371)|null|
 |**2026-05-26**|**Generalized multilevel amplitude damping channels and their thermodynamic performances**|Vito Vetrano et.al.|[2605.27369](http://arxiv.org/abs/2605.27369)|null|
@@ -2382,6 +2402,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**GMOS: Grounding Moving Object Segmentation in 3D Space and Time**|Junyu Xie et.al.|[2605.30352](http://arxiv.org/abs/2605.30352)|null|
+|**2026-05-28**|**LLMSurgeon: Diagnosing Data Mixture of Large Language Models**|Yaxin Luo et.al.|[2605.30348](http://arxiv.org/abs/2605.30348)|null|
+|**2026-05-28**|**YoCausal: How Far is Video Generation from World Model? A Causality Perspective**|You-Zhe Xie et.al.|[2605.30346](http://arxiv.org/abs/2605.30346)|null|
+|**2026-05-28**|**Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field**|Shangjie Xue et.al.|[2605.30342](http://arxiv.org/abs/2605.30342)|null|
+|**2026-05-28**|**GPIC: A Giant Permissive Image Corpus for Visual Generation**|Keshigeyan Chandrasegaran et.al.|[2605.30341](http://arxiv.org/abs/2605.30341)|null|
+|**2026-05-28**|**REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image**|Xiaoxuan Ma et.al.|[2605.30338](http://arxiv.org/abs/2605.30338)|null|
+|**2026-05-28**|**Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching**|Alaa Khamis et.al.|[2605.30337](http://arxiv.org/abs/2605.30337)|null|
+|**2026-05-28**|**Fairness-Aware Federated Learning with Trajectory Shapley Value**|Daniel Kuznetsov et.al.|[2605.30336](http://arxiv.org/abs/2605.30336)|null|
+|**2026-05-28**|**Colored Noise Diffusion Sampling**|Hadar Davidson et.al.|[2605.30332](http://arxiv.org/abs/2605.30332)|null|
+|**2026-05-28**|**SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?**|Sy-Tuyen Ho et.al.|[2605.30329](http://arxiv.org/abs/2605.30329)|null|
 |**2026-05-26**|**GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing**|Tamerlan Aghayev et.al.|[2605.27360](http://arxiv.org/abs/2605.27360)|null|
 |**2026-05-26**|**Quantum Resistance Paradox of Low-Dimensional Superfluids**|Simon Wili et.al.|[2605.27356](http://arxiv.org/abs/2605.27356)|null|
 |**2026-05-26**|**From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models**|Yuchen Liang et.al.|[2605.27352](http://arxiv.org/abs/2605.27352)|null|
@@ -3157,8 +3187,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Quiver Approach to Symmetry Theories**|Vivek Chakrabhavi et.al.|[2605.30354](http://arxiv.org/abs/2605.30354)|null|
 |**2026-05-28**|**Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**|Nhat-Minh Nguyen et.al.|[2605.30353](http://arxiv.org/abs/2605.30353)|null|
+|**2026-05-28**|**GMOS: Grounding Moving Object Segmentation in 3D Space and Time**|Junyu Xie et.al.|[2605.30352](http://arxiv.org/abs/2605.30352)|null|
+|**2026-05-28**|**AdaState: Self-Evolving Anchors for Streaming Video Generation**|Yusuf Dalva et.al.|[2605.30349](http://arxiv.org/abs/2605.30349)|null|
+|**2026-05-28**|**LLMSurgeon: Diagnosing Data Mixture of Large Language Models**|Yaxin Luo et.al.|[2605.30348](http://arxiv.org/abs/2605.30348)|null|
 |**2026-05-28**|**YoCausal: How Far is Video Generation from World Model? A Causality Perspective**|You-Zhe Xie et.al.|[2605.30346](http://arxiv.org/abs/2605.30346)|null|
+|**2026-05-28**|**SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations**|Qinpei Luo et.al.|[2605.30345](http://arxiv.org/abs/2605.30345)|null|
+|**2026-05-28**|**Unlocking the Working Memory of Large Language Models for Latent Reasoning**|Lukas Aichberger et.al.|[2605.30343](http://arxiv.org/abs/2605.30343)|null|
+|**2026-05-28**|**REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image**|Xiaoxuan Ma et.al.|[2605.30338](http://arxiv.org/abs/2605.30338)|null|
+|**2026-05-28**|**Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching**|Alaa Khamis et.al.|[2605.30337](http://arxiv.org/abs/2605.30337)|null|
 |**2026-05-28**|**Reasoning with Sampling: Cutting at Decision Points**|Felix Zhou et.al.|[2605.30327](http://arxiv.org/abs/2605.30327)|null|
 |**2026-05-28**|**Gram: Assessing sabotage propensities via automated alignment auditing**|David Lindner et.al.|[2605.30322](http://arxiv.org/abs/2605.30322)|null|
 |**2026-05-28**|**A Bayesian Proof and Interpretation of Talagrand's Majorizing Measure Theorem**|Ilias Zadik et.al.|[2605.30321](http://arxiv.org/abs/2605.30321)|null|
