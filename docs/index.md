@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models**|Jiazheng Xing et.al.|[2605.31603](http://arxiv.org/abs/2605.31603)|null|
+|**2026-05-29**|**Twin Algebras: Condensable Algebras beyond Anyons**|Yuhan Gai et.al.|[2605.31602](http://arxiv.org/abs/2605.31602)|null|
+|**2026-05-29**|**KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems**|Alireza Kheirandish et.al.|[2605.31596](http://arxiv.org/abs/2605.31596)|null|
+|**2026-05-29**|**A Tight Theory of Error Feedback Algorithms in Distributed Optimization**|Daniel Berg Thomsen et.al.|[2605.31594](http://arxiv.org/abs/2605.31594)|null|
+|**2026-05-29**|**Stateful Online Monitoring Catches Distributed Agent Attacks**|Davis Brown et.al.|[2605.31593](http://arxiv.org/abs/2605.31593)|null|
+|**2026-05-29**|**TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation**|Ruotong Liao et.al.|[2605.31590](http://arxiv.org/abs/2605.31590)|null|
+|**2026-05-29**|**A conditional Lagrangian clock barrier at the $C^{1,\frac{1}{3}}$ threshold for axisymmetric Euler without swirl**|Ovidiu-Neculai Avadanei et.al.|[2605.31587](http://arxiv.org/abs/2605.31587)|null|
+|**2026-05-29**|**LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards**|Nianyi Lin et.al.|[2605.31584](http://arxiv.org/abs/2605.31584)|null|
+|**2026-05-29**|**Sharp minimax risks and phase transitions in sparse submatrix detection**|Subhajit Goswami et.al.|[2605.31583](http://arxiv.org/abs/2605.31583)|null|
+|**2026-05-29**|**Deeply bound dibaryon $d^*(2380)$ from meson-exchange saturation $ΔΔ$ effective field theory**|Prin Sawasdipol et.al.|[2605.31578](http://arxiv.org/abs/2605.31578)|null|
 |**2026-05-26**|**First Light and Reionization Epoch Simulations (FLARES) XXII: UV-dust spatial offsets at the Epoch of Reionisation**|Paurush Punyasheel et.al.|[2605.27370](http://arxiv.org/abs/2605.27370)|null|
 |**2026-05-26**|**A Minute-Cadence Deep Bulge Survey: First Data Release of DREAMS**|Hongjing Yang et.al.|[2605.27364](http://arxiv.org/abs/2605.27364)|null|
 |**2026-05-26**|**The first near-infrared high-resolution échelle spectroscopy of the outflow in NGC 4151. A study of the clouds covering the Eye of Sauron**|Francesco Gabriele Saturni et.al.|[2605.27363](http://arxiv.org/abs/2605.27363)|null|
@@ -867,6 +877,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Representation Forcing for Bottleneck-Free Unified Multimodal Models**|Yuqing Wang et.al.|[2605.31604](http://arxiv.org/abs/2605.31604)|null|
+|**2026-05-29**|**Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models**|Jiazheng Xing et.al.|[2605.31603](http://arxiv.org/abs/2605.31603)|null|
+|**2026-05-29**|**Linear Scaling Video VLMs for Long Video Understanding**|Cristobal Eyzaguirre et.al.|[2605.31598](http://arxiv.org/abs/2605.31598)|null|
+|**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
+|**2026-05-29**|**KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems**|Alireza Kheirandish et.al.|[2605.31596](http://arxiv.org/abs/2605.31596)|null|
+|**2026-05-29**|**Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction**|Mungyeom Kim et.al.|[2605.31595](http://arxiv.org/abs/2605.31595)|null|
+|**2026-05-29**|**A Tight Theory of Error Feedback Algorithms in Distributed Optimization**|Daniel Berg Thomsen et.al.|[2605.31594](http://arxiv.org/abs/2605.31594)|null|
+|**2026-05-29**|**Stateful Online Monitoring Catches Distributed Agent Attacks**|Davis Brown et.al.|[2605.31593](http://arxiv.org/abs/2605.31593)|null|
+|**2026-05-29**|**Floquet Engineering of Quantum Transport through two Driven Impurities**|Vincenzo Bruno et.al.|[2605.31592](http://arxiv.org/abs/2605.31592)|null|
+|**2026-05-29**|**CoFiDA-M: Concept-Aware Feature Modulation for Cross-Domain Adaptation with Image-Only Inference**|Nurjahan Sultana et.al.|[2605.31591](http://arxiv.org/abs/2605.31591)|null|
 |**2026-05-28**|**Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor**|Minseo Lee et.al.|[2605.30277](http://arxiv.org/abs/2605.30277)|null|
 |**2026-05-28**|**Self-dual holography: four-point AdS/CFT correlators in higher-spin gravity**|Evgeny Skvortsov et.al.|[2605.30276](http://arxiv.org/abs/2605.30276)|null|
 |**2026-05-28**|**Wasserstein Contraction of Coordinate Ascent Variational Inference**|Rocco Caprio et.al.|[2605.30253](http://arxiv.org/abs/2605.30253)|null|
@@ -1632,6 +1652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models**|Jiazheng Xing et.al.|[2605.31603](http://arxiv.org/abs/2605.31603)|null|
+|**2026-05-29**|**Twin Algebras: Condensable Algebras beyond Anyons**|Yuhan Gai et.al.|[2605.31602](http://arxiv.org/abs/2605.31602)|null|
+|**2026-05-29**|**Linear Scaling Video VLMs for Long Video Understanding**|Cristobal Eyzaguirre et.al.|[2605.31598](http://arxiv.org/abs/2605.31598)|null|
+|**2026-05-29**|**A Tight Theory of Error Feedback Algorithms in Distributed Optimization**|Daniel Berg Thomsen et.al.|[2605.31594](http://arxiv.org/abs/2605.31594)|null|
+|**2026-05-29**|**Floquet Engineering of Quantum Transport through two Driven Impurities**|Vincenzo Bruno et.al.|[2605.31592](http://arxiv.org/abs/2605.31592)|null|
+|**2026-05-29**|**CoFiDA-M: Concept-Aware Feature Modulation for Cross-Domain Adaptation with Image-Only Inference**|Nurjahan Sultana et.al.|[2605.31591](http://arxiv.org/abs/2605.31591)|null|
+|**2026-05-29**|**Two roles of Alexander in two Kashaev phases**|Dmitry Galakhov et.al.|[2605.31588](http://arxiv.org/abs/2605.31588)|null|
+|**2026-05-29**|**A conditional Lagrangian clock barrier at the $C^{1,\frac{1}{3}}$ threshold for axisymmetric Euler without swirl**|Ovidiu-Neculai Avadanei et.al.|[2605.31587](http://arxiv.org/abs/2605.31587)|null|
+|**2026-05-29**|**LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards**|Nianyi Lin et.al.|[2605.31584](http://arxiv.org/abs/2605.31584)|null|
+|**2026-05-29**|**Sharp minimax risks and phase transitions in sparse submatrix detection**|Subhajit Goswami et.al.|[2605.31583](http://arxiv.org/abs/2605.31583)|null|
 |**2026-05-28**|**Quiver Approach to Symmetry Theories**|Vivek Chakrabhavi et.al.|[2605.30354](http://arxiv.org/abs/2605.30354)|null|
 |**2026-05-28**|**Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**|Nhat-Minh Nguyen et.al.|[2605.30353](http://arxiv.org/abs/2605.30353)|null|
 |**2026-05-28**|**VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion**|Hidir Yesiltepe et.al.|[2605.30351](http://arxiv.org/abs/2605.30351)|null|
@@ -2402,6 +2432,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
+|**2026-05-29**|**A conditional Lagrangian clock barrier at the $C^{1,\frac{1}{3}}$ threshold for axisymmetric Euler without swirl**|Ovidiu-Neculai Avadanei et.al.|[2605.31587](http://arxiv.org/abs/2605.31587)|null|
+|**2026-05-29**|**Richardson-Gaudin states of non-zero seniority III: The Perfect-Pairing limit**|Paul A. Johnson et.al.|[2605.31582](http://arxiv.org/abs/2605.31582)|null|
+|**2026-05-29**|**Deeply bound dibaryon $d^*(2380)$ from meson-exchange saturation $ΔΔ$ effective field theory**|Prin Sawasdipol et.al.|[2605.31578](http://arxiv.org/abs/2605.31578)|null|
+|**2026-05-29**|**All-Electron Relativistic Fully Self-Consistent $GW$ Study of Heteronuclear Actinide-Containing Diatomics**|Jacob Adamski et.al.|[2605.31571](http://arxiv.org/abs/2605.31571)|null|
+|**2026-05-29**|**A Datalog Framework for Conflict-Free Replicated Data Types**|Elena Yanakieva et.al.|[2605.31569](http://arxiv.org/abs/2605.31569)|null|
+|**2026-05-29**|**Disagreeing Rationales: Rethinking Classification and Explainability Evaluation in Hate Speech Detection**|Benedetta Muscato et.al.|[2605.31563](http://arxiv.org/abs/2605.31563)|null|
+|**2026-05-29**|**Effective Biological Representation Learning by Masking Gene Expression**|Kian Kenyon-Dean et.al.|[2605.31562](http://arxiv.org/abs/2605.31562)|null|
+|**2026-05-29**|**Can dents and gouges compromise the structural integrity of hydrogen transport pipelines?**|R. Das et.al.|[2605.31560](http://arxiv.org/abs/2605.31560)|null|
+|**2026-05-29**|**Functional Attention: From Pairwise Affinities to Functional Correspondences**|Jiefang Xiao et.al.|[2605.31559](http://arxiv.org/abs/2605.31559)|null|
 |**2026-05-28**|**GMOS: Grounding Moving Object Segmentation in 3D Space and Time**|Junyu Xie et.al.|[2605.30352](http://arxiv.org/abs/2605.30352)|null|
 |**2026-05-28**|**LLMSurgeon: Diagnosing Data Mixture of Large Language Models**|Yaxin Luo et.al.|[2605.30348](http://arxiv.org/abs/2605.30348)|null|
 |**2026-05-28**|**YoCausal: How Far is Video Generation from World Model? A Causality Perspective**|You-Zhe Xie et.al.|[2605.30346](http://arxiv.org/abs/2605.30346)|null|
@@ -3187,6 +3227,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Gravitational Waves from hybrid defects as probe of Flavor symmetry breaking: Machine-Learning Approach**|Anish Ghoshal et.al.|[2605.31600](http://arxiv.org/abs/2605.31600)|null|
+|**2026-05-29**|**Linear Scaling Video VLMs for Long Video Understanding**|Cristobal Eyzaguirre et.al.|[2605.31598](http://arxiv.org/abs/2605.31598)|null|
+|**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
+|**2026-05-29**|**KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems**|Alireza Kheirandish et.al.|[2605.31596](http://arxiv.org/abs/2605.31596)|null|
+|**2026-05-29**|**Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction**|Mungyeom Kim et.al.|[2605.31595](http://arxiv.org/abs/2605.31595)|null|
+|**2026-05-29**|**A Tight Theory of Error Feedback Algorithms in Distributed Optimization**|Daniel Berg Thomsen et.al.|[2605.31594](http://arxiv.org/abs/2605.31594)|null|
+|**2026-05-29**|**Stateful Online Monitoring Catches Distributed Agent Attacks**|Davis Brown et.al.|[2605.31593](http://arxiv.org/abs/2605.31593)|null|
+|**2026-05-29**|**A conditional Lagrangian clock barrier at the $C^{1,\frac{1}{3}}$ threshold for axisymmetric Euler without swirl**|Ovidiu-Neculai Avadanei et.al.|[2605.31587](http://arxiv.org/abs/2605.31587)|null|
+|**2026-05-29**|**Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions**|Wesley Scivetti et.al.|[2605.31586](http://arxiv.org/abs/2605.31586)|null|
+|**2026-05-29**|**Stability and instability of torus-symmetric Einstein spacetimes with square-integrable connection**|Bruno Le Floch et.al.|[2605.31585](http://arxiv.org/abs/2605.31585)|null|
 |**2026-05-28**|**Quiver Approach to Symmetry Theories**|Vivek Chakrabhavi et.al.|[2605.30354](http://arxiv.org/abs/2605.30354)|null|
 |**2026-05-28**|**Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**|Nhat-Minh Nguyen et.al.|[2605.30353](http://arxiv.org/abs/2605.30353)|null|
 |**2026-05-28**|**GMOS: Grounding Moving Object Segmentation in 3D Space and Time**|Junyu Xie et.al.|[2605.30352](http://arxiv.org/abs/2605.30352)|null|
@@ -3998,6 +4048,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Representation Forcing for Bottleneck-Free Unified Multimodal Models**|Yuqing Wang et.al.|[2605.31604](http://arxiv.org/abs/2605.31604)|null|
+|**2026-05-29**|**Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models**|Jiazheng Xing et.al.|[2605.31603](http://arxiv.org/abs/2605.31603)|null|
+|**2026-05-29**|**Gravitational Waves from hybrid defects as probe of Flavor symmetry breaking: Machine-Learning Approach**|Anish Ghoshal et.al.|[2605.31600](http://arxiv.org/abs/2605.31600)|null|
+|**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
+|**2026-05-29**|**KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems**|Alireza Kheirandish et.al.|[2605.31596](http://arxiv.org/abs/2605.31596)|null|
+|**2026-05-29**|**Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction**|Mungyeom Kim et.al.|[2605.31595](http://arxiv.org/abs/2605.31595)|null|
+|**2026-05-29**|**A Tight Theory of Error Feedback Algorithms in Distributed Optimization**|Daniel Berg Thomsen et.al.|[2605.31594](http://arxiv.org/abs/2605.31594)|null|
+|**2026-05-29**|**Stateful Online Monitoring Catches Distributed Agent Attacks**|Davis Brown et.al.|[2605.31593](http://arxiv.org/abs/2605.31593)|null|
+|**2026-05-29**|**CoFiDA-M: Concept-Aware Feature Modulation for Cross-Domain Adaptation with Image-Only Inference**|Nurjahan Sultana et.al.|[2605.31591](http://arxiv.org/abs/2605.31591)|null|
+|**2026-05-29**|**TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation**|Ruotong Liao et.al.|[2605.31590](http://arxiv.org/abs/2605.31590)|null|
 |**2026-05-28**|**Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**|Nhat-Minh Nguyen et.al.|[2605.30353](http://arxiv.org/abs/2605.30353)|null|
 |**2026-05-28**|**VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion**|Hidir Yesiltepe et.al.|[2605.30351](http://arxiv.org/abs/2605.30351)|null|
 |**2026-05-28**|**DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**|Jusuk Lee et.al.|[2605.30350](http://arxiv.org/abs/2605.30350)|null|
