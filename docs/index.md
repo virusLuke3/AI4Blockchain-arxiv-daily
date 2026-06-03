@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.02
+## Updated on 2026.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -4098,6 +4098,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**Neuron Populations Exhibit Divergent Selectivity with Scale**|Amil Dravid et.al.|[2606.03990](http://arxiv.org/abs/2606.03990)|null|
+|**2026-06-02**|**Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill**|Tao Chen et.al.|[2606.03980](http://arxiv.org/abs/2606.03980)|null|
+|**2026-06-02**|**Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories**|Ali Behrouz et.al.|[2606.03979](http://arxiv.org/abs/2606.03979)|null|
+|**2026-06-02**|**Formalizing the Binding Problem**|Lianghuan Huang et.al.|[2606.03976](http://arxiv.org/abs/2606.03976)|null|
+|**2026-06-02**|**Video-Mirai: Autoregressive Video Diffusion Models Need Foresight**|Yonghao Yu et.al.|[2606.03971](http://arxiv.org/abs/2606.03971)|null|
+|**2026-06-02**|**QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards**|Rongzhi Zhang et.al.|[2606.03968](http://arxiv.org/abs/2606.03968)|null|
+|**2026-06-02**|**Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning**|Yu Xia et.al.|[2606.03965](http://arxiv.org/abs/2606.03965)|null|
+|**2026-06-02**|**Self-Refining Agentic Reinforcement Learning for Vision-Conditioned UAV Navigation**|Roohan Ahmed Khan et.al.|[2606.03963](http://arxiv.org/abs/2606.03963)|null|
+|**2026-06-02**|**Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning**|Anthony GX-Chen et.al.|[2606.03962](http://arxiv.org/abs/2606.03962)|null|
+|**2026-06-02**|**VLESA: Vision-Language Embodied Safety Agent for Human Activity Monitoring**|Hanjiang Hu et.al.|[2606.03954](http://arxiv.org/abs/2606.03954)|null|
 |**2026-06-01**|**The Role of Ambiguity in Error Prediction via Uncertainty Quantification**|Ieva Raminta Staliūnaitė et.al.|[2606.02093](http://arxiv.org/abs/2606.02093)|null|
 |**2026-06-01**|**LALE: Lightweight-Transformer Architecture for Land-Cover Estimation**|Ümit Mert Çağlar et.al.|[2606.02092](http://arxiv.org/abs/2606.02092)|null|
 |**2026-06-01**|**DFlare: Scaling Up Draft Capacity for Block Diffusion Speculative Decoding**|Jiebin Zhang et.al.|[2606.02091](http://arxiv.org/abs/2606.02091)|null|
