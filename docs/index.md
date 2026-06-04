@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.03
+## Updated on 2026.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**ODYSSEY: Reestablishing Confidentiality in Confidential Blockchain via Delegated Execution**|Ju Yang et.al.|[2606.04892](http://arxiv.org/abs/2606.04892)|null|
+|**2026-06-03**|**The Usefulness Gap in Proof-of-Useful-Work: An Empirical Study of Pearl's cuPOW Protocol**|Abhinaba Basu et.al.|[2606.04819](http://arxiv.org/abs/2606.04819)|null|
+|**2026-06-03**|**TITAN-FedAnil+: Trust-Based Adaptive Blockchain Federated Learning for Resource-Constrained Intelligent Enterprises**|Muhammad Hadi et.al.|[2606.04388](http://arxiv.org/abs/2606.04388)|null|
+|**2026-06-03**|**Formal verification of the S-two AIR**|Jeremy Avigad et.al.|[2606.04311](http://arxiv.org/abs/2606.04311)|null|
+|**2026-06-02**|**Polymarket-v1 Database**|Boka Qin et.al.|[2606.04217](http://arxiv.org/abs/2606.04217)|null|
+|**2026-06-02**|**Fast TetraBFT: Optimizing Latency Where It Matters**|Antonio J. Fernández-Pinto et.al.|[2606.03754](http://arxiv.org/abs/2606.03754)|null|
+|**2026-06-02**|**Signals and Spoils: Speculative Oracle Extractable Value in the Era of Cross-Chain Interoperability**|Hasret Ozan Sevim et.al.|[2606.03434](http://arxiv.org/abs/2606.03434)|null|
+|**2026-06-03**|**OpenAgenet/OAN: Open Infrastructure for Trusted Agent Interconnection**|Jinliang Xu et.al.|[2606.03161](http://arxiv.org/abs/2606.03161)|null|
+|**2026-06-02**|**Mind the Gap in the Mining Game**|Kyoung-Kuk Kim et.al.|[2606.03153](http://arxiv.org/abs/2606.03153)|null|
 |**2026-06-01**|**DFlare: Scaling Up Draft Capacity for Block Diffusion Speculative Decoding**|Jiebin Zhang et.al.|[2606.02091](http://arxiv.org/abs/2606.02091)|null|
 |**2026-06-01**|**FocusDiT: Masking Queries in Diffusion Transformers for Fine-grained Image Generation**|Xueji Fang et.al.|[2606.02090](http://arxiv.org/abs/2606.02090)|null|
 |**2026-06-01**|**$p$-Robust Trace Liftings for Discrete Harmonic Extensions and Boundary-Preserving $hp$ Interpolation on Tetrahedral Meshes**|Situan Li et.al.|[2606.02086](http://arxiv.org/abs/2606.02086)|null|
@@ -139,6 +148,7 @@ layout: default
 |**2026-06-01**|**Modelling multi-cancer screening data to infer on natural history of disease: when can valid, identifiable and precise inference be obtained?**|MO Soares et.al.|[2606.02076](http://arxiv.org/abs/2606.02076)|null|
 |**2026-06-01**|**Hierarchical assembly in action: a galaxy tail from a disrupting group in the Virgo cluster outskirts**|J. Alfonso L. Aguerri et.al.|[2606.02074](http://arxiv.org/abs/2606.02074)|null|
 |**2026-06-01**|**Giant dielectric permittivity in Nb-doped rutile crystals**|D. Nuzhnyy et.al.|[2606.02072](http://arxiv.org/abs/2606.02072)|null|
+|**2026-05-31**|**Strategic Users in a Priority Queue with Bulk Service on Blockchains**|Donghwa Seo et.al.|[2606.01274](http://arxiv.org/abs/2606.01274)|null|
 |**2026-05-29**|**Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models**|Jiazheng Xing et.al.|[2605.31603](http://arxiv.org/abs/2605.31603)|null|
 |**2026-05-29**|**Twin Algebras: Condensable Algebras beyond Anyons**|Yuhan Gai et.al.|[2605.31602](http://arxiv.org/abs/2605.31602)|null|
 |**2026-05-29**|**KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems**|Alireza Kheirandish et.al.|[2605.31596](http://arxiv.org/abs/2605.31596)|null|
@@ -4098,6 +4108,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations**|Rishit Dagli et.al.|[2606.05165](http://arxiv.org/abs/2606.05165)|null|
+|**2026-06-03**|**X4Val: Learning Neural Surrogates for Variance-Reduced Policy Evaluation**|Rachel Luo et.al.|[2606.05159](http://arxiv.org/abs/2606.05159)|null|
+|**2026-06-03**|**Reinforcement Learning from Rich Feedback with Distributional DAgger**|Rishabh Agrawal et.al.|[2606.05152](http://arxiv.org/abs/2606.05152)|null|
+|**2026-06-03**|**An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers**|Gandhimathi Padmanaban et.al.|[2606.05149](http://arxiv.org/abs/2606.05149)|null|
+|**2026-06-03**|**Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)**|Nizar Islah et.al.|[2606.05145](http://arxiv.org/abs/2606.05145)|null|
+|**2026-06-03**|**Phase transitions for the noisy transformer model in arbitrary dimension**|Kyunghoo Mun et.al.|[2606.05140](http://arxiv.org/abs/2606.05140)|null|
+|**2026-06-03**|**BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning**|Luca Thale-Bombien et.al.|[2606.05139](http://arxiv.org/abs/2606.05139)|null|
+|**2026-06-03**|**Generating Financial Time Series by Matching Random Convolutional Features**|Konrad J. Mueller et.al.|[2606.05138](http://arxiv.org/abs/2606.05138)|null|
+|**2026-06-03**|**Activation-Based Active Learning for In-Context Learning: Challenges and Insights**|Yaseen M. Osman et.al.|[2606.05134](http://arxiv.org/abs/2606.05134)|null|
+|**2026-06-03**|**Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning**|Kelan Gray et.al.|[2606.05131](http://arxiv.org/abs/2606.05131)|null|
 |**2026-06-02**|**Neuron Populations Exhibit Divergent Selectivity with Scale**|Amil Dravid et.al.|[2606.03990](http://arxiv.org/abs/2606.03990)|null|
 |**2026-06-02**|**Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill**|Tao Chen et.al.|[2606.03980](http://arxiv.org/abs/2606.03980)|null|
 |**2026-06-02**|**Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories**|Ali Behrouz et.al.|[2606.03979](http://arxiv.org/abs/2606.03979)|null|
