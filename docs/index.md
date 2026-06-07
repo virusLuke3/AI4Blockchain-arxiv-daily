@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.06
+## Updated on 2026.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**|Dong Jing et.al.|[2606.06491](http://arxiv.org/abs/2606.06491)|null|
+|**2026-06-04**|**The Missing Central Limit Theorems for Local Functionals of Berry's Random Wave Model**|Francesco Grotto et.al.|[2606.06489](http://arxiv.org/abs/2606.06489)|null|
+|**2026-06-04**|**Numerical self-force calculations for scalar particles, formulated in the lab frame**|Stamatis Vretinaris et.al.|[2606.06487](http://arxiv.org/abs/2606.06487)|null|
+|**2026-06-04**|**Statistically and Computationally Optimal Estimation and Inference of Common Subspaces**|Joshua Agterberg et.al.|[2606.06483](http://arxiv.org/abs/2606.06483)|null|
+|**2026-06-04**|**Two-Sample Hypothesis Testing for Subspace Equality in Network Data**|Rajdeep Brahma et.al.|[2606.06482](http://arxiv.org/abs/2606.06482)|null|
+|**2026-06-04**|**Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection**|Sondos Mahmoud Bsharat et.al.|[2606.06481](http://arxiv.org/abs/2606.06481)|null|
+|**2026-06-04**|**Complexity-Balanced Diffusion Splitting**|Noam Issachar et.al.|[2606.06477](http://arxiv.org/abs/2606.06477)|null|
+|**2026-06-04**|**Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators**|Chenming Zhu et.al.|[2606.06476](http://arxiv.org/abs/2606.06476)|null|
+|**2026-06-04**|**RREDCoT: Segment-Level Reward Redistribution for Reasoning Models**|Mykyta Ielanskyi et.al.|[2606.06475](http://arxiv.org/abs/2606.06475)|null|
+|**2026-06-04**|**Analytic insight into the physics of SASI II. Spiral instability of the prograde mode in a rotating stellar core**|T. Foglizzo et.al.|[2606.06471](http://arxiv.org/abs/2606.06471)|null|
 |**2026-06-03**|**ODYSSEY: Reestablishing Confidentiality in Confidential Blockchain via Delegated Execution**|Ju Yang et.al.|[2606.04892](http://arxiv.org/abs/2606.04892)|null|
 |**2026-06-03**|**The Usefulness Gap in Proof-of-Useful-Work: An Empirical Study of Pearl's cuPOW Protocol**|Abhinaba Basu et.al.|[2606.04819](http://arxiv.org/abs/2606.04819)|null|
 |**2026-06-03**|**TITAN-FedAnil+: Trust-Based Adaptive Blockchain Federated Learning for Resource-Constrained Intelligent Enterprises**|Muhammad Hadi et.al.|[2606.04388](http://arxiv.org/abs/2606.04388)|null|
@@ -897,6 +907,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**Regret Minimization with Adaptive Opponents in Repeated Games**|Mingyang Liu et.al.|[2606.06486](http://arxiv.org/abs/2606.06486)|null|
+|**2026-06-04**|**PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding**|Shaohui Dai et.al.|[2606.06485](http://arxiv.org/abs/2606.06485)|null|
+|**2026-06-04**|**Statistically and Computationally Optimal Estimation and Inference of Common Subspaces**|Joshua Agterberg et.al.|[2606.06483](http://arxiv.org/abs/2606.06483)|null|
+|**2026-06-04**|**Two-Sample Hypothesis Testing for Subspace Equality in Network Data**|Rajdeep Brahma et.al.|[2606.06482](http://arxiv.org/abs/2606.06482)|null|
+|**2026-06-04**|**Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection**|Sondos Mahmoud Bsharat et.al.|[2606.06481](http://arxiv.org/abs/2606.06481)|null|
+|**2026-06-04**|**DNQ: Deep Nash Q-Network for Partially Observable n-Player Games**|Qintong Xie et.al.|[2606.06480](http://arxiv.org/abs/2606.06480)|null|
+|**2026-06-04**|**Complexity-Balanced Diffusion Splitting**|Noam Issachar et.al.|[2606.06477](http://arxiv.org/abs/2606.06477)|null|
+|**2026-06-04**|**Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators**|Chenming Zhu et.al.|[2606.06476](http://arxiv.org/abs/2606.06476)|null|
+|**2026-06-04**|**RREDCoT: Segment-Level Reward Redistribution for Reasoning Models**|Mykyta Ielanskyi et.al.|[2606.06475](http://arxiv.org/abs/2606.06475)|null|
+|**2026-06-04**|**MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery**|Shangheng Du et.al.|[2606.06473](http://arxiv.org/abs/2606.06473)|null|
 |**2026-06-01**|**LALE: Lightweight-Transformer Architecture for Land-Cover Estimation**|Ümit Mert Çağlar et.al.|[2606.02092](http://arxiv.org/abs/2606.02092)|null|
 |**2026-06-01**|**FocusDiT: Masking Queries in Diffusion Transformers for Fine-grained Image Generation**|Xueji Fang et.al.|[2606.02090](http://arxiv.org/abs/2606.02090)|null|
 |**2026-06-01**|**Decision-calibrated prediction sets for robust power system operations**|Akylas Stratigakos et.al.|[2606.02081](http://arxiv.org/abs/2606.02081)|null|
@@ -1682,6 +1702,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**What it takes to solve the Hubble tension through Modifications of Cosmological Recombination II: in light of ACT DR6 and DESI DR2**|Nanoom Lee et.al.|[2606.06495](http://arxiv.org/abs/2606.06495)|null|
+|**2026-06-04**|**HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**|Lizhi Yang et.al.|[2606.06493](http://arxiv.org/abs/2606.06493)|null|
+|**2026-06-04**|**TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**|Dong Jing et.al.|[2606.06491](http://arxiv.org/abs/2606.06491)|null|
+|**2026-06-04**|**Homeomorphic modified wave operators for the Vlasov-Poisson system**|Léo Bigorgne et.al.|[2606.06488](http://arxiv.org/abs/2606.06488)|null|
+|**2026-06-04**|**Regret Minimization with Adaptive Opponents in Repeated Games**|Mingyang Liu et.al.|[2606.06486](http://arxiv.org/abs/2606.06486)|null|
+|**2026-06-04**|**PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding**|Shaohui Dai et.al.|[2606.06485](http://arxiv.org/abs/2606.06485)|null|
+|**2026-06-04**|**Phenomenology of Inflaton-Driven Early QCD Confinement and Solution to Axion Isocurvature Problem**|Evangelos I. Sfakianakis et.al.|[2606.06484](http://arxiv.org/abs/2606.06484)|null|
+|**2026-06-04**|**Statistically and Computationally Optimal Estimation and Inference of Common Subspaces**|Joshua Agterberg et.al.|[2606.06483](http://arxiv.org/abs/2606.06483)|null|
+|**2026-06-04**|**Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection**|Sondos Mahmoud Bsharat et.al.|[2606.06481](http://arxiv.org/abs/2606.06481)|null|
+|**2026-06-04**|**Complexity-Balanced Diffusion Splitting**|Noam Issachar et.al.|[2606.06477](http://arxiv.org/abs/2606.06477)|null|
 |**2026-06-01**|**LALE: Lightweight-Transformer Architecture for Land-Cover Estimation**|Ümit Mert Çağlar et.al.|[2606.02092](http://arxiv.org/abs/2606.02092)|null|
 |**2026-06-01**|**DFlare: Scaling Up Draft Capacity for Block Diffusion Speculative Decoding**|Jiebin Zhang et.al.|[2606.02091](http://arxiv.org/abs/2606.02091)|null|
 |**2026-06-01**|**FocusDiT: Masking Queries in Diffusion Transformers for Fine-grained Image Generation**|Xueji Fang et.al.|[2606.02090](http://arxiv.org/abs/2606.02090)|null|
@@ -2472,6 +2502,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**DNQ: Deep Nash Q-Network for Partially Observable n-Player Games**|Qintong Xie et.al.|[2606.06480](http://arxiv.org/abs/2606.06480)|null|
+|**2026-06-04**|**Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators**|Chenming Zhu et.al.|[2606.06476](http://arxiv.org/abs/2606.06476)|null|
+|**2026-06-04**|**MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery**|Shangheng Du et.al.|[2606.06473](http://arxiv.org/abs/2606.06473)|null|
+|**2026-06-04**|**Goedel-Architect: Streamlining Formal Theorem Proving with Blueprint Generation and Refinement**|Jui-Hui Chung et.al.|[2606.06468](http://arxiv.org/abs/2606.06468)|null|
+|**2026-06-04**|**Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals**|Thamilvendhan Munirathinam et.al.|[2606.06460](http://arxiv.org/abs/2606.06460)|null|
+|**2026-06-04**|**In-Context Multiple Instance Learning**|Alexander Möllers et.al.|[2606.06458](http://arxiv.org/abs/2606.06458)|null|
+|**2026-06-04**|**Scaffold, Not Vocabulary? A Controlled, Two-Tier, Pre-Registered Study of a Popperian Code-Generation Skill**|Mehmet Iscan et.al.|[2606.06454](http://arxiv.org/abs/2606.06454)|null|
+|**2026-06-04**|**Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents**|Zhuoming Chen et.al.|[2606.06453](http://arxiv.org/abs/2606.06453)|null|
+|**2026-06-04**|**Energy-Modulated Time-Asymmetric Spontaneous Collapse: Forward-Backward Dynamics from Stochastic Ito Reversal and Bright Solitons**|Ikechukwu C. Okoro et.al.|[2606.06452](http://arxiv.org/abs/2606.06452)|null|
+|**2026-06-04**|**USAD 2.0: Scaling Representation Distillation for Universal Audio Understanding**|Heng-Jui Chang et.al.|[2606.06444](http://arxiv.org/abs/2606.06444)|null|
 |**2026-06-03**|**A formal framework for the economic security of DeFi compositions**|Massimo Bartoletti et.al.|[2606.05418](http://arxiv.org/abs/2606.05418)|null|
 |**2026-06-02**|**Cost of Manipulation in AMM-Based Oracles**|Sebastian Müller et.al.|[2606.03548](http://arxiv.org/abs/2606.03548)|null|
 |**2026-06-02**|**Bastet: A Fine-Grained Expert-Labeled Dataset for DeFi Smart Contract Vulnerability Detection**|Wan-Hsuan Hsu et.al.|[2606.03387](http://arxiv.org/abs/2606.03387)|null|
