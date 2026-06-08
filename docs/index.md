@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.07
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**How reliable are LLMs when it comes to playing dice?**|Luca Avena et.al.|[2606.07515](http://arxiv.org/abs/2606.07515)|null|
+|**2026-06-05**|**Agentopia: Long-Term Life Simulation and Learning in Agent Societies**|Xintao Wang et.al.|[2606.07513](http://arxiv.org/abs/2606.07513)|null|
+|**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
+|**2026-06-05**|**Bulk Superconductivity driven by Disorder-Induced Delocalization in 4Hb-Ta(S $_{1-x}$Se$_x$)$_2$**|Lu Chen et.al.|[2606.07509](http://arxiv.org/abs/2606.07509)|null|
+|**2026-06-05**|**Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning**|Fatema Siddika et.al.|[2606.07500](http://arxiv.org/abs/2606.07500)|null|
+|**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
+|**2026-06-05**|**The Roasting Marshmallows Program with IGRINS on Gemini South V: Atmosphere of MASCARA-1b is Enriched in Refractory Elements**|Krishna Kanumalla et.al.|[2606.07497](http://arxiv.org/abs/2606.07497)|null|
+|**2026-06-05**|**Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization**|Ming Sun et.al.|[2606.07496](http://arxiv.org/abs/2606.07496)|null|
+|**2026-06-05**|**Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech**|Xuanjun Chen et.al.|[2606.07494](http://arxiv.org/abs/2606.07494)|null|
+|**2026-06-05**|**A Comparison of cluster algebra structures arising from $i$ -boxes and Demazure weaves**|JiSun Huh et.al.|[2606.07493](http://arxiv.org/abs/2606.07493)|null|
 |**2026-06-04**|**TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**|Dong Jing et.al.|[2606.06491](http://arxiv.org/abs/2606.06491)|null|
 |**2026-06-04**|**The Missing Central Limit Theorems for Local Functionals of Berry's Random Wave Model**|Francesco Grotto et.al.|[2606.06489](http://arxiv.org/abs/2606.06489)|null|
 |**2026-06-04**|**Numerical self-force calculations for scalar particles, formulated in the lab frame**|Stamatis Vretinaris et.al.|[2606.06487](http://arxiv.org/abs/2606.06487)|null|
@@ -907,6 +917,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**UniSHARP: Universal Sharp Monocular View Synthesis**|Meixi Song et.al.|[2606.07514](http://arxiv.org/abs/2606.07514)|null|
+|**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
+|**2026-06-05**|**Streaming Video Generation with Streaming Force Control**|Hanhui Wang et.al.|[2606.07508](http://arxiv.org/abs/2606.07508)|null|
+|**2026-06-05**|**Differences in Detection: Explainability Where it Matters**|Johannes Theodoridis et.al.|[2606.07503](http://arxiv.org/abs/2606.07503)|null|
+|**2026-06-05**|**Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning**|Fatema Siddika et.al.|[2606.07500](http://arxiv.org/abs/2606.07500)|null|
+|**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
+|**2026-06-05**|**Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization**|Ming Sun et.al.|[2606.07496](http://arxiv.org/abs/2606.07496)|null|
+|**2026-06-05**|**Second-Order Path Kernel Interpolation Formulas in Machine Learning**|Jin Guo et.al.|[2606.07495](http://arxiv.org/abs/2606.07495)|null|
+|**2026-06-05**|**Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech**|Xuanjun Chen et.al.|[2606.07494](http://arxiv.org/abs/2606.07494)|null|
+|**2026-06-05**|**OPENPATH: A Supervisor--Specialist Agent System for Personalized, Accessible, and Multi-stop Urban Trip Planning**|Ziyang Xiong et.al.|[2606.07486](http://arxiv.org/abs/2606.07486)|null|
 |**2026-06-04**|**Regret Minimization with Adaptive Opponents in Repeated Games**|Mingyang Liu et.al.|[2606.06486](http://arxiv.org/abs/2606.06486)|null|
 |**2026-06-04**|**PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding**|Shaohui Dai et.al.|[2606.06485](http://arxiv.org/abs/2606.06485)|null|
 |**2026-06-04**|**Statistically and Computationally Optimal Estimation and Inference of Common Subspaces**|Joshua Agterberg et.al.|[2606.06483](http://arxiv.org/abs/2606.06483)|null|
@@ -1702,6 +1722,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**UniSHARP: Universal Sharp Monocular View Synthesis**|Meixi Song et.al.|[2606.07514](http://arxiv.org/abs/2606.07514)|null|
+|**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
+|**2026-06-05**|**GJ 3929 b as the First Complete Rocky Worlds DDT Data Set**|Nicholas J. Connors et.al.|[2606.07511](http://arxiv.org/abs/2606.07511)|null|
+|**2026-06-05**|**Ideals defining components of two-row Springer fibers**|Cristina Sabando-Alvarez et.al.|[2606.07507](http://arxiv.org/abs/2606.07507)|null|
+|**2026-06-05**|**Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation**|Tuba Girgin et.al.|[2606.07506](http://arxiv.org/abs/2606.07506)|null|
+|**2026-06-05**|**Primordial Black Hole Triggered Type Ia Supernovae II: Comparison with Supernova Remnants and Galactic Chemical Evolution**|Shing-Chi Leung et.al.|[2606.07505](http://arxiv.org/abs/2606.07505)|null|
+|**2026-06-05**|**On the large N convergence of matrix models**|M. P. Garcia del Moral et.al.|[2606.07504](http://arxiv.org/abs/2606.07504)|null|
+|**2026-06-05**|**Differences in Detection: Explainability Where it Matters**|Johannes Theodoridis et.al.|[2606.07503](http://arxiv.org/abs/2606.07503)|null|
+|**2026-06-05**|**Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings**|Songhao Wu et.al.|[2606.07502](http://arxiv.org/abs/2606.07502)|null|
+|**2026-06-05**|**Non-asymptotic bounds for quasi-MLE, misspecified models, and dependence under group sequential sampling**|Julian Aronowitz et.al.|[2606.07499](http://arxiv.org/abs/2606.07499)|null|
 |**2026-06-04**|**What it takes to solve the Hubble tension through Modifications of Cosmological Recombination II: in light of ACT DR6 and DESI DR2**|Nanoom Lee et.al.|[2606.06495](http://arxiv.org/abs/2606.06495)|null|
 |**2026-06-04**|**HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**|Lizhi Yang et.al.|[2606.06493](http://arxiv.org/abs/2606.06493)|null|
 |**2026-06-04**|**TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**|Dong Jing et.al.|[2606.06491](http://arxiv.org/abs/2606.06491)|null|
@@ -2502,6 +2532,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
+|**2026-06-05**|**The Roasting Marshmallows Program with IGRINS on Gemini South V: Atmosphere of MASCARA-1b is Enriched in Refractory Elements**|Krishna Kanumalla et.al.|[2606.07497](http://arxiv.org/abs/2606.07497)|null|
+|**2026-06-05**|**Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization**|Ming Sun et.al.|[2606.07496](http://arxiv.org/abs/2606.07496)|null|
+|**2026-06-05**|**Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies**|Ekaterina Grishina et.al.|[2606.07492](http://arxiv.org/abs/2606.07492)|null|
+|**2026-06-05**|**How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope**|Jeremy Yang et.al.|[2606.07489](http://arxiv.org/abs/2606.07489)|null|
+|**2026-06-05**|**Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification**|Sercan Karakaş et.al.|[2606.07479](http://arxiv.org/abs/2606.07479)|null|
+|**2026-06-05**|**Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses**|Julian D. Teske et.al.|[2606.07472](http://arxiv.org/abs/2606.07472)|null|
+|**2026-06-05**|**Statistical and Numerical Convergence in Stochastic Equilibrium**|David Staines et.al.|[2606.07469](http://arxiv.org/abs/2606.07469)|null|
+|**2026-06-05**|**Planning-aligned Token Compression for Long-Context Autonomous Driving**|Zhixuan Liang et.al.|[2606.07464](http://arxiv.org/abs/2606.07464)|null|
+|**2026-06-05**|**Amortized Neural Optimization for Pre-Layout Signal Integrity Design Space Exploration using Differentiable Surrogates**|Julian Withöft et.al.|[2606.07463](http://arxiv.org/abs/2606.07463)|null|
 |**2026-06-04**|**DNQ: Deep Nash Q-Network for Partially Observable n-Player Games**|Qintong Xie et.al.|[2606.06480](http://arxiv.org/abs/2606.06480)|null|
 |**2026-06-04**|**Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators**|Chenming Zhu et.al.|[2606.06476](http://arxiv.org/abs/2606.06476)|null|
 |**2026-06-04**|**MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery**|Shangheng Du et.al.|[2606.06473](http://arxiv.org/abs/2606.06473)|null|
@@ -3327,6 +3367,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**How reliable are LLMs when it comes to playing dice?**|Luca Avena et.al.|[2606.07515](http://arxiv.org/abs/2606.07515)|null|
+|**2026-06-05**|**Agentopia: Long-Term Life Simulation and Learning in Agent Societies**|Xintao Wang et.al.|[2606.07513](http://arxiv.org/abs/2606.07513)|null|
+|**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
+|**2026-06-05**|**Boundary criticality in the Gross-Neveu-Yukawa model at higher orders**|Oleksandr Diatlyk et.al.|[2606.07510](http://arxiv.org/abs/2606.07510)|null|
+|**2026-06-05**|**Bulk Superconductivity driven by Disorder-Induced Delocalization in 4Hb-Ta(S $_{1-x}$Se$_x$)$_2$**|Lu Chen et.al.|[2606.07509](http://arxiv.org/abs/2606.07509)|null|
+|**2026-06-05**|**Ideals defining components of two-row Springer fibers**|Cristina Sabando-Alvarez et.al.|[2606.07507](http://arxiv.org/abs/2606.07507)|null|
+|**2026-06-05**|**Primordial Black Hole Triggered Type Ia Supernovae II: Comparison with Supernova Remnants and Galactic Chemical Evolution**|Shing-Chi Leung et.al.|[2606.07505](http://arxiv.org/abs/2606.07505)|null|
+|**2026-06-05**|**Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings**|Songhao Wu et.al.|[2606.07502](http://arxiv.org/abs/2606.07502)|null|
+|**2026-06-05**|**Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning**|Fatema Siddika et.al.|[2606.07500](http://arxiv.org/abs/2606.07500)|null|
+|**2026-06-05**|**Non-asymptotic bounds for quasi-MLE, misspecified models, and dependence under group sequential sampling**|Julian Aronowitz et.al.|[2606.07499](http://arxiv.org/abs/2606.07499)|null|
 |**2026-06-04**|**HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**|Lizhi Yang et.al.|[2606.06493](http://arxiv.org/abs/2606.06493)|null|
 |**2026-06-04**|**Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution**|Liliana Hotsko et.al.|[2606.06492](http://arxiv.org/abs/2606.06492)|null|
 |**2026-06-04**|**The Missing Central Limit Theorems for Local Functionals of Berry's Random Wave Model**|Francesco Grotto et.al.|[2606.06489](http://arxiv.org/abs/2606.06489)|null|
@@ -4168,6 +4218,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Agentopia: Long-Term Life Simulation and Learning in Agent Societies**|Xintao Wang et.al.|[2606.07513](http://arxiv.org/abs/2606.07513)|null|
+|**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
+|**2026-06-05**|**GJ 3929 b as the First Complete Rocky Worlds DDT Data Set**|Nicholas J. Connors et.al.|[2606.07511](http://arxiv.org/abs/2606.07511)|null|
+|**2026-06-05**|**Boundary criticality in the Gross-Neveu-Yukawa model at higher orders**|Oleksandr Diatlyk et.al.|[2606.07510](http://arxiv.org/abs/2606.07510)|null|
+|**2026-06-05**|**Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation**|Tuba Girgin et.al.|[2606.07506](http://arxiv.org/abs/2606.07506)|null|
+|**2026-06-05**|**On the large N convergence of matrix models**|M. P. Garcia del Moral et.al.|[2606.07504](http://arxiv.org/abs/2606.07504)|null|
+|**2026-06-05**|**Differences in Detection: Explainability Where it Matters**|Johannes Theodoridis et.al.|[2606.07503](http://arxiv.org/abs/2606.07503)|null|
+|**2026-06-05**|**On the non-uniqueness of solutions of the axi-symmetric swirl-free Navier-Stokes equations, I**|Alexandru D. Ionescu et.al.|[2606.07501](http://arxiv.org/abs/2606.07501)|null|
+|**2026-06-05**|**Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning**|Fatema Siddika et.al.|[2606.07500](http://arxiv.org/abs/2606.07500)|null|
+|**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
 |**2026-06-04**|**TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning**|Marius Dragoi et.al.|[2606.06494](http://arxiv.org/abs/2606.06494)|null|
 |**2026-06-04**|**HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**|Lizhi Yang et.al.|[2606.06493](http://arxiv.org/abs/2606.06493)|null|
 |**2026-06-04**|**Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution**|Liliana Hotsko et.al.|[2606.06492](http://arxiv.org/abs/2606.06492)|null|
