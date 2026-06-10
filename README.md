@@ -1,4 +1,4 @@
-## Updated on 2026.06.09
+## Updated on 2026.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
+|**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Gangwei Xu et.al.|[2606.11187](http://arxiv.org/abs/2606.11187)|null|
+|**2026-06-09**|**Nonparametric Riemannian Empirical Bayes, and Denoising Measurements on Manifolds**|Adam Quinn Jaffe et.al.|[2606.11183](http://arxiv.org/abs/2606.11183)|null|
+|**2026-06-09**|**EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents**|Weixian Xu et.al.|[2606.11182](http://arxiv.org/abs/2606.11182)|null|
+|**2026-06-09**|**Combined Analysis of Lattice QCD and Experimental Data on the Pion Transition Form Factor**|Franziska Hagelstein et.al.|[2606.11181](http://arxiv.org/abs/2606.11181)|null|
+|**2026-06-09**|**Equivariant Contact Darboux Quotients and Perversely Categorified Legendrian Correspondences**|Efe İzbudak et.al.|[2606.11179](http://arxiv.org/abs/2606.11179)|null|
+|**2026-06-09**|**A Proof of Nash-Williams' Conjecture**|Michelle Delcourt et.al.|[2606.11178](http://arxiv.org/abs/2606.11178)|null|
+|**2026-06-09**|**Anchors that Don't Lift: Understanding Supply Chain Driven Kernel Lock-In and Governance-Mediated Mitigation Strategies in SOHO Devices**|Ritwik Badola et.al.|[2606.11175](http://arxiv.org/abs/2606.11175)|null|
+|**2026-06-09**|**The Role of Feedback Alignment in Self-Distillation**|Semih Kara et.al.|[2606.11173](http://arxiv.org/abs/2606.11173)|null|
+|**2026-06-09**|**Piper: A Programmable Distributed Training System**|Megan Frisella et.al.|[2606.11169](http://arxiv.org/abs/2606.11169)|null|
 |**2026-06-05**|**How reliable are LLMs when it comes to playing dice?**|Luca Avena et.al.|[2606.07515](http://arxiv.org/abs/2606.07515)|null|
 |**2026-06-05**|**Agentopia: Long-Term Life Simulation and Learning in Agent Societies**|Xintao Wang et.al.|[2606.07513](http://arxiv.org/abs/2606.07513)|null|
 |**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
@@ -933,12 +943,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations**|Junke Wang et.al.|[2606.11188](http://arxiv.org/abs/2606.11188)|null|
+|**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Gangwei Xu et.al.|[2606.11187](http://arxiv.org/abs/2606.11187)|null|
+|**2026-06-09**|**AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference**|Hangfeng Liang et.al.|[2606.11186](http://arxiv.org/abs/2606.11186)|null|
+|**2026-06-09**|**Nonparametric Riemannian Empirical Bayes, and Denoising Measurements on Manifolds**|Adam Quinn Jaffe et.al.|[2606.11183](http://arxiv.org/abs/2606.11183)|null|
+|**2026-06-09**|**EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents**|Weixian Xu et.al.|[2606.11182](http://arxiv.org/abs/2606.11182)|null|
+|**2026-06-09**|**Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization**|Paul Hyunbin Cho et.al.|[2606.11180](http://arxiv.org/abs/2606.11180)|null|
+|**2026-06-09**|**Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories**|Kevin Qinghong Lin et.al.|[2606.11176](http://arxiv.org/abs/2606.11176)|null|
+|**2026-06-09**|**Anchors that Don't Lift: Understanding Supply Chain Driven Kernel Lock-In and Governance-Mediated Mitigation Strategies in SOHO Devices**|Ritwik Badola et.al.|[2606.11175](http://arxiv.org/abs/2606.11175)|null|
+|**2026-06-09**|**Algorithmic and Minimax Complexities in Kernel Bandits**|Yunbei Xu et.al.|[2606.11171](http://arxiv.org/abs/2606.11171)|null|
+|**2026-06-09**|**Piper: A Programmable Distributed Training System**|Megan Frisella et.al.|[2606.11169](http://arxiv.org/abs/2606.11169)|null|
 |**2026-06-05**|**UniSHARP: Universal Sharp Monocular View Synthesis**|Meixi Song et.al.|[2606.07514](http://arxiv.org/abs/2606.07514)|null|
 |**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
 |**2026-06-05**|**Streaming Video Generation with Streaming Force Control**|Hanhui Wang et.al.|[2606.07508](http://arxiv.org/abs/2606.07508)|null|
@@ -1740,12 +1760,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**When to Align, When to Predict: A Phase Diagram for Multimodal Learning**|Ilay Kamai et.al.|[2606.11190](http://arxiv.org/abs/2606.11190)|null|
+|**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
+|**2026-06-09**|**ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations**|Junke Wang et.al.|[2606.11188](http://arxiv.org/abs/2606.11188)|null|
+|**2026-06-09**|**AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference**|Hangfeng Liang et.al.|[2606.11186](http://arxiv.org/abs/2606.11186)|null|
+|**2026-06-09**|**Boundary rectifiability and compactness of integral currents via $BV$ functions**|Giacomo Del Nin et.al.|[2606.11185](http://arxiv.org/abs/2606.11185)|null|
+|**2026-06-09**|**EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents**|Weixian Xu et.al.|[2606.11182](http://arxiv.org/abs/2606.11182)|null|
+|**2026-06-09**|**Combined Analysis of Lattice QCD and Experimental Data on the Pion Transition Form Factor**|Franziska Hagelstein et.al.|[2606.11181](http://arxiv.org/abs/2606.11181)|null|
+|**2026-06-09**|**Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization**|Paul Hyunbin Cho et.al.|[2606.11180](http://arxiv.org/abs/2606.11180)|null|
+|**2026-06-09**|**Equivariant Contact Darboux Quotients and Perversely Categorified Legendrian Correspondences**|Efe İzbudak et.al.|[2606.11179](http://arxiv.org/abs/2606.11179)|null|
+|**2026-06-09**|**A Proof of Nash-Williams' Conjecture**|Michelle Delcourt et.al.|[2606.11178](http://arxiv.org/abs/2606.11178)|null|
 |**2026-06-05**|**UniSHARP: Universal Sharp Monocular View Synthesis**|Meixi Song et.al.|[2606.07514](http://arxiv.org/abs/2606.07514)|null|
 |**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
 |**2026-06-05**|**GJ 3929 b as the First Complete Rocky Worlds DDT Data Set**|Nicholas J. Connors et.al.|[2606.07511](http://arxiv.org/abs/2606.07511)|null|
@@ -2552,12 +2582,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**Combined Analysis of Lattice QCD and Experimental Data on the Pion Transition Form Factor**|Franziska Hagelstein et.al.|[2606.11181](http://arxiv.org/abs/2606.11181)|null|
+|**2026-06-09**|**Equivariant Contact Darboux Quotients and Perversely Categorified Legendrian Correspondences**|Efe İzbudak et.al.|[2606.11179](http://arxiv.org/abs/2606.11179)|null|
+|**2026-06-09**|**The Role of Feedback Alignment in Self-Distillation**|Semih Kara et.al.|[2606.11173](http://arxiv.org/abs/2606.11173)|null|
+|**2026-06-09**|**Flaws in the LLM Automation Narrative**|George Perrett et.al.|[2606.11166](http://arxiv.org/abs/2606.11166)|null|
+|**2026-06-09**|**Reassessing the low- $α$ massive sequence stars in Gaia RVS**|G. Nandakumar et.al.|[2606.11165](http://arxiv.org/abs/2606.11165)|null|
+|**2026-06-09**|**Fractional Pareto-Optimality in Multiwinner Voting**|Patrick Becker et.al.|[2606.11160](http://arxiv.org/abs/2606.11160)|null|
+|**2026-06-09**|**Unidirectional Entropic Solutions of the Pressureless Euler Alignment System**|Joshua O. Adeleke et.al.|[2606.11159](http://arxiv.org/abs/2606.11159)|null|
+|**2026-06-09**|**Defeat the Heap: Zero-Copy Data Movement in AXI4MLIR**|Elam Cohavi et.al.|[2606.11158](http://arxiv.org/abs/2606.11158)|null|
+|**2026-06-09**|**Itô maps for any-step SDEs**|Zhengkai Pan et.al.|[2606.11156](http://arxiv.org/abs/2606.11156)|null|
+|**2026-06-09**|**P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning**|Yikang Yang et.al.|[2606.11152](http://arxiv.org/abs/2606.11152)|null|
 |**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
 |**2026-06-05**|**The Roasting Marshmallows Program with IGRINS on Gemini South V: Atmosphere of MASCARA-1b is Enriched in Refractory Elements**|Krishna Kanumalla et.al.|[2606.07497](http://arxiv.org/abs/2606.07497)|null|
 |**2026-06-05**|**Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization**|Ming Sun et.al.|[2606.07496](http://arxiv.org/abs/2606.07496)|null|
@@ -3389,12 +3429,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**When to Align, When to Predict: A Phase Diagram for Multimodal Learning**|Ilay Kamai et.al.|[2606.11190](http://arxiv.org/abs/2606.11190)|null|
+|**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
+|**2026-06-09**|**Boundary rectifiability and compactness of integral currents via $BV$ functions**|Giacomo Del Nin et.al.|[2606.11185](http://arxiv.org/abs/2606.11185)|null|
+|**2026-06-09**|**Nonparametric Riemannian Empirical Bayes, and Denoising Measurements on Manifolds**|Adam Quinn Jaffe et.al.|[2606.11183](http://arxiv.org/abs/2606.11183)|null|
+|**2026-06-09**|**Combined Analysis of Lattice QCD and Experimental Data on the Pion Transition Form Factor**|Franziska Hagelstein et.al.|[2606.11181](http://arxiv.org/abs/2606.11181)|null|
+|**2026-06-09**|**Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization**|Paul Hyunbin Cho et.al.|[2606.11180](http://arxiv.org/abs/2606.11180)|null|
+|**2026-06-09**|**Equivariant Contact Darboux Quotients and Perversely Categorified Legendrian Correspondences**|Efe İzbudak et.al.|[2606.11179](http://arxiv.org/abs/2606.11179)|null|
+|**2026-06-09**|**A Proof of Nash-Williams' Conjecture**|Michelle Delcourt et.al.|[2606.11178](http://arxiv.org/abs/2606.11178)|null|
+|**2026-06-09**|**Full-State and Reduced-Moment Encodings: A Representation-Level View of Equilibrium Quantum Many-Body Theory**|Nan Sheng et.al.|[2606.11177](http://arxiv.org/abs/2606.11177)|null|
+|**2026-06-09**|**Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories**|Kevin Qinghong Lin et.al.|[2606.11176](http://arxiv.org/abs/2606.11176)|null|
 |**2026-06-05**|**How reliable are LLMs when it comes to playing dice?**|Luca Avena et.al.|[2606.07515](http://arxiv.org/abs/2606.07515)|null|
 |**2026-06-05**|**Agentopia: Long-Term Life Simulation and Learning in Agent Societies**|Xintao Wang et.al.|[2606.07513](http://arxiv.org/abs/2606.07513)|null|
 |**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
@@ -4242,12 +4292,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**When to Align, When to Predict: A Phase Diagram for Multimodal Learning**|Ilay Kamai et.al.|[2606.11190](http://arxiv.org/abs/2606.11190)|null|
+|**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
+|**2026-06-09**|**ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations**|Junke Wang et.al.|[2606.11188](http://arxiv.org/abs/2606.11188)|null|
+|**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Gangwei Xu et.al.|[2606.11187](http://arxiv.org/abs/2606.11187)|null|
+|**2026-06-09**|**AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference**|Hangfeng Liang et.al.|[2606.11186](http://arxiv.org/abs/2606.11186)|null|
+|**2026-06-09**|**Boundary rectifiability and compactness of integral currents via $BV$ functions**|Giacomo Del Nin et.al.|[2606.11185](http://arxiv.org/abs/2606.11185)|null|
+|**2026-06-09**|**TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation**|Yujie Zang et.al.|[2606.11184](http://arxiv.org/abs/2606.11184)|null|
+|**2026-06-09**|**Nonparametric Riemannian Empirical Bayes, and Denoising Measurements on Manifolds**|Adam Quinn Jaffe et.al.|[2606.11183](http://arxiv.org/abs/2606.11183)|null|
+|**2026-06-09**|**EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents**|Weixian Xu et.al.|[2606.11182](http://arxiv.org/abs/2606.11182)|null|
+|**2026-06-09**|**Combined Analysis of Lattice QCD and Experimental Data on the Pion Transition Form Factor**|Franziska Hagelstein et.al.|[2606.11181](http://arxiv.org/abs/2606.11181)|null|
 |**2026-06-05**|**Agentopia: Long-Term Life Simulation and Learning in Agent Societies**|Xintao Wang et.al.|[2606.07513](http://arxiv.org/abs/2606.07513)|null|
 |**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
 |**2026-06-05**|**GJ 3929 b as the First Complete Rocky Worlds DDT Data Set**|Nicholas J. Connors et.al.|[2606.07511](http://arxiv.org/abs/2606.07511)|null|
@@ -5114,7 +5174,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
