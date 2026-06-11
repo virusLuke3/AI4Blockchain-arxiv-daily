@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
+|**2026-06-10**|**Arrangements of Consecutive Numbers in Mallows Permutations**|Katarzyna Rybarczyk et.al.|[2606.12410](http://arxiv.org/abs/2606.12410)|null|
+|**2026-06-10**|**FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning**|Steven Oh et.al.|[2606.12406](http://arxiv.org/abs/2606.12406)|null|
+|**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
+|**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403](http://arxiv.org/abs/2606.12403)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402](http://arxiv.org/abs/2606.12402)|null|
+|**2026-06-10**|**Quantifying the Distribution of Biexciton Emission Efficiencies in Colloidal Quantum Shells**|Tjom Arens et.al.|[2606.12398](http://arxiv.org/abs/2606.12398)|null|
+|**2026-06-10**|**MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario**|Diego Cabuya-Padilla et.al.|[2606.12395](http://arxiv.org/abs/2606.12395)|null|
+|**2026-06-10**|**Scaling-optimal purification of noisy qubit unitary channels**|Ryotaro Niwa et.al.|[2606.12394](http://arxiv.org/abs/2606.12394)|null|
+|**2026-06-10**|**The Fundaments of Unity: ${\mathcal O}(1)$ Couplings in Quantum Field Theories**|Ben Allanach et.al.|[2606.12393](http://arxiv.org/abs/2606.12393)|null|
 |**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
 |**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Gangwei Xu et.al.|[2606.11187](http://arxiv.org/abs/2606.11187)|null|
 |**2026-06-09**|**Nonparametric Riemannian Empirical Bayes, and Denoising Measurements on Manifolds**|Adam Quinn Jaffe et.al.|[2606.11183](http://arxiv.org/abs/2606.11183)|null|
@@ -927,6 +937,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
+|**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan et.al.|[2606.12409](http://arxiv.org/abs/2606.12409)|null|
+|**2026-06-10**|**How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology**|Kian R. Weihrauch et.al.|[2606.12407](http://arxiv.org/abs/2606.12407)|null|
+|**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
+|**2026-06-10**|**Collective neutrino oscillations: Many-body non-forward effects and non-classicality**|Julien Froustey et.al.|[2606.12404](http://arxiv.org/abs/2606.12404)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402](http://arxiv.org/abs/2606.12402)|null|
+|**2026-06-10**|**Revealing Peri-Urban Dislocation through Percolation Analysis**|Dr Melissa Barrientos-Trinanes et.al.|[2606.12399](http://arxiv.org/abs/2606.12399)|null|
+|**2026-06-10**|**Redesign Mixture-of-Experts Routers with Manifold Power Iteration**|Songhao Wu et.al.|[2606.12397](http://arxiv.org/abs/2606.12397)|null|
+|**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Jin Yao et.al.|[2606.12396](http://arxiv.org/abs/2606.12396)|null|
+|**2026-06-10**|**MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario**|Diego Cabuya-Padilla et.al.|[2606.12395](http://arxiv.org/abs/2606.12395)|null|
 |**2026-06-09**|**ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations**|Junke Wang et.al.|[2606.11188](http://arxiv.org/abs/2606.11188)|null|
 |**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Gangwei Xu et.al.|[2606.11187](http://arxiv.org/abs/2606.11187)|null|
 |**2026-06-09**|**AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference**|Hangfeng Liang et.al.|[2606.11186](http://arxiv.org/abs/2606.11186)|null|
@@ -1742,6 +1762,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
+|**2026-06-10**|**When direct detection constrains reheating temperature: freeze-in with stronger couplings and inflaton-seeded freeze-in**|Xavier Bertou et.al.|[2606.12408](http://arxiv.org/abs/2606.12408)|null|
+|**2026-06-10**|**How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology**|Kian R. Weihrauch et.al.|[2606.12407](http://arxiv.org/abs/2606.12407)|null|
+|**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
+|**2026-06-10**|**Collective neutrino oscillations: Many-body non-forward effects and non-classicality**|Julien Froustey et.al.|[2606.12404](http://arxiv.org/abs/2606.12404)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402](http://arxiv.org/abs/2606.12402)|null|
+|**2026-06-10**|**The carbon isotope ratio of β Pic b with high-resolution spectroscopy**|D. González Picos et.al.|[2606.12401](http://arxiv.org/abs/2606.12401)|null|
+|**2026-06-10**|**Doc-to-Atom: Learning to Compile and Compose Memory Atoms**|Xingjian Diao et.al.|[2606.12400](http://arxiv.org/abs/2606.12400)|null|
+|**2026-06-10**|**Redesign Mixture-of-Experts Routers with Manifold Power Iteration**|Songhao Wu et.al.|[2606.12397](http://arxiv.org/abs/2606.12397)|null|
+|**2026-06-10**|**MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario**|Diego Cabuya-Padilla et.al.|[2606.12395](http://arxiv.org/abs/2606.12395)|null|
 |**2026-06-09**|**When to Align, When to Predict: A Phase Diagram for Multimodal Learning**|Ilay Kamai et.al.|[2606.11190](http://arxiv.org/abs/2606.11190)|null|
 |**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
 |**2026-06-09**|**ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations**|Junke Wang et.al.|[2606.11188](http://arxiv.org/abs/2606.11188)|null|
@@ -2562,6 +2592,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
+|**2026-06-10**|**Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**|Yeongseo Jung et.al.|[2606.12411](http://arxiv.org/abs/2606.12411)|null|
+|**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan et.al.|[2606.12409](http://arxiv.org/abs/2606.12409)|null|
+|**2026-06-10**|**How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology**|Kian R. Weihrauch et.al.|[2606.12407](http://arxiv.org/abs/2606.12407)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402](http://arxiv.org/abs/2606.12402)|null|
+|**2026-06-10**|**MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario**|Diego Cabuya-Padilla et.al.|[2606.12395](http://arxiv.org/abs/2606.12395)|null|
+|**2026-06-10**|**Scaling-optimal purification of noisy qubit unitary channels**|Ryotaro Niwa et.al.|[2606.12394](http://arxiv.org/abs/2606.12394)|null|
+|**2026-06-10**|**KiDS-Legacy: Joint analysis of second- and third-order cosmic shear**|L. Linke et.al.|[2606.12389](http://arxiv.org/abs/2606.12389)|null|
+|**2026-06-10**|**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**|Zhiyi Chen et.al.|[2606.12387](http://arxiv.org/abs/2606.12387)|null|
+|**2026-06-10**|**ATLAS: Active Theory Learning for Automated Science**|Noémi Éltető et.al.|[2606.12386](http://arxiv.org/abs/2606.12386)|null|
 |**2026-06-09**|**Combined Analysis of Lattice QCD and Experimental Data on the Pion Transition Form Factor**|Franziska Hagelstein et.al.|[2606.11181](http://arxiv.org/abs/2606.11181)|null|
 |**2026-06-09**|**Equivariant Contact Darboux Quotients and Perversely Categorified Legendrian Correspondences**|Efe İzbudak et.al.|[2606.11179](http://arxiv.org/abs/2606.11179)|null|
 |**2026-06-09**|**The Role of Feedback Alignment in Self-Distillation**|Semih Kara et.al.|[2606.11173](http://arxiv.org/abs/2606.11173)|null|
@@ -3407,6 +3447,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
+|**2026-06-10**|**Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**|Yeongseo Jung et.al.|[2606.12411](http://arxiv.org/abs/2606.12411)|null|
+|**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
+|**2026-06-10**|**Collective neutrino oscillations: Many-body non-forward effects and non-classicality**|Julien Froustey et.al.|[2606.12404](http://arxiv.org/abs/2606.12404)|null|
+|**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403](http://arxiv.org/abs/2606.12403)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402](http://arxiv.org/abs/2606.12402)|null|
+|**2026-06-10**|**Doc-to-Atom: Learning to Compile and Compose Memory Atoms**|Xingjian Diao et.al.|[2606.12400](http://arxiv.org/abs/2606.12400)|null|
+|**2026-06-10**|**Revealing Peri-Urban Dislocation through Percolation Analysis**|Dr Melissa Barrientos-Trinanes et.al.|[2606.12399](http://arxiv.org/abs/2606.12399)|null|
+|**2026-06-10**|**Redesign Mixture-of-Experts Routers with Manifold Power Iteration**|Songhao Wu et.al.|[2606.12397](http://arxiv.org/abs/2606.12397)|null|
+|**2026-06-10**|**MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario**|Diego Cabuya-Padilla et.al.|[2606.12395](http://arxiv.org/abs/2606.12395)|null|
 |**2026-06-09**|**When to Align, When to Predict: A Phase Diagram for Multimodal Learning**|Ilay Kamai et.al.|[2606.11190](http://arxiv.org/abs/2606.11190)|null|
 |**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
 |**2026-06-09**|**Boundary rectifiability and compactness of integral currents via $BV$ functions**|Giacomo Del Nin et.al.|[2606.11185](http://arxiv.org/abs/2606.11185)|null|
@@ -4268,6 +4318,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**|Yeongseo Jung et.al.|[2606.12411](http://arxiv.org/abs/2606.12411)|null|
+|**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan et.al.|[2606.12409](http://arxiv.org/abs/2606.12409)|null|
+|**2026-06-10**|**When direct detection constrains reheating temperature: freeze-in with stronger couplings and inflaton-seeded freeze-in**|Xavier Bertou et.al.|[2606.12408](http://arxiv.org/abs/2606.12408)|null|
+|**2026-06-10**|**How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology**|Kian R. Weihrauch et.al.|[2606.12407](http://arxiv.org/abs/2606.12407)|null|
+|**2026-06-10**|**FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning**|Steven Oh et.al.|[2606.12406](http://arxiv.org/abs/2606.12406)|null|
+|**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
+|**2026-06-10**|**The carbon isotope ratio of β Pic b with high-resolution spectroscopy**|D. González Picos et.al.|[2606.12401](http://arxiv.org/abs/2606.12401)|null|
+|**2026-06-10**|**Doc-to-Atom: Learning to Compile and Compose Memory Atoms**|Xingjian Diao et.al.|[2606.12400](http://arxiv.org/abs/2606.12400)|null|
+|**2026-06-10**|**Revealing Peri-Urban Dislocation through Percolation Analysis**|Dr Melissa Barrientos-Trinanes et.al.|[2606.12399](http://arxiv.org/abs/2606.12399)|null|
+|**2026-06-10**|**Redesign Mixture-of-Experts Routers with Manifold Power Iteration**|Songhao Wu et.al.|[2606.12397](http://arxiv.org/abs/2606.12397)|null|
 |**2026-06-09**|**When to Align, When to Predict: A Phase Diagram for Multimodal Learning**|Ilay Kamai et.al.|[2606.11190](http://arxiv.org/abs/2606.11190)|null|
 |**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
 |**2026-06-09**|**ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations**|Junke Wang et.al.|[2606.11188](http://arxiv.org/abs/2606.11188)|null|

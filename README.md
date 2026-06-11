@@ -1,4 +1,4 @@
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
+|**2026-06-10**|**Arrangements of Consecutive Numbers in Mallows Permutations**|Katarzyna Rybarczyk et.al.|[2606.12410](http://arxiv.org/abs/2606.12410)|null|
+|**2026-06-10**|**FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning**|Steven Oh et.al.|[2606.12406](http://arxiv.org/abs/2606.12406)|null|
+|**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
+|**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403](http://arxiv.org/abs/2606.12403)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402](http://arxiv.org/abs/2606.12402)|null|
+|**2026-06-10**|**Quantifying the Distribution of Biexciton Emission Efficiencies in Colloidal Quantum Shells**|Tjom Arens et.al.|[2606.12398](http://arxiv.org/abs/2606.12398)|null|
+|**2026-06-10**|**MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario**|Diego Cabuya-Padilla et.al.|[2606.12395](http://arxiv.org/abs/2606.12395)|null|
+|**2026-06-10**|**Scaling-optimal purification of noisy qubit unitary channels**|Ryotaro Niwa et.al.|[2606.12394](http://arxiv.org/abs/2606.12394)|null|
+|**2026-06-10**|**The Fundaments of Unity: ${\mathcal O}(1)$ Couplings in Quantum Field Theories**|Ben Allanach et.al.|[2606.12393](http://arxiv.org/abs/2606.12393)|null|
 |**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
 |**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Gangwei Xu et.al.|[2606.11187](http://arxiv.org/abs/2606.11187)|null|
 |**2026-06-09**|**Nonparametric Riemannian Empirical Bayes, and Denoising Measurements on Manifolds**|Adam Quinn Jaffe et.al.|[2606.11183](http://arxiv.org/abs/2606.11183)|null|
@@ -943,12 +953,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
+|**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan et.al.|[2606.12409](http://arxiv.org/abs/2606.12409)|null|
+|**2026-06-10**|**How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology**|Kian R. Weihrauch et.al.|[2606.12407](http://arxiv.org/abs/2606.12407)|null|
+|**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
+|**2026-06-10**|**Collective neutrino oscillations: Many-body non-forward effects and non-classicality**|Julien Froustey et.al.|[2606.12404](http://arxiv.org/abs/2606.12404)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402](http://arxiv.org/abs/2606.12402)|null|
+|**2026-06-10**|**Revealing Peri-Urban Dislocation through Percolation Analysis**|Dr Melissa Barrientos-Trinanes et.al.|[2606.12399](http://arxiv.org/abs/2606.12399)|null|
+|**2026-06-10**|**Redesign Mixture-of-Experts Routers with Manifold Power Iteration**|Songhao Wu et.al.|[2606.12397](http://arxiv.org/abs/2606.12397)|null|
+|**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Jin Yao et.al.|[2606.12396](http://arxiv.org/abs/2606.12396)|null|
+|**2026-06-10**|**MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario**|Diego Cabuya-Padilla et.al.|[2606.12395](http://arxiv.org/abs/2606.12395)|null|
 |**2026-06-09**|**ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations**|Junke Wang et.al.|[2606.11188](http://arxiv.org/abs/2606.11188)|null|
 |**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Gangwei Xu et.al.|[2606.11187](http://arxiv.org/abs/2606.11187)|null|
 |**2026-06-09**|**AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference**|Hangfeng Liang et.al.|[2606.11186](http://arxiv.org/abs/2606.11186)|null|
@@ -1760,12 +1780,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
+|**2026-06-10**|**When direct detection constrains reheating temperature: freeze-in with stronger couplings and inflaton-seeded freeze-in**|Xavier Bertou et.al.|[2606.12408](http://arxiv.org/abs/2606.12408)|null|
+|**2026-06-10**|**How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology**|Kian R. Weihrauch et.al.|[2606.12407](http://arxiv.org/abs/2606.12407)|null|
+|**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
+|**2026-06-10**|**Collective neutrino oscillations: Many-body non-forward effects and non-classicality**|Julien Froustey et.al.|[2606.12404](http://arxiv.org/abs/2606.12404)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402](http://arxiv.org/abs/2606.12402)|null|
+|**2026-06-10**|**The carbon isotope ratio of β Pic b with high-resolution spectroscopy**|D. González Picos et.al.|[2606.12401](http://arxiv.org/abs/2606.12401)|null|
+|**2026-06-10**|**Doc-to-Atom: Learning to Compile and Compose Memory Atoms**|Xingjian Diao et.al.|[2606.12400](http://arxiv.org/abs/2606.12400)|null|
+|**2026-06-10**|**Redesign Mixture-of-Experts Routers with Manifold Power Iteration**|Songhao Wu et.al.|[2606.12397](http://arxiv.org/abs/2606.12397)|null|
+|**2026-06-10**|**MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario**|Diego Cabuya-Padilla et.al.|[2606.12395](http://arxiv.org/abs/2606.12395)|null|
 |**2026-06-09**|**When to Align, When to Predict: A Phase Diagram for Multimodal Learning**|Ilay Kamai et.al.|[2606.11190](http://arxiv.org/abs/2606.11190)|null|
 |**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
 |**2026-06-09**|**ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations**|Junke Wang et.al.|[2606.11188](http://arxiv.org/abs/2606.11188)|null|
@@ -2582,12 +2612,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
+|**2026-06-10**|**Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**|Yeongseo Jung et.al.|[2606.12411](http://arxiv.org/abs/2606.12411)|null|
+|**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan et.al.|[2606.12409](http://arxiv.org/abs/2606.12409)|null|
+|**2026-06-10**|**How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology**|Kian R. Weihrauch et.al.|[2606.12407](http://arxiv.org/abs/2606.12407)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402](http://arxiv.org/abs/2606.12402)|null|
+|**2026-06-10**|**MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario**|Diego Cabuya-Padilla et.al.|[2606.12395](http://arxiv.org/abs/2606.12395)|null|
+|**2026-06-10**|**Scaling-optimal purification of noisy qubit unitary channels**|Ryotaro Niwa et.al.|[2606.12394](http://arxiv.org/abs/2606.12394)|null|
+|**2026-06-10**|**KiDS-Legacy: Joint analysis of second- and third-order cosmic shear**|L. Linke et.al.|[2606.12389](http://arxiv.org/abs/2606.12389)|null|
+|**2026-06-10**|**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**|Zhiyi Chen et.al.|[2606.12387](http://arxiv.org/abs/2606.12387)|null|
+|**2026-06-10**|**ATLAS: Active Theory Learning for Automated Science**|Noémi Éltető et.al.|[2606.12386](http://arxiv.org/abs/2606.12386)|null|
 |**2026-06-09**|**Combined Analysis of Lattice QCD and Experimental Data on the Pion Transition Form Factor**|Franziska Hagelstein et.al.|[2606.11181](http://arxiv.org/abs/2606.11181)|null|
 |**2026-06-09**|**Equivariant Contact Darboux Quotients and Perversely Categorified Legendrian Correspondences**|Efe İzbudak et.al.|[2606.11179](http://arxiv.org/abs/2606.11179)|null|
 |**2026-06-09**|**The Role of Feedback Alignment in Self-Distillation**|Semih Kara et.al.|[2606.11173](http://arxiv.org/abs/2606.11173)|null|
@@ -3429,12 +3469,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
+|**2026-06-10**|**Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**|Yeongseo Jung et.al.|[2606.12411](http://arxiv.org/abs/2606.12411)|null|
+|**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
+|**2026-06-10**|**Collective neutrino oscillations: Many-body non-forward effects and non-classicality**|Julien Froustey et.al.|[2606.12404](http://arxiv.org/abs/2606.12404)|null|
+|**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403](http://arxiv.org/abs/2606.12403)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402](http://arxiv.org/abs/2606.12402)|null|
+|**2026-06-10**|**Doc-to-Atom: Learning to Compile and Compose Memory Atoms**|Xingjian Diao et.al.|[2606.12400](http://arxiv.org/abs/2606.12400)|null|
+|**2026-06-10**|**Revealing Peri-Urban Dislocation through Percolation Analysis**|Dr Melissa Barrientos-Trinanes et.al.|[2606.12399](http://arxiv.org/abs/2606.12399)|null|
+|**2026-06-10**|**Redesign Mixture-of-Experts Routers with Manifold Power Iteration**|Songhao Wu et.al.|[2606.12397](http://arxiv.org/abs/2606.12397)|null|
+|**2026-06-10**|**MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario**|Diego Cabuya-Padilla et.al.|[2606.12395](http://arxiv.org/abs/2606.12395)|null|
 |**2026-06-09**|**When to Align, When to Predict: A Phase Diagram for Multimodal Learning**|Ilay Kamai et.al.|[2606.11190](http://arxiv.org/abs/2606.11190)|null|
 |**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
 |**2026-06-09**|**Boundary rectifiability and compactness of integral currents via $BV$ functions**|Giacomo Del Nin et.al.|[2606.11185](http://arxiv.org/abs/2606.11185)|null|
@@ -4292,12 +4342,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**|Yeongseo Jung et.al.|[2606.12411](http://arxiv.org/abs/2606.12411)|null|
+|**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan et.al.|[2606.12409](http://arxiv.org/abs/2606.12409)|null|
+|**2026-06-10**|**When direct detection constrains reheating temperature: freeze-in with stronger couplings and inflaton-seeded freeze-in**|Xavier Bertou et.al.|[2606.12408](http://arxiv.org/abs/2606.12408)|null|
+|**2026-06-10**|**How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology**|Kian R. Weihrauch et.al.|[2606.12407](http://arxiv.org/abs/2606.12407)|null|
+|**2026-06-10**|**FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning**|Steven Oh et.al.|[2606.12406](http://arxiv.org/abs/2606.12406)|null|
+|**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
+|**2026-06-10**|**The carbon isotope ratio of β Pic b with high-resolution spectroscopy**|D. González Picos et.al.|[2606.12401](http://arxiv.org/abs/2606.12401)|null|
+|**2026-06-10**|**Doc-to-Atom: Learning to Compile and Compose Memory Atoms**|Xingjian Diao et.al.|[2606.12400](http://arxiv.org/abs/2606.12400)|null|
+|**2026-06-10**|**Revealing Peri-Urban Dislocation through Percolation Analysis**|Dr Melissa Barrientos-Trinanes et.al.|[2606.12399](http://arxiv.org/abs/2606.12399)|null|
+|**2026-06-10**|**Redesign Mixture-of-Experts Routers with Manifold Power Iteration**|Songhao Wu et.al.|[2606.12397](http://arxiv.org/abs/2606.12397)|null|
 |**2026-06-09**|**When to Align, When to Predict: A Phase Diagram for Multimodal Learning**|Ilay Kamai et.al.|[2606.11190](http://arxiv.org/abs/2606.11190)|null|
 |**2026-06-09**|**A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**|Tong Xie et.al.|[2606.11189](http://arxiv.org/abs/2606.11189)|null|
 |**2026-06-09**|**ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations**|Junke Wang et.al.|[2606.11188](http://arxiv.org/abs/2606.11188)|null|
@@ -5174,7 +5234,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
