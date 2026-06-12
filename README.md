@@ -1,4 +1,4 @@
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments**|Jundong Xu et.al.|[2606.13681](http://arxiv.org/abs/2606.13681)|null|
+|**2026-06-11**|**InterleaveThinker: Reinforcing Agentic Interleaved Generation**|Dian Zheng et.al.|[2606.13679](http://arxiv.org/abs/2606.13679)|null|
+|**2026-06-11**|**$\texttt{WEAVER}$ , Better, Faster, Longer: An Effective World Model for Robotic Manipulation**|Arnav Kumar Jain et.al.|[2606.13672](http://arxiv.org/abs/2606.13672)|null|
+|**2026-06-11**|**Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution**|Dimitri Kachler et.al.|[2606.13668](http://arxiv.org/abs/2606.13668)|null|
+|**2026-06-11**|**Morphology control and low-temperature magnetotransport in chiral 2D perovskite R-(MBA) $_2$PbI$_4$**|Shehreen Aslam et.al.|[2606.13664](http://arxiv.org/abs/2606.13664)|null|
+|**2026-06-11**|**Spin-Polarized Oxygen Evolution in Chiral-Molecule-Modified Plasmonic Photoanodes**|Priscila Vensaus et.al.|[2606.13660](http://arxiv.org/abs/2606.13660)|null|
+|**2026-06-11**|**Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation**|Guo Yu et.al.|[2606.13657](http://arxiv.org/abs/2606.13657)|null|
+|**2026-06-11**|**On the sunflower property and the galah property**|Cheng Liao et.al.|[2606.13656](http://arxiv.org/abs/2606.13656)|null|
+|**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](http://arxiv.org/abs/2606.13652)|null|
+|**2026-06-11**|**Engineering electrically-switchable quantum anomalous Hall states by spin-orbit coupling**|Maosen Qin et.al.|[2606.13651](http://arxiv.org/abs/2606.13651)|null|
 |**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
 |**2026-06-10**|**Arrangements of Consecutive Numbers in Mallows Permutations**|Katarzyna Rybarczyk et.al.|[2606.12410](http://arxiv.org/abs/2606.12410)|null|
 |**2026-06-10**|**FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning**|Steven Oh et.al.|[2606.12406](http://arxiv.org/abs/2606.12406)|null|
@@ -953,12 +963,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning**|Zilin Xiao et.al.|[2606.13680](http://arxiv.org/abs/2606.13680)|null|
+|**2026-06-11**|**InterleaveThinker: Reinforcing Agentic Interleaved Generation**|Dian Zheng et.al.|[2606.13679](http://arxiv.org/abs/2606.13679)|null|
+|**2026-06-11**|**Mana: Dexterous Manipulation of Articulated Tools**|Zhao-Heng Yin et.al.|[2606.13677](http://arxiv.org/abs/2606.13677)|null|
+|**2026-06-11**|**Modality Forcing for Scalable Spatial Generation**|Bardienus Pieter Duisterhof et.al.|[2606.13676](http://arxiv.org/abs/2606.13676)|null|
+|**2026-06-11**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674](http://arxiv.org/abs/2606.13674)|null|
+|**2026-06-11**|**SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning**|Seokju Cho et.al.|[2606.13673](http://arxiv.org/abs/2606.13673)|null|
+|**2026-06-11**|**Automated reproducibility assessments in the social and behavioral sciences using large language models**|Tobias Holtdirk et.al.|[2606.13670](http://arxiv.org/abs/2606.13670)|null|
+|**2026-06-11**|**Robust Control of ECH Deposition Profiles on DIII-D**|A. Rothstein et.al.|[2606.13661](http://arxiv.org/abs/2606.13661)|null|
+|**2026-06-11**|**Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation**|Guo Yu et.al.|[2606.13657](http://arxiv.org/abs/2606.13657)|null|
+|**2026-06-11**|**Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction**|Jen-Hao Cheng et.al.|[2606.13655](http://arxiv.org/abs/2606.13655)|null|
 |**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
 |**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan et.al.|[2606.12409](http://arxiv.org/abs/2606.12409)|null|
 |**2026-06-10**|**How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology**|Kian R. Weihrauch et.al.|[2606.12407](http://arxiv.org/abs/2606.12407)|null|
@@ -1780,12 +1800,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning**|Zilin Xiao et.al.|[2606.13680](http://arxiv.org/abs/2606.13680)|null|
+|**2026-06-11**|**A model of local and global reciprocity**|Mari Kawakatsu et.al.|[2606.13678](http://arxiv.org/abs/2606.13678)|null|
+|**2026-06-11**|**Mana: Dexterous Manipulation of Articulated Tools**|Zhao-Heng Yin et.al.|[2606.13677](http://arxiv.org/abs/2606.13677)|null|
+|**2026-06-11**|**Modality Forcing for Scalable Spatial Generation**|Bardienus Pieter Duisterhof et.al.|[2606.13676](http://arxiv.org/abs/2606.13676)|null|
+|**2026-06-11**|**Improving Robotic Generalist Policies via Flow Reversal Steering**|Andy Tang et.al.|[2606.13675](http://arxiv.org/abs/2606.13675)|null|
+|**2026-06-11**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674](http://arxiv.org/abs/2606.13674)|null|
+|**2026-06-11**|**SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning**|Seokju Cho et.al.|[2606.13673](http://arxiv.org/abs/2606.13673)|null|
+|**2026-06-11**|**Understanding Truncated Positional Encodings for Graph Neural Networks**|James Flora et.al.|[2606.13671](http://arxiv.org/abs/2606.13671)|null|
+|**2026-06-11**|**Automated reproducibility assessments in the social and behavioral sciences using large language models**|Tobias Holtdirk et.al.|[2606.13670](http://arxiv.org/abs/2606.13670)|null|
+|**2026-06-11**|**Agents-K1: Towards Agent-native Knowledge Orchestration**|Zongsheng Cao et.al.|[2606.13669](http://arxiv.org/abs/2606.13669)|null|
 |**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
 |**2026-06-10**|**When direct detection constrains reheating temperature: freeze-in with stronger couplings and inflaton-seeded freeze-in**|Xavier Bertou et.al.|[2606.12408](http://arxiv.org/abs/2606.12408)|null|
 |**2026-06-10**|**How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology**|Kian R. Weihrauch et.al.|[2606.12407](http://arxiv.org/abs/2606.12407)|null|
@@ -2612,12 +2642,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments**|Jundong Xu et.al.|[2606.13681](http://arxiv.org/abs/2606.13681)|null|
+|**2026-06-11**|**A model of local and global reciprocity**|Mari Kawakatsu et.al.|[2606.13678](http://arxiv.org/abs/2606.13678)|null|
+|**2026-06-11**|**Automated reproducibility assessments in the social and behavioral sciences using large language models**|Tobias Holtdirk et.al.|[2606.13670](http://arxiv.org/abs/2606.13670)|null|
+|**2026-06-11**|**Centrally concentrated star formation in young clusters II: Jet feedback**|Adilkhan Assilkhan et.al.|[2606.13666](http://arxiv.org/abs/2606.13666)|null|
+|**2026-06-11**|**EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery**|Amy Xin et.al.|[2606.13662](http://arxiv.org/abs/2606.13662)|null|
+|**2026-06-11**|**Specifying Hardware Communication as Programs**|Ernest Ng et.al.|[2606.13659](http://arxiv.org/abs/2606.13659)|null|
+|**2026-06-11**|**Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation**|Guo Yu et.al.|[2606.13657](http://arxiv.org/abs/2606.13657)|null|
+|**2026-06-11**|**To Cool, or Not to Cool? Displacement Sensing with Hot Quantum States**|Piotr T. Grochowski et.al.|[2606.13650](http://arxiv.org/abs/2606.13650)|null|
+|**2026-06-11**|**Operadic consistency: a label-free signal for compositional reasoning failures in LLMs**|Nathaniel Bottman et.al.|[2606.13649](http://arxiv.org/abs/2606.13649)|null|
+|**2026-06-11**|**Surflo: Consistent 3D Surface Flow Model with Global State**|Antoine Guédon et.al.|[2606.13644](http://arxiv.org/abs/2606.13644)|null|
 |**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
 |**2026-06-10**|**Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**|Yeongseo Jung et.al.|[2606.12411](http://arxiv.org/abs/2606.12411)|null|
 |**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan et.al.|[2606.12409](http://arxiv.org/abs/2606.12409)|null|
@@ -3469,12 +3509,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments**|Jundong Xu et.al.|[2606.13681](http://arxiv.org/abs/2606.13681)|null|
+|**2026-06-11**|**Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning**|Zilin Xiao et.al.|[2606.13680](http://arxiv.org/abs/2606.13680)|null|
+|**2026-06-11**|**Mana: Dexterous Manipulation of Articulated Tools**|Zhao-Heng Yin et.al.|[2606.13677](http://arxiv.org/abs/2606.13677)|null|
+|**2026-06-11**|**Improving Robotic Generalist Policies via Flow Reversal Steering**|Andy Tang et.al.|[2606.13675](http://arxiv.org/abs/2606.13675)|null|
+|**2026-06-11**|**SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning**|Seokju Cho et.al.|[2606.13673](http://arxiv.org/abs/2606.13673)|null|
+|**2026-06-11**|**Agents-K1: Towards Agent-native Knowledge Orchestration**|Zongsheng Cao et.al.|[2606.13669](http://arxiv.org/abs/2606.13669)|null|
+|**2026-06-11**|**Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution**|Dimitri Kachler et.al.|[2606.13668](http://arxiv.org/abs/2606.13668)|null|
+|**2026-06-11**|**One-loop five-point gluing analytically**|B. Eden et.al.|[2606.13665](http://arxiv.org/abs/2606.13665)|null|
+|**2026-06-11**|**Morphology control and low-temperature magnetotransport in chiral 2D perovskite R-(MBA) $_2$PbI$_4$**|Shehreen Aslam et.al.|[2606.13664](http://arxiv.org/abs/2606.13664)|null|
+|**2026-06-11**|**HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents**|Yaxin Du et.al.|[2606.13663](http://arxiv.org/abs/2606.13663)|null|
 |**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|null|
 |**2026-06-10**|**Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**|Yeongseo Jung et.al.|[2606.12411](http://arxiv.org/abs/2606.12411)|null|
 |**2026-06-10**|**Bounding the Effect of HOD Assumptions on Small-Scale Clustering Constraints**|Nick Magnelli et.al.|[2606.12405](http://arxiv.org/abs/2606.12405)|null|
@@ -4342,12 +4392,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments**|Jundong Xu et.al.|[2606.13681](http://arxiv.org/abs/2606.13681)|null|
+|**2026-06-11**|**Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning**|Zilin Xiao et.al.|[2606.13680](http://arxiv.org/abs/2606.13680)|null|
+|**2026-06-11**|**InterleaveThinker: Reinforcing Agentic Interleaved Generation**|Dian Zheng et.al.|[2606.13679](http://arxiv.org/abs/2606.13679)|null|
+|**2026-06-11**|**Mana: Dexterous Manipulation of Articulated Tools**|Zhao-Heng Yin et.al.|[2606.13677](http://arxiv.org/abs/2606.13677)|null|
+|**2026-06-11**|**Modality Forcing for Scalable Spatial Generation**|Bardienus Pieter Duisterhof et.al.|[2606.13676](http://arxiv.org/abs/2606.13676)|null|
+|**2026-06-11**|**Improving Robotic Generalist Policies via Flow Reversal Steering**|Andy Tang et.al.|[2606.13675](http://arxiv.org/abs/2606.13675)|null|
+|**2026-06-11**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674](http://arxiv.org/abs/2606.13674)|null|
+|**2026-06-11**|**SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning**|Seokju Cho et.al.|[2606.13673](http://arxiv.org/abs/2606.13673)|null|
+|**2026-06-11**|**$\texttt{WEAVER}$ , Better, Faster, Longer: An Effective World Model for Robotic Manipulation**|Arnav Kumar Jain et.al.|[2606.13672](http://arxiv.org/abs/2606.13672)|null|
+|**2026-06-11**|**Understanding Truncated Positional Encodings for Graph Neural Networks**|James Flora et.al.|[2606.13671](http://arxiv.org/abs/2606.13671)|null|
 |**2026-06-10**|**Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**|Yeongseo Jung et.al.|[2606.12411](http://arxiv.org/abs/2606.12411)|null|
 |**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan et.al.|[2606.12409](http://arxiv.org/abs/2606.12409)|null|
 |**2026-06-10**|**When direct detection constrains reheating temperature: freeze-in with stronger couplings and inflaton-seeded freeze-in**|Xavier Bertou et.al.|[2606.12408](http://arxiv.org/abs/2606.12408)|null|
@@ -5234,7 +5294,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
