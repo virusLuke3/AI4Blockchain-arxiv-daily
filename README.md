@@ -1,4 +1,4 @@
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Polynomial-Time Riesz-Energy Subset Selection for Ordered Point Sets on Lines and $\ell_1$ -Staircases**|Michael T. M. Emmerich et.al.|[2606.16946](http://arxiv.org/abs/2606.16946)|null|
+|**2026-06-15**|**A nonparametric two-sample test using a parametric integral probability metric**|Yuha Park et.al.|[2606.16941](http://arxiv.org/abs/2606.16941)|null|
+|**2026-06-15**|**Liouville Theorems for the Lane-Emden Equation Involving a Mixed Local-Nonlocal Operator**|Yahong Guo et.al.|[2606.16940](http://arxiv.org/abs/2606.16940)|null|
+|**2026-06-15**|**Edge-Enhanced Diffractive Neural Networks Based on Spin-Multiplexed Nonlocal Metasurfaces**|Qianqian He et.al.|[2606.16938](http://arxiv.org/abs/2606.16938)|null|
+|**2026-06-15**|**Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter**|Patomporn Payoungkhamdee et.al.|[2606.16934](http://arxiv.org/abs/2606.16934)|null|
+|**2026-06-15**|**A Unified Causal-Origin Taxonomy of Distributional Shifts in Reinforcement Learning**|Ardianto Wibowo et.al.|[2606.16933](http://arxiv.org/abs/2606.16933)|null|
+|**2026-06-15**|**A Scalable All-to-All Reconfigurable Ising Solver Using Pulsed Time-Division Multiplexing**|Henry Love et.al.|[2606.16929](http://arxiv.org/abs/2606.16929)|null|
+|**2026-06-15**|**Detection of C $_{60}$ Combination Bands in the Near-IR Spectrum of Tc 1**|Morgan M. Giese et.al.|[2606.16928](http://arxiv.org/abs/2606.16928)|null|
+|**2026-06-15**|**Single-Connection Mixed-Criticality Transport with CATS: Bounded Guarantees, Three Structural Limits, and a QUIC Escape**|Syed Muhammad Aqdas Rizvi et.al.|[2606.16924](http://arxiv.org/abs/2606.16924)|null|
+|**2026-06-15**|**Graph Neural Networks Trained on Null Signal for Angle Reconstruction in X-ray Polarimetry**|Vittorio Latorre et.al.|[2606.16922](http://arxiv.org/abs/2606.16922)|null|
 |**2026-06-12**|**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**|Xinyue Cai et.al.|[2606.14702](http://arxiv.org/abs/2606.14702)|null|
 |**2026-06-12**|**Resolving the Edge of a Quantum Pyramid**|Alvan Arulandu et.al.|[2606.14698](http://arxiv.org/abs/2606.14698)|null|
 |**2026-06-12**|**Scalar dissipation anomaly and scalar-gradient scaling in turbulence: A joint velocity-scalar multifractal view**|Dhawal Buaria et.al.|[2606.14696](http://arxiv.org/abs/2606.14696)|null|
@@ -973,12 +983,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
+|**2026-06-15**|**Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets**|Chirantan Sen Mukherjee et.al.|[2606.16951](http://arxiv.org/abs/2606.16951)|null|
+|**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
+|**2026-06-15**|**The Optimal Rate Function in Covariant Quantum State Tomography**|Arick Grootveld et.al.|[2606.16948](http://arxiv.org/abs/2606.16948)|null|
+|**2026-06-15**|**A Causal Model of Theory of Mind in Conflict for Artificial Intelligence**|Nikolos Gurney et.al.|[2606.16944](http://arxiv.org/abs/2606.16944)|null|
+|**2026-06-15**|**Di5Guise: 5G Privacy with vSIM**|Shirin Ebadi et.al.|[2606.16943](http://arxiv.org/abs/2606.16943)|null|
+|**2026-06-15**|**Adiabatic realization of anomalous Floquet topological systems**|Luca Asteria et.al.|[2606.16942](http://arxiv.org/abs/2606.16942)|null|
+|**2026-06-15**|**Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter**|Patomporn Payoungkhamdee et.al.|[2606.16934](http://arxiv.org/abs/2606.16934)|null|
+|**2026-06-15**|**Functional Gradient Descent with Adaptive Representations**|Daniel Csillag et.al.|[2606.16926](http://arxiv.org/abs/2606.16926)|null|
+|**2026-06-15**|**MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance**|Arunkumar V et.al.|[2606.16923](http://arxiv.org/abs/2606.16923)|null|
 |**2026-06-12**|**The Edges of Planetary Systems: Falling Off the Kuiper Cliff in a Dissipating Gas Disk**|Rixin Li et.al.|[2606.14704](http://arxiv.org/abs/2606.14704)|null|
 |**2026-06-12**|**Gaze Heads: How VLMs Look at What They Describe**|Rohit Gandikota et.al.|[2606.14703](http://arxiv.org/abs/2606.14703)|null|
 |**2026-06-12**|**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**|Xinyue Cai et.al.|[2606.14702](http://arxiv.org/abs/2606.14702)|null|
@@ -1820,12 +1840,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
+|**2026-06-15**|**Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets**|Chirantan Sen Mukherjee et.al.|[2606.16951](http://arxiv.org/abs/2606.16951)|null|
+|**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
+|**2026-06-15**|**The Optimal Rate Function in Covariant Quantum State Tomography**|Arick Grootveld et.al.|[2606.16948](http://arxiv.org/abs/2606.16948)|null|
+|**2026-06-15**|**Self-Adjointness of the Standard Model of Non-Relativistic QED**|Valentin Kußmaul et.al.|[2606.16947](http://arxiv.org/abs/2606.16947)|null|
+|**2026-06-15**|**Polynomial-Time Riesz-Energy Subset Selection for Ordered Point Sets on Lines and $\ell_1$ -Staircases**|Michael T. M. Emmerich et.al.|[2606.16946](http://arxiv.org/abs/2606.16946)|null|
+|**2026-06-15**|**Counterdiabatic Raman Atom Optics for Compact High-Sensitivity Gravimetry**|Asad Ali et.al.|[2606.16945](http://arxiv.org/abs/2606.16945)|null|
+|**2026-06-15**|**A Causal Model of Theory of Mind in Conflict for Artificial Intelligence**|Nikolos Gurney et.al.|[2606.16944](http://arxiv.org/abs/2606.16944)|null|
+|**2026-06-15**|**Di5Guise: 5G Privacy with vSIM**|Shirin Ebadi et.al.|[2606.16943](http://arxiv.org/abs/2606.16943)|null|
+|**2026-06-15**|**Scalable Circuit Learning for Interpreting Large Language Models**|Naiyu Yin et.al.|[2606.16939](http://arxiv.org/abs/2606.16939)|null|
 |**2026-06-12**|**The Edges of Planetary Systems: Falling Off the Kuiper Cliff in a Dissipating Gas Disk**|Rixin Li et.al.|[2606.14704](http://arxiv.org/abs/2606.14704)|null|
 |**2026-06-12**|**Gaze Heads: How VLMs Look at What They Describe**|Rohit Gandikota et.al.|[2606.14703](http://arxiv.org/abs/2606.14703)|null|
 |**2026-06-12**|**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**|Xinyue Cai et.al.|[2606.14702](http://arxiv.org/abs/2606.14702)|null|
@@ -2672,12 +2702,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets**|Chirantan Sen Mukherjee et.al.|[2606.16951](http://arxiv.org/abs/2606.16951)|null|
+|**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
+|**2026-06-15**|**Categorified Spectral Duality: From Operator Systems to Spectral Stacks and Back**|Shih-Yu Chang et.al.|[2606.16949](http://arxiv.org/abs/2606.16949)|null|
+|**2026-06-15**|**The Optimal Rate Function in Covariant Quantum State Tomography**|Arick Grootveld et.al.|[2606.16948](http://arxiv.org/abs/2606.16948)|null|
+|**2026-06-15**|**Polynomial-Time Riesz-Energy Subset Selection for Ordered Point Sets on Lines and $\ell_1$ -Staircases**|Michael T. M. Emmerich et.al.|[2606.16946](http://arxiv.org/abs/2606.16946)|null|
+|**2026-06-15**|**Counterdiabatic Raman Atom Optics for Compact High-Sensitivity Gravimetry**|Asad Ali et.al.|[2606.16945](http://arxiv.org/abs/2606.16945)|null|
+|**2026-06-15**|**Adiabatic realization of anomalous Floquet topological systems**|Luca Asteria et.al.|[2606.16942](http://arxiv.org/abs/2606.16942)|null|
+|**2026-06-15**|**Time-of-flight photon spectroscopy for scanning tunneling microscopy luminescence**|Lebin Yu et.al.|[2606.16936](http://arxiv.org/abs/2606.16936)|null|
+|**2026-06-15**|**Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter**|Patomporn Payoungkhamdee et.al.|[2606.16934](http://arxiv.org/abs/2606.16934)|null|
+|**2026-06-15**|**Experimental quantum state learning with pairs of photons**|C. Pria Dobney et.al.|[2606.16932](http://arxiv.org/abs/2606.16932)|null|
 |**2026-06-12**|**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**|Xinyue Cai et.al.|[2606.14702](http://arxiv.org/abs/2606.14702)|null|
 |**2026-06-12**|**AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization**|Junlong Tong et.al.|[2606.14694](http://arxiv.org/abs/2606.14694)|null|
 |**2026-06-12**|**Impact of 21-cm foreground mitigation strategies on reionization power spectrum constraints**|Sambit K. Giri et.al.|[2606.14682](http://arxiv.org/abs/2606.14682)|null|
@@ -3549,12 +3589,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
+|**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
+|**2026-06-15**|**Categorified Spectral Duality: From Operator Systems to Spectral Stacks and Back**|Shih-Yu Chang et.al.|[2606.16949](http://arxiv.org/abs/2606.16949)|null|
+|**2026-06-15**|**The Optimal Rate Function in Covariant Quantum State Tomography**|Arick Grootveld et.al.|[2606.16948](http://arxiv.org/abs/2606.16948)|null|
+|**2026-06-15**|**Self-Adjointness of the Standard Model of Non-Relativistic QED**|Valentin Kußmaul et.al.|[2606.16947](http://arxiv.org/abs/2606.16947)|null|
+|**2026-06-15**|**Polynomial-Time Riesz-Energy Subset Selection for Ordered Point Sets on Lines and $\ell_1$ -Staircases**|Michael T. M. Emmerich et.al.|[2606.16946](http://arxiv.org/abs/2606.16946)|null|
+|**2026-06-15**|**Scalable Circuit Learning for Interpreting Large Language Models**|Naiyu Yin et.al.|[2606.16939](http://arxiv.org/abs/2606.16939)|null|
+|**2026-06-15**|**Edge-Enhanced Diffractive Neural Networks Based on Spin-Multiplexed Nonlocal Metasurfaces**|Qianqian He et.al.|[2606.16938](http://arxiv.org/abs/2606.16938)|null|
+|**2026-06-15**|**Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter**|Patomporn Payoungkhamdee et.al.|[2606.16934](http://arxiv.org/abs/2606.16934)|null|
+|**2026-06-15**|**Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions**|Yu-Xuan Li et.al.|[2606.16931](http://arxiv.org/abs/2606.16931)|null|
 |**2026-06-12**|**Gaze Heads: How VLMs Look at What They Describe**|Rohit Gandikota et.al.|[2606.14703](http://arxiv.org/abs/2606.14703)|null|
 |**2026-06-12**|**RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space**|Xichen Pan et.al.|[2606.14700](http://arxiv.org/abs/2606.14700)|null|
 |**2026-06-12**|**Resolving the Edge of a Quantum Pyramid**|Alvan Arulandu et.al.|[2606.14698](http://arxiv.org/abs/2606.14698)|null|
@@ -4442,12 +4492,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
+|**2026-06-15**|**Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets**|Chirantan Sen Mukherjee et.al.|[2606.16951](http://arxiv.org/abs/2606.16951)|null|
+|**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
+|**2026-06-15**|**The Optimal Rate Function in Covariant Quantum State Tomography**|Arick Grootveld et.al.|[2606.16948](http://arxiv.org/abs/2606.16948)|null|
+|**2026-06-15**|**Polynomial-Time Riesz-Energy Subset Selection for Ordered Point Sets on Lines and $\ell_1$ -Staircases**|Michael T. M. Emmerich et.al.|[2606.16946](http://arxiv.org/abs/2606.16946)|null|
+|**2026-06-15**|**Counterdiabatic Raman Atom Optics for Compact High-Sensitivity Gravimetry**|Asad Ali et.al.|[2606.16945](http://arxiv.org/abs/2606.16945)|null|
+|**2026-06-15**|**A Causal Model of Theory of Mind in Conflict for Artificial Intelligence**|Nikolos Gurney et.al.|[2606.16944](http://arxiv.org/abs/2606.16944)|null|
+|**2026-06-15**|**A nonparametric two-sample test using a parametric integral probability metric**|Yuha Park et.al.|[2606.16941](http://arxiv.org/abs/2606.16941)|null|
+|**2026-06-15**|**Liouville Theorems for the Lane-Emden Equation Involving a Mixed Local-Nonlocal Operator**|Yahong Guo et.al.|[2606.16940](http://arxiv.org/abs/2606.16940)|null|
+|**2026-06-15**|**Scalable Circuit Learning for Interpreting Large Language Models**|Naiyu Yin et.al.|[2606.16939](http://arxiv.org/abs/2606.16939)|null|
 |**2026-06-12**|**Gaze Heads: How VLMs Look at What They Describe**|Rohit Gandikota et.al.|[2606.14703](http://arxiv.org/abs/2606.14703)|null|
 |**2026-06-12**|**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**|Xinyue Cai et.al.|[2606.14702](http://arxiv.org/abs/2606.14702)|null|
 |**2026-06-12**|**RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers**|Timing Yang et.al.|[2606.14701](http://arxiv.org/abs/2606.14701)|null|
@@ -5354,7 +5414,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
