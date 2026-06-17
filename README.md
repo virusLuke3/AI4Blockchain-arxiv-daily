@@ -1,4 +1,4 @@
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**Superconductivity from interband coupling to ferroelectric quantum critical fluctuations in two dimensions**|Sudip Kumar Saha et.al.|[2606.18251](http://arxiv.org/abs/2606.18251)|null|
+|**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
+|**2026-06-16**|**Pushing the Primordial Frontier: Exact Linear Solutions in Multifield Inflation**|Javier Huenupi et.al.|[2606.18248](http://arxiv.org/abs/2606.18248)|null|
+|**2026-06-16**|**Variable-Width Transformers**|Zhaofeng Wu et.al.|[2606.18246](http://arxiv.org/abs/2606.18246)|null|
+|**2026-06-16**|**PAHSPECS: Spatially Resolved PAH Spectroscopy at cosmic noon with JWST MIRI MRS**|Fergus R. Donnan et.al.|[2606.18244](http://arxiv.org/abs/2606.18244)|null|
+|**2026-06-16**|**A Joint Optimal Search for Gravitational Waves from Resolved and Unresolved Supermassive Binary Black Holes with Pulsar Timing Arrays**|Boris Goncharov et.al.|[2606.18241](http://arxiv.org/abs/2606.18241)|null|
+|**2026-06-16**|**EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies**|Ning Gao et.al.|[2606.18239](http://arxiv.org/abs/2606.18239)|null|
+|**2026-06-16**|**On zero-sum problems of two new types**|Zhi-Wei Sun et.al.|[2606.18234](http://arxiv.org/abs/2606.18234)|null|
+|**2026-06-16**|**Twist-3 contributions to $γγ\toπ^0π^0,\,K_S^0K_S^0$ in $k_T$ factorization**|Jun-Kang He et.al.|[2606.18233](http://arxiv.org/abs/2606.18233)|null|
+|**2026-06-16**|**Quartic Lyapunov functions for global fluid stability**|David Darrow et.al.|[2606.18232](http://arxiv.org/abs/2606.18232)|null|
 |**2026-06-15**|**Polynomial-Time Riesz-Energy Subset Selection for Ordered Point Sets on Lines and $\ell_1$ -Staircases**|Michael T. M. Emmerich et.al.|[2606.16946](http://arxiv.org/abs/2606.16946)|null|
 |**2026-06-15**|**A nonparametric two-sample test using a parametric integral probability metric**|Yuha Park et.al.|[2606.16941](http://arxiv.org/abs/2606.16941)|null|
 |**2026-06-15**|**Liouville Theorems for the Lane-Emden Equation Involving a Mixed Local-Nonlocal Operator**|Yahong Guo et.al.|[2606.16940](http://arxiv.org/abs/2606.16940)|null|
@@ -983,12 +993,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
+|**2026-06-16**|**Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification**|Wujian Peng et.al.|[2606.18249](http://arxiv.org/abs/2606.18249)|null|
+|**2026-06-16**|**Variable-Width Transformers**|Zhaofeng Wu et.al.|[2606.18246](http://arxiv.org/abs/2606.18246)|null|
+|**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|null|
+|**2026-06-16**|**EventDrive: Event Cameras for Vision-Language Driving Intelligence**|Dongyue Lu et.al.|[2606.18242](http://arxiv.org/abs/2606.18242)|null|
+|**2026-06-16**|**A Joint Optimal Search for Gravitational Waves from Resolved and Unresolved Supermassive Binary Black Holes with Pulsar Timing Arrays**|Boris Goncharov et.al.|[2606.18241](http://arxiv.org/abs/2606.18241)|null|
+|**2026-06-16**|**ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues**|Shanda Li et.al.|[2606.18237](http://arxiv.org/abs/2606.18237)|null|
+|**2026-06-16**|**Quartic Lyapunov functions for global fluid stability**|David Darrow et.al.|[2606.18232](http://arxiv.org/abs/2606.18232)|null|
+|**2026-06-16**|**Adaptive Volumetric Mechanical Property Fields Invariant to Resolution**|Rishit Dagli et.al.|[2606.18231](http://arxiv.org/abs/2606.18231)|null|
+|**2026-06-16**|**An extreme ram-pressure stripping event in a protocluster at redshift 4.3**|Dazhi Zhou et.al.|[2606.18229](http://arxiv.org/abs/2606.18229)|null|
 |**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
 |**2026-06-15**|**Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets**|Chirantan Sen Mukherjee et.al.|[2606.16951](http://arxiv.org/abs/2606.16951)|null|
 |**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
@@ -1840,12 +1860,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**Superconductivity from interband coupling to ferroelectric quantum critical fluctuations in two dimensions**|Sudip Kumar Saha et.al.|[2606.18251](http://arxiv.org/abs/2606.18251)|null|
+|**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
+|**2026-06-16**|**Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification**|Wujian Peng et.al.|[2606.18249](http://arxiv.org/abs/2606.18249)|null|
+|**2026-06-16**|**Pushing the Primordial Frontier: Exact Linear Solutions in Multifield Inflation**|Javier Huenupi et.al.|[2606.18248](http://arxiv.org/abs/2606.18248)|null|
+|**2026-06-16**|**Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement**|Mingtong Zhang et.al.|[2606.18247](http://arxiv.org/abs/2606.18247)|null|
+|**2026-06-16**|**Variable-Width Transformers**|Zhaofeng Wu et.al.|[2606.18246](http://arxiv.org/abs/2606.18246)|null|
+|**2026-06-16**|**PAHSPECS: Spatially Resolved PAH Spectroscopy at cosmic noon with JWST MIRI MRS**|Fergus R. Donnan et.al.|[2606.18244](http://arxiv.org/abs/2606.18244)|null|
+|**2026-06-16**|**Impulse Decoding of Quantum LDPC Codes: Equivalence of Degeneracy and Code-Shortening**|Shobhit Bhatnagar et.al.|[2606.18240](http://arxiv.org/abs/2606.18240)|null|
+|**2026-06-16**|**Exceptional collections for canonical stacks of log del Pezzo surfaces with $\frac13(1,1)$ singularities**|Alex Junior Gomez Saltachin et.al.|[2606.18238](http://arxiv.org/abs/2606.18238)|null|
+|**2026-06-16**|**ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues**|Shanda Li et.al.|[2606.18237](http://arxiv.org/abs/2606.18237)|null|
 |**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
 |**2026-06-15**|**Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets**|Chirantan Sen Mukherjee et.al.|[2606.16951](http://arxiv.org/abs/2606.16951)|null|
 |**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
@@ -2702,12 +2732,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**Superconductivity from interband coupling to ferroelectric quantum critical fluctuations in two dimensions**|Sudip Kumar Saha et.al.|[2606.18251](http://arxiv.org/abs/2606.18251)|null|
+|**2026-06-16**|**Twist-3 contributions to $γγ\toπ^0π^0,\,K_S^0K_S^0$ in $k_T$ factorization**|Jun-Kang He et.al.|[2606.18233](http://arxiv.org/abs/2606.18233)|null|
+|**2026-06-16**|**Quartic Lyapunov functions for global fluid stability**|David Darrow et.al.|[2606.18232](http://arxiv.org/abs/2606.18232)|null|
+|**2026-06-16**|**Field-level vs summaries: convergence of information in non-Gaussian density fields**|Ivana Nikolac et.al.|[2606.18227](http://arxiv.org/abs/2606.18227)|null|
+|**2026-06-16**|**Strategies for preventing and reversing polarized online discourse**|Leon Klingborg et.al.|[2606.18226](http://arxiv.org/abs/2606.18226)|null|
+|**2026-06-16**|**Gatling: Rapid-Fire Consensus from Parallel Composition**|Giulia Scaffino et.al.|[2606.18220](http://arxiv.org/abs/2606.18220)|null|
+|**2026-06-16**|**Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients**|Byung-Kwan Lee et.al.|[2606.18216](http://arxiv.org/abs/2606.18216)|null|
+|**2026-06-16**|**A benchmark suite of intracellular Boolean model variants and multiscale simulations for computational biology**|Marco Masera et.al.|[2606.18215](http://arxiv.org/abs/2606.18215)|null|
+|**2026-06-16**|**Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?**|Trisha Mittal et.al.|[2606.18209](http://arxiv.org/abs/2606.18209)|null|
+|**2026-06-16**|**Looped World Models**|Hongyuan Adam Lu et.al.|[2606.18208](http://arxiv.org/abs/2606.18208)|null|
 |**2026-06-15**|**Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets**|Chirantan Sen Mukherjee et.al.|[2606.16951](http://arxiv.org/abs/2606.16951)|null|
 |**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
 |**2026-06-15**|**Categorified Spectral Duality: From Operator Systems to Spectral Stacks and Back**|Shih-Yu Chang et.al.|[2606.16949](http://arxiv.org/abs/2606.16949)|null|
@@ -3589,12 +3629,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
+|**2026-06-16**|**Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification**|Wujian Peng et.al.|[2606.18249](http://arxiv.org/abs/2606.18249)|null|
+|**2026-06-16**|**Variable-Width Transformers**|Zhaofeng Wu et.al.|[2606.18246](http://arxiv.org/abs/2606.18246)|null|
+|**2026-06-16**|**Derived functors and Hilbert polynomials over Gorenstein rings**|Satyabrata Paul et.al.|[2606.18245](http://arxiv.org/abs/2606.18245)|null|
+|**2026-06-16**|**Impulse Decoding of Quantum LDPC Codes: Equivalence of Degeneracy and Code-Shortening**|Shobhit Bhatnagar et.al.|[2606.18240](http://arxiv.org/abs/2606.18240)|null|
+|**2026-06-16**|**Exceptional collections for canonical stacks of log del Pezzo surfaces with $\frac13(1,1)$ singularities**|Alex Junior Gomez Saltachin et.al.|[2606.18238](http://arxiv.org/abs/2606.18238)|null|
+|**2026-06-16**|**ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues**|Shanda Li et.al.|[2606.18237](http://arxiv.org/abs/2606.18237)|null|
+|**2026-06-16**|**Sign-Rank, Index, and List Replicability: Connections and Separations**|Ari Blondal et.al.|[2606.18236](http://arxiv.org/abs/2606.18236)|null|
+|**2026-06-16**|**EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation**|Qi Chai et.al.|[2606.18235](http://arxiv.org/abs/2606.18235)|null|
+|**2026-06-16**|**On zero-sum problems of two new types**|Zhi-Wei Sun et.al.|[2606.18234](http://arxiv.org/abs/2606.18234)|null|
 |**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
 |**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
 |**2026-06-15**|**Categorified Spectral Duality: From Operator Systems to Spectral Stacks and Back**|Shih-Yu Chang et.al.|[2606.16949](http://arxiv.org/abs/2606.16949)|null|
@@ -4492,12 +4542,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
+|**2026-06-16**|**Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification**|Wujian Peng et.al.|[2606.18249](http://arxiv.org/abs/2606.18249)|null|
+|**2026-06-16**|**Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement**|Mingtong Zhang et.al.|[2606.18247](http://arxiv.org/abs/2606.18247)|null|
+|**2026-06-16**|**Variable-Width Transformers**|Zhaofeng Wu et.al.|[2606.18246](http://arxiv.org/abs/2606.18246)|null|
+|**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|null|
+|**2026-06-16**|**EventDrive: Event Cameras for Vision-Language Driving Intelligence**|Dongyue Lu et.al.|[2606.18242](http://arxiv.org/abs/2606.18242)|null|
+|**2026-06-16**|**A Joint Optimal Search for Gravitational Waves from Resolved and Unresolved Supermassive Binary Black Holes with Pulsar Timing Arrays**|Boris Goncharov et.al.|[2606.18241](http://arxiv.org/abs/2606.18241)|null|
+|**2026-06-16**|**Impulse Decoding of Quantum LDPC Codes: Equivalence of Degeneracy and Code-Shortening**|Shobhit Bhatnagar et.al.|[2606.18240](http://arxiv.org/abs/2606.18240)|null|
+|**2026-06-16**|**ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues**|Shanda Li et.al.|[2606.18237](http://arxiv.org/abs/2606.18237)|null|
+|**2026-06-16**|**Sign-Rank, Index, and List Replicability: Connections and Separations**|Ari Blondal et.al.|[2606.18236](http://arxiv.org/abs/2606.18236)|null|
 |**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
 |**2026-06-15**|**Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets**|Chirantan Sen Mukherjee et.al.|[2606.16951](http://arxiv.org/abs/2606.16951)|null|
 |**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
@@ -5414,7 +5474,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
