@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
+|**2026-06-17**|**Constraints on Cosmic Strings from the Curl-Mode CMB Lensing Power Spectrum measured by ACT DR6**|A. I. Lonappan et.al.|[2606.19337](http://arxiv.org/abs/2606.19337)|null|
+|**2026-06-17**|**Fine-scale downflows above flare ribbons captured by Solar Orbiter/EUI**|Zheng Sun et.al.|[2606.19335](http://arxiv.org/abs/2606.19335)|null|
+|**2026-06-17**|**Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**|Denis Peskoff et.al.|[2606.19334](http://arxiv.org/abs/2606.19334)|null|
+|**2026-06-17**|**Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation**|Siyi Gu et.al.|[2606.19327](http://arxiv.org/abs/2606.19327)|null|
+|**2026-06-17**|**Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors**|Michael Finkelson et.al.|[2606.19325](http://arxiv.org/abs/2606.19325)|null|
+|**2026-06-17**|**Mean-Payoff-Parity and Lifting Strategies from MDPs to 2-Player Stochastic Games**|Mohan Dantam et.al.|[2606.19324](http://arxiv.org/abs/2606.19324)|null|
+|**2026-06-17**|**Fitting Accumulated Stock Returns with Tempered Skew t-Distribution**|Siqi Shao et.al.|[2606.19318](http://arxiv.org/abs/2606.19318)|null|
+|**2026-06-17**|**Explaining Attention with Program Synthesis**|Amiri Hayes et.al.|[2606.19317](http://arxiv.org/abs/2606.19317)|null|
+|**2026-06-17**|**Stability of Khintchine-type inequalities via log-monotonicity**|Ángel Chávez et.al.|[2606.19313](http://arxiv.org/abs/2606.19313)|null|
 |**2026-06-16**|**Superconductivity from interband coupling to ferroelectric quantum critical fluctuations in two dimensions**|Sudip Kumar Saha et.al.|[2606.18251](http://arxiv.org/abs/2606.18251)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
 |**2026-06-16**|**Pushing the Primordial Frontier: Exact Linear Solutions in Multifield Inflation**|Javier Huenupi et.al.|[2606.18248](http://arxiv.org/abs/2606.18248)|null|
@@ -977,6 +987,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
+|**2026-06-17**|**Quantum solitons and their quantum walks in transmon arrays**|Ben Blain et.al.|[2606.19339](http://arxiv.org/abs/2606.19339)|null|
+|**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Shengyuan Ding et.al.|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
+|**2026-06-17**|**Learning User Simulators with Turing Rewards**|Yingshan Susan Wang et.al.|[2606.19336](http://arxiv.org/abs/2606.19336)|null|
+|**2026-06-17**|**Do as I Do: Dexterous Manipulation Data from Everyday Human Videos**|Bhawna Paliwal et.al.|[2606.19333](http://arxiv.org/abs/2606.19333)|null|
+|**2026-06-17**|**Sparse-dense flight copy-based interactive mechanism to airline integrated with cruise speed control**|Jiajin Lin et.al.|[2606.19332](http://arxiv.org/abs/2606.19332)|null|
+|**2026-06-17**|**Floquet framework for driven polar quantum systems**|Viktor Novičenko et.al.|[2606.19330](http://arxiv.org/abs/2606.19330)|null|
+|**2026-06-17**|**Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation**|Siyi Gu et.al.|[2606.19327](http://arxiv.org/abs/2606.19327)|null|
+|**2026-06-17**|**Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors**|Michael Finkelson et.al.|[2606.19325](http://arxiv.org/abs/2606.19325)|null|
+|**2026-06-17**|**Mean-Payoff-Parity and Lifting Strategies from MDPs to 2-Player Stochastic Games**|Mohan Dantam et.al.|[2606.19324](http://arxiv.org/abs/2606.19324)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
 |**2026-06-16**|**Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification**|Wujian Peng et.al.|[2606.18249](http://arxiv.org/abs/2606.18249)|null|
 |**2026-06-16**|**Variable-Width Transformers**|Zhaofeng Wu et.al.|[2606.18246](http://arxiv.org/abs/2606.18246)|null|
@@ -1842,6 +1862,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
+|**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Shengyuan Ding et.al.|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
+|**2026-06-17**|**Do as I Do: Dexterous Manipulation Data from Everyday Human Videos**|Bhawna Paliwal et.al.|[2606.19333](http://arxiv.org/abs/2606.19333)|null|
+|**2026-06-17**|**Sparse-dense flight copy-based interactive mechanism to airline integrated with cruise speed control**|Jiajin Lin et.al.|[2606.19332](http://arxiv.org/abs/2606.19332)|null|
+|**2026-06-17**|**Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**|Daniel Harkin et.al.|[2606.19331](http://arxiv.org/abs/2606.19331)|null|
+|**2026-06-17**|**The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning**|V. Samuel Pérez-Díaz et.al.|[2606.19329](http://arxiv.org/abs/2606.19329)|null|
+|**2026-06-17**|**Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation**|Siyi Gu et.al.|[2606.19327](http://arxiv.org/abs/2606.19327)|null|
+|**2026-06-17**|**Rigorous analysis for the Dirac system on the quarter-plane**|Hassan Babaei et.al.|[2606.19326](http://arxiv.org/abs/2606.19326)|null|
+|**2026-06-17**|**Mean-Payoff-Parity and Lifting Strategies from MDPs to 2-Player Stochastic Games**|Mohan Dantam et.al.|[2606.19324](http://arxiv.org/abs/2606.19324)|null|
+|**2026-06-17**|**Cohomogeneity one actions on symmetric spaces of mixed type**|Tomas Otero et.al.|[2606.19323](http://arxiv.org/abs/2606.19323)|null|
 |**2026-06-16**|**Superconductivity from interband coupling to ferroelectric quantum critical fluctuations in two dimensions**|Sudip Kumar Saha et.al.|[2606.18251](http://arxiv.org/abs/2606.18251)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
 |**2026-06-16**|**Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification**|Wujian Peng et.al.|[2606.18249](http://arxiv.org/abs/2606.18249)|null|
@@ -2712,6 +2742,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Quantum solitons and their quantum walks in transmon arrays**|Ben Blain et.al.|[2606.19339](http://arxiv.org/abs/2606.19339)|null|
+|**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Shengyuan Ding et.al.|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
+|**2026-06-17**|**Do as I Do: Dexterous Manipulation Data from Everyday Human Videos**|Bhawna Paliwal et.al.|[2606.19333](http://arxiv.org/abs/2606.19333)|null|
+|**2026-06-17**|**Floquet framework for driven polar quantum systems**|Viktor Novičenko et.al.|[2606.19330](http://arxiv.org/abs/2606.19330)|null|
+|**2026-06-17**|**UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning**|Mohamed Nabail et.al.|[2606.19328](http://arxiv.org/abs/2606.19328)|null|
+|**2026-06-17**|**Spectral Functions of Lorentzian Quantum Gravity**|Gabriel Assant et.al.|[2606.19321](http://arxiv.org/abs/2606.19321)|null|
+|**2026-06-17**|**Fitting Accumulated Stock Returns with Tempered Skew t-Distribution**|Siqi Shao et.al.|[2606.19318](http://arxiv.org/abs/2606.19318)|null|
+|**2026-06-17**|**Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation**|Ruida Wang et.al.|[2606.19315](http://arxiv.org/abs/2606.19315)|null|
+|**2026-06-17**|**Stability of Khintchine-type inequalities via log-monotonicity**|Ángel Chávez et.al.|[2606.19313](http://arxiv.org/abs/2606.19313)|null|
+|**2026-06-17**|**Exclusion Statistics as a Thermodynamic Resource in Quantum Heat Engines**|Sampurna Karmakar et.al.|[2606.19310](http://arxiv.org/abs/2606.19310)|null|
 |**2026-06-16**|**Superconductivity from interband coupling to ferroelectric quantum critical fluctuations in two dimensions**|Sudip Kumar Saha et.al.|[2606.18251](http://arxiv.org/abs/2606.18251)|null|
 |**2026-06-16**|**Twist-3 contributions to $γγ\toπ^0π^0,\,K_S^0K_S^0$ in $k_T$ factorization**|Jun-Kang He et.al.|[2606.18233](http://arxiv.org/abs/2606.18233)|null|
 |**2026-06-16**|**Quartic Lyapunov functions for global fluid stability**|David Darrow et.al.|[2606.18232](http://arxiv.org/abs/2606.18232)|null|
@@ -3607,6 +3647,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
+|**2026-06-17**|**Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning**|Jisoo Kim et.al.|[2606.19340](http://arxiv.org/abs/2606.19340)|null|
+|**2026-06-17**|**Learning User Simulators with Turing Rewards**|Yingshan Susan Wang et.al.|[2606.19336](http://arxiv.org/abs/2606.19336)|null|
+|**2026-06-17**|**Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**|Denis Peskoff et.al.|[2606.19334](http://arxiv.org/abs/2606.19334)|null|
+|**2026-06-17**|**Sparse-dense flight copy-based interactive mechanism to airline integrated with cruise speed control**|Jiajin Lin et.al.|[2606.19332](http://arxiv.org/abs/2606.19332)|null|
+|**2026-06-17**|**Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**|Daniel Harkin et.al.|[2606.19331](http://arxiv.org/abs/2606.19331)|null|
+|**2026-06-17**|**UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning**|Mohamed Nabail et.al.|[2606.19328](http://arxiv.org/abs/2606.19328)|null|
+|**2026-06-17**|**Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation**|Siyi Gu et.al.|[2606.19327](http://arxiv.org/abs/2606.19327)|null|
+|**2026-06-17**|**Mean-Payoff-Parity and Lifting Strategies from MDPs to 2-Player Stochastic Games**|Mohan Dantam et.al.|[2606.19324](http://arxiv.org/abs/2606.19324)|null|
+|**2026-06-17**|**Spectral Functions of Lorentzian Quantum Gravity**|Gabriel Assant et.al.|[2606.19321](http://arxiv.org/abs/2606.19321)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
 |**2026-06-16**|**Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification**|Wujian Peng et.al.|[2606.18249](http://arxiv.org/abs/2606.18249)|null|
 |**2026-06-16**|**Variable-Width Transformers**|Zhaofeng Wu et.al.|[2606.18246](http://arxiv.org/abs/2606.18246)|null|
@@ -4518,6 +4568,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
+|**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Shengyuan Ding et.al.|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
+|**2026-06-17**|**Constraints on Cosmic Strings from the Curl-Mode CMB Lensing Power Spectrum measured by ACT DR6**|A. I. Lonappan et.al.|[2606.19337](http://arxiv.org/abs/2606.19337)|null|
+|**2026-06-17**|**Learning User Simulators with Turing Rewards**|Yingshan Susan Wang et.al.|[2606.19336](http://arxiv.org/abs/2606.19336)|null|
+|**2026-06-17**|**Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**|Denis Peskoff et.al.|[2606.19334](http://arxiv.org/abs/2606.19334)|null|
+|**2026-06-17**|**Do as I Do: Dexterous Manipulation Data from Everyday Human Videos**|Bhawna Paliwal et.al.|[2606.19333](http://arxiv.org/abs/2606.19333)|null|
+|**2026-06-17**|**Sparse-dense flight copy-based interactive mechanism to airline integrated with cruise speed control**|Jiajin Lin et.al.|[2606.19332](http://arxiv.org/abs/2606.19332)|null|
+|**2026-06-17**|**The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning**|V. Samuel Pérez-Díaz et.al.|[2606.19329](http://arxiv.org/abs/2606.19329)|null|
+|**2026-06-17**|**UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning**|Mohamed Nabail et.al.|[2606.19328](http://arxiv.org/abs/2606.19328)|null|
+|**2026-06-17**|**Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation**|Siyi Gu et.al.|[2606.19327](http://arxiv.org/abs/2606.19327)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
 |**2026-06-16**|**Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification**|Wujian Peng et.al.|[2606.18249](http://arxiv.org/abs/2606.18249)|null|
 |**2026-06-16**|**Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement**|Mingtong Zhang et.al.|[2606.18247](http://arxiv.org/abs/2606.18247)|null|
