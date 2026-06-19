@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**How Transparent is DiffusionGemma?**|Joshua Engels et.al.|[2606.20560](http://arxiv.org/abs/2606.20560)|null|
+|**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
+|**2026-06-18**|**Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation**|Ruizhong Qiu et.al.|[2606.20554](http://arxiv.org/abs/2606.20554)|null|
+|**2026-06-18**|**From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning**|Shanghao Shi et.al.|[2606.20553](http://arxiv.org/abs/2606.20553)|null|
+|**2026-06-18**|**Benchmark of quantum algorithms for ground state preparation in the presence of noise**|Daniel Molpeceres et.al.|[2606.20551](http://arxiv.org/abs/2606.20551)|null|
+|**2026-06-18**|**The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups**|Przemyslaw Musialski et.al.|[2606.20547](http://arxiv.org/abs/2606.20547)|null|
+|**2026-06-18**|**Current World Models Lack a Persistent State Core**|Jinpeng Lu et.al.|[2606.20545](http://arxiv.org/abs/2606.20545)|null|
+|**2026-06-18**|**Toward Calibrated Mixture-of-Experts Under Distribution Shift**|Gina Wong et.al.|[2606.20544](http://arxiv.org/abs/2606.20544)|null|
+|**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542](http://arxiv.org/abs/2606.20542)|null|
+|**2026-06-18**|**Controllable Quantum Spin Hall Phases in Bi $_2$Te$_3$ -Family van der Waals Heterobilayers**|Emmanuel V. C. Lopes et.al.|[2606.20541](http://arxiv.org/abs/2606.20541)|null|
 |**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
 |**2026-06-17**|**Constraints on Cosmic Strings from the Curl-Mode CMB Lensing Power Spectrum measured by ACT DR6**|A. I. Lonappan et.al.|[2606.19337](http://arxiv.org/abs/2606.19337)|null|
 |**2026-06-17**|**Fine-scale downflows above flare ribbons captured by Solar Orbiter/EUI**|Zheng Sun et.al.|[2606.19335](http://arxiv.org/abs/2606.19335)|null|
@@ -987,6 +997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising**|Siang-Ling Zhang et.al.|[2606.20563](http://arxiv.org/abs/2606.20563)|null|
+|**2026-06-18**|**TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living**|Arkaprava Sinha et.al.|[2606.20561](http://arxiv.org/abs/2606.20561)|null|
+|**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
+|**2026-06-18**|**Optimal Deterministic Multicalibration and Omniprediction**|Georgy Noarov et.al.|[2606.20557](http://arxiv.org/abs/2606.20557)|null|
+|**2026-06-18**|**Thinking in Boxes: 3D Editing in Real Images Made Easy**|Pradhaan S Bhat et.al.|[2606.20556](http://arxiv.org/abs/2606.20556)|null|
+|**2026-06-18**|**From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning**|Shanghao Shi et.al.|[2606.20553](http://arxiv.org/abs/2606.20553)|null|
+|**2026-06-18**|**Benchmark of quantum algorithms for ground state preparation in the presence of noise**|Daniel Molpeceres et.al.|[2606.20551](http://arxiv.org/abs/2606.20551)|null|
+|**2026-06-18**|**Generating Robot Hands from Human Demonstrations**|Sha Yi et.al.|[2606.20549](http://arxiv.org/abs/2606.20549)|null|
+|**2026-06-18**|**Topological Codes Based on Space Groups**|Chong-Yuan Xu et.al.|[2606.20548](http://arxiv.org/abs/2606.20548)|null|
+|**2026-06-18**|**The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups**|Przemyslaw Musialski et.al.|[2606.20547](http://arxiv.org/abs/2606.20547)|null|
 |**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
 |**2026-06-17**|**Quantum solitons and their quantum walks in transmon arrays**|Ben Blain et.al.|[2606.19339](http://arxiv.org/abs/2606.19339)|null|
 |**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Shengyuan Ding et.al.|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
@@ -1862,6 +1882,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**MemoryWAM: Efficient World Action Modeling with Persistent Memory**|Sizhe Yang et.al.|[2606.20562](http://arxiv.org/abs/2606.20562)|null|
+|**2026-06-18**|**How Transparent is DiffusionGemma?**|Joshua Engels et.al.|[2606.20560](http://arxiv.org/abs/2606.20560)|null|
+|**2026-06-18**|**Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV**| CMS Collaboration et.al.|[2606.20558](http://arxiv.org/abs/2606.20558)|null|
+|**2026-06-18**|**Optimal Deterministic Multicalibration and Omniprediction**|Georgy Noarov et.al.|[2606.20557](http://arxiv.org/abs/2606.20557)|null|
+|**2026-06-18**|**Thinking in Boxes: 3D Editing in Real Images Made Easy**|Pradhaan S Bhat et.al.|[2606.20556](http://arxiv.org/abs/2606.20556)|null|
+|**2026-06-18**|**Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation**|Ruizhong Qiu et.al.|[2606.20554](http://arxiv.org/abs/2606.20554)|null|
+|**2026-06-18**|**From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning**|Shanghao Shi et.al.|[2606.20553](http://arxiv.org/abs/2606.20553)|null|
+|**2026-06-18**|**On the Renormalization Group Flow of Active Flocks**|Kevin T. Grosvenor et.al.|[2606.20552](http://arxiv.org/abs/2606.20552)|null|
+|**2026-06-18**|**Benchmark of quantum algorithms for ground state preparation in the presence of noise**|Daniel Molpeceres et.al.|[2606.20551](http://arxiv.org/abs/2606.20551)|null|
+|**2026-06-18**|**Easy Reads: A Python program for making Scientific Papers on arXiv more Reader Friendly and Accessible**|Vishal Verma et.al.|[2606.20550](http://arxiv.org/abs/2606.20550)|null|
 |**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
 |**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Shengyuan Ding et.al.|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
 |**2026-06-17**|**Do as I Do: Dexterous Manipulation Data from Everyday Human Videos**|Bhawna Paliwal et.al.|[2606.19333](http://arxiv.org/abs/2606.19333)|null|
@@ -2742,6 +2772,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
+|**2026-06-18**|**Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV**| CMS Collaboration et.al.|[2606.20558](http://arxiv.org/abs/2606.20558)|null|
+|**2026-06-18**|**Benchmark of quantum algorithms for ground state preparation in the presence of noise**|Daniel Molpeceres et.al.|[2606.20551](http://arxiv.org/abs/2606.20551)|null|
+|**2026-06-18**|**Easy Reads: A Python program for making Scientific Papers on arXiv more Reader Friendly and Accessible**|Vishal Verma et.al.|[2606.20550](http://arxiv.org/abs/2606.20550)|null|
+|**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542](http://arxiv.org/abs/2606.20542)|null|
+|**2026-06-18**|**The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation**|Nicolas Dufour et.al.|[2606.20536](http://arxiv.org/abs/2606.20536)|null|
+|**2026-06-18**|**The $B^+ \to K^+ ν\bar ν$ decay as a QCD axion search: comparing reinterpretation approaches**|Merna Abumusabh et.al.|[2606.20525](http://arxiv.org/abs/2606.20525)|null|
+|**2026-06-18**|**HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining**|Juncheng Ma et.al.|[2606.20521](http://arxiv.org/abs/2606.20521)|null|
+|**2026-06-18**|**GPU-accelerated semidefinite programming for causal games**|Emanuel-Cristian Boghiu et.al.|[2606.20519](http://arxiv.org/abs/2606.20519)|null|
+|**2026-06-18**|**Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages**|Maria Ivanova et.al.|[2606.20517](http://arxiv.org/abs/2606.20517)|null|
 |**2026-06-17**|**Quantum solitons and their quantum walks in transmon arrays**|Ben Blain et.al.|[2606.19339](http://arxiv.org/abs/2606.19339)|null|
 |**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Shengyuan Ding et.al.|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
 |**2026-06-17**|**Do as I Do: Dexterous Manipulation Data from Everyday Human Videos**|Bhawna Paliwal et.al.|[2606.19333](http://arxiv.org/abs/2606.19333)|null|
@@ -3647,6 +3687,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising**|Siang-Ling Zhang et.al.|[2606.20563](http://arxiv.org/abs/2606.20563)|null|
+|**2026-06-18**|**MemoryWAM: Efficient World Action Modeling with Persistent Memory**|Sizhe Yang et.al.|[2606.20562](http://arxiv.org/abs/2606.20562)|null|
+|**2026-06-18**|**TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living**|Arkaprava Sinha et.al.|[2606.20561](http://arxiv.org/abs/2606.20561)|null|
+|**2026-06-18**|**How Transparent is DiffusionGemma?**|Joshua Engels et.al.|[2606.20560](http://arxiv.org/abs/2606.20560)|null|
+|**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
+|**2026-06-18**|**Incorporating physical source parameters into microlensing modeling**|Mateusz J. Mróz et.al.|[2606.20555](http://arxiv.org/abs/2606.20555)|null|
+|**2026-06-18**|**On the Renormalization Group Flow of Active Flocks**|Kevin T. Grosvenor et.al.|[2606.20552](http://arxiv.org/abs/2606.20552)|null|
+|**2026-06-18**|**Benchmark of quantum algorithms for ground state preparation in the presence of noise**|Daniel Molpeceres et.al.|[2606.20551](http://arxiv.org/abs/2606.20551)|null|
+|**2026-06-18**|**Generating Robot Hands from Human Demonstrations**|Sha Yi et.al.|[2606.20549](http://arxiv.org/abs/2606.20549)|null|
+|**2026-06-18**|**Topological Codes Based on Space Groups**|Chong-Yuan Xu et.al.|[2606.20548](http://arxiv.org/abs/2606.20548)|null|
 |**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
 |**2026-06-17**|**Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning**|Jisoo Kim et.al.|[2606.19340](http://arxiv.org/abs/2606.19340)|null|
 |**2026-06-17**|**Learning User Simulators with Turing Rewards**|Yingshan Susan Wang et.al.|[2606.19336](http://arxiv.org/abs/2606.19336)|null|
@@ -4568,6 +4618,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising**|Siang-Ling Zhang et.al.|[2606.20563](http://arxiv.org/abs/2606.20563)|null|
+|**2026-06-18**|**MemoryWAM: Efficient World Action Modeling with Persistent Memory**|Sizhe Yang et.al.|[2606.20562](http://arxiv.org/abs/2606.20562)|null|
+|**2026-06-18**|**How Transparent is DiffusionGemma?**|Joshua Engels et.al.|[2606.20560](http://arxiv.org/abs/2606.20560)|null|
+|**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
+|**2026-06-18**|**Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV**| CMS Collaboration et.al.|[2606.20558](http://arxiv.org/abs/2606.20558)|null|
+|**2026-06-18**|**Optimal Deterministic Multicalibration and Omniprediction**|Georgy Noarov et.al.|[2606.20557](http://arxiv.org/abs/2606.20557)|null|
+|**2026-06-18**|**Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation**|Ruizhong Qiu et.al.|[2606.20554](http://arxiv.org/abs/2606.20554)|null|
+|**2026-06-18**|**From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning**|Shanghao Shi et.al.|[2606.20553](http://arxiv.org/abs/2606.20553)|null|
+|**2026-06-18**|**On the Renormalization Group Flow of Active Flocks**|Kevin T. Grosvenor et.al.|[2606.20552](http://arxiv.org/abs/2606.20552)|null|
+|**2026-06-18**|**Benchmark of quantum algorithms for ground state preparation in the presence of noise**|Daniel Molpeceres et.al.|[2606.20551](http://arxiv.org/abs/2606.20551)|null|
 |**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
 |**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Shengyuan Ding et.al.|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
 |**2026-06-17**|**Constraints on Cosmic Strings from the Curl-Mode CMB Lensing Power Spectrum measured by ACT DR6**|A. I. Lonappan et.al.|[2606.19337](http://arxiv.org/abs/2606.19337)|null|
