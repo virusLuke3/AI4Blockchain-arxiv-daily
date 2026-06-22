@@ -1884,7 +1884,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-06-18**|**MemoryWAM: Efficient World Action Modeling with Persistent Memory**|Sizhe Yang et.al.|[2606.20562](http://arxiv.org/abs/2606.20562)|null|
 |**2026-06-18**|**How Transparent is DiffusionGemma?**|Joshua Engels et.al.|[2606.20560](http://arxiv.org/abs/2606.20560)|null|
-|**2026-06-18**|**Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV**| CMS Collaboration et.al.|[2606.20558](http://arxiv.org/abs/2606.20558)|null|
+|**2026-06-18**|**Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV**|CMS Collaboration et.al.|[2606.20558](http://arxiv.org/abs/2606.20558)|null|
 |**2026-06-18**|**Optimal Deterministic Multicalibration and Omniprediction**|Georgy Noarov et.al.|[2606.20557](http://arxiv.org/abs/2606.20557)|null|
 |**2026-06-18**|**Thinking in Boxes: 3D Editing in Real Images Made Easy**|Pradhaan S Bhat et.al.|[2606.20556](http://arxiv.org/abs/2606.20556)|null|
 |**2026-06-18**|**Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation**|Ruizhong Qiu et.al.|[2606.20554](http://arxiv.org/abs/2606.20554)|null|
@@ -2773,7 +2773,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
-|**2026-06-18**|**Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV**| CMS Collaboration et.al.|[2606.20558](http://arxiv.org/abs/2606.20558)|null|
+|**2026-06-18**|**Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV**|CMS Collaboration et.al.|[2606.20558](http://arxiv.org/abs/2606.20558)|null|
 |**2026-06-18**|**Benchmark of quantum algorithms for ground state preparation in the presence of noise**|Daniel Molpeceres et.al.|[2606.20551](http://arxiv.org/abs/2606.20551)|null|
 |**2026-06-18**|**Easy Reads: A Python program for making Scientific Papers on arXiv more Reader Friendly and Accessible**|Vishal Verma et.al.|[2606.20550](http://arxiv.org/abs/2606.20550)|null|
 |**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542](http://arxiv.org/abs/2606.20542)|null|
@@ -4622,7 +4622,7 @@ layout: default
 |**2026-06-18**|**MemoryWAM: Efficient World Action Modeling with Persistent Memory**|Sizhe Yang et.al.|[2606.20562](http://arxiv.org/abs/2606.20562)|null|
 |**2026-06-18**|**How Transparent is DiffusionGemma?**|Joshua Engels et.al.|[2606.20560](http://arxiv.org/abs/2606.20560)|null|
 |**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
-|**2026-06-18**|**Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV**| CMS Collaboration et.al.|[2606.20558](http://arxiv.org/abs/2606.20558)|null|
+|**2026-06-18**|**Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV**|CMS Collaboration et.al.|[2606.20558](http://arxiv.org/abs/2606.20558)|null|
 |**2026-06-18**|**Optimal Deterministic Multicalibration and Omniprediction**|Georgy Noarov et.al.|[2606.20557](http://arxiv.org/abs/2606.20557)|null|
 |**2026-06-18**|**Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation**|Ruizhong Qiu et.al.|[2606.20554](http://arxiv.org/abs/2606.20554)|null|
 |**2026-06-18**|**From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning**|Shanghao Shi et.al.|[2606.20553](http://arxiv.org/abs/2606.20553)|null|
