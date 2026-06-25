@@ -1,4 +1,4 @@
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**A Population of Little Red Dot-like Quasars in SDSS**|Quinn O. Casey et.al.|[2606.26098](http://arxiv.org/abs/2606.26098)|null|
+|**2026-06-24**|**Positron-Emitting and Electron-Capturing Double-Beta Processes in the Standard Model and Beyond**|Lukáš Gráf et.al.|[2606.26097](http://arxiv.org/abs/2606.26097)|null|
+|**2026-06-24**|**Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators**|Niclas Heinsdorf et.al.|[2606.26096](http://arxiv.org/abs/2606.26096)|null|
+|**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
+|**2026-06-24**|**On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity**|Andrei Liviu Nicolicioiu et.al.|[2606.26091](http://arxiv.org/abs/2606.26091)|null|
+|**2026-06-24**|**Parnassus: A GPU-enabled, Python-based Package for Fast Particle Detector Simulation and Reconstruction**|Abdelrahman Elabd et.al.|[2606.26089](http://arxiv.org/abs/2606.26089)|null|
+|**2026-06-24**|**MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation**|JoungBin Lee et.al.|[2606.26087](http://arxiv.org/abs/2606.26087)|null|
+|**2026-06-24**|**On the entropic convergence for piecewise deterministic samplers: speedup and obstruction**|Pierre Monmarché et.al.|[2606.26086](http://arxiv.org/abs/2606.26086)|null|
+|**2026-06-24**|**Operational detection of Wigner negativity in arbitrary quantum states from few copies**|Sudip Chakrabarty et.al.|[2606.26084](http://arxiv.org/abs/2606.26084)|null|
+|**2026-06-24**|**Real-Time Voice AI Hears but Does Not Listen**|Martijn Bartelds et.al.|[2606.26083](http://arxiv.org/abs/2606.26083)|null|
 |**2026-06-23**|**SkyChain Intelligence: A Blockchain-Secured Multi-Agent DRL Framework for Low-Altitude Embodied Artificial Intelligence**|Haoxiang Luo et.al.|[2606.24193](http://arxiv.org/abs/2606.24193)|null|
 |**2026-06-22**|**OptChain: Achieving Optimal Throughput of Permissionless Blockchains**|Chunjiang Che et.al.|[2606.23405](http://arxiv.org/abs/2606.23405)|null|
 |**2026-06-22**|**When Staking Rewards Compound: Measuring the Impact of Ethereum's Pectra Upgrade**|Mohammed Benseddik et.al.|[2606.23337](http://arxiv.org/abs/2606.23337)|null|
@@ -1028,12 +1038,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
+|**2026-06-24**|**TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy**|Hao Sun et.al.|[2606.26092](http://arxiv.org/abs/2606.26092)|null|
+|**2026-06-24**|**On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity**|Andrei Liviu Nicolicioiu et.al.|[2606.26091](http://arxiv.org/abs/2606.26091)|null|
+|**2026-06-24**|**Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and Multi-Qubit Operations via Spatial Light Modulator Phase Holography**|Saleha Maqsood et.al.|[2606.26088](http://arxiv.org/abs/2606.26088)|null|
+|**2026-06-24**|**MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation**|JoungBin Lee et.al.|[2606.26087](http://arxiv.org/abs/2606.26087)|null|
+|**2026-06-24**|**Analytic Approach to Quantum Control Using Quantum Signal Processing**|Aishwarya Majumdar et.al.|[2606.26085](http://arxiv.org/abs/2606.26085)|null|
+|**2026-06-24**|**Real-Time Voice AI Hears but Does Not Listen**|Martijn Bartelds et.al.|[2606.26083](http://arxiv.org/abs/2606.26083)|null|
+|**2026-06-24**|**Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents**|Changdae Oh et.al.|[2606.26080](http://arxiv.org/abs/2606.26080)|null|
+|**2026-06-24**|**Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models**|Akshay Paruchuri et.al.|[2606.26079](http://arxiv.org/abs/2606.26079)|null|
+|**2026-06-24**|**A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding**|Sen Li et.al.|[2606.26078](http://arxiv.org/abs/2606.26078)|null|
 |**2026-06-21**|**PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement**|Weiwei Ye et.al.|[2606.22610](http://arxiv.org/abs/2606.22610)|null|
 |**2026-06-21**|**Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline**|Wentao Che et.al.|[2606.22608](http://arxiv.org/abs/2606.22608)|null|
 |**2026-06-21**|**On the Position Bias of On-Policy Distillation**|Yan Xie et.al.|[2606.22600](http://arxiv.org/abs/2606.22600)|null|
@@ -1925,12 +1945,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators**|Niclas Heinsdorf et.al.|[2606.26096](http://arxiv.org/abs/2606.26096)|null|
+|**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
+|**2026-06-24**|**RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**|Babak Rahmani et.al.|[2606.26094](http://arxiv.org/abs/2606.26094)|null|
+|**2026-06-24**|**Fast mixing of all-to-all quantum systems at high temperatures**|Thiago Bergamaschi et.al.|[2606.26090](http://arxiv.org/abs/2606.26090)|null|
+|**2026-06-24**|**Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and Multi-Qubit Operations via Spatial Light Modulator Phase Holography**|Saleha Maqsood et.al.|[2606.26088](http://arxiv.org/abs/2606.26088)|null|
+|**2026-06-24**|**MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation**|JoungBin Lee et.al.|[2606.26087](http://arxiv.org/abs/2606.26087)|null|
+|**2026-06-24**|**On the entropic convergence for piecewise deterministic samplers: speedup and obstruction**|Pierre Monmarché et.al.|[2606.26086](http://arxiv.org/abs/2606.26086)|null|
+|**2026-06-24**|**Analytic Approach to Quantum Control Using Quantum Signal Processing**|Aishwarya Majumdar et.al.|[2606.26085](http://arxiv.org/abs/2606.26085)|null|
+|**2026-06-24**|**Operational detection of Wigner negativity in arbitrary quantum states from few copies**|Sudip Chakrabarty et.al.|[2606.26084](http://arxiv.org/abs/2606.26084)|null|
+|**2026-06-24**|**Real-Time Voice AI Hears but Does Not Listen**|Martijn Bartelds et.al.|[2606.26083](http://arxiv.org/abs/2606.26083)|null|
 |**2026-06-21**|**PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement**|Weiwei Ye et.al.|[2606.22610](http://arxiv.org/abs/2606.22610)|null|
 |**2026-06-21**|**Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline**|Wentao Che et.al.|[2606.22608](http://arxiv.org/abs/2606.22608)|null|
 |**2026-06-21**|**VMM3a/SRS readout for the HYDRA time projection chamber at R $^3$ B**|Alexandru Enciu et.al.|[2606.22607](http://arxiv.org/abs/2606.22607)|null|
@@ -2827,12 +2857,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
+|**2026-06-24**|**RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**|Babak Rahmani et.al.|[2606.26094](http://arxiv.org/abs/2606.26094)|null|
+|**2026-06-24**|**On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity**|Andrei Liviu Nicolicioiu et.al.|[2606.26091](http://arxiv.org/abs/2606.26091)|null|
+|**2026-06-24**|**Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and Multi-Qubit Operations via Spatial Light Modulator Phase Holography**|Saleha Maqsood et.al.|[2606.26088](http://arxiv.org/abs/2606.26088)|null|
+|**2026-06-24**|**Analytic Approach to Quantum Control Using Quantum Signal Processing**|Aishwarya Majumdar et.al.|[2606.26085](http://arxiv.org/abs/2606.26085)|null|
+|**2026-06-24**|**Operational detection of Wigner negativity in arbitrary quantum states from few copies**|Sudip Chakrabarty et.al.|[2606.26084](http://arxiv.org/abs/2606.26084)|null|
+|**2026-06-24**|**Real-Time Voice AI Hears but Does Not Listen**|Martijn Bartelds et.al.|[2606.26083](http://arxiv.org/abs/2606.26083)|null|
+|**2026-06-24**|**Folds of one curve: the superradiant phase diagram of Dicke modes with interacting matter**|Max Hörmann et.al.|[2606.26081](http://arxiv.org/abs/2606.26081)|null|
+|**2026-06-24**|**Glossy Silicate Clouds on the Scorched Dayside of LTT9779b**|Suman Saha et.al.|[2606.26075](http://arxiv.org/abs/2606.26075)|null|
+|**2026-06-24**|**Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment**|Aditya Singh et.al.|[2606.26071](http://arxiv.org/abs/2606.26071)|null|
 |**2026-06-21**|**PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement**|Weiwei Ye et.al.|[2606.22610](http://arxiv.org/abs/2606.22610)|null|
 |**2026-06-21**|**Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle**|Yeon Su Park et.al.|[2606.22609](http://arxiv.org/abs/2606.22609)|null|
 |**2026-06-21**|**Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline**|Wentao Che et.al.|[2606.22608](http://arxiv.org/abs/2606.22608)|null|
@@ -3764,12 +3804,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators**|Niclas Heinsdorf et.al.|[2606.26096](http://arxiv.org/abs/2606.26096)|null|
+|**2026-06-24**|**RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**|Babak Rahmani et.al.|[2606.26094](http://arxiv.org/abs/2606.26094)|null|
+|**2026-06-24**|**On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity**|Andrei Liviu Nicolicioiu et.al.|[2606.26091](http://arxiv.org/abs/2606.26091)|null|
+|**2026-06-24**|**Fast mixing of all-to-all quantum systems at high temperatures**|Thiago Bergamaschi et.al.|[2606.26090](http://arxiv.org/abs/2606.26090)|null|
+|**2026-06-24**|**Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and Multi-Qubit Operations via Spatial Light Modulator Phase Holography**|Saleha Maqsood et.al.|[2606.26088](http://arxiv.org/abs/2606.26088)|null|
+|**2026-06-24**|**On the entropic convergence for piecewise deterministic samplers: speedup and obstruction**|Pierre Monmarché et.al.|[2606.26086](http://arxiv.org/abs/2606.26086)|null|
+|**2026-06-24**|**Analytic Approach to Quantum Control Using Quantum Signal Processing**|Aishwarya Majumdar et.al.|[2606.26085](http://arxiv.org/abs/2606.26085)|null|
+|**2026-06-24**|**Operational detection of Wigner negativity in arbitrary quantum states from few copies**|Sudip Chakrabarty et.al.|[2606.26084](http://arxiv.org/abs/2606.26084)|null|
+|**2026-06-24**|**Real-Time Voice AI Hears but Does Not Listen**|Martijn Bartelds et.al.|[2606.26083](http://arxiv.org/abs/2606.26083)|null|
+|**2026-06-24**|**Folds of one curve: the superradiant phase diagram of Dicke modes with interacting matter**|Max Hörmann et.al.|[2606.26081](http://arxiv.org/abs/2606.26081)|null|
 |**2026-06-23**|**DiffusionBench: On Holistic Evaluation of Diffusion Transformers**|Xingjian Leng et.al.|[2606.24888](http://arxiv.org/abs/2606.24888)|null|
 |**2026-06-23**|**Critical Erd{\H o}s-Rényi digraph: all eigenvectors away from zero are delocalized**|Johannes Alt et.al.|[2606.24887](http://arxiv.org/abs/2606.24887)|null|
 |**2026-06-23**|**The Topology of the Universe**|Craig J. Copi et.al.|[2606.24886](http://arxiv.org/abs/2606.24886)|null|
@@ -4717,12 +4767,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**A Population of Little Red Dot-like Quasars in SDSS**|Quinn O. Casey et.al.|[2606.26098](http://arxiv.org/abs/2606.26098)|null|
+|**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
+|**2026-06-24**|**RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**|Babak Rahmani et.al.|[2606.26094](http://arxiv.org/abs/2606.26094)|null|
+|**2026-06-24**|**ForceBand: Learning Forceful Manipulation with sEMG**|Botao He et.al.|[2606.26093](http://arxiv.org/abs/2606.26093)|null|
+|**2026-06-24**|**On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity**|Andrei Liviu Nicolicioiu et.al.|[2606.26091](http://arxiv.org/abs/2606.26091)|null|
+|**2026-06-24**|**Fast mixing of all-to-all quantum systems at high temperatures**|Thiago Bergamaschi et.al.|[2606.26090](http://arxiv.org/abs/2606.26090)|null|
+|**2026-06-24**|**Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and Multi-Qubit Operations via Spatial Light Modulator Phase Holography**|Saleha Maqsood et.al.|[2606.26088](http://arxiv.org/abs/2606.26088)|null|
+|**2026-06-24**|**On the entropic convergence for piecewise deterministic samplers: speedup and obstruction**|Pierre Monmarché et.al.|[2606.26086](http://arxiv.org/abs/2606.26086)|null|
+|**2026-06-24**|**Analytic Approach to Quantum Control Using Quantum Signal Processing**|Aishwarya Majumdar et.al.|[2606.26085](http://arxiv.org/abs/2606.26085)|null|
+|**2026-06-24**|**Operational detection of Wigner negativity in arbitrary quantum states from few copies**|Sudip Chakrabarty et.al.|[2606.26084](http://arxiv.org/abs/2606.26084)|null|
 |**2026-06-23**|**The Topology of the Universe**|Craig J. Copi et.al.|[2606.24886](http://arxiv.org/abs/2606.24886)|null|
 |**2026-06-23**|**Sonus Health: Calibrated Heart-Murmur Detection from Smartphone-Based Veterinary Auscultation**|Aswin Jose et.al.|[2606.24885](http://arxiv.org/abs/2606.24885)|null|
 |**2026-06-23**|**InSight: Self-Guided Skill Acquisition via Steerable VLAs**|Maggie Wang et.al.|[2606.24884](http://arxiv.org/abs/2606.24884)|null|
@@ -5689,7 +5749,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
