@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.25
+## Updated on 2026.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**Accessing both electrochemical SEIRA and SERS with ultrasensitive metamaterials for enhanced molecular identification**|Nicolas Spiesshofer et.al.|[2606.27367](http://arxiv.org/abs/2606.27367)|null|
+|**2026-06-25**|**Probing Probability Geometry with Schwinger--Dyson Identities: Score Mismatch, Fisher Information, and Configurational Temperature**|Anosh Joseph et.al.|[2606.27360](http://arxiv.org/abs/2606.27360)|null|
+|**2026-06-25**|**Cultivating logical catalysts for fault-tolerant dyadic phase rotations**|Yichen Xu et.al.|[2606.27358](http://arxiv.org/abs/2606.27358)|null|
+|**2026-06-25**|**Beyond the equation of state: a second-order diagnostic for dynamical dark energy**|Bob Osano et.al.|[2606.27356](http://arxiv.org/abs/2606.27356)|null|
+|**2026-06-25**|**RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection**|Xingyu Ren et.al.|[2606.27355](http://arxiv.org/abs/2606.27355)|null|
+|**2026-06-25**|**Error-Conditioned Neural Solvers**|Haina Jiang et.al.|[2606.27354](http://arxiv.org/abs/2606.27354)|null|
+|**2026-06-25**|**CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research**|Angela Cui et.al.|[2606.27350](http://arxiv.org/abs/2606.27350)|null|
+|**2026-06-25**|**All you need is log**|Akshay Balsubramani et.al.|[2606.27349](http://arxiv.org/abs/2606.27349)|null|
+|**2026-06-25**|**Coquasi-bialgebroids and cocycle twisting**|Xiao Han et.al.|[2606.27343](http://arxiv.org/abs/2606.27343)|null|
+|**2026-06-25**|**Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching**|Nicholas Pulsone et.al.|[2606.27342](http://arxiv.org/abs/2606.27342)|null|
 |**2026-06-24**|**A Population of Little Red Dot-like Quasars in SDSS**|Quinn O. Casey et.al.|[2606.26098](http://arxiv.org/abs/2606.26098)|null|
 |**2026-06-24**|**Positron-Emitting and Electron-Capturing Double-Beta Processes in the Standard Model and Beyond**|Lukáš Gráf et.al.|[2606.26097](http://arxiv.org/abs/2606.26097)|null|
 |**2026-06-24**|**Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators**|Niclas Heinsdorf et.al.|[2606.26096](http://arxiv.org/abs/2606.26096)|null|
@@ -1022,6 +1032,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
+|**2026-06-25**|**Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards**|Ritesh Thawkar et.al.|[2606.27376](http://arxiv.org/abs/2606.27376)|null|
+|**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](http://arxiv.org/abs/2606.27375)|null|
+|**2026-06-25**|**World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays**|Manish Kumar Govind et.al.|[2606.27374](http://arxiv.org/abs/2606.27374)|null|
+|**2026-06-25**|**Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models**|Shravan Venkatraman et.al.|[2606.27373](http://arxiv.org/abs/2606.27373)|null|
+|**2026-06-25**|**DnA: Denoising Attention for Visual Tasks**|Ron Campos et.al.|[2606.27372](http://arxiv.org/abs/2606.27372)|null|
+|**2026-06-25**|**Don't Settle at the Mode! Mitigating Diversity Collapse in Pretrained Flow Models via Feature Self-Guidance**|Pradhaan S Bhat et.al.|[2606.27371](http://arxiv.org/abs/2606.27371)|null|
+|**2026-06-25**|**Reinforcement Learning without Ground-Truth Solutions can Improve LLMs**|Yingyu Lin et.al.|[2606.27369](http://arxiv.org/abs/2606.27369)|null|
+|**2026-06-25**|**PhysiFormer: Learning to Simulate Mechanics in World Space**|Yiming Chen et.al.|[2606.27364](http://arxiv.org/abs/2606.27364)|null|
+|**2026-06-25**|**Error-Conditioned Neural Solvers**|Haina Jiang et.al.|[2606.27354](http://arxiv.org/abs/2606.27354)|null|
 |**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
 |**2026-06-24**|**TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy**|Hao Sun et.al.|[2606.26092](http://arxiv.org/abs/2606.26092)|null|
 |**2026-06-24**|**On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity**|Andrei Liviu Nicolicioiu et.al.|[2606.26091](http://arxiv.org/abs/2606.26091)|null|
@@ -1927,6 +1947,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
+|**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](http://arxiv.org/abs/2606.27375)|null|
+|**2026-06-25**|**World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays**|Manish Kumar Govind et.al.|[2606.27374](http://arxiv.org/abs/2606.27374)|null|
+|**2026-06-25**|**DnA: Denoising Attention for Visual Tasks**|Ron Campos et.al.|[2606.27372](http://arxiv.org/abs/2606.27372)|null|
+|**2026-06-25**|**Don't Settle at the Mode! Mitigating Diversity Collapse in Pretrained Flow Models via Feature Self-Guidance**|Pradhaan S Bhat et.al.|[2606.27371](http://arxiv.org/abs/2606.27371)|null|
+|**2026-06-25**|**Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem**|Christopher A. Leong et.al.|[2606.27370](http://arxiv.org/abs/2606.27370)|null|
+|**2026-06-25**|**Reinforcement Learning without Ground-Truth Solutions can Improve LLMs**|Yingyu Lin et.al.|[2606.27369](http://arxiv.org/abs/2606.27369)|null|
+|**2026-06-25**|**Accessing both electrochemical SEIRA and SERS with ultrasensitive metamaterials for enhanced molecular identification**|Nicolas Spiesshofer et.al.|[2606.27367](http://arxiv.org/abs/2606.27367)|null|
+|**2026-06-25**|**$\mathrm{W}^*$ -algebraic Integration Theory**|Jan Głowacki et.al.|[2606.27366](http://arxiv.org/abs/2606.27366)|null|
+|**2026-06-25**|**3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample**|I. Binnie et.al.|[2606.27365](http://arxiv.org/abs/2606.27365)|null|
 |**2026-06-24**|**Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators**|Niclas Heinsdorf et.al.|[2606.26096](http://arxiv.org/abs/2606.26096)|null|
 |**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
 |**2026-06-24**|**RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**|Babak Rahmani et.al.|[2606.26094](http://arxiv.org/abs/2606.26094)|null|
@@ -2837,6 +2867,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample**|I. Binnie et.al.|[2606.27365](http://arxiv.org/abs/2606.27365)|null|
+|**2026-06-25**|**Cultivating logical catalysts for fault-tolerant dyadic phase rotations**|Yichen Xu et.al.|[2606.27358](http://arxiv.org/abs/2606.27358)|null|
+|**2026-06-25**|**Congruent copies of finite patterns in planar point sets**|Shubhrajit Bhattacharya et.al.|[2606.27352](http://arxiv.org/abs/2606.27352)|null|
+|**2026-06-25**|**Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline**|Kirill Solovev et.al.|[2606.27347](http://arxiv.org/abs/2606.27347)|null|
+|**2026-06-25**|**Valuing American options and Flexible Forwards contracts in time-dependent models**|Leif Andersen et.al.|[2606.27335](http://arxiv.org/abs/2606.27335)|null|
+|**2026-06-25**|**Unpinning of trapped oil droplets via non-resonant acoustic streaming in capillary tubes**|D. Tsiklauri et.al.|[2606.27331](http://arxiv.org/abs/2606.27331)|null|
+|**2026-06-25**|**Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning**|Tianyi Men et.al.|[2606.27330](http://arxiv.org/abs/2606.27330)|null|
+|**2026-06-25**|**Hallucination in World Models is Predictable and Preventable**|Nicklas Hansen et.al.|[2606.27326](http://arxiv.org/abs/2606.27326)|null|
+|**2026-06-25**|**Weighted Fruit Diophantine Equations and Hyperelliptic Curves**|Jewel Mahajan et.al.|[2606.27322](http://arxiv.org/abs/2606.27322)|null|
+|**2026-06-25**|**ViQ: Text-Aligned Visual Quantized Representations at Any Resolution**|Xumin Yu et.al.|[2606.27313](http://arxiv.org/abs/2606.27313)|null|
 |**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
 |**2026-06-24**|**RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**|Babak Rahmani et.al.|[2606.26094](http://arxiv.org/abs/2606.26094)|null|
 |**2026-06-24**|**On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity**|Andrei Liviu Nicolicioiu et.al.|[2606.26091](http://arxiv.org/abs/2606.26091)|null|
@@ -3782,6 +3822,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
+|**2026-06-25**|**Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards**|Ritesh Thawkar et.al.|[2606.27376](http://arxiv.org/abs/2606.27376)|null|
+|**2026-06-25**|**Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models**|Shravan Venkatraman et.al.|[2606.27373](http://arxiv.org/abs/2606.27373)|null|
+|**2026-06-25**|**Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem**|Christopher A. Leong et.al.|[2606.27370](http://arxiv.org/abs/2606.27370)|null|
+|**2026-06-25**|**$\mathrm{W}^*$ -algebraic Integration Theory**|Jan Głowacki et.al.|[2606.27366](http://arxiv.org/abs/2606.27366)|null|
+|**2026-06-25**|**3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample**|I. Binnie et.al.|[2606.27365](http://arxiv.org/abs/2606.27365)|null|
+|**2026-06-25**|**The Effect of Topological Defects and Magnetic Flux on Fully-Heavy Tetraquarks and Mass Spectra of Heavy Quarkonia Using the Analytical Exact Iteration Method**|N. H. Gerish et.al.|[2606.27363](http://arxiv.org/abs/2606.27363)|null|
+|**2026-06-25**|**Autoregressive Boltzmann Generators**|Danyal Rehman et.al.|[2606.27361](http://arxiv.org/abs/2606.27361)|null|
+|**2026-06-25**|**Probing Probability Geometry with Schwinger--Dyson Identities: Score Mismatch, Fisher Information, and Configurational Temperature**|Anosh Joseph et.al.|[2606.27360](http://arxiv.org/abs/2606.27360)|null|
+|**2026-06-25**|**Typical distances in high-genus triangulations**|Tanguy Lions et.al.|[2606.27357](http://arxiv.org/abs/2606.27357)|null|
 |**2026-06-24**|**Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators**|Niclas Heinsdorf et.al.|[2606.26096](http://arxiv.org/abs/2606.26096)|null|
 |**2026-06-24**|**RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**|Babak Rahmani et.al.|[2606.26094](http://arxiv.org/abs/2606.26094)|null|
 |**2026-06-24**|**On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity**|Andrei Liviu Nicolicioiu et.al.|[2606.26091](http://arxiv.org/abs/2606.26091)|null|
@@ -4743,6 +4793,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
+|**2026-06-25**|**Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards**|Ritesh Thawkar et.al.|[2606.27376](http://arxiv.org/abs/2606.27376)|null|
+|**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](http://arxiv.org/abs/2606.27375)|null|
+|**2026-06-25**|**World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays**|Manish Kumar Govind et.al.|[2606.27374](http://arxiv.org/abs/2606.27374)|null|
+|**2026-06-25**|**Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models**|Shravan Venkatraman et.al.|[2606.27373](http://arxiv.org/abs/2606.27373)|null|
+|**2026-06-25**|**Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem**|Christopher A. Leong et.al.|[2606.27370](http://arxiv.org/abs/2606.27370)|null|
+|**2026-06-25**|**Reinforcement Learning without Ground-Truth Solutions can Improve LLMs**|Yingyu Lin et.al.|[2606.27369](http://arxiv.org/abs/2606.27369)|null|
+|**2026-06-25**|**Hidden-ordered Dirac fermions**|Bitan Roy et.al.|[2606.27368](http://arxiv.org/abs/2606.27368)|null|
+|**2026-06-25**|**Accessing both electrochemical SEIRA and SERS with ultrasensitive metamaterials for enhanced molecular identification**|Nicolas Spiesshofer et.al.|[2606.27367](http://arxiv.org/abs/2606.27367)|null|
+|**2026-06-25**|**3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample**|I. Binnie et.al.|[2606.27365](http://arxiv.org/abs/2606.27365)|null|
 |**2026-06-24**|**A Population of Little Red Dot-like Quasars in SDSS**|Quinn O. Casey et.al.|[2606.26098](http://arxiv.org/abs/2606.26098)|null|
 |**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
 |**2026-06-24**|**RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**|Babak Rahmani et.al.|[2606.26094](http://arxiv.org/abs/2606.26094)|null|
