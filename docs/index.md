@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Dihong Huang et.al.|[2606.28323](http://arxiv.org/abs/2606.28323)|null|
+|**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**Continuation of Force-Free Electrodynamics upon the loss of magnetic dominance**|Morifumi Mizuno et.al.|[2606.28317](http://arxiv.org/abs/2606.28317)|null|
+|**2026-06-26**|**Pairwise Reflection Symmetry in Generalized Latin Rectangles**|Enrico Iurlano et.al.|[2606.28315](http://arxiv.org/abs/2606.28315)|null|
+|**2026-06-26**|**Kinematic detection of dusty outflows from AGN: PAH kinematics of type 2 quasars with JWST/MIRI spectroscopy**|Fergus R. Donnan et.al.|[2606.28311](http://arxiv.org/abs/2606.28311)|null|
+|**2026-06-26**|**Constraining primordial oscillations and inflationary particle production with Planck, ACT DR6, and DESI DR2**|Simran K. Nerval et.al.|[2606.28310](http://arxiv.org/abs/2606.28310)|null|
+|**2026-06-26**|**Surprises in Proper Positive-Only Learning**|Shai Ben-David et.al.|[2606.28309](http://arxiv.org/abs/2606.28309)|null|
+|**2026-06-26**|**Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes**|Luis Leal et.al.|[2606.28308](http://arxiv.org/abs/2606.28308)|null|
 |**2026-06-25**|**Accessing both electrochemical SEIRA and SERS with ultrasensitive metamaterials for enhanced molecular identification**|Nicolas Spiesshofer et.al.|[2606.27367](http://arxiv.org/abs/2606.27367)|null|
 |**2026-06-25**|**Probing Probability Geometry with Schwinger--Dyson Identities: Score Mismatch, Fisher Information, and Configurational Temperature**|Anosh Joseph et.al.|[2606.27360](http://arxiv.org/abs/2606.27360)|null|
 |**2026-06-25**|**Cultivating logical catalysts for fault-tolerant dyadic phase rotations**|Yichen Xu et.al.|[2606.27358](http://arxiv.org/abs/2606.27358)|null|
@@ -1032,6 +1042,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Dihong Huang et.al.|[2606.28323](http://arxiv.org/abs/2606.28323)|null|
+|**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
+|**2026-06-26**|**StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views**|Jia-Chen Zhao et.al.|[2606.28321](http://arxiv.org/abs/2606.28321)|null|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**Optimal Deployment of Electric Aircraft for Canadian Domestic Flights**|Elham Soufiani et.al.|[2606.28312](http://arxiv.org/abs/2606.28312)|null|
+|**2026-06-26**|**Kinematic detection of dusty outflows from AGN: PAH kinematics of type 2 quasars with JWST/MIRI spectroscopy**|Fergus R. Donnan et.al.|[2606.28311](http://arxiv.org/abs/2606.28311)|null|
+|**2026-06-26**|**Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes**|Luis Leal et.al.|[2606.28308](http://arxiv.org/abs/2606.28308)|null|
+|**2026-06-26**|**Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization**|Shuang Li et.al.|[2606.28307](http://arxiv.org/abs/2606.28307)|null|
+|**2026-06-26**|**SKA $-$ VLBI view of AGN jets in the early Universe**|C. Spingola et.al.|[2606.28304](http://arxiv.org/abs/2606.28304)|null|
 |**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
 |**2026-06-25**|**Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards**|Ritesh Thawkar et.al.|[2606.27376](http://arxiv.org/abs/2606.27376)|null|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](http://arxiv.org/abs/2606.27375)|null|
@@ -1947,6 +1967,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
+|**2026-06-26**|**StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views**|Jia-Chen Zhao et.al.|[2606.28321](http://arxiv.org/abs/2606.28321)|null|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**Near-threshold scattering of proton and Omega baryon and possible bound states**|Yu-Jie Feng et.al.|[2606.28319](http://arxiv.org/abs/2606.28319)|null|
+|**2026-06-26**|**Pairwise Reflection Symmetry in Generalized Latin Rectangles**|Enrico Iurlano et.al.|[2606.28315](http://arxiv.org/abs/2606.28315)|null|
+|**2026-06-26**|**Diameter truncated operator evolution**|Tom Holden-Dye et.al.|[2606.28313](http://arxiv.org/abs/2606.28313)|null|
+|**2026-06-26**|**Optimal Deployment of Electric Aircraft for Canadian Domestic Flights**|Elham Soufiani et.al.|[2606.28312](http://arxiv.org/abs/2606.28312)|null|
+|**2026-06-26**|**Kinematic detection of dusty outflows from AGN: PAH kinematics of type 2 quasars with JWST/MIRI spectroscopy**|Fergus R. Donnan et.al.|[2606.28311](http://arxiv.org/abs/2606.28311)|null|
+|**2026-06-26**|**Constraining primordial oscillations and inflationary particle production with Planck, ACT DR6, and DESI DR2**|Simran K. Nerval et.al.|[2606.28310](http://arxiv.org/abs/2606.28310)|null|
 |**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](http://arxiv.org/abs/2606.27375)|null|
 |**2026-06-25**|**World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays**|Manish Kumar Govind et.al.|[2606.27374](http://arxiv.org/abs/2606.27374)|null|
@@ -2867,6 +2897,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**The Role of Scintillation in Detecting HI Absorption in FRB Spectra**|Om Gupta et.al.|[2606.28314](http://arxiv.org/abs/2606.28314)|null|
+|**2026-06-26**|**Diameter truncated operator evolution**|Tom Holden-Dye et.al.|[2606.28313](http://arxiv.org/abs/2606.28313)|null|
+|**2026-06-26**|**Optimal Deployment of Electric Aircraft for Canadian Domestic Flights**|Elham Soufiani et.al.|[2606.28312](http://arxiv.org/abs/2606.28312)|null|
+|**2026-06-26**|**Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization**|Shuang Li et.al.|[2606.28307](http://arxiv.org/abs/2606.28307)|null|
+|**2026-06-26**|**Particle Production from Inhomogeneities: the off-shell side of gravitational waves**|Michele Redi et.al.|[2606.28297](http://arxiv.org/abs/2606.28297)|null|
+|**2026-06-26**|**Democratic ICAI: Debating Our Way to Steering Principles from Preferences**|Kevin Kingslin et.al.|[2606.28294](http://arxiv.org/abs/2606.28294)|null|
+|**2026-06-26**|**Unconditional Well-posedness for the MMT Equation on the Torus**|Mahendra Panthee et.al.|[2606.28290](http://arxiv.org/abs/2606.28290)|null|
 |**2026-06-25**|**3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample**|I. Binnie et.al.|[2606.27365](http://arxiv.org/abs/2606.27365)|null|
 |**2026-06-25**|**Cultivating logical catalysts for fault-tolerant dyadic phase rotations**|Yichen Xu et.al.|[2606.27358](http://arxiv.org/abs/2606.27358)|null|
 |**2026-06-25**|**Congruent copies of finite patterns in planar point sets**|Shubhrajit Bhattacharya et.al.|[2606.27352](http://arxiv.org/abs/2606.27352)|null|
@@ -3822,6 +3862,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**Near-threshold scattering of proton and Omega baryon and possible bound states**|Yu-Jie Feng et.al.|[2606.28319](http://arxiv.org/abs/2606.28319)|null|
+|**2026-06-26**|**Continuation of Force-Free Electrodynamics upon the loss of magnetic dominance**|Morifumi Mizuno et.al.|[2606.28317](http://arxiv.org/abs/2606.28317)|null|
+|**2026-06-26**|**Diameter truncated operator evolution**|Tom Holden-Dye et.al.|[2606.28313](http://arxiv.org/abs/2606.28313)|null|
+|**2026-06-26**|**Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes**|Luis Leal et.al.|[2606.28308](http://arxiv.org/abs/2606.28308)|null|
+|**2026-06-26**|**Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization**|Shuang Li et.al.|[2606.28307](http://arxiv.org/abs/2606.28307)|null|
+|**2026-06-26**|**Excitation of Collective Modes in a Chiral Superfluid by Thermal Quench**|Noble Gluscevich et.al.|[2606.28306](http://arxiv.org/abs/2606.28306)|null|
+|**2026-06-26**|**Divisible Arm Lengths, Crystal Reflections, and Enumeration of Newly Found Decomposition Columns**|David J. Hemmer et.al.|[2606.28305](http://arxiv.org/abs/2606.28305)|null|
+|**2026-06-26**|**SKA $-$ VLBI view of AGN jets in the early Universe**|C. Spingola et.al.|[2606.28304](http://arxiv.org/abs/2606.28304)|null|
+|**2026-06-26**|**VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing**|Kijung Jeon et.al.|[2606.28301](http://arxiv.org/abs/2606.28301)|null|
 |**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
 |**2026-06-25**|**Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards**|Ritesh Thawkar et.al.|[2606.27376](http://arxiv.org/abs/2606.27376)|null|
 |**2026-06-25**|**Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models**|Shravan Venkatraman et.al.|[2606.27373](http://arxiv.org/abs/2606.27373)|null|
@@ -4793,6 +4843,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Dihong Huang et.al.|[2606.28323](http://arxiv.org/abs/2606.28323)|null|
+|**2026-06-26**|**StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views**|Jia-Chen Zhao et.al.|[2606.28321](http://arxiv.org/abs/2606.28321)|null|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**Near-threshold scattering of proton and Omega baryon and possible bound states**|Yu-Jie Feng et.al.|[2606.28319](http://arxiv.org/abs/2606.28319)|null|
+|**2026-06-26**|**The Role of Scintillation in Detecting HI Absorption in FRB Spectra**|Om Gupta et.al.|[2606.28314](http://arxiv.org/abs/2606.28314)|null|
+|**2026-06-26**|**Diameter truncated operator evolution**|Tom Holden-Dye et.al.|[2606.28313](http://arxiv.org/abs/2606.28313)|null|
+|**2026-06-26**|**Optimal Deployment of Electric Aircraft for Canadian Domestic Flights**|Elham Soufiani et.al.|[2606.28312](http://arxiv.org/abs/2606.28312)|null|
+|**2026-06-26**|**Kinematic detection of dusty outflows from AGN: PAH kinematics of type 2 quasars with JWST/MIRI spectroscopy**|Fergus R. Donnan et.al.|[2606.28311](http://arxiv.org/abs/2606.28311)|null|
+|**2026-06-26**|**Constraining primordial oscillations and inflationary particle production with Planck, ACT DR6, and DESI DR2**|Simran K. Nerval et.al.|[2606.28310](http://arxiv.org/abs/2606.28310)|null|
 |**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
 |**2026-06-25**|**Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards**|Ritesh Thawkar et.al.|[2606.27376](http://arxiv.org/abs/2606.27376)|null|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](http://arxiv.org/abs/2606.27375)|null|

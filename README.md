@@ -1,4 +1,4 @@
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Dihong Huang et.al.|[2606.28323](http://arxiv.org/abs/2606.28323)|null|
+|**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**Continuation of Force-Free Electrodynamics upon the loss of magnetic dominance**|Morifumi Mizuno et.al.|[2606.28317](http://arxiv.org/abs/2606.28317)|null|
+|**2026-06-26**|**Pairwise Reflection Symmetry in Generalized Latin Rectangles**|Enrico Iurlano et.al.|[2606.28315](http://arxiv.org/abs/2606.28315)|null|
+|**2026-06-26**|**Kinematic detection of dusty outflows from AGN: PAH kinematics of type 2 quasars with JWST/MIRI spectroscopy**|Fergus R. Donnan et.al.|[2606.28311](http://arxiv.org/abs/2606.28311)|null|
+|**2026-06-26**|**Constraining primordial oscillations and inflationary particle production with Planck, ACT DR6, and DESI DR2**|Simran K. Nerval et.al.|[2606.28310](http://arxiv.org/abs/2606.28310)|null|
+|**2026-06-26**|**Surprises in Proper Positive-Only Learning**|Shai Ben-David et.al.|[2606.28309](http://arxiv.org/abs/2606.28309)|null|
+|**2026-06-26**|**Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes**|Luis Leal et.al.|[2606.28308](http://arxiv.org/abs/2606.28308)|null|
 |**2026-06-25**|**Accessing both electrochemical SEIRA and SERS with ultrasensitive metamaterials for enhanced molecular identification**|Nicolas Spiesshofer et.al.|[2606.27367](http://arxiv.org/abs/2606.27367)|null|
 |**2026-06-25**|**Probing Probability Geometry with Schwinger--Dyson Identities: Score Mismatch, Fisher Information, and Configurational Temperature**|Anosh Joseph et.al.|[2606.27360](http://arxiv.org/abs/2606.27360)|null|
 |**2026-06-25**|**Cultivating logical catalysts for fault-tolerant dyadic phase rotations**|Yichen Xu et.al.|[2606.27358](http://arxiv.org/abs/2606.27358)|null|
@@ -1048,12 +1058,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Dihong Huang et.al.|[2606.28323](http://arxiv.org/abs/2606.28323)|null|
+|**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
+|**2026-06-26**|**StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views**|Jia-Chen Zhao et.al.|[2606.28321](http://arxiv.org/abs/2606.28321)|null|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**Optimal Deployment of Electric Aircraft for Canadian Domestic Flights**|Elham Soufiani et.al.|[2606.28312](http://arxiv.org/abs/2606.28312)|null|
+|**2026-06-26**|**Kinematic detection of dusty outflows from AGN: PAH kinematics of type 2 quasars with JWST/MIRI spectroscopy**|Fergus R. Donnan et.al.|[2606.28311](http://arxiv.org/abs/2606.28311)|null|
+|**2026-06-26**|**Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes**|Luis Leal et.al.|[2606.28308](http://arxiv.org/abs/2606.28308)|null|
+|**2026-06-26**|**Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization**|Shuang Li et.al.|[2606.28307](http://arxiv.org/abs/2606.28307)|null|
+|**2026-06-26**|**SKA $-$ VLBI view of AGN jets in the early Universe**|C. Spingola et.al.|[2606.28304](http://arxiv.org/abs/2606.28304)|null|
 |**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
 |**2026-06-25**|**Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards**|Ritesh Thawkar et.al.|[2606.27376](http://arxiv.org/abs/2606.27376)|null|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](http://arxiv.org/abs/2606.27375)|null|
@@ -1965,12 +1985,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
+|**2026-06-26**|**StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views**|Jia-Chen Zhao et.al.|[2606.28321](http://arxiv.org/abs/2606.28321)|null|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**Near-threshold scattering of proton and Omega baryon and possible bound states**|Yu-Jie Feng et.al.|[2606.28319](http://arxiv.org/abs/2606.28319)|null|
+|**2026-06-26**|**Pairwise Reflection Symmetry in Generalized Latin Rectangles**|Enrico Iurlano et.al.|[2606.28315](http://arxiv.org/abs/2606.28315)|null|
+|**2026-06-26**|**Diameter truncated operator evolution**|Tom Holden-Dye et.al.|[2606.28313](http://arxiv.org/abs/2606.28313)|null|
+|**2026-06-26**|**Optimal Deployment of Electric Aircraft for Canadian Domestic Flights**|Elham Soufiani et.al.|[2606.28312](http://arxiv.org/abs/2606.28312)|null|
+|**2026-06-26**|**Kinematic detection of dusty outflows from AGN: PAH kinematics of type 2 quasars with JWST/MIRI spectroscopy**|Fergus R. Donnan et.al.|[2606.28311](http://arxiv.org/abs/2606.28311)|null|
+|**2026-06-26**|**Constraining primordial oscillations and inflationary particle production with Planck, ACT DR6, and DESI DR2**|Simran K. Nerval et.al.|[2606.28310](http://arxiv.org/abs/2606.28310)|null|
 |**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](http://arxiv.org/abs/2606.27375)|null|
 |**2026-06-25**|**World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays**|Manish Kumar Govind et.al.|[2606.27374](http://arxiv.org/abs/2606.27374)|null|
@@ -2887,12 +2917,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**The Role of Scintillation in Detecting HI Absorption in FRB Spectra**|Om Gupta et.al.|[2606.28314](http://arxiv.org/abs/2606.28314)|null|
+|**2026-06-26**|**Diameter truncated operator evolution**|Tom Holden-Dye et.al.|[2606.28313](http://arxiv.org/abs/2606.28313)|null|
+|**2026-06-26**|**Optimal Deployment of Electric Aircraft for Canadian Domestic Flights**|Elham Soufiani et.al.|[2606.28312](http://arxiv.org/abs/2606.28312)|null|
+|**2026-06-26**|**Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization**|Shuang Li et.al.|[2606.28307](http://arxiv.org/abs/2606.28307)|null|
+|**2026-06-26**|**Particle Production from Inhomogeneities: the off-shell side of gravitational waves**|Michele Redi et.al.|[2606.28297](http://arxiv.org/abs/2606.28297)|null|
+|**2026-06-26**|**Democratic ICAI: Debating Our Way to Steering Principles from Preferences**|Kevin Kingslin et.al.|[2606.28294](http://arxiv.org/abs/2606.28294)|null|
+|**2026-06-26**|**Unconditional Well-posedness for the MMT Equation on the Torus**|Mahendra Panthee et.al.|[2606.28290](http://arxiv.org/abs/2606.28290)|null|
 |**2026-06-25**|**3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample**|I. Binnie et.al.|[2606.27365](http://arxiv.org/abs/2606.27365)|null|
 |**2026-06-25**|**Cultivating logical catalysts for fault-tolerant dyadic phase rotations**|Yichen Xu et.al.|[2606.27358](http://arxiv.org/abs/2606.27358)|null|
 |**2026-06-25**|**Congruent copies of finite patterns in planar point sets**|Shubhrajit Bhattacharya et.al.|[2606.27352](http://arxiv.org/abs/2606.27352)|null|
@@ -3844,12 +3884,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**Near-threshold scattering of proton and Omega baryon and possible bound states**|Yu-Jie Feng et.al.|[2606.28319](http://arxiv.org/abs/2606.28319)|null|
+|**2026-06-26**|**Continuation of Force-Free Electrodynamics upon the loss of magnetic dominance**|Morifumi Mizuno et.al.|[2606.28317](http://arxiv.org/abs/2606.28317)|null|
+|**2026-06-26**|**Diameter truncated operator evolution**|Tom Holden-Dye et.al.|[2606.28313](http://arxiv.org/abs/2606.28313)|null|
+|**2026-06-26**|**Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes**|Luis Leal et.al.|[2606.28308](http://arxiv.org/abs/2606.28308)|null|
+|**2026-06-26**|**Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization**|Shuang Li et.al.|[2606.28307](http://arxiv.org/abs/2606.28307)|null|
+|**2026-06-26**|**Excitation of Collective Modes in a Chiral Superfluid by Thermal Quench**|Noble Gluscevich et.al.|[2606.28306](http://arxiv.org/abs/2606.28306)|null|
+|**2026-06-26**|**Divisible Arm Lengths, Crystal Reflections, and Enumeration of Newly Found Decomposition Columns**|David J. Hemmer et.al.|[2606.28305](http://arxiv.org/abs/2606.28305)|null|
+|**2026-06-26**|**SKA $-$ VLBI view of AGN jets in the early Universe**|C. Spingola et.al.|[2606.28304](http://arxiv.org/abs/2606.28304)|null|
+|**2026-06-26**|**VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing**|Kijung Jeon et.al.|[2606.28301](http://arxiv.org/abs/2606.28301)|null|
 |**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
 |**2026-06-25**|**Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards**|Ritesh Thawkar et.al.|[2606.27376](http://arxiv.org/abs/2606.27376)|null|
 |**2026-06-25**|**Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models**|Shravan Venkatraman et.al.|[2606.27373](http://arxiv.org/abs/2606.27373)|null|
@@ -4817,12 +4867,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
+|**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Dihong Huang et.al.|[2606.28323](http://arxiv.org/abs/2606.28323)|null|
+|**2026-06-26**|**StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views**|Jia-Chen Zhao et.al.|[2606.28321](http://arxiv.org/abs/2606.28321)|null|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**Near-threshold scattering of proton and Omega baryon and possible bound states**|Yu-Jie Feng et.al.|[2606.28319](http://arxiv.org/abs/2606.28319)|null|
+|**2026-06-26**|**The Role of Scintillation in Detecting HI Absorption in FRB Spectra**|Om Gupta et.al.|[2606.28314](http://arxiv.org/abs/2606.28314)|null|
+|**2026-06-26**|**Diameter truncated operator evolution**|Tom Holden-Dye et.al.|[2606.28313](http://arxiv.org/abs/2606.28313)|null|
+|**2026-06-26**|**Optimal Deployment of Electric Aircraft for Canadian Domestic Flights**|Elham Soufiani et.al.|[2606.28312](http://arxiv.org/abs/2606.28312)|null|
+|**2026-06-26**|**Kinematic detection of dusty outflows from AGN: PAH kinematics of type 2 quasars with JWST/MIRI spectroscopy**|Fergus R. Donnan et.al.|[2606.28311](http://arxiv.org/abs/2606.28311)|null|
+|**2026-06-26**|**Constraining primordial oscillations and inflationary particle production with Planck, ACT DR6, and DESI DR2**|Simran K. Nerval et.al.|[2606.28310](http://arxiv.org/abs/2606.28310)|null|
 |**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
 |**2026-06-25**|**Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards**|Ritesh Thawkar et.al.|[2606.27376](http://arxiv.org/abs/2606.27376)|null|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](http://arxiv.org/abs/2606.27375)|null|
@@ -5809,7 +5869,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
