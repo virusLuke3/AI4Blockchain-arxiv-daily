@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.29
+## Updated on 2026.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**MCP Server Architecture Patterns for LLM-Integrated Applications**|Carson Rodrigues et.al.|[2606.30317](http://arxiv.org/abs/2606.30317)|null|
+|**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Jan Stenner et.al.|[2606.30316](http://arxiv.org/abs/2606.30316)|null|
+|**2026-06-29**|**Evaluating HWE and Association in Genome Wide Association Studies: A Unified Procedure**|Stefan Böhringer et.al.|[2606.30311](http://arxiv.org/abs/2606.30311)|null|
+|**2026-06-29**|**Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions**|Christophe Vauthier et.al.|[2606.30310](http://arxiv.org/abs/2606.30310)|null|
+|**2026-06-29**|**Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents**|Tianyu Ding et.al.|[2606.30306](http://arxiv.org/abs/2606.30306)|null|
+|**2026-06-29**|**Existence and convergence of the area-constrained elastic flow**|Florian Hauser et.al.|[2606.30301](http://arxiv.org/abs/2606.30301)|null|
+|**2026-06-29**|**Spatially Coherent and Intermittent Alfvénic Fluctuations in Solar Polar Spicules**|Edris Tajfirouze et.al.|[2606.30299](http://arxiv.org/abs/2606.30299)|null|
+|**2026-06-29**|**Rehearsed Multi-Agent Live Product Demonstrations with Real-Time Voice Question Answering**|Rahul Khedar et.al.|[2606.30294](http://arxiv.org/abs/2606.30294)|null|
+|**2026-06-29**|**CSAR: Containerized System Architecture for Robotics**| Ambrosio-Cestero et.al.|[2606.30293](http://arxiv.org/abs/2606.30293)|null|
+|**2026-06-29**|**List $3$-coloring $C_4$-free graphs of diameter-$2$ in polynomial-time**|Yukihiro Murakami et.al.|[2606.30282](http://arxiv.org/abs/2606.30282)|null|
 |**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
 |**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Dihong Huang et.al.|[2606.28323](http://arxiv.org/abs/2606.28323)|null|
 |**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
@@ -1042,6 +1052,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes**|Paul Andreas et.al.|[2606.30321](http://arxiv.org/abs/2606.30321)|null|
+|**2026-06-29**|**Continuous-Time Information Design for Hurricane Evacuation: Disclosure, Congestion, and Optimal Phasing under Model Uncertainty**|Furkan Sezer et.al.|[2606.30320](http://arxiv.org/abs/2606.30320)|null|
+|**2026-06-29**|**BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language**|Haitao Wu et.al.|[2606.30319](http://arxiv.org/abs/2606.30319)|null|
+|**2026-06-29**|**MCP Server Architecture Patterns for LLM-Integrated Applications**|Carson Rodrigues et.al.|[2606.30317](http://arxiv.org/abs/2606.30317)|null|
+|**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Jan Stenner et.al.|[2606.30316](http://arxiv.org/abs/2606.30316)|null|
+|**2026-06-29**|**Real-Time Underwater Image Enhancement via Frequency-Guided Dual-Path Attention**|Leshen Zhang et.al.|[2606.30314](http://arxiv.org/abs/2606.30314)|null|
+|**2026-06-29**|**TRACE: A Concept Bottleneck Model for Longitudinal 3D Glioblastoma Response Assessment**|Alia Tarek et.al.|[2606.30313](http://arxiv.org/abs/2606.30313)|null|
+|**2026-06-29**|**Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions**|Christophe Vauthier et.al.|[2606.30310](http://arxiv.org/abs/2606.30310)|null|
+|**2026-06-29**|**A Point Cloud Transformer for Remote Monitoring and Automated Assessment of Physical Rehabilitation Exercises**|Kazi Rafat et.al.|[2606.30309](http://arxiv.org/abs/2606.30309)|null|
+|**2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Yuxi Wang et.al.|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
 |**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
 |**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Dihong Huang et.al.|[2606.28323](http://arxiv.org/abs/2606.28323)|null|
 |**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
@@ -1967,6 +1987,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes**|Paul Andreas et.al.|[2606.30321](http://arxiv.org/abs/2606.30321)|null|
+|**2026-06-29**|**Continuous-Time Information Design for Hurricane Evacuation: Disclosure, Congestion, and Optimal Phasing under Model Uncertainty**|Furkan Sezer et.al.|[2606.30320](http://arxiv.org/abs/2606.30320)|null|
+|**2026-06-29**|**MCP Server Architecture Patterns for LLM-Integrated Applications**|Carson Rodrigues et.al.|[2606.30317](http://arxiv.org/abs/2606.30317)|null|
+|**2026-06-29**|**Real-Time Underwater Image Enhancement via Frequency-Guided Dual-Path Attention**|Leshen Zhang et.al.|[2606.30314](http://arxiv.org/abs/2606.30314)|null|
+|**2026-06-29**|**TRACE: A Concept Bottleneck Model for Longitudinal 3D Glioblastoma Response Assessment**|Alia Tarek et.al.|[2606.30313](http://arxiv.org/abs/2606.30313)|null|
+|**2026-06-29**|**DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information**|Roland Roller et.al.|[2606.30312](http://arxiv.org/abs/2606.30312)|null|
+|**2026-06-29**|**Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions**|Christophe Vauthier et.al.|[2606.30310](http://arxiv.org/abs/2606.30310)|null|
+|**2026-06-29**|**A Point Cloud Transformer for Remote Monitoring and Automated Assessment of Physical Rehabilitation Exercises**|Kazi Rafat et.al.|[2606.30309](http://arxiv.org/abs/2606.30309)|null|
+|**2026-06-29**|**The SKA-VLBI Perspective on Radio-Quiet AGN**|Francesca Panessa et.al.|[2606.30307](http://arxiv.org/abs/2606.30307)|null|
+|**2026-06-29**|**Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents**|Tianyu Ding et.al.|[2606.30306](http://arxiv.org/abs/2606.30306)|null|
 |**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
 |**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
 |**2026-06-26**|**StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views**|Jia-Chen Zhao et.al.|[2606.28321](http://arxiv.org/abs/2606.28321)|null|
@@ -2897,6 +2927,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes**|Paul Andreas et.al.|[2606.30321](http://arxiv.org/abs/2606.30321)|null|
+|**2026-06-29**|**Continuous-Time Information Design for Hurricane Evacuation: Disclosure, Congestion, and Optimal Phasing under Model Uncertainty**|Furkan Sezer et.al.|[2606.30320](http://arxiv.org/abs/2606.30320)|null|
+|**2026-06-29**|**Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation**|Yulin Zhou et.al.|[2606.30318](http://arxiv.org/abs/2606.30318)|null|
+|**2026-06-29**|**MCP Server Architecture Patterns for LLM-Integrated Applications**|Carson Rodrigues et.al.|[2606.30317](http://arxiv.org/abs/2606.30317)|null|
+|**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Jan Stenner et.al.|[2606.30316](http://arxiv.org/abs/2606.30316)|null|
+|**2026-06-29**|**TRACE: A Concept Bottleneck Model for Longitudinal 3D Glioblastoma Response Assessment**|Alia Tarek et.al.|[2606.30313](http://arxiv.org/abs/2606.30313)|null|
+|**2026-06-29**|**DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information**|Roland Roller et.al.|[2606.30312](http://arxiv.org/abs/2606.30312)|null|
+|**2026-06-29**|**A Point Cloud Transformer for Remote Monitoring and Automated Assessment of Physical Rehabilitation Exercises**|Kazi Rafat et.al.|[2606.30309](http://arxiv.org/abs/2606.30309)|null|
+|**2026-06-29**|**Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents**|Tianyu Ding et.al.|[2606.30306](http://arxiv.org/abs/2606.30306)|null|
+|**2026-06-29**|**Thermometry with multilevel transmon probes**|Antonio Mandarino et.al.|[2606.30302](http://arxiv.org/abs/2606.30302)|null|
 |**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
 |**2026-06-26**|**PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception**|Yana Wei et.al.|[2606.28322](http://arxiv.org/abs/2606.28322)|null|
 |**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
@@ -3862,6 +3902,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language**|Haitao Wu et.al.|[2606.30319](http://arxiv.org/abs/2606.30319)|null|
+|**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Jan Stenner et.al.|[2606.30316](http://arxiv.org/abs/2606.30316)|null|
+|**2026-06-29**|**All-optical switching of continuous-variable entanglement in an absorption-suppressed plasmonic nanodimer**|Elif Ozturk et.al.|[2606.30315](http://arxiv.org/abs/2606.30315)|null|
+|**2026-06-29**|**Real-Time Underwater Image Enhancement via Frequency-Guided Dual-Path Attention**|Leshen Zhang et.al.|[2606.30314](http://arxiv.org/abs/2606.30314)|null|
+|**2026-06-29**|**TRACE: A Concept Bottleneck Model for Longitudinal 3D Glioblastoma Response Assessment**|Alia Tarek et.al.|[2606.30313](http://arxiv.org/abs/2606.30313)|null|
+|**2026-06-29**|**DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information**|Roland Roller et.al.|[2606.30312](http://arxiv.org/abs/2606.30312)|null|
+|**2026-06-29**|**Evaluating HWE and Association in Genome Wide Association Studies: A Unified Procedure**|Stefan Böhringer et.al.|[2606.30311](http://arxiv.org/abs/2606.30311)|null|
+|**2026-06-29**|**Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions**|Christophe Vauthier et.al.|[2606.30310](http://arxiv.org/abs/2606.30310)|null|
+|**2026-06-29**|**A Point Cloud Transformer for Remote Monitoring and Automated Assessment of Physical Rehabilitation Exercises**|Kazi Rafat et.al.|[2606.30309](http://arxiv.org/abs/2606.30309)|null|
+|**2026-06-29**|**Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents**|Tianyu Ding et.al.|[2606.30306](http://arxiv.org/abs/2606.30306)|null|
 |**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
 |**2026-06-26**|**Near-threshold scattering of proton and Omega baryon and possible bound states**|Yu-Jie Feng et.al.|[2606.28319](http://arxiv.org/abs/2606.28319)|null|
 |**2026-06-26**|**Continuation of Force-Free Electrodynamics upon the loss of magnetic dominance**|Morifumi Mizuno et.al.|[2606.28317](http://arxiv.org/abs/2606.28317)|null|
@@ -4843,6 +4893,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Enabling population studies on wind-driven Galactic binary systems**|B. Marcote et.al.|[2606.30323](http://arxiv.org/abs/2606.30323)|null|
+|**2026-06-29**|**Hybrid Active-Online Learning Framework for Label-Efficient Concept Drift Adaptation in Optical Network Failure Detection**|Yousuf Moiz Ali et.al.|[2606.30322](http://arxiv.org/abs/2606.30322)|null|
+|**2026-06-29**|**Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes**|Paul Andreas et.al.|[2606.30321](http://arxiv.org/abs/2606.30321)|null|
+|**2026-06-29**|**Continuous-Time Information Design for Hurricane Evacuation: Disclosure, Congestion, and Optimal Phasing under Model Uncertainty**|Furkan Sezer et.al.|[2606.30320](http://arxiv.org/abs/2606.30320)|null|
+|**2026-06-29**|**BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language**|Haitao Wu et.al.|[2606.30319](http://arxiv.org/abs/2606.30319)|null|
+|**2026-06-29**|**Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation**|Yulin Zhou et.al.|[2606.30318](http://arxiv.org/abs/2606.30318)|null|
+|**2026-06-29**|**MCP Server Architecture Patterns for LLM-Integrated Applications**|Carson Rodrigues et.al.|[2606.30317](http://arxiv.org/abs/2606.30317)|null|
+|**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Jan Stenner et.al.|[2606.30316](http://arxiv.org/abs/2606.30316)|null|
+|**2026-06-29**|**TRACE: A Concept Bottleneck Model for Longitudinal 3D Glioblastoma Response Assessment**|Alia Tarek et.al.|[2606.30313](http://arxiv.org/abs/2606.30313)|null|
+|**2026-06-29**|**DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information**|Roland Roller et.al.|[2606.30312](http://arxiv.org/abs/2606.30312)|null|
 |**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
 |**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Dihong Huang et.al.|[2606.28323](http://arxiv.org/abs/2606.28323)|null|
 |**2026-06-26**|**StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views**|Jia-Chen Zhao et.al.|[2606.28321](http://arxiv.org/abs/2606.28321)|null|
