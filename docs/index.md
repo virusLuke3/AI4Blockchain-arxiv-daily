@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**GEAR: Guided End-to-End AutoRegression for Image Synthesis**|Bin Lin et.al.|[2606.32039](http://arxiv.org/abs/2606.32039)|null|
+|**2026-06-30**|**Finite-range EFT for the $E1$ strength distribution of ${}^6$ He**|Matthias Göbel et.al.|[2606.32037](http://arxiv.org/abs/2606.32037)|null|
+|**2026-06-30**|**Exactly solvable non-unitary conformal interfaces in unitary CFTs**|Qicheng Tang et.al.|[2606.32035](http://arxiv.org/abs/2606.32035)|null|
+|**2026-06-30**|**SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE**|Or Hirschorn et.al.|[2606.32033](http://arxiv.org/abs/2606.32033)|null|
+|**2026-06-30**|**When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**|Yuqing Yang et.al.|[2606.32029](http://arxiv.org/abs/2606.32029)|null|
+|**2026-06-30**|**AdaJEPA: An Adaptive Latent World Model**|Ying Wang et.al.|[2606.32026](http://arxiv.org/abs/2606.32026)|null|
+|**2026-06-30**|**The sharp diagonal spectral correlation inequality on the discrete cube**|Fan Chang et.al.|[2606.32024](http://arxiv.org/abs/2606.32024)|null|
+|**2026-06-30**|**SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models**|Jian Gu et.al.|[2606.32022](http://arxiv.org/abs/2606.32022)|null|
+|**2026-06-30**|**Flexibility as a Universal Nature-Inspired Mechanism for Thrust Enhancement**|Roberta Santoriello et.al.|[2606.32021](http://arxiv.org/abs/2606.32021)|null|
+|**2026-06-30**|**Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers**|Anh Nguyen et.al.|[2606.32020](http://arxiv.org/abs/2606.32020)|null|
 |**2026-06-29**|**MCP Server Architecture Patterns for LLM-Integrated Applications**|Carson Rodrigues et.al.|[2606.30317](http://arxiv.org/abs/2606.30317)|null|
 |**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Jan Stenner et.al.|[2606.30316](http://arxiv.org/abs/2606.30316)|null|
 |**2026-06-29**|**Evaluating HWE and Association in Genome Wide Association Studies: A Unified Procedure**|Stefan Böhringer et.al.|[2606.30311](http://arxiv.org/abs/2606.30311)|null|
@@ -1052,6 +1062,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**FaceMoE: Mixture of Experts for Low-Resolution Face Recognition**|Kartik Narayan et.al.|[2606.32040](http://arxiv.org/abs/2606.32040)|null|
+|**2026-06-30**|**GEAR: Guided End-to-End AutoRegression for Image Synthesis**|Bin Lin et.al.|[2606.32039](http://arxiv.org/abs/2606.32039)|null|
+|**2026-06-30**|**PointSplat: Compact Gaussian Splatting via Human-Centric Prediction**|Yujie Guo et.al.|[2606.32036](http://arxiv.org/abs/2606.32036)|null|
+|**2026-06-30**|**SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE**|Or Hirschorn et.al.|[2606.32033](http://arxiv.org/abs/2606.32033)|null|
+|**2026-06-30**|**Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2606.32032](http://arxiv.org/abs/2606.32032)|null|
+|**2026-06-30**|**Freeform Preference Learning for Robotic Manipulation**|Marcel Torne et.al.|[2606.32027](http://arxiv.org/abs/2606.32027)|null|
+|**2026-06-30**|**The sharp diagonal spectral correlation inequality on the discrete cube**|Fan Chang et.al.|[2606.32024](http://arxiv.org/abs/2606.32024)|null|
+|**2026-06-30**|**FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data**|Emilie Vautier et.al.|[2606.32023](http://arxiv.org/abs/2606.32023)|null|
+|**2026-06-30**|**Flexibility as a Universal Nature-Inspired Mechanism for Thrust Enhancement**|Roberta Santoriello et.al.|[2606.32021](http://arxiv.org/abs/2606.32021)|null|
+|**2026-06-30**|**Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers**|Anh Nguyen et.al.|[2606.32020](http://arxiv.org/abs/2606.32020)|null|
 |**2026-06-29**|**Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes**|Paul Andreas et.al.|[2606.30321](http://arxiv.org/abs/2606.30321)|null|
 |**2026-06-29**|**Continuous-Time Information Design for Hurricane Evacuation: Disclosure, Congestion, and Optimal Phasing under Model Uncertainty**|Furkan Sezer et.al.|[2606.30320](http://arxiv.org/abs/2606.30320)|null|
 |**2026-06-29**|**BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language**|Haitao Wu et.al.|[2606.30319](http://arxiv.org/abs/2606.30319)|null|
@@ -1987,6 +2007,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**FaceMoE: Mixture of Experts for Low-Resolution Face Recognition**|Kartik Narayan et.al.|[2606.32040](http://arxiv.org/abs/2606.32040)|null|
+|**2026-06-30**|**Finite-range EFT for the $E1$ strength distribution of ${}^6$ He**|Matthias Göbel et.al.|[2606.32037](http://arxiv.org/abs/2606.32037)|null|
+|**2026-06-30**|**Exactly solvable non-unitary conformal interfaces in unitary CFTs**|Qicheng Tang et.al.|[2606.32035](http://arxiv.org/abs/2606.32035)|null|
+|**2026-06-30**|**QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents**|Sergio Hernández-Gutiérrez et.al.|[2606.32034](http://arxiv.org/abs/2606.32034)|null|
+|**2026-06-30**|**Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2606.32032](http://arxiv.org/abs/2606.32032)|null|
+|**2026-06-30**|**Intersection theorems over DG-rings revisited**|Luigi Ferraro et.al.|[2606.32031](http://arxiv.org/abs/2606.32031)|null|
+|**2026-06-30**|**Simulation of Two-qubit Gate Variability and Fidelity of Spin Qubits Built on Nanosheet Technology**|Trung Nguyen et.al.|[2606.32030](http://arxiv.org/abs/2606.32030)|null|
+|**2026-06-30**|**When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**|Yuqing Yang et.al.|[2606.32029](http://arxiv.org/abs/2606.32029)|null|
+|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
+|**2026-06-30**|**Generative Skill Composition for LLM Agents**|Xinyu Zhao et.al.|[2606.32025](http://arxiv.org/abs/2606.32025)|null|
 |**2026-06-29**|**Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes**|Paul Andreas et.al.|[2606.30321](http://arxiv.org/abs/2606.30321)|null|
 |**2026-06-29**|**Continuous-Time Information Design for Hurricane Evacuation: Disclosure, Congestion, and Optimal Phasing under Model Uncertainty**|Furkan Sezer et.al.|[2606.30320](http://arxiv.org/abs/2606.30320)|null|
 |**2026-06-29**|**MCP Server Architecture Patterns for LLM-Integrated Applications**|Carson Rodrigues et.al.|[2606.30317](http://arxiv.org/abs/2606.30317)|null|
@@ -2927,6 +2957,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**|Zifan Carl Guo et.al.|[2606.32038](http://arxiv.org/abs/2606.32038)|null|
+|**2026-06-30**|**Exactly solvable non-unitary conformal interfaces in unitary CFTs**|Qicheng Tang et.al.|[2606.32035](http://arxiv.org/abs/2606.32035)|null|
+|**2026-06-30**|**SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models**|Jian Gu et.al.|[2606.32022](http://arxiv.org/abs/2606.32022)|null|
+|**2026-06-30**|**Flexibility as a Universal Nature-Inspired Mechanism for Thrust Enhancement**|Roberta Santoriello et.al.|[2606.32021](http://arxiv.org/abs/2606.32021)|null|
+|**2026-06-30**|**Automated Background Swapping for Robustness against Spurious Backgrounds**|Cesar Roder et.al.|[2606.32018](http://arxiv.org/abs/2606.32018)|null|
+|**2026-06-30**|**FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning**|Zekai Chen et.al.|[2606.32016](http://arxiv.org/abs/2606.32016)|null|
+|**2026-06-30**|**Competition and Anomalies Redux: Evidence from U.S. Auto Dealers**|David Huffman et.al.|[2606.32011](http://arxiv.org/abs/2606.32011)|null|
+|**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Xiaopeng Lin et.al.|[2606.32009](http://arxiv.org/abs/2606.32009)|null|
+|**2026-06-30**|**Radiation-pressure instability is an artifact of constant- $α$ closure**|M. H. Naddaf et.al.|[2606.31998](http://arxiv.org/abs/2606.31998)|null|
+|**2026-06-30**|**Quantum Information as a New Lens for Precision Neutrino Physics**|Khushboo Dixit et.al.|[2606.31996](http://arxiv.org/abs/2606.31996)|null|
 |**2026-06-29**|**Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes**|Paul Andreas et.al.|[2606.30321](http://arxiv.org/abs/2606.30321)|null|
 |**2026-06-29**|**Continuous-Time Information Design for Hurricane Evacuation: Disclosure, Congestion, and Optimal Phasing under Model Uncertainty**|Furkan Sezer et.al.|[2606.30320](http://arxiv.org/abs/2606.30320)|null|
 |**2026-06-29**|**Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation**|Yulin Zhou et.al.|[2606.30318](http://arxiv.org/abs/2606.30318)|null|
@@ -3902,6 +3942,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**FaceMoE: Mixture of Experts for Low-Resolution Face Recognition**|Kartik Narayan et.al.|[2606.32040](http://arxiv.org/abs/2606.32040)|null|
+|**2026-06-30**|**Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**|Zifan Carl Guo et.al.|[2606.32038](http://arxiv.org/abs/2606.32038)|null|
+|**2026-06-30**|**Finite-range EFT for the $E1$ strength distribution of ${}^6$ He**|Matthias Göbel et.al.|[2606.32037](http://arxiv.org/abs/2606.32037)|null|
+|**2026-06-30**|**PointSplat: Compact Gaussian Splatting via Human-Centric Prediction**|Yujie Guo et.al.|[2606.32036](http://arxiv.org/abs/2606.32036)|null|
+|**2026-06-30**|**QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents**|Sergio Hernández-Gutiérrez et.al.|[2606.32034](http://arxiv.org/abs/2606.32034)|null|
+|**2026-06-30**|**SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE**|Or Hirschorn et.al.|[2606.32033](http://arxiv.org/abs/2606.32033)|null|
+|**2026-06-30**|**Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2606.32032](http://arxiv.org/abs/2606.32032)|null|
+|**2026-06-30**|**Simulation of Two-qubit Gate Variability and Fidelity of Spin Qubits Built on Nanosheet Technology**|Trung Nguyen et.al.|[2606.32030](http://arxiv.org/abs/2606.32030)|null|
+|**2026-06-30**|**When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**|Yuqing Yang et.al.|[2606.32029](http://arxiv.org/abs/2606.32029)|null|
+|**2026-06-30**|**AdaJEPA: An Adaptive Latent World Model**|Ying Wang et.al.|[2606.32026](http://arxiv.org/abs/2606.32026)|null|
 |**2026-06-29**|**BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language**|Haitao Wu et.al.|[2606.30319](http://arxiv.org/abs/2606.30319)|null|
 |**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Jan Stenner et.al.|[2606.30316](http://arxiv.org/abs/2606.30316)|null|
 |**2026-06-29**|**All-optical switching of continuous-variable entanglement in an absorption-suppressed plasmonic nanodimer**|Elif Ozturk et.al.|[2606.30315](http://arxiv.org/abs/2606.30315)|null|
@@ -4893,6 +4943,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**GEAR: Guided End-to-End AutoRegression for Image Synthesis**|Bin Lin et.al.|[2606.32039](http://arxiv.org/abs/2606.32039)|null|
+|**2026-06-30**|**Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**|Zifan Carl Guo et.al.|[2606.32038](http://arxiv.org/abs/2606.32038)|null|
+|**2026-06-30**|**Finite-range EFT for the $E1$ strength distribution of ${}^6$ He**|Matthias Göbel et.al.|[2606.32037](http://arxiv.org/abs/2606.32037)|null|
+|**2026-06-30**|**PointSplat: Compact Gaussian Splatting via Human-Centric Prediction**|Yujie Guo et.al.|[2606.32036](http://arxiv.org/abs/2606.32036)|null|
+|**2026-06-30**|**Exactly solvable non-unitary conformal interfaces in unitary CFTs**|Qicheng Tang et.al.|[2606.32035](http://arxiv.org/abs/2606.32035)|null|
+|**2026-06-30**|**QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents**|Sergio Hernández-Gutiérrez et.al.|[2606.32034](http://arxiv.org/abs/2606.32034)|null|
+|**2026-06-30**|**SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE**|Or Hirschorn et.al.|[2606.32033](http://arxiv.org/abs/2606.32033)|null|
+|**2026-06-30**|**Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2606.32032](http://arxiv.org/abs/2606.32032)|null|
+|**2026-06-30**|**Simulation of Two-qubit Gate Variability and Fidelity of Spin Qubits Built on Nanosheet Technology**|Trung Nguyen et.al.|[2606.32030](http://arxiv.org/abs/2606.32030)|null|
+|**2026-06-30**|**When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**|Yuqing Yang et.al.|[2606.32029](http://arxiv.org/abs/2606.32029)|null|
 |**2026-06-29**|**Enabling population studies on wind-driven Galactic binary systems**|B. Marcote et.al.|[2606.30323](http://arxiv.org/abs/2606.30323)|null|
 |**2026-06-29**|**Hybrid Active-Online Learning Framework for Label-Efficient Concept Drift Adaptation in Optical Network Failure Detection**|Yousuf Moiz Ali et.al.|[2606.30322](http://arxiv.org/abs/2606.30322)|null|
 |**2026-06-29**|**Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes**|Paul Andreas et.al.|[2606.30321](http://arxiv.org/abs/2606.30321)|null|
