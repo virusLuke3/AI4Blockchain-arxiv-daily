@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.01
+## Updated on 2026.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Measuring the Gap Between Human and LLM Research Ideas**|Ziyu Chen et.al.|[2607.01233](http://arxiv.org/abs/2607.01233)|null|
+|**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
+|**2026-07-01**|**Brownian ratchets and pumps universally simulate many-body active dynamics**|Charles Stahl et.al.|[2607.01231](http://arxiv.org/abs/2607.01231)|null|
+|**2026-07-01**|**Distributed Containment of a Compromised Agent through Repulsive Cages**|Luigi Petruzziello et.al.|[2607.01230](http://arxiv.org/abs/2607.01230)|null|
+|**2026-07-01**|**Theoria: Rewrite-Acceptability Verification over Informal Reasoning States**|Ben Slivinski et.al.|[2607.01223](http://arxiv.org/abs/2607.01223)|null|
+|**2026-07-01**|**The State-Prediction Separation Hypothesis**|Giovanni Monea et.al.|[2607.01218](http://arxiv.org/abs/2607.01218)|null|
+|**2026-07-01**|**Diverse efficiency of observable optimization for four-level quantum systems with higher-order traps**|Alexander Pechen et.al.|[2607.01217](http://arxiv.org/abs/2607.01217)|null|
+|**2026-07-01**|**Query Complexity of Hypergraph Connectivity and Learnability using CUT Oracles**|Deeparnab Chakrabarty et.al.|[2607.01216](http://arxiv.org/abs/2607.01216)|null|
+|**2026-07-01**|**Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education**|Lawrence Obiuwevwi et.al.|[2607.01214](http://arxiv.org/abs/2607.01214)|null|
+|**2026-07-01**|**All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme**|Mustafa Doger et.al.|[2607.01209](http://arxiv.org/abs/2607.01209)|null|
 |**2026-06-30**|**GEAR: Guided End-to-End AutoRegression for Image Synthesis**|Bin Lin et.al.|[2606.32039](http://arxiv.org/abs/2606.32039)|null|
 |**2026-06-30**|**Finite-range EFT for the $E1$ strength distribution of ${}^6$ He**|Matthias Göbel et.al.|[2606.32037](http://arxiv.org/abs/2606.32037)|null|
 |**2026-06-30**|**Exactly solvable non-unitary conformal interfaces in unitary CFTs**|Qicheng Tang et.al.|[2606.32035](http://arxiv.org/abs/2606.32035)|null|
@@ -1062,6 +1072,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Measuring the Gap Between Human and LLM Research Ideas**|Ziyu Chen et.al.|[2607.01233](http://arxiv.org/abs/2607.01233)|null|
+|**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
+|**2026-07-01**|**Distributed Containment of a Compromised Agent through Repulsive Cages**|Luigi Petruzziello et.al.|[2607.01230](http://arxiv.org/abs/2607.01230)|null|
+|**2026-07-01**|**Polynomial equivalence of the global transverse-field Ising model and the gate model of quantum computation**|Matthias Werner et.al.|[2607.01227](http://arxiv.org/abs/2607.01227)|null|
+|**2026-07-01**|**AutoMem: Automated Learning of Memory as a Cognitive Skill**|Shengguang Wu et.al.|[2607.01224](http://arxiv.org/abs/2607.01224)|null|
+|**2026-07-01**|**Theoria: Rewrite-Acceptability Verification over Informal Reasoning States**|Ben Slivinski et.al.|[2607.01223](http://arxiv.org/abs/2607.01223)|null|
+|**2026-07-01**|**Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models**|Yue Han et.al.|[2607.01222](http://arxiv.org/abs/2607.01222)|null|
+|**2026-07-01**|**Diverse efficiency of observable optimization for four-level quantum systems with higher-order traps**|Alexander Pechen et.al.|[2607.01217](http://arxiv.org/abs/2607.01217)|null|
+|**2026-07-01**|**Query Complexity of Hypergraph Connectivity and Learnability using CUT Oracles**|Deeparnab Chakrabarty et.al.|[2607.01216](http://arxiv.org/abs/2607.01216)|null|
+|**2026-07-01**|**Computationally Efficient Near-Optimal Control for Current Ripple Reduction and Optimization of Three-Phase Motors via LMIs**|Huu-Thinh Do et.al.|[2607.01215](http://arxiv.org/abs/2607.01215)|null|
 |**2026-06-30**|**FaceMoE: Mixture of Experts for Low-Resolution Face Recognition**|Kartik Narayan et.al.|[2606.32040](http://arxiv.org/abs/2606.32040)|null|
 |**2026-06-30**|**GEAR: Guided End-to-End AutoRegression for Image Synthesis**|Bin Lin et.al.|[2606.32039](http://arxiv.org/abs/2606.32039)|null|
 |**2026-06-30**|**PointSplat: Compact Gaussian Splatting via Human-Centric Prediction**|Yujie Guo et.al.|[2606.32036](http://arxiv.org/abs/2606.32036)|null|
@@ -2007,6 +2027,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Measuring the Gap Between Human and LLM Research Ideas**|Ziyu Chen et.al.|[2607.01233](http://arxiv.org/abs/2607.01233)|null|
+|**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
+|**2026-07-01**|**Brownian ratchets and pumps universally simulate many-body active dynamics**|Charles Stahl et.al.|[2607.01231](http://arxiv.org/abs/2607.01231)|null|
+|**2026-07-01**|**Distributed Containment of a Compromised Agent through Repulsive Cages**|Luigi Petruzziello et.al.|[2607.01230](http://arxiv.org/abs/2607.01230)|null|
+|**2026-07-01**|**Beta-Particle Transport and Thermalization in Kilonova Ejecta with Detailed Atomic Microphysics**|Zachary L. Andalman et.al.|[2607.01228](http://arxiv.org/abs/2607.01228)|null|
+|**2026-07-01**|**Language-Critique Imitation Learning from Suboptimal Demonstrations**|Chih-Han Yang et.al.|[2607.01225](http://arxiv.org/abs/2607.01225)|null|
+|**2026-07-01**|**Theoria: Rewrite-Acceptability Verification over Informal Reasoning States**|Ben Slivinski et.al.|[2607.01223](http://arxiv.org/abs/2607.01223)|null|
+|**2026-07-01**|**Multiplicity of closed Reeb orbits on contact manifolds with periodic equivariant symplectic homology**|Miguel Abreu et.al.|[2607.01219](http://arxiv.org/abs/2607.01219)|null|
+|**2026-07-01**|**The State-Prediction Separation Hypothesis**|Giovanni Monea et.al.|[2607.01218](http://arxiv.org/abs/2607.01218)|null|
+|**2026-07-01**|**Diverse efficiency of observable optimization for four-level quantum systems with higher-order traps**|Alexander Pechen et.al.|[2607.01217](http://arxiv.org/abs/2607.01217)|null|
 |**2026-06-30**|**FaceMoE: Mixture of Experts for Low-Resolution Face Recognition**|Kartik Narayan et.al.|[2606.32040](http://arxiv.org/abs/2606.32040)|null|
 |**2026-06-30**|**Finite-range EFT for the $E1$ strength distribution of ${}^6$ He**|Matthias Göbel et.al.|[2606.32037](http://arxiv.org/abs/2606.32037)|null|
 |**2026-06-30**|**Exactly solvable non-unitary conformal interfaces in unitary CFTs**|Qicheng Tang et.al.|[2606.32035](http://arxiv.org/abs/2606.32035)|null|
@@ -2957,6 +2987,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Multidimensional Risk Made Easy**|Mark Whitmeyer et.al.|[2607.01229](http://arxiv.org/abs/2607.01229)|null|
+|**2026-07-01**|**Language-Critique Imitation Learning from Suboptimal Demonstrations**|Chih-Han Yang et.al.|[2607.01225](http://arxiv.org/abs/2607.01225)|null|
+|**2026-07-01**|**AutoMem: Automated Learning of Memory as a Cognitive Skill**|Shengguang Wu et.al.|[2607.01224](http://arxiv.org/abs/2607.01224)|null|
+|**2026-07-01**|**The State-Prediction Separation Hypothesis**|Giovanni Monea et.al.|[2607.01218](http://arxiv.org/abs/2607.01218)|null|
+|**2026-07-01**|**Query Complexity of Hypergraph Connectivity and Learnability using CUT Oracles**|Deeparnab Chakrabarty et.al.|[2607.01216](http://arxiv.org/abs/2607.01216)|null|
+|**2026-07-01**|**Computationally Efficient Near-Optimal Control for Current Ripple Reduction and Optimization of Three-Phase Motors via LMIs**|Huu-Thinh Do et.al.|[2607.01215](http://arxiv.org/abs/2607.01215)|null|
+|**2026-07-01**|**FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model**|Chenyang Ma et.al.|[2607.01212](http://arxiv.org/abs/2607.01212)|null|
+|**2026-07-01**|**On a conjecture of Andrews and almost alternating sign patterns**|Jayashree Kalita et.al.|[2607.01210](http://arxiv.org/abs/2607.01210)|null|
+|**2026-07-01**|**All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme**|Mustafa Doger et.al.|[2607.01209](http://arxiv.org/abs/2607.01209)|null|
+|**2026-07-01**|**When large trades are not news: Liquidity tail risk and price discovery**|Umut Çetin et.al.|[2607.01198](http://arxiv.org/abs/2607.01198)|null|
 |**2026-06-30**|**Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**|Zifan Carl Guo et.al.|[2606.32038](http://arxiv.org/abs/2606.32038)|null|
 |**2026-06-30**|**Exactly solvable non-unitary conformal interfaces in unitary CFTs**|Qicheng Tang et.al.|[2606.32035](http://arxiv.org/abs/2606.32035)|null|
 |**2026-06-30**|**SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models**|Jian Gu et.al.|[2606.32022](http://arxiv.org/abs/2606.32022)|null|
@@ -3942,6 +3982,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Measuring the Gap Between Human and LLM Research Ideas**|Ziyu Chen et.al.|[2607.01233](http://arxiv.org/abs/2607.01233)|null|
+|**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
+|**2026-07-01**|**Distributed Containment of a Compromised Agent through Repulsive Cages**|Luigi Petruzziello et.al.|[2607.01230](http://arxiv.org/abs/2607.01230)|null|
+|**2026-07-01**|**Beta-Particle Transport and Thermalization in Kilonova Ejecta with Detailed Atomic Microphysics**|Zachary L. Andalman et.al.|[2607.01228](http://arxiv.org/abs/2607.01228)|null|
+|**2026-07-01**|**Polynomial equivalence of the global transverse-field Ising model and the gate model of quantum computation**|Matthias Werner et.al.|[2607.01227](http://arxiv.org/abs/2607.01227)|null|
+|**2026-07-01**|**Intertwined Constraints in Extended Cosmologies: Dark Energy, Curvature, Neutrinos, and Inflation**|William Giarè et.al.|[2607.01226](http://arxiv.org/abs/2607.01226)|null|
+|**2026-07-01**|**AutoMem: Automated Learning of Memory as a Cognitive Skill**|Shengguang Wu et.al.|[2607.01224](http://arxiv.org/abs/2607.01224)|null|
+|**2026-07-01**|**Theoria: Rewrite-Acceptability Verification over Informal Reasoning States**|Ben Slivinski et.al.|[2607.01223](http://arxiv.org/abs/2607.01223)|null|
+|**2026-07-01**|**Type IIB Axion--Dilaton Wormholes and the BPS Limit Hessian**|Soo-Jong Rey et.al.|[2607.01221](http://arxiv.org/abs/2607.01221)|null|
+|**2026-07-01**|**Multiplicity of closed Reeb orbits on contact manifolds with periodic equivariant symplectic homology**|Miguel Abreu et.al.|[2607.01219](http://arxiv.org/abs/2607.01219)|null|
 |**2026-06-30**|**FaceMoE: Mixture of Experts for Low-Resolution Face Recognition**|Kartik Narayan et.al.|[2606.32040](http://arxiv.org/abs/2606.32040)|null|
 |**2026-06-30**|**Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**|Zifan Carl Guo et.al.|[2606.32038](http://arxiv.org/abs/2606.32038)|null|
 |**2026-06-30**|**Finite-range EFT for the $E1$ strength distribution of ${}^6$ He**|Matthias Göbel et.al.|[2606.32037](http://arxiv.org/abs/2606.32037)|null|
@@ -4943,6 +4993,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
+|**2026-07-01**|**Distributed Containment of a Compromised Agent through Repulsive Cages**|Luigi Petruzziello et.al.|[2607.01230](http://arxiv.org/abs/2607.01230)|null|
+|**2026-07-01**|**Multidimensional Risk Made Easy**|Mark Whitmeyer et.al.|[2607.01229](http://arxiv.org/abs/2607.01229)|null|
+|**2026-07-01**|**Polynomial equivalence of the global transverse-field Ising model and the gate model of quantum computation**|Matthias Werner et.al.|[2607.01227](http://arxiv.org/abs/2607.01227)|null|
+|**2026-07-01**|**Language-Critique Imitation Learning from Suboptimal Demonstrations**|Chih-Han Yang et.al.|[2607.01225](http://arxiv.org/abs/2607.01225)|null|
+|**2026-07-01**|**AutoMem: Automated Learning of Memory as a Cognitive Skill**|Shengguang Wu et.al.|[2607.01224](http://arxiv.org/abs/2607.01224)|null|
+|**2026-07-01**|**Theoria: Rewrite-Acceptability Verification over Informal Reasoning States**|Ben Slivinski et.al.|[2607.01223](http://arxiv.org/abs/2607.01223)|null|
+|**2026-07-01**|**TIME Commissioning Observations: II. On-sky Characterization and the 2D Map Data Processing Pipeline**|Benjamin J. Vaughan et.al.|[2607.01220](http://arxiv.org/abs/2607.01220)|null|
+|**2026-07-01**|**The State-Prediction Separation Hypothesis**|Giovanni Monea et.al.|[2607.01218](http://arxiv.org/abs/2607.01218)|null|
+|**2026-07-01**|**Diverse efficiency of observable optimization for four-level quantum systems with higher-order traps**|Alexander Pechen et.al.|[2607.01217](http://arxiv.org/abs/2607.01217)|null|
 |**2026-06-30**|**GEAR: Guided End-to-End AutoRegression for Image Synthesis**|Bin Lin et.al.|[2606.32039](http://arxiv.org/abs/2606.32039)|null|
 |**2026-06-30**|**Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**|Zifan Carl Guo et.al.|[2606.32038](http://arxiv.org/abs/2606.32038)|null|
 |**2026-06-30**|**Finite-range EFT for the $E1$ strength distribution of ${}^6$ He**|Matthias Göbel et.al.|[2606.32037](http://arxiv.org/abs/2606.32037)|null|
