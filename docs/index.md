@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.03
+## Updated on 2026.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Alignment Is All You Need For X-to-4D Generation**|Qiaowei Miao et.al.|[2607.02516](http://arxiv.org/abs/2607.02516)|null|
+|**2026-07-02**|**Distributed Attacks in Persistent-State AI Control**|Josh Hills et.al.|[2607.02514](http://arxiv.org/abs/2607.02514)|null|
+|**2026-07-02**|**Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas**|Yuxuan Li et.al.|[2607.02504](http://arxiv.org/abs/2607.02504)|null|
+|**2026-07-02**|**VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation**|Shuai Tian et.al.|[2607.02503](http://arxiv.org/abs/2607.02503)|null|
+|**2026-07-02**|**DemoPSD: Disagreement-Modulated Policy Self-Distillation**|Yunhe Li et.al.|[2607.02502](http://arxiv.org/abs/2607.02502)|null|
+|**2026-07-02**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Ling Xu et.al.|[2607.02501](http://arxiv.org/abs/2607.02501)|null|
+|**2026-07-02**|**The structure of FAC posets and the Aharoni--Korman conjecture**|Lawrence Hollom et.al.|[2607.02500](http://arxiv.org/abs/2607.02500)|null|
+|**2026-07-02**|**Alleviating prior dependencies for DESI DR1 clustering fits through reparameterization**|Marco Bonici et.al.|[2607.02498](http://arxiv.org/abs/2607.02498)|null|
+|**2026-07-02**|**Cut-off Jastrow Factors and Spectral Barron Regularity of Coulombic Electronic Wave Functions**|Virginie Ehrlacher et.al.|[2607.02492](http://arxiv.org/abs/2607.02492)|null|
+|**2026-07-02**|**Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning**|Liyan Tang et.al.|[2607.02490](http://arxiv.org/abs/2607.02490)|null|
 |**2026-07-01**|**Measuring the Gap Between Human and LLM Research Ideas**|Ziyu Chen et.al.|[2607.01233](http://arxiv.org/abs/2607.01233)|null|
 |**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
 |**2026-07-01**|**Brownian ratchets and pumps universally simulate many-body active dynamics**|Charles Stahl et.al.|[2607.01231](http://arxiv.org/abs/2607.01231)|null|
@@ -1072,6 +1082,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory**|Hanlin Wang et.al.|[2607.02517](http://arxiv.org/abs/2607.02517)|null|
+|**2026-07-02**|**Alignment Is All You Need For X-to-4D Generation**|Qiaowei Miao et.al.|[2607.02516](http://arxiv.org/abs/2607.02516)|null|
+|**2026-07-02**|**PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation**|Haofei Xu et.al.|[2607.02515](http://arxiv.org/abs/2607.02515)|null|
+|**2026-07-02**|**Distributed Attacks in Persistent-State AI Control**|Josh Hills et.al.|[2607.02514](http://arxiv.org/abs/2607.02514)|null|
+|**2026-07-02**|**LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**|Matteo Boglioni et.al.|[2607.02513](http://arxiv.org/abs/2607.02513)|null|
+|**2026-07-02**|**From SRA to Self-Flow: Data Augmentation or Self-Supervision?**|Dengyang Jiang et.al.|[2607.02508](http://arxiv.org/abs/2607.02508)|null|
+|**2026-07-02**|**Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas**|Yuxuan Li et.al.|[2607.02504](http://arxiv.org/abs/2607.02504)|null|
+|**2026-07-02**|**DemoPSD: Disagreement-Modulated Policy Self-Distillation**|Yunhe Li et.al.|[2607.02502](http://arxiv.org/abs/2607.02502)|null|
+|**2026-07-02**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Ling Xu et.al.|[2607.02501](http://arxiv.org/abs/2607.02501)|null|
+|**2026-07-02**|**Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials**|Gil Harari et.al.|[2607.02499](http://arxiv.org/abs/2607.02499)|null|
 |**2026-07-01**|**Measuring the Gap Between Human and LLM Research Ideas**|Ziyu Chen et.al.|[2607.01233](http://arxiv.org/abs/2607.01233)|null|
 |**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
 |**2026-07-01**|**Distributed Containment of a Compromised Agent through Repulsive Cages**|Luigi Petruzziello et.al.|[2607.01230](http://arxiv.org/abs/2607.01230)|null|
@@ -2027,6 +2047,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation**|Haofei Xu et.al.|[2607.02515](http://arxiv.org/abs/2607.02515)|null|
+|**2026-07-02**|**ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning**|Yanjun Zhao et.al.|[2607.02509](http://arxiv.org/abs/2607.02509)|null|
+|**2026-07-02**|**From SRA to Self-Flow: Data Augmentation or Self-Supervision?**|Dengyang Jiang et.al.|[2607.02508](http://arxiv.org/abs/2607.02508)|null|
+|**2026-07-02**|**On the emergence of quantum many-body chaos for tunably-broken integrability**|Sounak Biswas et.al.|[2607.02506](http://arxiv.org/abs/2607.02506)|null|
+|**2026-07-02**|**A critical look at low-scale cosmological phase transitions in the PTA era**|Simone Biondini et.al.|[2607.02505](http://arxiv.org/abs/2607.02505)|null|
+|**2026-07-02**|**DemoPSD: Disagreement-Modulated Policy Self-Distillation**|Yunhe Li et.al.|[2607.02502](http://arxiv.org/abs/2607.02502)|null|
+|**2026-07-02**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Ling Xu et.al.|[2607.02501](http://arxiv.org/abs/2607.02501)|null|
+|**2026-07-02**|**Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials**|Gil Harari et.al.|[2607.02499](http://arxiv.org/abs/2607.02499)|null|
+|**2026-07-02**|**BRST-BV approach to fields in Poincare patch of AdS**|R. R. Metsaev et.al.|[2607.02495](http://arxiv.org/abs/2607.02495)|null|
+|**2026-07-02**|**Stability of global self-similar solutions to the cubic wave equation and the wave maps equation**|Akansha Sanwal et.al.|[2607.02493](http://arxiv.org/abs/2607.02493)|null|
 |**2026-07-01**|**Measuring the Gap Between Human and LLM Research Ideas**|Ziyu Chen et.al.|[2607.01233](http://arxiv.org/abs/2607.01233)|null|
 |**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
 |**2026-07-01**|**Brownian ratchets and pumps universally simulate many-body active dynamics**|Charles Stahl et.al.|[2607.01231](http://arxiv.org/abs/2607.01231)|null|
@@ -2987,6 +3017,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**A Probabilistic Sign Rule for Quotients of Positive Series and Integral Transforms**|Zakaria Derbazi et.al.|[2607.02511](http://arxiv.org/abs/2607.02511)|null|
+|**2026-07-02**|**ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning**|Yanjun Zhao et.al.|[2607.02509](http://arxiv.org/abs/2607.02509)|null|
+|**2026-07-02**|**Towards Robustness against Typographic Attack with Training-free Concept Localization**|Bohan Liu et.al.|[2607.02494](http://arxiv.org/abs/2607.02494)|null|
+|**2026-07-02**|**G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models**|Timo Bertram et.al.|[2607.02491](http://arxiv.org/abs/2607.02491)|null|
+|**2026-07-02**|**Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning**|Xuehui Wang et.al.|[2607.02484](http://arxiv.org/abs/2607.02484)|null|
+|**2026-07-02**|**Automated logical Clifford gadgets for heterogeneous architectures via chain maps**|Asmae Benhemou et.al.|[2607.02482](http://arxiv.org/abs/2607.02482)|null|
+|**2026-07-02**|**Cryogenic RF characterization of the MAGO cavity for high-frequency gravitational-wave detection**|Can Dokuyucu et.al.|[2607.02476](http://arxiv.org/abs/2607.02476)|null|
+|**2026-07-02**|**TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution**|Jiale Amber Wang et.al.|[2607.02469](http://arxiv.org/abs/2607.02469)|null|
+|**2026-07-02**|**Bifurcations of the Clifford Torus as Willmore Surfaces in Berger Spheres**|Caio B. Rodrigues et.al.|[2607.02468](http://arxiv.org/abs/2607.02468)|null|
+|**2026-07-02**|**Human Capital, Not Model Benchmarks, Predicts Hybrid Intelligence in Forecasting**|Vivienne Ming et.al.|[2607.02467](http://arxiv.org/abs/2607.02467)|null|
 |**2026-07-01**|**Multidimensional Risk Made Easy**|Mark Whitmeyer et.al.|[2607.01229](http://arxiv.org/abs/2607.01229)|null|
 |**2026-07-01**|**Language-Critique Imitation Learning from Suboptimal Demonstrations**|Chih-Han Yang et.al.|[2607.01225](http://arxiv.org/abs/2607.01225)|null|
 |**2026-07-01**|**AutoMem: Automated Learning of Memory as a Cognitive Skill**|Shengguang Wu et.al.|[2607.01224](http://arxiv.org/abs/2607.01224)|null|
@@ -3982,6 +4022,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation**|Haofei Xu et.al.|[2607.02515](http://arxiv.org/abs/2607.02515)|null|
+|**2026-07-02**|**LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**|Matteo Boglioni et.al.|[2607.02513](http://arxiv.org/abs/2607.02513)|null|
+|**2026-07-02**|**Program-as-Weights: A Programming Paradigm for Fuzzy Functions**|Wentao Zhang et.al.|[2607.02512](http://arxiv.org/abs/2607.02512)|null|
+|**2026-07-02**|**A Probabilistic Sign Rule for Quotients of Positive Series and Integral Transforms**|Zakaria Derbazi et.al.|[2607.02511](http://arxiv.org/abs/2607.02511)|null|
+|**2026-07-02**|**Online Safety Monitoring for LLMs**|Mona Schirmer et.al.|[2607.02510](http://arxiv.org/abs/2607.02510)|null|
+|**2026-07-02**|**What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates**|Arman Ghaffarizadeh et.al.|[2607.02507](http://arxiv.org/abs/2607.02507)|null|
+|**2026-07-02**|**Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas**|Yuxuan Li et.al.|[2607.02504](http://arxiv.org/abs/2607.02504)|null|
+|**2026-07-02**|**Controllable Sim Agents with Behavior Latents**|Juanwu Lu et.al.|[2607.02496](http://arxiv.org/abs/2607.02496)|null|
+|**2026-07-02**|**Towards Robustness against Typographic Attack with Training-free Concept Localization**|Bohan Liu et.al.|[2607.02494](http://arxiv.org/abs/2607.02494)|null|
+|**2026-07-02**|**Stability of global self-similar solutions to the cubic wave equation and the wave maps equation**|Akansha Sanwal et.al.|[2607.02493](http://arxiv.org/abs/2607.02493)|null|
 |**2026-07-01**|**Measuring the Gap Between Human and LLM Research Ideas**|Ziyu Chen et.al.|[2607.01233](http://arxiv.org/abs/2607.01233)|null|
 |**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
 |**2026-07-01**|**Distributed Containment of a Compromised Agent through Repulsive Cages**|Luigi Petruzziello et.al.|[2607.01230](http://arxiv.org/abs/2607.01230)|null|
@@ -4993,6 +5043,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Alignment Is All You Need For X-to-4D Generation**|Qiaowei Miao et.al.|[2607.02516](http://arxiv.org/abs/2607.02516)|null|
+|**2026-07-02**|**Distributed Attacks in Persistent-State AI Control**|Josh Hills et.al.|[2607.02514](http://arxiv.org/abs/2607.02514)|null|
+|**2026-07-02**|**LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**|Matteo Boglioni et.al.|[2607.02513](http://arxiv.org/abs/2607.02513)|null|
+|**2026-07-02**|**Program-as-Weights: A Programming Paradigm for Fuzzy Functions**|Wentao Zhang et.al.|[2607.02512](http://arxiv.org/abs/2607.02512)|null|
+|**2026-07-02**|**A Probabilistic Sign Rule for Quotients of Positive Series and Integral Transforms**|Zakaria Derbazi et.al.|[2607.02511](http://arxiv.org/abs/2607.02511)|null|
+|**2026-07-02**|**Online Safety Monitoring for LLMs**|Mona Schirmer et.al.|[2607.02510](http://arxiv.org/abs/2607.02510)|null|
+|**2026-07-02**|**ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning**|Yanjun Zhao et.al.|[2607.02509](http://arxiv.org/abs/2607.02509)|null|
+|**2026-07-02**|**What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates**|Arman Ghaffarizadeh et.al.|[2607.02507](http://arxiv.org/abs/2607.02507)|null|
+|**2026-07-02**|**A critical look at low-scale cosmological phase transitions in the PTA era**|Simone Biondini et.al.|[2607.02505](http://arxiv.org/abs/2607.02505)|null|
+|**2026-07-02**|**VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation**|Shuai Tian et.al.|[2607.02503](http://arxiv.org/abs/2607.02503)|null|
 |**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
 |**2026-07-01**|**Distributed Containment of a Compromised Agent through Repulsive Cages**|Luigi Petruzziello et.al.|[2607.01230](http://arxiv.org/abs/2607.01230)|null|
 |**2026-07-01**|**Multidimensional Risk Made Easy**|Mark Whitmeyer et.al.|[2607.01229](http://arxiv.org/abs/2607.01229)|null|
