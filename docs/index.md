@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.04
+## Updated on 2026.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -2057,6 +2057,14 @@ layout: default
 |**2026-07-02**|**Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials**|Gil Harari et.al.|[2607.02499](http://arxiv.org/abs/2607.02499)|null|
 |**2026-07-02**|**BRST-BV approach to fields in Poincare patch of AdS**|R. R. Metsaev et.al.|[2607.02495](http://arxiv.org/abs/2607.02495)|null|
 |**2026-07-02**|**Stability of global self-similar solutions to the cubic wave equation and the wave maps equation**|Akansha Sanwal et.al.|[2607.02493](http://arxiv.org/abs/2607.02493)|null|
+|**2026-07-02**|**EAGLE-360: Embodied Active Global-to-Local Exploration in 360 $^\circ$**|Jingtao Xu et.al.|[2607.02479](http://arxiv.org/abs/2607.02479)|null|
+|**2026-07-02**|**Cryogenic RF characterization of the MAGO cavity for high-frequency gravitational-wave detection**|Can Dokuyucu et.al.|[2607.02476](http://arxiv.org/abs/2607.02476)|null|
+|**2026-07-02**|**Anomalous thermopower from the drag of overdamped collective modes**|G. Mirarchi et.al.|[2607.02449](http://arxiv.org/abs/2607.02449)|null|
+|**2026-07-02**|**Transverse-spin dependent energy-energy correlators in proton-proton collisions within the dihadron fragmentation framework**|Zhong-Bo Kang et.al.|[2607.02441](http://arxiv.org/abs/2607.02441)|null|
+|**2026-07-02**|**EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments**|Zhilin Wang et.al.|[2607.02440](http://arxiv.org/abs/2607.02440)|null|
+|**2026-07-02**|**Extreme Adaptive Transformer for Time Series Forecasting**|Sanjeev Shrestha et.al.|[2607.02437](http://arxiv.org/abs/2607.02437)|null|
+|**2026-07-02**|**Neuron-Aware Active Few-Shot Learning for LLMs**|Zhuowei Chen et.al.|[2607.02423](http://arxiv.org/abs/2607.02423)|null|
+|**2026-07-02**|**On the range of competing random walks**|Maxence Baccara et.al.|[2607.02406](http://arxiv.org/abs/2607.02406)|null|
 |**2026-07-01**|**Measuring the Gap Between Human and LLM Research Ideas**|Ziyu Chen et.al.|[2607.01233](http://arxiv.org/abs/2607.01233)|null|
 |**2026-07-01**|**Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**|Zijian Zhang et.al.|[2607.01232](http://arxiv.org/abs/2607.01232)|null|
 |**2026-07-01**|**Brownian ratchets and pumps universally simulate many-body active dynamics**|Charles Stahl et.al.|[2607.01231](http://arxiv.org/abs/2607.01231)|null|
