@@ -167,7 +167,7 @@ layout: default
 |**2026-06-29**|**Existence and convergence of the area-constrained elastic flow**|Florian Hauser et.al.|[2606.30301](http://arxiv.org/abs/2606.30301)|null|
 |**2026-06-29**|**Spatially Coherent and Intermittent Alfvénic Fluctuations in Solar Polar Spicules**|Edris Tajfirouze et.al.|[2606.30299](http://arxiv.org/abs/2606.30299)|null|
 |**2026-06-29**|**Rehearsed Multi-Agent Live Product Demonstrations with Real-Time Voice Question Answering**|Rahul Khedar et.al.|[2606.30294](http://arxiv.org/abs/2606.30294)|null|
-|**2026-06-29**|**CSAR: Containerized System Architecture for Robotics**| Ambrosio-Cestero et.al.|[2606.30293](http://arxiv.org/abs/2606.30293)|null|
+|**2026-06-29**|**CSAR: Containerized System Architecture for Robotics**|Ambrosio-Cestero et.al.|[2606.30293](http://arxiv.org/abs/2606.30293)|null|
 |**2026-06-29**|**List $3$-coloring $C_4$-free graphs of diameter-$2$ in polynomial-time**|Yukihiro Murakami et.al.|[2606.30282](http://arxiv.org/abs/2606.30282)|null|
 |**2026-06-26**|**The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries**|Akshay Balsubramani et.al.|[2606.28324](http://arxiv.org/abs/2606.28324)|null|
 |**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Dihong Huang et.al.|[2606.28323](http://arxiv.org/abs/2606.28323)|null|
