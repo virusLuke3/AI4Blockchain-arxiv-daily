@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection**|Md. Shakhoyat Rahman Shujon et.al.|[2607.04690](http://arxiv.org/abs/2607.04690)|null|
+|**2026-07-06**|**Hamilton paths and cycles in flip graphs of (almost-)perfect matchings**|Sofia Brenner et.al.|[2607.04687](http://arxiv.org/abs/2607.04687)|null|
+|**2026-07-06**|**Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning**|Matthew Foutter et.al.|[2607.04681](http://arxiv.org/abs/2607.04681)|null|
+|**2026-07-06**|**Possibility of the antibottom-strange molecular pentaquarks near $\bar BΣ$ and $\bar B^*Σ$ thresholds**|Jian-Kang Zhao et.al.|[2607.04679](http://arxiv.org/abs/2607.04679)|null|
+|**2026-07-06**|**Adaptive Space-efficient Collectives for Dynamic and Unstructured Sparsity on GPU Platforms**|Lannie Dalton Hough et.al.|[2607.04676](http://arxiv.org/abs/2607.04676)|null|
+|**2026-07-06**|**ICME 2026 Grand Challenge on Cross-Scenario Defect Detection and Fine-Grained Severity Grading for High-Precision Manufacturing**|Wei Sun et.al.|[2607.04675](http://arxiv.org/abs/2607.04675)|null|
+|**2026-07-06**|**GlaKG: A Biomarker-Centric Fundus Knowledge Graph for Explainable Glaucoma Diagnosis and Risk Assessment**|Cheng Huang et.al.|[2607.04673](http://arxiv.org/abs/2607.04673)|null|
+|**2026-07-06**|**A Path-Superposition Framework for Quantum Gate Teleportation**|Santiago Ávila et.al.|[2607.04672](http://arxiv.org/abs/2607.04672)|null|
+|**2026-07-06**|**Critically coupled zeroth-order resonance for ultrathin nonlinear photonics**|Hae-Seok Jeong et.al.|[2607.04671](http://arxiv.org/abs/2607.04671)|null|
+|**2026-07-06**|**A Simultaneous Clustering and Tracking Algorithm for Capturing Cluster-Level Spatial Consistency in 6G Wireless Channels**|Jiaxin Lin et.al.|[2607.04664](http://arxiv.org/abs/2607.04664)|null|
 |**2026-07-02**|**Alignment Is All You Need For X-to-4D Generation**|Qiaowei Miao et.al.|[2607.02516](http://arxiv.org/abs/2607.02516)|null|
 |**2026-07-02**|**Distributed Attacks in Persistent-State AI Control**|Josh Hills et.al.|[2607.02514](http://arxiv.org/abs/2607.02514)|null|
 |**2026-07-02**|**Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas**|Yuxuan Li et.al.|[2607.02504](http://arxiv.org/abs/2607.02504)|null|
