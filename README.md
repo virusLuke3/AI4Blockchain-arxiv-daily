@@ -1,4 +1,4 @@
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et.al.|[2607.06456](http://arxiv.org/abs/2607.06456)|null|
+|**2026-07-07**|**Generalized spectral closedness of $\mathcal{F}$ -free graph classes**|Wei Wang et.al.|[2607.06455](http://arxiv.org/abs/2607.06455)|null|
+|**2026-07-07**|**Categories with conjugation and octagons of Witt groups**|David W. Lewis et.al.|[2607.06454](http://arxiv.org/abs/2607.06454)|null|
+|**2026-07-07**|**From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b**|Taeyun Roh et.al.|[2607.06452](http://arxiv.org/abs/2607.06452)|null|
+|**2026-07-07**|**Sparse space-time spectral methods can time-step by peel and pass**|Timon S. Gutleb et.al.|[2607.06449](http://arxiv.org/abs/2607.06449)|null|
+|**2026-07-07**|**Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders**|Yoav Baron et.al.|[2607.06445](http://arxiv.org/abs/2607.06445)|null|
+|**2026-07-07**|**Nearly tight bounds for induced subdivisions**|Zach Hunter et.al.|[2607.06444](http://arxiv.org/abs/2607.06444)|null|
+|**2026-07-07**|**On a conjecture regarding the product version of the Hilton-Milner theorem**|Xucheng Bu et.al.|[2607.06443](http://arxiv.org/abs/2607.06443)|null|
+|**2026-07-07**|**Starting inflation in asymptotically flat spacetimes**|Sam E. Brady et.al.|[2607.06441](http://arxiv.org/abs/2607.06441)|null|
+|**2026-07-07**|**An entropic bottleneck, dynamical gating, and outward redistribution of roaming in a designed Chesnavich-type model**|Stephen Wiggins et.al.|[2607.06437](http://arxiv.org/abs/2607.06437)|null|
 |**2026-07-06**|**PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection**|Md. Shakhoyat Rahman Shujon et.al.|[2607.04690](http://arxiv.org/abs/2607.04690)|null|
 |**2026-07-06**|**Hamilton paths and cycles in flip graphs of (almost-)perfect matchings**|Sofia Brenner et.al.|[2607.04687](http://arxiv.org/abs/2607.04687)|null|
 |**2026-07-06**|**Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning**|Matthew Foutter et.al.|[2607.04681](http://arxiv.org/abs/2607.04681)|null|
@@ -1108,12 +1118,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Andha-Dhun: A First Look at Audio Descriptions in Hindi**|Ritabrata Chakraborty et.al.|[2607.06457](http://arxiv.org/abs/2607.06457)|null|
+|**2026-07-07**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et.al.|[2607.06456](http://arxiv.org/abs/2607.06456)|null|
+|**2026-07-07**|**Generalized spectral closedness of $\mathcal{F}$ -free graph classes**|Wei Wang et.al.|[2607.06455](http://arxiv.org/abs/2607.06455)|null|
+|**2026-07-07**|**Lower Bounds for PIR with Preprocessing from Blackbox Cryptography**|Alexander Hoover et.al.|[2607.06451](http://arxiv.org/abs/2607.06451)|null|
+|**2026-07-07**|**FO Value Discovery and Partial Vertex Cover Discovery**|Enna Gerhard et.al.|[2607.06446](http://arxiv.org/abs/2607.06446)|null|
+|**2026-07-07**|**Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders**|Yoav Baron et.al.|[2607.06445](http://arxiv.org/abs/2607.06445)|null|
+|**2026-07-07**|**Nearly tight bounds for induced subdivisions**|Zach Hunter et.al.|[2607.06444](http://arxiv.org/abs/2607.06444)|null|
+|**2026-07-07**|**SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models**|Changti Wu et.al.|[2607.06442](http://arxiv.org/abs/2607.06442)|null|
+|**2026-07-07**|**PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation**|Yuhang Wu et.al.|[2607.06440](http://arxiv.org/abs/2607.06440)|null|
+|**2026-07-07**|**WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation**|Wongyun Yu et.al.|[2607.06438](http://arxiv.org/abs/2607.06438)|null|
 |**2026-07-02**|**WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory**|Hanlin Wang et.al.|[2607.02517](http://arxiv.org/abs/2607.02517)|null|
 |**2026-07-02**|**Alignment Is All You Need For X-to-4D Generation**|Qiaowei Miao et.al.|[2607.02516](http://arxiv.org/abs/2607.02516)|null|
 |**2026-07-02**|**PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation**|Haofei Xu et.al.|[2607.02515](http://arxiv.org/abs/2607.02515)|null|
@@ -2075,12 +2095,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Andha-Dhun: A First Look at Audio Descriptions in Hindi**|Ritabrata Chakraborty et.al.|[2607.06457](http://arxiv.org/abs/2607.06457)|null|
+|**2026-07-07**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et.al.|[2607.06456](http://arxiv.org/abs/2607.06456)|null|
+|**2026-07-07**|**On low-rank tensor train approximability for linear nearest neighbor systems**|Patrick Gelß et.al.|[2607.06453](http://arxiv.org/abs/2607.06453)|null|
+|**2026-07-07**|**From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b**|Taeyun Roh et.al.|[2607.06452](http://arxiv.org/abs/2607.06452)|null|
+|**2026-07-07**|**Lower Bounds for PIR with Preprocessing from Blackbox Cryptography**|Alexander Hoover et.al.|[2607.06451](http://arxiv.org/abs/2607.06451)|null|
+|**2026-07-07**|**Size, shape, density, and atmospheric limit of (50000) Quaoar revealed from 14 years of stellar occultation**|Giuliano Margoti et.al.|[2607.06450](http://arxiv.org/abs/2607.06450)|null|
+|**2026-07-07**|**Sparse space-time spectral methods can time-step by peel and pass**|Timon S. Gutleb et.al.|[2607.06449](http://arxiv.org/abs/2607.06449)|null|
+|**2026-07-07**|**Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory**|Jihao Liu et.al.|[2607.06447](http://arxiv.org/abs/2607.06447)|null|
+|**2026-07-07**|**FO Value Discovery and Partial Vertex Cover Discovery**|Enna Gerhard et.al.|[2607.06446](http://arxiv.org/abs/2607.06446)|null|
+|**2026-07-07**|**Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders**|Yoav Baron et.al.|[2607.06445](http://arxiv.org/abs/2607.06445)|null|
 |**2026-07-02**|**PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation**|Haofei Xu et.al.|[2607.02515](http://arxiv.org/abs/2607.02515)|null|
 |**2026-07-02**|**ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning**|Yanjun Zhao et.al.|[2607.02509](http://arxiv.org/abs/2607.02509)|null|
 |**2026-07-02**|**From SRA to Self-Flow: Data Augmentation or Self-Supervision?**|Dengyang Jiang et.al.|[2607.02508](http://arxiv.org/abs/2607.02508)|null|
@@ -3055,12 +3085,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Dimensional Crossover of Thermal Transport in Nanoconfined Liquids Driven by the Interplay of Quasi-One-Dimensional Structure and Wall Dissipation**|Kenta Hisamoto et.al.|[2607.06448](http://arxiv.org/abs/2607.06448)|null|
+|**2026-07-07**|**SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models**|Changti Wu et.al.|[2607.06442](http://arxiv.org/abs/2607.06442)|null|
+|**2026-07-07**|**Instabilities of Fermi Liquids with Arbitrary Forward Scattering: Exact Approach**|Dmitry Miserev et.al.|[2607.06430](http://arxiv.org/abs/2607.06430)|null|
+|**2026-07-07**|**XRFormer: Multiscale Tokenization for XRF Representation Learning**|Sofiane Daimellah et.al.|[2607.06424](http://arxiv.org/abs/2607.06424)|null|
+|**2026-07-07**|**RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications**|Evgeny Shilov et.al.|[2607.06411](http://arxiv.org/abs/2607.06411)|null|
+|**2026-07-07**|**Faster Exponential-Time Approximate Counting via Bounded Self-Reductions**|Katie Clinch et.al.|[2607.06393](http://arxiv.org/abs/2607.06393)|null|
+|**2026-07-07**|**Sectorial customized corneal crosslinking for keratoconus: an inverse biomechanical design study with an anisotropic reduced shell finite-element surrogate**|J. Sumaya-Martinez et.al.|[2607.06385](http://arxiv.org/abs/2607.06385)|null|
+|**2026-07-07**|**When a common price signal is present, network topology leaves no fingerprint on a storage fleet's collective dynamics**|Stelios Savva et.al.|[2607.06381](http://arxiv.org/abs/2607.06381)|null|
+|**2026-07-07**|**Automation Without Understanding**|Jun-Yong Park et.al.|[2607.06377](http://arxiv.org/abs/2607.06377)|null|
+|**2026-07-07**|**VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery**|Jiazi Wang et.al.|[2607.06374](http://arxiv.org/abs/2607.06374)|null|
 |**2026-07-02**|**A Probabilistic Sign Rule for Quotients of Positive Series and Integral Transforms**|Zakaria Derbazi et.al.|[2607.02511](http://arxiv.org/abs/2607.02511)|null|
 |**2026-07-02**|**ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning**|Yanjun Zhao et.al.|[2607.02509](http://arxiv.org/abs/2607.02509)|null|
 |**2026-07-02**|**Towards Robustness against Typographic Attack with Training-free Concept Localization**|Bohan Liu et.al.|[2607.02494](http://arxiv.org/abs/2607.02494)|null|
@@ -4062,12 +4102,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et.al.|[2607.06456](http://arxiv.org/abs/2607.06456)|null|
+|**2026-07-07**|**Generalized spectral closedness of $\mathcal{F}$ -free graph classes**|Wei Wang et.al.|[2607.06455](http://arxiv.org/abs/2607.06455)|null|
+|**2026-07-07**|**From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b**|Taeyun Roh et.al.|[2607.06452](http://arxiv.org/abs/2607.06452)|null|
+|**2026-07-07**|**Lower Bounds for PIR with Preprocessing from Blackbox Cryptography**|Alexander Hoover et.al.|[2607.06451](http://arxiv.org/abs/2607.06451)|null|
+|**2026-07-07**|**Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory**|Jihao Liu et.al.|[2607.06447](http://arxiv.org/abs/2607.06447)|null|
+|**2026-07-07**|**FO Value Discovery and Partial Vertex Cover Discovery**|Enna Gerhard et.al.|[2607.06446](http://arxiv.org/abs/2607.06446)|null|
+|**2026-07-07**|**Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders**|Yoav Baron et.al.|[2607.06445](http://arxiv.org/abs/2607.06445)|null|
+|**2026-07-07**|**On a conjecture regarding the product version of the Hilton-Milner theorem**|Xucheng Bu et.al.|[2607.06443](http://arxiv.org/abs/2607.06443)|null|
+|**2026-07-07**|**On a measure-theoretic reading of $β$ -Grüss type inequalities**|K. Castillo et.al.|[2607.06439](http://arxiv.org/abs/2607.06439)|null|
+|**2026-07-07**|**An entropic bottleneck, dynamical gating, and outward redistribution of roaming in a designed Chesnavich-type model**|Stephen Wiggins et.al.|[2607.06437](http://arxiv.org/abs/2607.06437)|null|
 |**2026-07-02**|**PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation**|Haofei Xu et.al.|[2607.02515](http://arxiv.org/abs/2607.02515)|null|
 |**2026-07-02**|**LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**|Matteo Boglioni et.al.|[2607.02513](http://arxiv.org/abs/2607.02513)|null|
 |**2026-07-02**|**Program-as-Weights: A Programming Paradigm for Fuzzy Functions**|Wentao Zhang et.al.|[2607.02512](http://arxiv.org/abs/2607.02512)|null|
@@ -5085,12 +5135,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Andha-Dhun: A First Look at Audio Descriptions in Hindi**|Ritabrata Chakraborty et.al.|[2607.06457](http://arxiv.org/abs/2607.06457)|null|
+|**2026-07-07**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et.al.|[2607.06456](http://arxiv.org/abs/2607.06456)|null|
+|**2026-07-07**|**On low-rank tensor train approximability for linear nearest neighbor systems**|Patrick Gelß et.al.|[2607.06453](http://arxiv.org/abs/2607.06453)|null|
+|**2026-07-07**|**From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b**|Taeyun Roh et.al.|[2607.06452](http://arxiv.org/abs/2607.06452)|null|
+|**2026-07-07**|**Lower Bounds for PIR with Preprocessing from Blackbox Cryptography**|Alexander Hoover et.al.|[2607.06451](http://arxiv.org/abs/2607.06451)|null|
+|**2026-07-07**|**Size, shape, density, and atmospheric limit of (50000) Quaoar revealed from 14 years of stellar occultation**|Giuliano Margoti et.al.|[2607.06450](http://arxiv.org/abs/2607.06450)|null|
+|**2026-07-07**|**Sparse space-time spectral methods can time-step by peel and pass**|Timon S. Gutleb et.al.|[2607.06449](http://arxiv.org/abs/2607.06449)|null|
+|**2026-07-07**|**Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory**|Jihao Liu et.al.|[2607.06447](http://arxiv.org/abs/2607.06447)|null|
+|**2026-07-07**|**FO Value Discovery and Partial Vertex Cover Discovery**|Enna Gerhard et.al.|[2607.06446](http://arxiv.org/abs/2607.06446)|null|
+|**2026-07-07**|**Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders**|Yoav Baron et.al.|[2607.06445](http://arxiv.org/abs/2607.06445)|null|
 |**2026-07-02**|**Alignment Is All You Need For X-to-4D Generation**|Qiaowei Miao et.al.|[2607.02516](http://arxiv.org/abs/2607.02516)|null|
 |**2026-07-02**|**Distributed Attacks in Persistent-State AI Control**|Josh Hills et.al.|[2607.02514](http://arxiv.org/abs/2607.02514)|null|
 |**2026-07-02**|**LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**|Matteo Boglioni et.al.|[2607.02513](http://arxiv.org/abs/2607.02513)|null|
@@ -6127,7 +6187,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
