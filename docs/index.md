@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.10
+## Updated on 2026.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
+|**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|null|
+|**2026-07-09**|**Measuring Consumption with Credit Card Data: Benchmarking and Beyond**|Aditya Aladangady et.al.|[2607.08759](http://arxiv.org/abs/2607.08759)|null|
+|**2026-07-09**|**Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling**|Yiwei Zhou et.al.|[2607.08757](http://arxiv.org/abs/2607.08757)|null|
+|**2026-07-09**|**DegenDetector: Symbolic Recovery of Parameter Degeneracies in Bayesian Posteriors**|Chaipat Tirapongprasert et.al.|[2607.08755](http://arxiv.org/abs/2607.08755)|null|
+|**2026-07-09**|**Debris Disc Substructures Induced by Secular Planetary Perturbations**|Roman R. Rafikov et.al.|[2607.08750](http://arxiv.org/abs/2607.08750)|null|
+|**2026-07-09**|**Decoupling Limit of Quiver Theories and the Angular Spectra of Extreme C-metrics**|Peng Yang et.al.|[2607.08747](http://arxiv.org/abs/2607.08747)|null|
+|**2026-07-09**|**Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph**|Duen Horng Chau et.al.|[2607.08746](http://arxiv.org/abs/2607.08746)|null|
+|**2026-07-09**|**Algorithmic Expert Aggregation**|Wei Tang et.al.|[2607.08744](http://arxiv.org/abs/2607.08744)|null|
+|**2026-07-09**|**Internal pseudospin, lepton-number superselection, and neutrino--antineutrino coherence in massive neutral-fermion one-particle states**|Ricardo Romero et.al.|[2607.08739](http://arxiv.org/abs/2607.08739)|null|
 |**2026-07-08**|**The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies**|Amruth Alfred et.al.|[2607.07709](http://arxiv.org/abs/2607.07709)|null|
 |**2026-07-08**|**Exploiting Spanning Trees for Directed Acyclicity**|Sergei Khargeliia et.al.|[2607.07705](http://arxiv.org/abs/2607.07705)|null|
 |**2026-07-08**|**Non-Hermitian Edge State Endocytosis**|Si-Yu Yuan et.al.|[2607.07703](http://arxiv.org/abs/2607.07703)|null|
@@ -1112,6 +1122,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
+|**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|null|
+|**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770](http://arxiv.org/abs/2607.08770)|null|
+|**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
+|**2026-07-09**|**OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators**|Hongyu Liu et.al.|[2607.08766](http://arxiv.org/abs/2607.08766)|null|
+|**2026-07-09**|**Enhancing In-context Panoramic Generation via Geometric-aware Pretraining**|Haoran Feng et.al.|[2607.08765](http://arxiv.org/abs/2607.08765)|null|
+|**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|null|
+|**2026-07-09**|**Irreducible Geometry of Higher-Order Correlator Families**|Kaito Kobayashi et.al.|[2607.08761](http://arxiv.org/abs/2607.08761)|null|
+|**2026-07-09**|**Finding Simple Proofs for First-Order Optimization**|Daniel Berg Thomsen et.al.|[2607.08753](http://arxiv.org/abs/2607.08753)|null|
+|**2026-07-09**|**Phase-dependent kink collisions and dual critical-velocity branches in the complex sine-Gordon model**|Mohammad Mohammadi et.al.|[2607.08752](http://arxiv.org/abs/2607.08752)|null|
 |**2026-07-08**|**From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization**|Ying Chang et.al.|[2607.07702](http://arxiv.org/abs/2607.07702)|null|
 |**2026-07-08**|**Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials**|Victor K. de la Pena et.al.|[2607.07699](http://arxiv.org/abs/2607.07699)|null|
 |**2026-07-08**|**Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF**|Eric Zhu et.al.|[2607.07693](http://arxiv.org/abs/2607.07693)|null|
@@ -2097,6 +2117,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
+|**2026-07-09**|**UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks**|Zhekai Chen et.al.|[2607.08768](http://arxiv.org/abs/2607.08768)|null|
+|**2026-07-09**|**Plaquette: A hardware-aware design platform for fault-tolerant quantum computers**|Raul Conchello Vendrell et.al.|[2607.08767](http://arxiv.org/abs/2607.08767)|null|
+|**2026-07-09**|**OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators**|Hongyu Liu et.al.|[2607.08766](http://arxiv.org/abs/2607.08766)|null|
+|**2026-07-09**|**Enhancing In-context Panoramic Generation via Geometric-aware Pretraining**|Haoran Feng et.al.|[2607.08765](http://arxiv.org/abs/2607.08765)|null|
+|**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|null|
+|**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
+|**2026-07-09**|**Irreducible Geometry of Higher-Order Correlator Families**|Kaito Kobayashi et.al.|[2607.08761](http://arxiv.org/abs/2607.08761)|null|
+|**2026-07-09**|**Hockey stick $f$ -divergences**|Fumio Hiai et.al.|[2607.08760](http://arxiv.org/abs/2607.08760)|null|
+|**2026-07-09**|**Measuring Consumption with Credit Card Data: Benchmarking and Beyond**|Aditya Aladangady et.al.|[2607.08759](http://arxiv.org/abs/2607.08759)|null|
 |**2026-07-08**|**The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies**|Amruth Alfred et.al.|[2607.07709](http://arxiv.org/abs/2607.07709)|null|
 |**2026-07-08**|**Co-LMLM: Continuous-Query Limited Memory Language Models**|Yair Feldman et.al.|[2607.07707](http://arxiv.org/abs/2607.07707)|null|
 |**2026-07-08**|**The Key to Going Linear: Analysis-Driven Transformer Linearization**|Anna Kuzina et.al.|[2607.07706](http://arxiv.org/abs/2607.07706)|null|
@@ -3095,6 +3125,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
+|**2026-07-09**|**Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling**|Yiwei Zhou et.al.|[2607.08757](http://arxiv.org/abs/2607.08757)|null|
+|**2026-07-09**|**DegenDetector: Symbolic Recovery of Parameter Degeneracies in Bayesian Posteriors**|Chaipat Tirapongprasert et.al.|[2607.08755](http://arxiv.org/abs/2607.08755)|null|
+|**2026-07-09**|**Finding Simple Proofs for First-Order Optimization**|Daniel Berg Thomsen et.al.|[2607.08753](http://arxiv.org/abs/2607.08753)|null|
+|**2026-07-09**|**Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe**|Rebecca L. Larson et.al.|[2607.08749](http://arxiv.org/abs/2607.08749)|null|
+|**2026-07-09**|**Decoupling Limit of Quiver Theories and the Angular Spectra of Extreme C-metrics**|Peng Yang et.al.|[2607.08747](http://arxiv.org/abs/2607.08747)|null|
+|**2026-07-09**|**The mini-Page Curve in Cosmology**|Ricardo Espíndola et.al.|[2607.08737](http://arxiv.org/abs/2607.08737)|null|
+|**2026-07-09**|**Super Weights in LLMs and the Failure of Selective Training**|Shreyas Subramanian et.al.|[2607.08733](http://arxiv.org/abs/2607.08733)|null|
+|**2026-07-09**|**WaspMOT: A Benchmark for Long-Term Multi-Object Tracking of Trichogramma Wasps**|Tomasz Stanczyk et.al.|[2607.08729](http://arxiv.org/abs/2607.08729)|null|
+|**2026-07-09**|**Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference**|Chuning Zhu et.al.|[2607.08724](http://arxiv.org/abs/2607.08724)|null|
 |**2026-07-08**|**Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning**|Chen Tang et.al.|[2607.07708](http://arxiv.org/abs/2607.07708)|null|
 |**2026-07-08**|**Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials**|Victor K. de la Pena et.al.|[2607.07699](http://arxiv.org/abs/2607.07699)|null|
 |**2026-07-08**|**Induced Erdős--Pósa property for long holes, long thetas, and beyond**|Jadwiga Czyżewska et.al.|[2607.07697](http://arxiv.org/abs/2607.07697)|null|
@@ -4120,6 +4160,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|null|
+|**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770](http://arxiv.org/abs/2607.08770)|null|
+|**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
+|**2026-07-09**|**UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks**|Zhekai Chen et.al.|[2607.08768](http://arxiv.org/abs/2607.08768)|null|
+|**2026-07-09**|**Plaquette: A hardware-aware design platform for fault-tolerant quantum computers**|Raul Conchello Vendrell et.al.|[2607.08767](http://arxiv.org/abs/2607.08767)|null|
+|**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
+|**2026-07-09**|**Measuring Consumption with Credit Card Data: Benchmarking and Beyond**|Aditya Aladangady et.al.|[2607.08759](http://arxiv.org/abs/2607.08759)|null|
+|**2026-07-09**|**Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling**|Yiwei Zhou et.al.|[2607.08757](http://arxiv.org/abs/2607.08757)|null|
+|**2026-07-09**|**DegenDetector: Symbolic Recovery of Parameter Degeneracies in Bayesian Posteriors**|Chaipat Tirapongprasert et.al.|[2607.08755](http://arxiv.org/abs/2607.08755)|null|
+|**2026-07-09**|**Finding Simple Proofs for First-Order Optimization**|Daniel Berg Thomsen et.al.|[2607.08753](http://arxiv.org/abs/2607.08753)|null|
 |**2026-07-08**|**Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning**|Chen Tang et.al.|[2607.07708](http://arxiv.org/abs/2607.07708)|null|
 |**2026-07-08**|**Co-LMLM: Continuous-Query Limited Memory Language Models**|Yair Feldman et.al.|[2607.07707](http://arxiv.org/abs/2607.07707)|null|
 |**2026-07-08**|**Exploiting Spanning Trees for Directed Acyclicity**|Sergei Khargeliia et.al.|[2607.07705](http://arxiv.org/abs/2607.07705)|null|
@@ -5161,6 +5211,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
+|**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|null|
+|**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770](http://arxiv.org/abs/2607.08770)|null|
+|**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
+|**2026-07-09**|**OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators**|Hongyu Liu et.al.|[2607.08766](http://arxiv.org/abs/2607.08766)|null|
+|**2026-07-09**|**Enhancing In-context Panoramic Generation via Geometric-aware Pretraining**|Haoran Feng et.al.|[2607.08765](http://arxiv.org/abs/2607.08765)|null|
+|**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|null|
+|**2026-07-09**|**Irreducible Geometry of Higher-Order Correlator Families**|Kaito Kobayashi et.al.|[2607.08761](http://arxiv.org/abs/2607.08761)|null|
+|**2026-07-09**|**Hockey stick $f$ -divergences**|Fumio Hiai et.al.|[2607.08760](http://arxiv.org/abs/2607.08760)|null|
+|**2026-07-09**|**Measuring Consumption with Credit Card Data: Benchmarking and Beyond**|Aditya Aladangady et.al.|[2607.08759](http://arxiv.org/abs/2607.08759)|null|
 |**2026-07-08**|**The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies**|Amruth Alfred et.al.|[2607.07709](http://arxiv.org/abs/2607.07709)|null|
 |**2026-07-08**|**Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning**|Chen Tang et.al.|[2607.07708](http://arxiv.org/abs/2607.07708)|null|
 |**2026-07-08**|**Co-LMLM: Continuous-Query Limited Memory Language Models**|Yair Feldman et.al.|[2607.07707](http://arxiv.org/abs/2607.07707)|null|
