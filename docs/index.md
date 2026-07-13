@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.12
+## Updated on 2026.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Nonlinear particle detectors across the Rindler firewall**|Matheus H. Zambianco et.al.|[2607.09660](http://arxiv.org/abs/2607.09660)|null|
+|**2026-07-10**|**Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks**|Song Son Ha et.al.|[2607.09659](http://arxiv.org/abs/2607.09659)|null|
+|**2026-07-10**|**Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits**|David W. Kanaar et.al.|[2607.09652](http://arxiv.org/abs/2607.09652)|null|
+|**2026-07-10**|**ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI**|Mohadeseh Mollapour et.al.|[2607.09649](http://arxiv.org/abs/2607.09649)|null|
+|**2026-07-10**|**Forbidding anticomplete planar minors: Induced Erdős--Pósa property and Maximum Independent Set in QP**|Maria Chudnovsky et.al.|[2607.09646](http://arxiv.org/abs/2607.09646)|null|
+|**2026-07-10**|**Boundary behaviour of eigenfunctions and superharmonic functions on harmonic manifolds of purely exponential volume growth**|Utsav Dewan et.al.|[2607.09636](http://arxiv.org/abs/2607.09636)|null|
+|**2026-07-10**|**Beyond the Cube: Overlapping Grid Methods for Debris Collision Risk Assessment**|Yacob Medhin et.al.|[2607.09634](http://arxiv.org/abs/2607.09634)|null|
+|**2026-07-10**|**Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory**|Chengkai Zhu et.al.|[2607.09632](http://arxiv.org/abs/2607.09632)|null|
+|**2026-07-10**|**The Effects of Synthetic Data and Label Distribution on Canola Branch Counting**|Amirsalar Darvishpour et.al.|[2607.09630](http://arxiv.org/abs/2607.09630)|null|
+|**2026-07-10**|**New Complexity Classes in Locally Checkable Labeling for Local Computation Algorithms**|Sijin Peng et.al.|[2607.09626](http://arxiv.org/abs/2607.09626)|null|
 |**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
 |**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|null|
 |**2026-07-09**|**Measuring Consumption with Credit Card Data: Benchmarking and Beyond**|Aditya Aladangady et.al.|[2607.08759](http://arxiv.org/abs/2607.08759)|null|
@@ -1122,6 +1132,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**PanoWorld: Real-World Panoramic Generation**|Haoyuan Li et.al.|[2607.09661](http://arxiv.org/abs/2607.09661)|null|
+|**2026-07-10**|**Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks**|Song Son Ha et.al.|[2607.09659](http://arxiv.org/abs/2607.09659)|null|
+|**2026-07-10**|**Scalable Visual Pretraining for Language Intelligence**|Yiming Zhang et.al.|[2607.09657](http://arxiv.org/abs/2607.09657)|null|
+|**2026-07-10**|**HD 148797: A bright F-type star with two moderate-period low-density sub-Jovian planets. Compact multi-planet architectures are common in the Neptunian savanna**|J. M. Almenara et.al.|[2607.09656](http://arxiv.org/abs/2607.09656)|null|
+|**2026-07-10**|**OpenLongTail: Generative Scaling of Long-Tail Driving Data**|Lulin Liu et.al.|[2607.09655](http://arxiv.org/abs/2607.09655)|null|
+|**2026-07-10**|**Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models**|Shravan Murlidaran et.al.|[2607.09654](http://arxiv.org/abs/2607.09654)|null|
+|**2026-07-10**|**VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents**|Katherine Swinea et.al.|[2607.09653](http://arxiv.org/abs/2607.09653)|null|
+|**2026-07-10**|**Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits**|David W. Kanaar et.al.|[2607.09652](http://arxiv.org/abs/2607.09652)|null|
+|**2026-07-10**|**Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks**|Yangting Sun et.al.|[2607.09650](http://arxiv.org/abs/2607.09650)|null|
+|**2026-07-10**|**ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI**|Mohadeseh Mollapour et.al.|[2607.09649](http://arxiv.org/abs/2607.09649)|null|
 |**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
 |**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|null|
 |**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770](http://arxiv.org/abs/2607.08770)|null|
@@ -2117,6 +2137,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Phase-switchable nonreciprocal entanglement via magnon squeezing in ring-cavity optomagnomechanics**|Z. Imara et.al.|[2607.09663](http://arxiv.org/abs/2607.09663)|null|
+|**2026-07-10**|**PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis**|Ren Takahashi et.al.|[2607.09662](http://arxiv.org/abs/2607.09662)|null|
+|**2026-07-10**|**PanoWorld: Real-World Panoramic Generation**|Haoyuan Li et.al.|[2607.09661](http://arxiv.org/abs/2607.09661)|null|
+|**2026-07-10**|**Nonlinear particle detectors across the Rindler firewall**|Matheus H. Zambianco et.al.|[2607.09660](http://arxiv.org/abs/2607.09660)|null|
+|**2026-07-10**|**Identifying and characterizing extragalactic circum-CBC exoplanets with future gravitational-wave detectors**|Avinash Tiwari et.al.|[2607.09658](http://arxiv.org/abs/2607.09658)|null|
+|**2026-07-10**|**OpenLongTail: Generative Scaling of Long-Tail Driving Data**|Lulin Liu et.al.|[2607.09655](http://arxiv.org/abs/2607.09655)|null|
+|**2026-07-10**|**Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits**|David W. Kanaar et.al.|[2607.09652](http://arxiv.org/abs/2607.09652)|null|
+|**2026-07-10**|**Local Determinacy of Quantum Master Equations and a Mechanical Interpretation of the Multi-Mode Jaynes-Cummings and Central Spin Models**|Jaeha Lee et.al.|[2607.09651](http://arxiv.org/abs/2607.09651)|null|
+|**2026-07-10**|**Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks**|Yangting Sun et.al.|[2607.09650](http://arxiv.org/abs/2607.09650)|null|
+|**2026-07-10**|**B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations**|Xiaoshen Han et.al.|[2607.09648](http://arxiv.org/abs/2607.09648)|null|
 |**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
 |**2026-07-09**|**UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks**|Zhekai Chen et.al.|[2607.08768](http://arxiv.org/abs/2607.08768)|null|
 |**2026-07-09**|**Plaquette: A hardware-aware design platform for fault-tolerant quantum computers**|Raul Conchello Vendrell et.al.|[2607.08767](http://arxiv.org/abs/2607.08767)|null|
@@ -3125,6 +3155,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**HD 148797: A bright F-type star with two moderate-period low-density sub-Jovian planets. Compact multi-planet architectures are common in the Neptunian savanna**|J. M. Almenara et.al.|[2607.09656](http://arxiv.org/abs/2607.09656)|null|
+|**2026-07-10**|**VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents**|Katherine Swinea et.al.|[2607.09653](http://arxiv.org/abs/2607.09653)|null|
+|**2026-07-10**|**Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits**|David W. Kanaar et.al.|[2607.09652](http://arxiv.org/abs/2607.09652)|null|
+|**2026-07-10**|**B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations**|Xiaoshen Han et.al.|[2607.09648](http://arxiv.org/abs/2607.09648)|null|
+|**2026-07-10**|**Forbidding anticomplete planar minors: Induced Erdős--Pósa property and Maximum Independent Set in QP**|Maria Chudnovsky et.al.|[2607.09646](http://arxiv.org/abs/2607.09646)|null|
+|**2026-07-10**|**Deep Gaussian Processes on Directed Acyclic Graphs**|Federico L. Perlino et.al.|[2607.09645](http://arxiv.org/abs/2607.09645)|null|
+|**2026-07-10**|**Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory**|Chengkai Zhu et.al.|[2607.09632](http://arxiv.org/abs/2607.09632)|null|
+|**2026-07-10**|**Cut-homotopies and the complexity of edge-coloring problems**|Alexey Barsukov et.al.|[2607.09631](http://arxiv.org/abs/2607.09631)|null|
+|**2026-07-10**|**The Effects of Synthetic Data and Label Distribution on Canola Branch Counting**|Amirsalar Darvishpour et.al.|[2607.09630](http://arxiv.org/abs/2607.09630)|null|
+|**2026-07-10**|**4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception**|Xiaokai Bai et.al.|[2607.09629](http://arxiv.org/abs/2607.09629)|null|
 |**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
 |**2026-07-09**|**Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling**|Yiwei Zhou et.al.|[2607.08757](http://arxiv.org/abs/2607.08757)|null|
 |**2026-07-09**|**DegenDetector: Symbolic Recovery of Parameter Degeneracies in Bayesian Posteriors**|Chaipat Tirapongprasert et.al.|[2607.08755](http://arxiv.org/abs/2607.08755)|null|
@@ -4160,6 +4200,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Phase-switchable nonreciprocal entanglement via magnon squeezing in ring-cavity optomagnomechanics**|Z. Imara et.al.|[2607.09663](http://arxiv.org/abs/2607.09663)|null|
+|**2026-07-10**|**PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis**|Ren Takahashi et.al.|[2607.09662](http://arxiv.org/abs/2607.09662)|null|
+|**2026-07-10**|**Nonlinear particle detectors across the Rindler firewall**|Matheus H. Zambianco et.al.|[2607.09660](http://arxiv.org/abs/2607.09660)|null|
+|**2026-07-10**|**Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks**|Song Son Ha et.al.|[2607.09659](http://arxiv.org/abs/2607.09659)|null|
+|**2026-07-10**|**Identifying and characterizing extragalactic circum-CBC exoplanets with future gravitational-wave detectors**|Avinash Tiwari et.al.|[2607.09658](http://arxiv.org/abs/2607.09658)|null|
+|**2026-07-10**|**Scalable Visual Pretraining for Language Intelligence**|Yiming Zhang et.al.|[2607.09657](http://arxiv.org/abs/2607.09657)|null|
+|**2026-07-10**|**Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits**|David W. Kanaar et.al.|[2607.09652](http://arxiv.org/abs/2607.09652)|null|
+|**2026-07-10**|**Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks**|Yangting Sun et.al.|[2607.09650](http://arxiv.org/abs/2607.09650)|null|
+|**2026-07-10**|**B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations**|Xiaoshen Han et.al.|[2607.09648](http://arxiv.org/abs/2607.09648)|null|
+|**2026-07-10**|**Forbidding anticomplete planar minors: Induced Erdős--Pósa property and Maximum Independent Set in QP**|Maria Chudnovsky et.al.|[2607.09646](http://arxiv.org/abs/2607.09646)|null|
 |**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|null|
 |**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770](http://arxiv.org/abs/2607.08770)|null|
 |**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
@@ -5211,6 +5261,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis**|Ren Takahashi et.al.|[2607.09662](http://arxiv.org/abs/2607.09662)|null|
+|**2026-07-10**|**PanoWorld: Real-World Panoramic Generation**|Haoyuan Li et.al.|[2607.09661](http://arxiv.org/abs/2607.09661)|null|
+|**2026-07-10**|**Nonlinear particle detectors across the Rindler firewall**|Matheus H. Zambianco et.al.|[2607.09660](http://arxiv.org/abs/2607.09660)|null|
+|**2026-07-10**|**Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks**|Song Son Ha et.al.|[2607.09659](http://arxiv.org/abs/2607.09659)|null|
+|**2026-07-10**|**Identifying and characterizing extragalactic circum-CBC exoplanets with future gravitational-wave detectors**|Avinash Tiwari et.al.|[2607.09658](http://arxiv.org/abs/2607.09658)|null|
+|**2026-07-10**|**Scalable Visual Pretraining for Language Intelligence**|Yiming Zhang et.al.|[2607.09657](http://arxiv.org/abs/2607.09657)|null|
+|**2026-07-10**|**HD 148797: A bright F-type star with two moderate-period low-density sub-Jovian planets. Compact multi-planet architectures are common in the Neptunian savanna**|J. M. Almenara et.al.|[2607.09656](http://arxiv.org/abs/2607.09656)|null|
+|**2026-07-10**|**OpenLongTail: Generative Scaling of Long-Tail Driving Data**|Lulin Liu et.al.|[2607.09655](http://arxiv.org/abs/2607.09655)|null|
+|**2026-07-10**|**Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models**|Shravan Murlidaran et.al.|[2607.09654](http://arxiv.org/abs/2607.09654)|null|
+|**2026-07-10**|**VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents**|Katherine Swinea et.al.|[2607.09653](http://arxiv.org/abs/2607.09653)|null|
 |**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
 |**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|null|
 |**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770](http://arxiv.org/abs/2607.08770)|null|
