@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**Dilation-balanced product Pitt inequalities for mixed-tail potentials**|Niyaz Tokmagambetov et.al.|[2607.10940](http://arxiv.org/abs/2607.10940)|null|
+|**2026-07-12**|**Hereditary 2-WQO Graph Classes Have Bounded Clique-Width**|Julien Duron et.al.|[2607.10939](http://arxiv.org/abs/2607.10939)|null|
+|**2026-07-12**|**ARMOR-IMC: Adaptive Resource Mapping for Operational Robustness via Secure In-Memory Computing**|Muhtasim Alam Chowdhury et.al.|[2607.10938](http://arxiv.org/abs/2607.10938)|null|
+|**2026-07-12**|**The Singularity Space: A Generative Diffusion Framework for Signal Representation**|Eli Bar-Yosef et.al.|[2607.10930](http://arxiv.org/abs/2607.10930)|null|
+|**2026-07-12**|**Infrared Organization and Critical Cognitive Field Formation in Transformer Dynamics**|Byung Gyu Chae et.al.|[2607.10923](http://arxiv.org/abs/2607.10923)|null|
+|**2026-07-12**|**Krylov Complexity from Loschmidt Amplitude**|Debarghya Chakraborty et.al.|[2607.10921](http://arxiv.org/abs/2607.10921)|null|
+|**2026-07-12**|**Multiple Band-Gaps through the Coupling of Unit Cells from the Same Metamaterial: the Dual Cell method**|Plastiras Demetriou et.al.|[2607.10916](http://arxiv.org/abs/2607.10916)|null|
+|**2026-07-12**|**Normative Alignment of Recommender Systems via Internal Label Shift**|Johannes Kruse et.al.|[2607.10915](http://arxiv.org/abs/2607.10915)|null|
+|**2026-07-12**|**ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation**|Johannes Kruse et.al.|[2607.10910](http://arxiv.org/abs/2607.10910)|null|
+|**2026-07-12**|**Stream-aware Side Adaptation for Large Pre-trained Multimodal Embedding Models in Sequential Recommendation**|Junchen Fu et.al.|[2607.10909](http://arxiv.org/abs/2607.10909)|null|
 |**2026-07-10**|**Nonlinear particle detectors across the Rindler firewall**|Matheus H. Zambianco et.al.|[2607.09660](http://arxiv.org/abs/2607.09660)|null|
 |**2026-07-10**|**Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks**|Song Son Ha et.al.|[2607.09659](http://arxiv.org/abs/2607.09659)|null|
 |**2026-07-10**|**Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits**|David W. Kanaar et.al.|[2607.09652](http://arxiv.org/abs/2607.09652)|null|
@@ -1132,6 +1142,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**ARMOR-IMC: Adaptive Resource Mapping for Operational Robustness via Secure In-Memory Computing**|Muhtasim Alam Chowdhury et.al.|[2607.10938](http://arxiv.org/abs/2607.10938)|null|
+|**2026-07-12**|**Bandit PCA with Minimax Optimal Regret**|Moïse Blanchard et.al.|[2607.10936](http://arxiv.org/abs/2607.10936)|null|
+|**2026-07-12**|**Infinite Belligerent Jump Inversion and Computable Scott Analysis**|Uri Andrews et.al.|[2607.10935](http://arxiv.org/abs/2607.10935)|null|
+|**2026-07-12**|**Multidimensional stochastic liquidity in Kyle's model of informed trading**|Ibrahim Ekren et.al.|[2607.10934](http://arxiv.org/abs/2607.10934)|null|
+|**2026-07-12**|**Rigidity-Based Multi-UAV Trajectory Optimization for Rapid Cooperative Emergency Target Localization**|Halim Lee et.al.|[2607.10933](http://arxiv.org/abs/2607.10933)|null|
+|**2026-07-12**|**Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding**|Pierre-Louis Barbarant et.al.|[2607.10931](http://arxiv.org/abs/2607.10931)|null|
+|**2026-07-12**|**Investigating the electron temperature of [Ar IV] in planetary nebulae using the DESIRED database**|J. García-Rojas et.al.|[2607.10929](http://arxiv.org/abs/2607.10929)|null|
+|**2026-07-12**|**The Spectral Structure of Latent Treatment Effects**|Hamza Virk et.al.|[2607.10926](http://arxiv.org/abs/2607.10926)|null|
+|**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
+|**2026-07-12**|**Infrared Organization and Critical Cognitive Field Formation in Transformer Dynamics**|Byung Gyu Chae et.al.|[2607.10923](http://arxiv.org/abs/2607.10923)|null|
 |**2026-07-10**|**PanoWorld: Real-World Panoramic Generation**|Haoyuan Li et.al.|[2607.09661](http://arxiv.org/abs/2607.09661)|null|
 |**2026-07-10**|**Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks**|Song Son Ha et.al.|[2607.09659](http://arxiv.org/abs/2607.09659)|null|
 |**2026-07-10**|**Scalable Visual Pretraining for Language Intelligence**|Yiming Zhang et.al.|[2607.09657](http://arxiv.org/abs/2607.09657)|null|
@@ -2137,6 +2157,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**Dilation-balanced product Pitt inequalities for mixed-tail potentials**|Niyaz Tokmagambetov et.al.|[2607.10940](http://arxiv.org/abs/2607.10940)|null|
+|**2026-07-12**|**Hereditary 2-WQO Graph Classes Have Bounded Clique-Width**|Julien Duron et.al.|[2607.10939](http://arxiv.org/abs/2607.10939)|null|
+|**2026-07-12**|**ARMOR-IMC: Adaptive Resource Mapping for Operational Robustness via Secure In-Memory Computing**|Muhtasim Alam Chowdhury et.al.|[2607.10938](http://arxiv.org/abs/2607.10938)|null|
+|**2026-07-12**|**A minimal model for the Weyl nodes and Fermi arcs of PtBi $_2$**|Tobias Cristófoli et.al.|[2607.10937](http://arxiv.org/abs/2607.10937)|null|
+|**2026-07-12**|**Bandit PCA with Minimax Optimal Regret**|Moïse Blanchard et.al.|[2607.10936](http://arxiv.org/abs/2607.10936)|null|
+|**2026-07-12**|**Rigidity-Based Multi-UAV Trajectory Optimization for Rapid Cooperative Emergency Target Localization**|Halim Lee et.al.|[2607.10933](http://arxiv.org/abs/2607.10933)|null|
+|**2026-07-12**|**LLM-Enhanced Dynamic Financial Knowledge Graphs for Cross-Entity Signal Propagation and alpha discovery**|Lin Zhang et.al.|[2607.10932](http://arxiv.org/abs/2607.10932)|null|
+|**2026-07-12**|**The Singularity Space: A Generative Diffusion Framework for Signal Representation**|Eli Bar-Yosef et.al.|[2607.10930](http://arxiv.org/abs/2607.10930)|null|
+|**2026-07-12**|**Investigating the electron temperature of [Ar IV] in planetary nebulae using the DESIRED database**|J. García-Rojas et.al.|[2607.10929](http://arxiv.org/abs/2607.10929)|null|
+|**2026-07-12**|**The Emergence of Astroparticle Physics: From Cosmic-Ray Physics to a new Scientific Field**|Luisa Bonolis et.al.|[2607.10927](http://arxiv.org/abs/2607.10927)|null|
 |**2026-07-10**|**Phase-switchable nonreciprocal entanglement via magnon squeezing in ring-cavity optomagnomechanics**|Z. Imara et.al.|[2607.09663](http://arxiv.org/abs/2607.09663)|null|
 |**2026-07-10**|**PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis**|Ren Takahashi et.al.|[2607.09662](http://arxiv.org/abs/2607.09662)|null|
 |**2026-07-10**|**PanoWorld: Real-World Panoramic Generation**|Haoyuan Li et.al.|[2607.09661](http://arxiv.org/abs/2607.09661)|null|
@@ -3155,6 +3185,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**Multidimensional stochastic liquidity in Kyle's model of informed trading**|Ibrahim Ekren et.al.|[2607.10934](http://arxiv.org/abs/2607.10934)|null|
+|**2026-07-12**|**Properties of the Tropical Characteristic Polynomial of Symmetric Matrices**|Dariush Kiani et.al.|[2607.10922](http://arxiv.org/abs/2607.10922)|null|
+|**2026-07-12**|**Diffusion of tacit knowledge in a company: a mathematical model based on diffusion on graphs**|Radosław A. Kycia et.al.|[2607.10919](http://arxiv.org/abs/2607.10919)|null|
+|**2026-07-12**|**SoK: Federated Learning for Intrusion Detection in Vehicular Networks**|Yahya Shahsavari et.al.|[2607.10914](http://arxiv.org/abs/2607.10914)|null|
+|**2026-07-12**|**High-Quality Ge-Doped (010) $β$-Ga$_2$O$_3$ Homoepitaxial Films Grown by Low-pressure CVD: Structural, Electrical, and Schottky Diode Characteristics**|Ahmed Ibreljic et.al.|[2607.10907](http://arxiv.org/abs/2607.10907)|null|
+|**2026-07-12**|**A Beta-Based Heteroskedasticity-Consistent Covariance Matrix Estimator**|Marina O. Cunha et.al.|[2607.10905](http://arxiv.org/abs/2607.10905)|null|
+|**2026-07-12**|**What to Distinguish and How? Opportunities and Challenges of Augmenting Multiple, Cluttered Objects in Complex Scenes for People with Low Vision**|Yuheng Wu et.al.|[2607.10902](http://arxiv.org/abs/2607.10902)|null|
+|**2026-07-12**|**Incremental Transformer for Surrogate-Based Inverse Design of Geopolymer Mixtures**|Giansalvo Cirrincione et.al.|[2607.10896](http://arxiv.org/abs/2607.10896)|null|
+|**2026-07-12**|**SETA: Scaling Environments for Terminal Agents**|Qijia Shen et.al.|[2607.10891](http://arxiv.org/abs/2607.10891)|null|
+|**2026-07-12**|**Faster Closest-Point Algorithms for the $E_6^*$ and $E_7^*$ Lattices**|Yuriy A. Reznik et.al.|[2607.10885](http://arxiv.org/abs/2607.10885)|null|
 |**2026-07-10**|**HD 148797: A bright F-type star with two moderate-period low-density sub-Jovian planets. Compact multi-planet architectures are common in the Neptunian savanna**|J. M. Almenara et.al.|[2607.09656](http://arxiv.org/abs/2607.09656)|null|
 |**2026-07-10**|**VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents**|Katherine Swinea et.al.|[2607.09653](http://arxiv.org/abs/2607.09653)|null|
 |**2026-07-10**|**Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits**|David W. Kanaar et.al.|[2607.09652](http://arxiv.org/abs/2607.09652)|null|
@@ -4200,6 +4240,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**Dilation-balanced product Pitt inequalities for mixed-tail potentials**|Niyaz Tokmagambetov et.al.|[2607.10940](http://arxiv.org/abs/2607.10940)|null|
+|**2026-07-12**|**Hereditary 2-WQO Graph Classes Have Bounded Clique-Width**|Julien Duron et.al.|[2607.10939](http://arxiv.org/abs/2607.10939)|null|
+|**2026-07-12**|**ARMOR-IMC: Adaptive Resource Mapping for Operational Robustness via Secure In-Memory Computing**|Muhtasim Alam Chowdhury et.al.|[2607.10938](http://arxiv.org/abs/2607.10938)|null|
+|**2026-07-12**|**A minimal model for the Weyl nodes and Fermi arcs of PtBi $_2$**|Tobias Cristófoli et.al.|[2607.10937](http://arxiv.org/abs/2607.10937)|null|
+|**2026-07-12**|**Bandit PCA with Minimax Optimal Regret**|Moïse Blanchard et.al.|[2607.10936](http://arxiv.org/abs/2607.10936)|null|
+|**2026-07-12**|**Infinite Belligerent Jump Inversion and Computable Scott Analysis**|Uri Andrews et.al.|[2607.10935](http://arxiv.org/abs/2607.10935)|null|
+|**2026-07-12**|**Rigidity-Based Multi-UAV Trajectory Optimization for Rapid Cooperative Emergency Target Localization**|Halim Lee et.al.|[2607.10933](http://arxiv.org/abs/2607.10933)|null|
+|**2026-07-12**|**LLM-Enhanced Dynamic Financial Knowledge Graphs for Cross-Entity Signal Propagation and alpha discovery**|Lin Zhang et.al.|[2607.10932](http://arxiv.org/abs/2607.10932)|null|
+|**2026-07-12**|**Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding**|Pierre-Louis Barbarant et.al.|[2607.10931](http://arxiv.org/abs/2607.10931)|null|
+|**2026-07-12**|**The Singularity Space: A Generative Diffusion Framework for Signal Representation**|Eli Bar-Yosef et.al.|[2607.10930](http://arxiv.org/abs/2607.10930)|null|
 |**2026-07-10**|**Phase-switchable nonreciprocal entanglement via magnon squeezing in ring-cavity optomagnomechanics**|Z. Imara et.al.|[2607.09663](http://arxiv.org/abs/2607.09663)|null|
 |**2026-07-10**|**PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis**|Ren Takahashi et.al.|[2607.09662](http://arxiv.org/abs/2607.09662)|null|
 |**2026-07-10**|**Nonlinear particle detectors across the Rindler firewall**|Matheus H. Zambianco et.al.|[2607.09660](http://arxiv.org/abs/2607.09660)|null|
@@ -5261,6 +5311,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**Dilation-balanced product Pitt inequalities for mixed-tail potentials**|Niyaz Tokmagambetov et.al.|[2607.10940](http://arxiv.org/abs/2607.10940)|null|
+|**2026-07-12**|**ARMOR-IMC: Adaptive Resource Mapping for Operational Robustness via Secure In-Memory Computing**|Muhtasim Alam Chowdhury et.al.|[2607.10938](http://arxiv.org/abs/2607.10938)|null|
+|**2026-07-12**|**Bandit PCA with Minimax Optimal Regret**|Moïse Blanchard et.al.|[2607.10936](http://arxiv.org/abs/2607.10936)|null|
+|**2026-07-12**|**Infinite Belligerent Jump Inversion and Computable Scott Analysis**|Uri Andrews et.al.|[2607.10935](http://arxiv.org/abs/2607.10935)|null|
+|**2026-07-12**|**Multidimensional stochastic liquidity in Kyle's model of informed trading**|Ibrahim Ekren et.al.|[2607.10934](http://arxiv.org/abs/2607.10934)|null|
+|**2026-07-12**|**Rigidity-Based Multi-UAV Trajectory Optimization for Rapid Cooperative Emergency Target Localization**|Halim Lee et.al.|[2607.10933](http://arxiv.org/abs/2607.10933)|null|
+|**2026-07-12**|**LLM-Enhanced Dynamic Financial Knowledge Graphs for Cross-Entity Signal Propagation and alpha discovery**|Lin Zhang et.al.|[2607.10932](http://arxiv.org/abs/2607.10932)|null|
+|**2026-07-12**|**Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding**|Pierre-Louis Barbarant et.al.|[2607.10931](http://arxiv.org/abs/2607.10931)|null|
+|**2026-07-12**|**The Singularity Space: A Generative Diffusion Framework for Signal Representation**|Eli Bar-Yosef et.al.|[2607.10930](http://arxiv.org/abs/2607.10930)|null|
+|**2026-07-12**|**Investigating the electron temperature of [Ar IV] in planetary nebulae using the DESIRED database**|J. García-Rojas et.al.|[2607.10929](http://arxiv.org/abs/2607.10929)|null|
 |**2026-07-10**|**PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis**|Ren Takahashi et.al.|[2607.09662](http://arxiv.org/abs/2607.09662)|null|
 |**2026-07-10**|**PanoWorld: Real-World Panoramic Generation**|Haoyuan Li et.al.|[2607.09661](http://arxiv.org/abs/2607.09661)|null|
 |**2026-07-10**|**Nonlinear particle detectors across the Rindler firewall**|Matheus H. Zambianco et.al.|[2607.09660](http://arxiv.org/abs/2607.09660)|null|
