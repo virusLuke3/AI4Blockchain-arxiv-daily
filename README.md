@@ -1,4 +1,4 @@
-## Updated on 2026.07.17
+## Updated on 2026.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
+|**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
+|**2026-07-16**|**Dynamic Entanglement Distribution for Multi-User and Multi-Protocol Quantum Networking**|Rui Wang et.al.|[2607.15262](http://arxiv.org/abs/2607.15262)|null|
+|**2026-07-16**|**Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier**|Arthur G. Bubolz et.al.|[2607.15258](http://arxiv.org/abs/2607.15258)|null|
+|**2026-07-16**|**HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning**|Pengcheng Zhou et.al.|[2607.15255](http://arxiv.org/abs/2607.15255)|null|
+|**2026-07-16**|**New exact bispectrum shapes in multifield inflation**|Lucas Pinol et.al.|[2607.15251](http://arxiv.org/abs/2607.15251)|null|
+|**2026-07-16**|**What does the model actually see? Evaluation protocols and input availability in data-driven prediction of room acoustic parameters**|Akın Oktav et.al.|[2607.15243](http://arxiv.org/abs/2607.15243)|null|
+|**2026-07-16**|**TikStance: A Multimodal and Hierarchical Dataset for Multi-target Stance Analysis in TikTok Political Conversations**|Yazhi Zhang et.al.|[2607.15240](http://arxiv.org/abs/2607.15240)|null|
+|**2026-07-16**|**Language Identification via Compositional Data Analysis: A Linear-Time Classifier Based on Log-Ratio Geometry**|Paul-Andrei Pogăcean et.al.|[2607.15238](http://arxiv.org/abs/2607.15238)|null|
+|**2026-07-16**|**Analytical and Numerical Study of Quartic Nonlinear Electrodynamics in Holographic Fermion Systems**|Vitor Neves da Silva et.al.|[2607.15236](http://arxiv.org/abs/2607.15236)|null|
 |**2026-07-16**|**Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya**|Hailay Kidu Teklehaymanot et.al.|[2607.15209](http://arxiv.org/abs/2607.15209)|null|
 |**2026-07-16**|**Delocalization of bias in unadjusted Hamiltonian Monte Carlo and underdamped Langevin**|Yifan Chen et.al.|[2607.15208](http://arxiv.org/abs/2607.15208)|null|
 |**2026-07-16**|**Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation**|Hoang-Loc Cao et.al.|[2607.15202](http://arxiv.org/abs/2607.15202)|null|
@@ -1178,12 +1188,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Particle production from bubble collisions**|Anish Ghoshal et.al.|[2607.15279](http://arxiv.org/abs/2607.15279)|null|
+|**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
+|**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
+|**2026-07-16**|**MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators**|Yushi Huang et.al.|[2607.15273](http://arxiv.org/abs/2607.15273)|null|
+|**2026-07-16**|**Online Neural Space Time Memory for Dynamic Novel View Synthesis**|Baback Elmieh et.al.|[2607.15271](http://arxiv.org/abs/2607.15271)|null|
+|**2026-07-16**|**Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography**|Guang Yang et.al.|[2607.15268](http://arxiv.org/abs/2607.15268)|null|
+|**2026-07-16**|**Pretraining Data Can Be Poisoned through Computational Propaganda**|Victoria Graf et.al.|[2607.15267](http://arxiv.org/abs/2607.15267)|null|
+|**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265](http://arxiv.org/abs/2607.15265)|null|
+|**2026-07-16**|**Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents**|Paul Kassianik et.al.|[2607.15263](http://arxiv.org/abs/2607.15263)|null|
+|**2026-07-16**|**Dynamic Entanglement Distribution for Multi-User and Multi-Protocol Quantum Networking**|Rui Wang et.al.|[2607.15262](http://arxiv.org/abs/2607.15262)|null|
 |**2026-07-16**|**MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos**|Ziren Gong et.al.|[2607.15211](http://arxiv.org/abs/2607.15211)|null|
 |**2026-07-16**|**BadWAM: When World-Action Models Dream Right but Act Wrong**|Qi Li et.al.|[2607.15207](http://arxiv.org/abs/2607.15207)|null|
 |**2026-07-16**|**Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation**|Hoang-Loc Cao et.al.|[2607.15202](http://arxiv.org/abs/2607.15202)|null|
@@ -2215,12 +2235,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Particle production from bubble collisions**|Anish Ghoshal et.al.|[2607.15279](http://arxiv.org/abs/2607.15279)|null|
+|**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
+|**2026-07-16**|**SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions**|Yasheng Sun et.al.|[2607.15272](http://arxiv.org/abs/2607.15272)|null|
+|**2026-07-16**|**Online Neural Space Time Memory for Dynamic Novel View Synthesis**|Baback Elmieh et.al.|[2607.15271](http://arxiv.org/abs/2607.15271)|null|
+|**2026-07-16**|**Dense sets without large sumsets**|Gabriel Dahia et.al.|[2607.15269](http://arxiv.org/abs/2607.15269)|null|
+|**2026-07-16**|**Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography**|Guang Yang et.al.|[2607.15268](http://arxiv.org/abs/2607.15268)|null|
+|**2026-07-16**|**Pretraining Data Can Be Poisoned through Computational Propaganda**|Victoria Graf et.al.|[2607.15267](http://arxiv.org/abs/2607.15267)|null|
+|**2026-07-16**|**Tunable Mpemba effect in a polymer-bead system with inertia**|Hosung Kwak et.al.|[2607.15266](http://arxiv.org/abs/2607.15266)|null|
+|**2026-07-16**|**Products of simplices are canonically Ramsey**|Benedict Randall Shaw et.al.|[2607.15264](http://arxiv.org/abs/2607.15264)|null|
+|**2026-07-16**|**Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents**|Paul Kassianik et.al.|[2607.15263](http://arxiv.org/abs/2607.15263)|null|
 |**2026-07-16**|**Magnetic corrections to the fermionic Casimir effect with Lorentz symmetry violation and a compactified extra dimension**|Andrea Erdas et.al.|[2607.15212](http://arxiv.org/abs/2607.15212)|null|
 |**2026-07-16**|**MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos**|Ziren Gong et.al.|[2607.15211](http://arxiv.org/abs/2607.15211)|null|
 |**2026-07-16**|**Counterexamples to additivity of minimum output $p$-Rényi entropy of quantum channels for $p>3/4$ and $0\leq p<1/4$**|Debbie Leung et.al.|[2607.15210](http://arxiv.org/abs/2607.15210)|null|
@@ -3265,12 +3295,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
+|**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Yunfan Jiang et.al.|[2607.15275](http://arxiv.org/abs/2607.15275)|null|
+|**2026-07-16**|**SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions**|Yasheng Sun et.al.|[2607.15272](http://arxiv.org/abs/2607.15272)|null|
+|**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265](http://arxiv.org/abs/2607.15265)|null|
+|**2026-07-16**|**Dynamic Entanglement Distribution for Multi-User and Multi-Protocol Quantum Networking**|Rui Wang et.al.|[2607.15262](http://arxiv.org/abs/2607.15262)|null|
+|**2026-07-16**|**Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier**|Arthur G. Bubolz et.al.|[2607.15258](http://arxiv.org/abs/2607.15258)|null|
+|**2026-07-16**|**SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration**|Yuyao Zhang et.al.|[2607.15257](http://arxiv.org/abs/2607.15257)|null|
+|**2026-07-16**|**Equivalence of the Compton and Bethe-Feynman Yield Formulas**|Edwin Lyman et.al.|[2607.15250](http://arxiv.org/abs/2607.15250)|null|
+|**2026-07-16**|**Fermiology of the kagome compound LuNb6Sn6 probed by de Haas-van Alphen oscillations**|Tucker Beekmann et.al.|[2607.15248](http://arxiv.org/abs/2607.15248)|null|
+|**2026-07-16**|**AutoSynthesis: An agentic system for automated meta-analysis**|Moein Taherinezhad et.al.|[2607.15247](http://arxiv.org/abs/2607.15247)|null|
 |**2026-07-16**|**MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization**|Shaoxiong Zhan et.al.|[2607.15205](http://arxiv.org/abs/2607.15205)|null|
 |**2026-07-16**|**SLT 2026 REAL-TSE Challenge: Real-world Target Speaker Extraction from Conversational Recordings**|Shuai Wang et.al.|[2607.15198](http://arxiv.org/abs/2607.15198)|null|
 |**2026-07-16**|**SciPhy Reinforcement Learning for Portfolio Optimization**|Igor Halperin et.al.|[2607.15195](http://arxiv.org/abs/2607.15195)|null|
@@ -4342,12 +4382,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
+|**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
+|**2026-07-16**|**Single-component twisted $\mathbb{Z}_3$ orthogonal metal in an $e/3$ -anyon fluid**|Zhaoyu Han et.al.|[2607.15274](http://arxiv.org/abs/2607.15274)|null|
+|**2026-07-16**|**SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions**|Yasheng Sun et.al.|[2607.15272](http://arxiv.org/abs/2607.15272)|null|
+|**2026-07-16**|**Online Neural Space Time Memory for Dynamic Novel View Synthesis**|Baback Elmieh et.al.|[2607.15271](http://arxiv.org/abs/2607.15271)|null|
+|**2026-07-16**|**A Census of New Snake-in-the-Box Records**|Paul Orland et.al.|[2607.15270](http://arxiv.org/abs/2607.15270)|null|
+|**2026-07-16**|**Pretraining Data Can Be Poisoned through Computational Propaganda**|Victoria Graf et.al.|[2607.15267](http://arxiv.org/abs/2607.15267)|null|
+|**2026-07-16**|**Tunable Mpemba effect in a polymer-bead system with inertia**|Hosung Kwak et.al.|[2607.15266](http://arxiv.org/abs/2607.15266)|null|
+|**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265](http://arxiv.org/abs/2607.15265)|null|
+|**2026-07-16**|**Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents**|Paul Kassianik et.al.|[2607.15263](http://arxiv.org/abs/2607.15263)|null|
 |**2026-07-16**|**Magnetic corrections to the fermionic Casimir effect with Lorentz symmetry violation and a compactified extra dimension**|Andrea Erdas et.al.|[2607.15212](http://arxiv.org/abs/2607.15212)|null|
 |**2026-07-16**|**Counterexamples to additivity of minimum output $p$-Rényi entropy of quantum channels for $p>3/4$ and $0\leq p<1/4$**|Debbie Leung et.al.|[2607.15210](http://arxiv.org/abs/2607.15210)|null|
 |**2026-07-16**|**Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya**|Hailay Kidu Teklehaymanot et.al.|[2607.15209](http://arxiv.org/abs/2607.15209)|null|
@@ -5435,12 +5485,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
+|**2026-07-16**|**Locality of deep thermalisation through the lens of entanglement teleportation**|Saptarshi Mandal et.al.|[2607.15276](http://arxiv.org/abs/2607.15276)|null|
+|**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Yunfan Jiang et.al.|[2607.15275](http://arxiv.org/abs/2607.15275)|null|
+|**2026-07-16**|**MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators**|Yushi Huang et.al.|[2607.15273](http://arxiv.org/abs/2607.15273)|null|
+|**2026-07-16**|**SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions**|Yasheng Sun et.al.|[2607.15272](http://arxiv.org/abs/2607.15272)|null|
+|**2026-07-16**|**Online Neural Space Time Memory for Dynamic Novel View Synthesis**|Baback Elmieh et.al.|[2607.15271](http://arxiv.org/abs/2607.15271)|null|
+|**2026-07-16**|**Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography**|Guang Yang et.al.|[2607.15268](http://arxiv.org/abs/2607.15268)|null|
+|**2026-07-16**|**Pretraining Data Can Be Poisoned through Computational Propaganda**|Victoria Graf et.al.|[2607.15267](http://arxiv.org/abs/2607.15267)|null|
+|**2026-07-16**|**Relativistic time-commutative dynamics with $κ$ -plane noncommutativity**|Alessandro Moia et.al.|[2607.15261](http://arxiv.org/abs/2607.15261)|null|
+|**2026-07-16**|**The Power of the Score Sequence of a Tournament**|Prantar Ghosh et.al.|[2607.15260](http://arxiv.org/abs/2607.15260)|null|
 |**2026-07-16**|**MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos**|Ziren Gong et.al.|[2607.15211](http://arxiv.org/abs/2607.15211)|null|
 |**2026-07-16**|**Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya**|Hailay Kidu Teklehaymanot et.al.|[2607.15209](http://arxiv.org/abs/2607.15209)|null|
 |**2026-07-16**|**Delocalization of bias in unadjusted Hamiltonian Monte Carlo and underdamped Langevin**|Yifan Chen et.al.|[2607.15208](http://arxiv.org/abs/2607.15208)|null|
@@ -6547,7 +6607,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
