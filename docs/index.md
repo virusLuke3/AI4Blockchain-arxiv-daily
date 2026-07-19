@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.18
+## Updated on 2026.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -149,6 +149,7 @@ layout: default
 |**2026-07-16**|**A re-entrant chip-free-space photonic interface for telecom-to-Rubidium spectroscopy**|Jia-Lin Chen et.al.|[2607.15186](http://arxiv.org/abs/2607.15186)|null|
 |**2026-07-16**|**Memory-Exhaustion Attack on the Blocklace Byzantine-Repelling Conflict-Free Replicated Data Type**|Erick Lavoie et.al.|[2607.15185](http://arxiv.org/abs/2607.15185)|null|
 |**2026-07-16**|**Integrated Discovery and State-Aware Servicing for Mobile AUVs With UOWC: Modeling and Performance Analysis**|Qiyu Ma et.al.|[2607.15183](http://arxiv.org/abs/2607.15183)|null|
+|**2026-07-15**|**Fair on the Surface: Transaction-Ordering Bias and MEV in Mysticeti DAG-based BFT Protocol**|Iliya Mirzaei et.al.|[2607.13378](http://arxiv.org/abs/2607.13378)|null|
 |**2026-07-14**|**Proceedings of HLPP 2026: 19th International Symposium on High-Level Parallel Programming and Applications**|Chong Li et.al.|[2607.12917](http://arxiv.org/abs/2607.12917)|null|
 |**2026-07-14**|**The chromatic number of 3-stable Kneser graphs**|Wei-Chia Chen et.al.|[2607.12912](http://arxiv.org/abs/2607.12912)|null|
 |**2026-07-14**|**Unitary Synthesis with Near-Optimal T-Count for Near-Clifford Unitaries**|Wang Fang et.al.|[2607.12907](http://arxiv.org/abs/2607.12907)|null|
@@ -159,6 +160,10 @@ layout: default
 |**2026-07-14**|**Establishing baseline model performances for optical turbulence forecasting**|M. De Sepibus et.al.|[2607.12900](http://arxiv.org/abs/2607.12900)|null|
 |**2026-07-14**|**Fano 4-fold quiver moduli from subspace quivers**|Pieter Belmans et.al.|[2607.12895](http://arxiv.org/abs/2607.12895)|null|
 |**2026-07-14**|**Momentum Space Resolution Dependence in Boltzmann Neutrino Radiation Hydrodynamics Simulations of Core-collapse Supernovae**|Ryuichiro Akaho et.al.|[2607.12891](http://arxiv.org/abs/2607.12891)|null|
+|**2026-07-14**|**Experimental demonstration of scalable quantum blockchain with exponentially superior quantum communication complexity**|Feng Xie et.al.|[2607.12250](http://arxiv.org/abs/2607.12250)|null|
+|**2026-07-14**|**A fault-tolerant quantum blockchain deployed on commercial telecommunications network**|Yongqiang Du et.al.|[2607.12249](http://arxiv.org/abs/2607.12249)|null|
+|**2026-07-13**|**Cardano's Voltaire Governance: Complete Specification and Research Program**|Nimrod Talmon et.al.|[2607.11601](http://arxiv.org/abs/2607.11601)|null|
+|**2026-07-13**|**Time Is Money: Incentivized Causal Transaction Ordering**|Hongyin Chen et.al.|[2607.11496](http://arxiv.org/abs/2607.11496)|null|
 |**2026-07-12**|**Dilation-balanced product Pitt inequalities for mixed-tail potentials**|Niyaz Tokmagambetov et.al.|[2607.10940](http://arxiv.org/abs/2607.10940)|null|
 |**2026-07-12**|**Hereditary 2-WQO Graph Classes Have Bounded Clique-Width**|Julien Duron et.al.|[2607.10939](http://arxiv.org/abs/2607.10939)|null|
 |**2026-07-12**|**ARMOR-IMC: Adaptive Resource Mapping for Operational Robustness via Secure In-Memory Computing**|Muhtasim Alam Chowdhury et.al.|[2607.10938](http://arxiv.org/abs/2607.10938)|null|
@@ -179,6 +184,7 @@ layout: default
 |**2026-07-10**|**Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory**|Chengkai Zhu et.al.|[2607.09632](http://arxiv.org/abs/2607.09632)|null|
 |**2026-07-10**|**The Effects of Synthetic Data and Label Distribution on Canola Branch Counting**|Amirsalar Darvishpour et.al.|[2607.09630](http://arxiv.org/abs/2607.09630)|null|
 |**2026-07-10**|**New Complexity Classes in Locally Checkable Labeling for Local Computation Algorithms**|Sijin Peng et.al.|[2607.09626](http://arxiv.org/abs/2607.09626)|null|
+|**2026-07-10**|**Blockchain-Linked Auditable Decision Management for Telecom/IoT Fraud-Control Requests**|Saviz Changizi et.al.|[2607.09259](http://arxiv.org/abs/2607.09259)|null|
 |**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
 |**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|null|
 |**2026-07-09**|**Measuring Consumption with Credit Card Data: Benchmarking and Beyond**|Aditya Aladangady et.al.|[2607.08759](http://arxiv.org/abs/2607.08759)|null|
@@ -189,6 +195,9 @@ layout: default
 |**2026-07-09**|**Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph**|Duen Horng Chau et.al.|[2607.08746](http://arxiv.org/abs/2607.08746)|null|
 |**2026-07-09**|**Algorithmic Expert Aggregation**|Wei Tang et.al.|[2607.08744](http://arxiv.org/abs/2607.08744)|null|
 |**2026-07-09**|**Internal pseudospin, lepton-number superselection, and neutrino--antineutrino coherence in massive neutral-fermion one-particle states**|Ricardo Romero et.al.|[2607.08739](http://arxiv.org/abs/2607.08739)|null|
+|**2026-07-09**|**TRM-Raft: A Byzantine-Resistant Raft Consensus via Integrated Trust and Reputation Model**|Jie Zhang et.al.|[2607.08666](http://arxiv.org/abs/2607.08666)|null|
+|**2026-07-09**|**Secure Decentralized Federated Learning via Gossip and Virtual Voting**|Amirhossein Taherpour et.al.|[2607.08651](http://arxiv.org/abs/2607.08651)|null|
+|**2026-07-09**|**Stablecoins under Stress in a National Economy: Transaction-Level Evidence from Austrian Crypto-Asset Service Providers**|Pietro Saggese et.al.|[2607.08524](http://arxiv.org/abs/2607.08524)|null|
 |**2026-07-08**|**The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies**|Amruth Alfred et.al.|[2607.07709](http://arxiv.org/abs/2607.07709)|null|
 |**2026-07-08**|**Exploiting Spanning Trees for Directed Acyclicity**|Sergei Khargeliia et.al.|[2607.07705](http://arxiv.org/abs/2607.07705)|null|
 |**2026-07-08**|**Non-Hermitian Edge State Endocytosis**|Si-Yu Yuan et.al.|[2607.07703](http://arxiv.org/abs/2607.07703)|null|
