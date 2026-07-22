@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis**|Hao Wu et.al.|[2607.18869](http://arxiv.org/abs/2607.18869)|null|
+|**2026-07-19**|**A RFID Based Campus Wide Payment System**|Miraj Uddin Chowdhury et.al.|[2607.17233](http://arxiv.org/abs/2607.17233)|null|
+|**2026-07-21**|**Censorship Resistance and Throughput with Multiple Concurrent Proposers**|Aditya Saraf et.al.|[2607.16995](http://arxiv.org/abs/2607.16995)|null|
+|**2026-07-18**|**Rollback-Free Cross-Chain Atomicity Through Forward-Only Correction**|Tahrim Hossain et.al.|[2607.16959](http://arxiv.org/abs/2607.16959)|null|
+|**2026-07-17**|**Towards Secure and Trustworthy DAOs for Cross-Chain Governance**|Faisal Haque Bappy et.al.|[2607.16548](http://arxiv.org/abs/2607.16548)|null|
+|**2026-07-17**|**Show Me The Money: An Exercise in Proof-Driven Software Understanding**|Joseph Tafese et.al.|[2607.16499](http://arxiv.org/abs/2607.16499)|null|
+|**2026-07-17**|**Identity-Bound Academic Credentials on Blockchain: On-Chain Issuer Accreditation with ERC-3643 and OnchainID**|Gonçalo Frutuoso et.al.|[2607.16383](http://arxiv.org/abs/2607.16383)|null|
 |**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
 |**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
 |**2026-07-16**|**Dynamic Entanglement Distribution for Multi-User and Multi-Protocol Quantum Networking**|Rui Wang et.al.|[2607.15262](http://arxiv.org/abs/2607.15262)|null|
