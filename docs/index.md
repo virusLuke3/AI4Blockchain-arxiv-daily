@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning**|Nicolas Kosanovic et.al.|[2607.20399](http://arxiv.org/abs/2607.20399)|null|
+|**2026-07-22**|**Pulsar glitches in the presence of vortex traps**|Anantharaman Sekharipuram Viswanathan et.al.|[2607.20398](http://arxiv.org/abs/2607.20398)|null|
+|**2026-07-22**|**Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity**|Rajesh Jayaram et.al.|[2607.20393](http://arxiv.org/abs/2607.20393)|null|
+|**2026-07-22**|**Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot**|Sebastian Lorca Godoy et.al.|[2607.20392](http://arxiv.org/abs/2607.20392)|null|
+|**2026-07-22**|**Qoreo: Choreographic Programming for Quantum Distributed Systems**|Jennifer Paykin et.al.|[2607.20391](http://arxiv.org/abs/2607.20391)|null|
+|**2026-07-22**|**Overview and design optimization of a custom hybrid X-ray telescope for the International Axion Observatory (IAXO)**|Yue Yu et.al.|[2607.20390](http://arxiv.org/abs/2607.20390)|null|
+|**2026-07-22**|**PercepCap: Video Captioner with Structured Spatio-Temporal Perception**|Yifan Xu et.al.|[2607.20389](http://arxiv.org/abs/2607.20389)|null|
+|**2026-07-22**|**Arnold--Nielsen Geometry for Complexity-Deformed Noncommutative Transport**|Alberto Acevedo et.al.|[2607.20388](http://arxiv.org/abs/2607.20388)|null|
+|**2026-07-22**|**The inverse problem for the Steiner-Wiener index of trees**|Adrian Beker et.al.|[2607.20383](http://arxiv.org/abs/2607.20383)|null|
+|**2026-07-22**|**Critical analysis of some weak-field Weyl conformal gravity solutions**|Miguel Yulo Asuncion et.al.|[2607.20381](http://arxiv.org/abs/2607.20381)|null|
 |**2026-07-21**|**Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis**|Hao Wu et.al.|[2607.18869](http://arxiv.org/abs/2607.18869)|null|
 |**2026-07-19**|**A RFID Based Campus Wide Payment System**|Miraj Uddin Chowdhury et.al.|[2607.17233](http://arxiv.org/abs/2607.17233)|null|
 |**2026-07-21**|**Censorship Resistance and Throughput with Multiple Concurrent Proposers**|Aditya Saraf et.al.|[2607.16995](http://arxiv.org/abs/2607.16995)|null|
@@ -1188,6 +1198,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**A perturbative microscopic derivation of the focusing $Φ^6_1$ measure with rough cut-off**|Shahnaz Farhat et.al.|[2607.20400](http://arxiv.org/abs/2607.20400)|null|
+|**2026-07-22**|**Gas accretion onto the Milky Way: high-velocity cloud survival and the revival of the terminal-velocity paradigm**|Michael M. Schulreich et.al.|[2607.20394](http://arxiv.org/abs/2607.20394)|null|
+|**2026-07-22**|**Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity**|Rajesh Jayaram et.al.|[2607.20393](http://arxiv.org/abs/2607.20393)|null|
+|**2026-07-22**|**Overview and design optimization of a custom hybrid X-ray telescope for the International Axion Observatory (IAXO)**|Yue Yu et.al.|[2607.20390](http://arxiv.org/abs/2607.20390)|null|
+|**2026-07-22**|**PercepCap: Video Captioner with Structured Spatio-Temporal Perception**|Yifan Xu et.al.|[2607.20389](http://arxiv.org/abs/2607.20389)|null|
+|**2026-07-22**|**Arnold--Nielsen Geometry for Complexity-Deformed Noncommutative Transport**|Alberto Acevedo et.al.|[2607.20388](http://arxiv.org/abs/2607.20388)|null|
+|**2026-07-22**|**Persian Pixel: A large-scale synthetic OCR dataset for Persian language**|Pouria Mahdi et.al.|[2607.20385](http://arxiv.org/abs/2607.20385)|null|
+|**2026-07-22**|**FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization**|Eva McCord et.al.|[2607.20382](http://arxiv.org/abs/2607.20382)|null|
+|**2026-07-22**|**Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations**|Hiskias Dingeto et.al.|[2607.20379](http://arxiv.org/abs/2607.20379)|null|
+|**2026-07-22**|**Dark Matter Sensitivity of the CYGNO Detector with HFO-1234ze Enhanced Gas Mixtures**|F. D. Amaro et.al.|[2607.20370](http://arxiv.org/abs/2607.20370)|null|
 |**2026-07-16**|**Particle production from bubble collisions**|Anish Ghoshal et.al.|[2607.15279](http://arxiv.org/abs/2607.15279)|null|
 |**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
 |**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
@@ -2233,6 +2253,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**A perturbative microscopic derivation of the focusing $Φ^6_1$ measure with rough cut-off**|Shahnaz Farhat et.al.|[2607.20400](http://arxiv.org/abs/2607.20400)|null|
+|**2026-07-22**|**Pulsar glitches in the presence of vortex traps**|Anantharaman Sekharipuram Viswanathan et.al.|[2607.20398](http://arxiv.org/abs/2607.20398)|null|
+|**2026-07-22**|**The ICSE 2026 Shadow PC: Training the Next Generation of Reviewers Through Deliberate Practice**|Christian Kästner et.al.|[2607.20396](http://arxiv.org/abs/2607.20396)|null|
+|**2026-07-22**|**Well-posedness of a Hele-Shaw problem in general dimensions**|Olga Turanova et.al.|[2607.20395](http://arxiv.org/abs/2607.20395)|null|
+|**2026-07-22**|**Gas accretion onto the Milky Way: high-velocity cloud survival and the revival of the terminal-velocity paradigm**|Michael M. Schulreich et.al.|[2607.20394](http://arxiv.org/abs/2607.20394)|null|
+|**2026-07-22**|**Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity**|Rajesh Jayaram et.al.|[2607.20393](http://arxiv.org/abs/2607.20393)|null|
+|**2026-07-22**|**Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot**|Sebastian Lorca Godoy et.al.|[2607.20392](http://arxiv.org/abs/2607.20392)|null|
+|**2026-07-22**|**Qoreo: Choreographic Programming for Quantum Distributed Systems**|Jennifer Paykin et.al.|[2607.20391](http://arxiv.org/abs/2607.20391)|null|
+|**2026-07-22**|**Overview and design optimization of a custom hybrid X-ray telescope for the International Axion Observatory (IAXO)**|Yue Yu et.al.|[2607.20390](http://arxiv.org/abs/2607.20390)|null|
+|**2026-07-22**|**PercepCap: Video Captioner with Structured Spatio-Temporal Perception**|Yifan Xu et.al.|[2607.20389](http://arxiv.org/abs/2607.20389)|null|
 |**2026-07-16**|**Particle production from bubble collisions**|Anish Ghoshal et.al.|[2607.15279](http://arxiv.org/abs/2607.15279)|null|
 |**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
 |**2026-07-16**|**SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions**|Yasheng Sun et.al.|[2607.15272](http://arxiv.org/abs/2607.15272)|null|
@@ -3291,6 +3321,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Automorphism groups of curves with simple Jacobians**|Luca Mauri et.al.|[2607.20397](http://arxiv.org/abs/2607.20397)|null|
+|**2026-07-22**|**Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity**|Rajesh Jayaram et.al.|[2607.20393](http://arxiv.org/abs/2607.20393)|null|
+|**2026-07-22**|**Qoreo: Choreographic Programming for Quantum Distributed Systems**|Jennifer Paykin et.al.|[2607.20391](http://arxiv.org/abs/2607.20391)|null|
+|**2026-07-22**|**Overview and design optimization of a custom hybrid X-ray telescope for the International Axion Observatory (IAXO)**|Yue Yu et.al.|[2607.20390](http://arxiv.org/abs/2607.20390)|null|
+|**2026-07-22**|**PercepCap: Video Captioner with Structured Spatio-Temporal Perception**|Yifan Xu et.al.|[2607.20389](http://arxiv.org/abs/2607.20389)|null|
+|**2026-07-22**|**Arnold--Nielsen Geometry for Complexity-Deformed Noncommutative Transport**|Alberto Acevedo et.al.|[2607.20388](http://arxiv.org/abs/2607.20388)|null|
+|**2026-07-22**|**FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization**|Eva McCord et.al.|[2607.20382](http://arxiv.org/abs/2607.20382)|null|
+|**2026-07-22**|**Critical analysis of some weak-field Weyl conformal gravity solutions**|Miguel Yulo Asuncion et.al.|[2607.20381](http://arxiv.org/abs/2607.20381)|null|
+|**2026-07-22**|**The High-Speed FPGA Readout System for the Advanced X-ray Imaging Satellite (AXIS)**|Declan O'Neill et.al.|[2607.20380](http://arxiv.org/abs/2607.20380)|null|
+|**2026-07-22**|**Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations**|Hiskias Dingeto et.al.|[2607.20379](http://arxiv.org/abs/2607.20379)|null|
 |**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
 |**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Yunfan Jiang et.al.|[2607.15275](http://arxiv.org/abs/2607.15275)|null|
 |**2026-07-16**|**SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions**|Yasheng Sun et.al.|[2607.15272](http://arxiv.org/abs/2607.15272)|null|
@@ -4376,6 +4416,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**A perturbative microscopic derivation of the focusing $Φ^6_1$ measure with rough cut-off**|Shahnaz Farhat et.al.|[2607.20400](http://arxiv.org/abs/2607.20400)|null|
+|**2026-07-22**|**Pulsar glitches in the presence of vortex traps**|Anantharaman Sekharipuram Viswanathan et.al.|[2607.20398](http://arxiv.org/abs/2607.20398)|null|
+|**2026-07-22**|**Automorphism groups of curves with simple Jacobians**|Luca Mauri et.al.|[2607.20397](http://arxiv.org/abs/2607.20397)|null|
+|**2026-07-22**|**Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity**|Rajesh Jayaram et.al.|[2607.20393](http://arxiv.org/abs/2607.20393)|null|
+|**2026-07-22**|**Qoreo: Choreographic Programming for Quantum Distributed Systems**|Jennifer Paykin et.al.|[2607.20391](http://arxiv.org/abs/2607.20391)|null|
+|**2026-07-22**|**Overview and design optimization of a custom hybrid X-ray telescope for the International Axion Observatory (IAXO)**|Yue Yu et.al.|[2607.20390](http://arxiv.org/abs/2607.20390)|null|
+|**2026-07-22**|**Arnold--Nielsen Geometry for Complexity-Deformed Noncommutative Transport**|Alberto Acevedo et.al.|[2607.20388](http://arxiv.org/abs/2607.20388)|null|
+|**2026-07-22**|**The inverse problem for the Steiner-Wiener index of trees**|Adrian Beker et.al.|[2607.20383](http://arxiv.org/abs/2607.20383)|null|
+|**2026-07-22**|**FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization**|Eva McCord et.al.|[2607.20382](http://arxiv.org/abs/2607.20382)|null|
+|**2026-07-22**|**Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations**|Hiskias Dingeto et.al.|[2607.20379](http://arxiv.org/abs/2607.20379)|null|
 |**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
 |**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
 |**2026-07-16**|**Single-component twisted $\mathbb{Z}_3$ orthogonal metal in an $e/3$ -anyon fluid**|Zhaoyu Han et.al.|[2607.15274](http://arxiv.org/abs/2607.15274)|null|
@@ -5477,6 +5527,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**A perturbative microscopic derivation of the focusing $Φ^6_1$ measure with rough cut-off**|Shahnaz Farhat et.al.|[2607.20400](http://arxiv.org/abs/2607.20400)|null|
+|**2026-07-22**|**Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning**|Nicolas Kosanovic et.al.|[2607.20399](http://arxiv.org/abs/2607.20399)|null|
+|**2026-07-22**|**The ICSE 2026 Shadow PC: Training the Next Generation of Reviewers Through Deliberate Practice**|Christian Kästner et.al.|[2607.20396](http://arxiv.org/abs/2607.20396)|null|
+|**2026-07-22**|**Well-posedness of a Hele-Shaw problem in general dimensions**|Olga Turanova et.al.|[2607.20395](http://arxiv.org/abs/2607.20395)|null|
+|**2026-07-22**|**Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity**|Rajesh Jayaram et.al.|[2607.20393](http://arxiv.org/abs/2607.20393)|null|
+|**2026-07-22**|**Overview and design optimization of a custom hybrid X-ray telescope for the International Axion Observatory (IAXO)**|Yue Yu et.al.|[2607.20390](http://arxiv.org/abs/2607.20390)|null|
+|**2026-07-22**|**PercepCap: Video Captioner with Structured Spatio-Temporal Perception**|Yifan Xu et.al.|[2607.20389](http://arxiv.org/abs/2607.20389)|null|
+|**2026-07-22**|**Arnold--Nielsen Geometry for Complexity-Deformed Noncommutative Transport**|Alberto Acevedo et.al.|[2607.20388](http://arxiv.org/abs/2607.20388)|null|
+|**2026-07-22**|**Improved Monitoring of Honey bee Colony Strength via Audio IoT Sensors, Modulation Tensorgrams and Recurrent Neural Networks**|Mahsa Abdollahi et.al.|[2607.20386](http://arxiv.org/abs/2607.20386)|null|
+|**2026-07-22**|**Persian Pixel: A large-scale synthetic OCR dataset for Persian language**|Pouria Mahdi et.al.|[2607.20385](http://arxiv.org/abs/2607.20385)|null|
 |**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
 |**2026-07-16**|**Locality of deep thermalisation through the lens of entanglement teleportation**|Saptarshi Mandal et.al.|[2607.15276](http://arxiv.org/abs/2607.15276)|null|
 |**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Yunfan Jiang et.al.|[2607.15275](http://arxiv.org/abs/2607.15275)|null|
