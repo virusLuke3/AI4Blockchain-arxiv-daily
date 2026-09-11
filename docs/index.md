@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -1458,6 +1458,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**From Good Starts to Optimal Inference: Generalized Latent Factor Models with Missingness and Implicit Regularization**|Chengzhu Huang et.al.|[2609.11740](http://arxiv.org/abs/2609.11740)|null|
+|**2026-09-10**|**LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics**|Mariia Baranova et.al.|[2609.11639](http://arxiv.org/abs/2609.11639)|null|
+|**2026-09-10**|**From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions**|Mengting Wu et.al.|[2609.11596](http://arxiv.org/abs/2609.11596)|null|
+|**2026-09-10**|**On Identifying Sound Conditions for Frontrunning Resistance**|Sebastian Holler et.al.|[2609.11535](http://arxiv.org/abs/2609.11535)|null|
+|**2026-09-10**|**ChurnBench: A Drift-Aware Benchmark Demonstrating That Refresh Scheduling, Not Cache Age, Governs Staleness in Agentic AI**|Vivek Kumar Singh et.al.|[2609.11515](http://arxiv.org/abs/2609.11515)|null|
+|**2026-09-10**|**Gravitational lensing in a spacetime with extra dimensions**|Mattia Villani et.al.|[2609.11423](http://arxiv.org/abs/2609.11423)|null|
+|**2026-09-10**|**Anisotropy of Ultrafast Strain in $V_2O_3$ Thin Films: Out-of-Equilibrium Phase Transitions under Interfacial Clamping**|J. Guzman-Brambila et.al.|[2609.11419](http://arxiv.org/abs/2609.11419)|null|
+|**2026-09-10**|**Rare-History Transitions in Temporally Random Integrable Quantum Circuits**|Tingfei Li et.al.|[2609.11415](http://arxiv.org/abs/2609.11415)|null|
+|**2026-09-10**|**SWRouter: Similarity-Contractive Window Routing for Multi-Turn Large Language Model Conversations**|Yu Wang et.al.|[2609.11414](http://arxiv.org/abs/2609.11414)|null|
+|**2026-09-10**|**Agent-Integrated Software: Interaction Contracts and Continuous Assurance**|Shengcheng Yu et.al.|[2609.11381](http://arxiv.org/abs/2609.11381)|null|
 |**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Zhenxuan Fan et.al.|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
 |**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
 |**2026-09-04**|**Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments**|Vaishnavi Sen et.al.|[2609.05320](http://arxiv.org/abs/2609.05320)|null|
@@ -4041,6 +4051,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Quantifying Symmetry Breaking**|Koji Yamaguchi et.al.|[2609.11926](http://arxiv.org/abs/2609.11926)|null|
+|**2026-09-10**|**Cusp restrictions and Bunke--Naumann invariants with level structure**|Yuqi Li et.al.|[2609.11924](http://arxiv.org/abs/2609.11924)|null|
+|**2026-09-10**|**Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact**|Masahiro Kato et.al.|[2609.11915](http://arxiv.org/abs/2609.11915)|null|
+|**2026-09-10**|**From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good**|Nitesh V. Chawla et.al.|[2609.11910](http://arxiv.org/abs/2609.11910)|null|
+|**2026-09-10**|**Entropic Value-at-Risk parity for tempered stable returns**|Jaehyung Choi et.al.|[2609.11905](http://arxiv.org/abs/2609.11905)|null|
+|**2026-09-10**|**TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription**|Akshaj Gupta et.al.|[2609.11904](http://arxiv.org/abs/2609.11904)|null|
+|**2026-09-10**|**EFI Pairs Without One-Way Puzzles: Oracle Separations from Communication Complexity**|Atul Mantri et.al.|[2609.11901](http://arxiv.org/abs/2609.11901)|null|
+|**2026-09-10**|**CausalArena: Benchmarking Causal Discovery in the Foundation Model Era**|Zi-Rong Li et.al.|[2609.11897](http://arxiv.org/abs/2609.11897)|null|
+|**2026-09-10**|**3D Point Splatting for mmWave Radar Novel View Synthesis**|Adnan Armouti et.al.|[2609.11894](http://arxiv.org/abs/2609.11894)|null|
+|**2026-09-10**|**ABRA: An algorithm which cannot converge to low-quality Nash equilibria**|Vartika Singh et.al.|[2609.11889](http://arxiv.org/abs/2609.11889)|null|
 |**2026-09-07**|**Wavelength-Uniform Quantum Algorithms for Quantum Dynamics**|Shi Jin et.al.|[2609.07384](http://arxiv.org/abs/2609.07384)|null|
 |**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Zhenxuan Fan et.al.|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
 |**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
