@@ -1,4 +1,4 @@
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**An Alon-Boppana Bound for the Non-Backtracking Operator**|Theo McKenzie et.al.|[2609.17529](http://arxiv.org/abs/2609.17529)|null|
+|**2026-09-15**|**Agentic Societies Need a Social Harness**|Tapan Chugh et.al.|[2609.17527](http://arxiv.org/abs/2609.17527)|null|
+|**2026-09-15**|**You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers**|Santosh Gokul Narayanan et.al.|[2609.17525](http://arxiv.org/abs/2609.17525)|null|
+|**2026-09-15**|**PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control**|Chuhao Chen et.al.|[2609.17521](http://arxiv.org/abs/2609.17521)|null|
+|**2026-09-15**|**Renormalizing small ball events for branching random walk**|Vilas Winstein et.al.|[2609.17520](http://arxiv.org/abs/2609.17520)|null|
+|**2026-09-15**|**When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control**|Ali Şenol et.al.|[2609.17516](http://arxiv.org/abs/2609.17516)|null|
+|**2026-09-15**|**Molecular Decomposition of the Area Compressibility Modulus of Lipid Membranes**|Konstantin V. Pinigin et.al.|[2609.17514](http://arxiv.org/abs/2609.17514)|null|
+|**2026-09-15**|**Uniqueness of free boundary minimal annuli**|Davide Parise et.al.|[2609.17512](http://arxiv.org/abs/2609.17512)|null|
+|**2026-09-15**|**Asymptotic Behavior of Radial Solutions to Singular $p$-Laplacian Equations as $p\to1$**|Juan Pablo Alcon Apaza et.al.|[2609.17511](http://arxiv.org/abs/2609.17511)|null|
+|**2026-09-15**|**LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs**|Thanapat Trachu et.al.|[2609.17509](http://arxiv.org/abs/2609.17509)|null|
 |**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
 |**2026-09-04**|**Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology**|J. Lee et.al.|[2609.05321](http://arxiv.org/abs/2609.05321)|null|
 |**2026-09-04**|**Optimal Rates for Agentic Networked Information Aggregation**|MohammadHossein Bateni et.al.|[2609.05318](http://arxiv.org/abs/2609.05318)|null|
@@ -1474,12 +1484,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**Agentic Societies Need a Social Harness**|Tapan Chugh et.al.|[2609.17527](http://arxiv.org/abs/2609.17527)|null|
+|**2026-09-15**|**You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers**|Santosh Gokul Narayanan et.al.|[2609.17525](http://arxiv.org/abs/2609.17525)|null|
+|**2026-09-15**|**PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control**|Chuhao Chen et.al.|[2609.17521](http://arxiv.org/abs/2609.17521)|null|
+|**2026-09-15**|**Renormalizing small ball events for branching random walk**|Vilas Winstein et.al.|[2609.17520](http://arxiv.org/abs/2609.17520)|null|
+|**2026-09-15**|**What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity**|Congjing Zhang et.al.|[2609.17515](http://arxiv.org/abs/2609.17515)|null|
+|**2026-09-15**|**Stellar Ages of M Dwarf Hosts of Temperate Sub-Neptunes**|Lalitha Sairam et.al.|[2609.17505](http://arxiv.org/abs/2609.17505)|null|
+|**2026-09-15**|**A Case Study on Noise Resilient Operator Selection in Adaptive Variational Quantum Algorithms**|Soorya Haravu et.al.|[2609.17501](http://arxiv.org/abs/2609.17501)|null|
+|**2026-09-15**|**Antidistinguishability of states in General Probabilistic Theories**|Satyaki Manna et.al.|[2609.17498](http://arxiv.org/abs/2609.17498)|null|
+|**2026-09-15**|**Beyond Hardware: Adaptive Algorithmic Control by State-Proxy Equalization**|Jianlong Lu et.al.|[2609.17497](http://arxiv.org/abs/2609.17497)|null|
+|**2026-09-15**|**Twisted Bracelets for Sorting by Transpositions: the Transposition Diameter of $S_{16}$**|Luiz A. G. Silva et.al.|[2609.17493](http://arxiv.org/abs/2609.17493)|null|
 |**2026-09-10**|**From Good Starts to Optimal Inference: Generalized Latent Factor Models with Missingness and Implicit Regularization**|Chengzhu Huang et.al.|[2609.11740](http://arxiv.org/abs/2609.11740)|null|
 |**2026-09-10**|**LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics**|Mariia Baranova et.al.|[2609.11639](http://arxiv.org/abs/2609.11639)|null|
 |**2026-09-10**|**From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions**|Mengting Wu et.al.|[2609.11596](http://arxiv.org/abs/2609.11596)|null|
@@ -2781,12 +2801,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**$B$ -sure. Part II. Scattering transforms as robustness test for tensor-to-scalar ratio detection from CMB observations**|Claudio Ranucci et.al.|[2609.17531](http://arxiv.org/abs/2609.17531)|null|
+|**2026-09-15**|**Secular evolution of viscous and self-gravitating protoplanetary discs with magnetic winds**|Evgenii R. Redkin et.al.|[2609.17526](http://arxiv.org/abs/2609.17526)|null|
+|**2026-09-15**|**You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers**|Santosh Gokul Narayanan et.al.|[2609.17525](http://arxiv.org/abs/2609.17525)|null|
+|**2026-09-15**|**ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents**|Shuhan Xue et.al.|[2609.17523](http://arxiv.org/abs/2609.17523)|null|
+|**2026-09-15**|**Renormalizing small ball events for branching random walk**|Vilas Winstein et.al.|[2609.17520](http://arxiv.org/abs/2609.17520)|null|
+|**2026-09-15**|**Higher abelian gauge theory in BV formalism**|Shuhan Jiang et.al.|[2609.17518](http://arxiv.org/abs/2609.17518)|null|
+|**2026-09-15**|**Regularized barycentric Rényi divergences**|Milán Mosonyi et.al.|[2609.17517](http://arxiv.org/abs/2609.17517)|null|
+|**2026-09-15**|**When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control**|Ali Şenol et.al.|[2609.17516](http://arxiv.org/abs/2609.17516)|null|
+|**2026-09-15**|**What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity**|Congjing Zhang et.al.|[2609.17515](http://arxiv.org/abs/2609.17515)|null|
+|**2026-09-15**|**Molecular Decomposition of the Area Compressibility Modulus of Lipid Membranes**|Konstantin V. Pinigin et.al.|[2609.17514](http://arxiv.org/abs/2609.17514)|null|
 |**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
 |**2026-09-04**|**Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology**|J. Lee et.al.|[2609.05321](http://arxiv.org/abs/2609.05321)|null|
 |**2026-09-04**|**Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments**|Vaishnavi Sen et.al.|[2609.05320](http://arxiv.org/abs/2609.05320)|null|
@@ -4071,12 +4101,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**Renormalizing small ball events for branching random walk**|Vilas Winstein et.al.|[2609.17520](http://arxiv.org/abs/2609.17520)|null|
+|**2026-09-15**|**Higher abelian gauge theory in BV formalism**|Shuhan Jiang et.al.|[2609.17518](http://arxiv.org/abs/2609.17518)|null|
+|**2026-09-15**|**When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control**|Ali Şenol et.al.|[2609.17516](http://arxiv.org/abs/2609.17516)|null|
+|**2026-09-15**|**Chern bounds and tangent geometry of polarized Calabi-Yau threefolds**|Atsushi Kanazawa et.al.|[2609.17513](http://arxiv.org/abs/2609.17513)|null|
+|**2026-09-15**|**Stellar Ages of M Dwarf Hosts of Temperate Sub-Neptunes**|Lalitha Sairam et.al.|[2609.17505](http://arxiv.org/abs/2609.17505)|null|
+|**2026-09-15**|**Enhanced thermal stability of SiGeSn by suppressing surface-mediated degradation**|Anis Attiaoui et.al.|[2609.17504](http://arxiv.org/abs/2609.17504)|null|
+|**2026-09-15**|**Verifiable Social Reasoning for LLM Assistants**|Amir Taubenfeld et.al.|[2609.17496](http://arxiv.org/abs/2609.17496)|null|
+|**2026-09-15**|**First-Crossing Reduction and Inference for No-Rescue Effects under Deterministic Rescue**|Shu Tamano et.al.|[2609.17495](http://arxiv.org/abs/2609.17495)|null|
+|**2026-09-15**|**Twisted Bracelets for Sorting by Transpositions: the Transposition Diameter of $S_{16}$**|Luiz A. G. Silva et.al.|[2609.17493](http://arxiv.org/abs/2609.17493)|null|
+|**2026-09-15**|**Hysteresis and trap emission in dc-biased integrated lithium niobate electro-optic modulators**|Matthew Yeh et.al.|[2609.17489](http://arxiv.org/abs/2609.17489)|null|
 |**2026-09-10**|**Quantifying Symmetry Breaking**|Koji Yamaguchi et.al.|[2609.11926](http://arxiv.org/abs/2609.11926)|null|
 |**2026-09-10**|**Cusp restrictions and Bunke--Naumann invariants with level structure**|Yuqi Li et.al.|[2609.11924](http://arxiv.org/abs/2609.11924)|null|
 |**2026-09-10**|**Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact**|Masahiro Kato et.al.|[2609.11915](http://arxiv.org/abs/2609.11915)|null|
@@ -5411,12 +5451,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**Vanilla Scotogenic Model at the future Muon Collider**|Niloy Mondal et.al.|[2609.17530](http://arxiv.org/abs/2609.17530)|null|
+|**2026-09-15**|**An Alon-Boppana Bound for the Non-Backtracking Operator**|Theo McKenzie et.al.|[2609.17529](http://arxiv.org/abs/2609.17529)|null|
+|**2026-09-15**|**Exact Black Branes in General Dimensions in Higher-Curvature Scalar-Tensor Gravity**|Tianhao Wu et.al.|[2609.17528](http://arxiv.org/abs/2609.17528)|null|
+|**2026-09-15**|**You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers**|Santosh Gokul Narayanan et.al.|[2609.17525](http://arxiv.org/abs/2609.17525)|null|
+|**2026-09-15**|**ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents**|Shuhan Xue et.al.|[2609.17523](http://arxiv.org/abs/2609.17523)|null|
+|**2026-09-15**|**Renormalizing small ball events for branching random walk**|Vilas Winstein et.al.|[2609.17520](http://arxiv.org/abs/2609.17520)|null|
+|**2026-09-15**|**Higher abelian gauge theory in BV formalism**|Shuhan Jiang et.al.|[2609.17518](http://arxiv.org/abs/2609.17518)|null|
+|**2026-09-15**|**When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control**|Ali Şenol et.al.|[2609.17516](http://arxiv.org/abs/2609.17516)|null|
+|**2026-09-15**|**What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity**|Congjing Zhang et.al.|[2609.17515](http://arxiv.org/abs/2609.17515)|null|
+|**2026-09-15**|**Molecular Decomposition of the Area Compressibility Modulus of Lipid Membranes**|Konstantin V. Pinigin et.al.|[2609.17514](http://arxiv.org/abs/2609.17514)|null|
 |**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
 |**2026-09-04**|**Restricting the effects hides a nonphysical symmetry from every causal structure**|Chon-Fai Kam et.al.|[2609.05322](http://arxiv.org/abs/2609.05322)|null|
 |**2026-09-04**|**Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology**|J. Lee et.al.|[2609.05321](http://arxiv.org/abs/2609.05321)|null|
@@ -6749,12 +6799,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**$B$ -sure. Part II. Scattering transforms as robustness test for tensor-to-scalar ratio detection from CMB observations**|Claudio Ranucci et.al.|[2609.17531](http://arxiv.org/abs/2609.17531)|null|
+|**2026-09-15**|**Exact Black Branes in General Dimensions in Higher-Curvature Scalar-Tensor Gravity**|Tianhao Wu et.al.|[2609.17528](http://arxiv.org/abs/2609.17528)|null|
+|**2026-09-15**|**Agentic Societies Need a Social Harness**|Tapan Chugh et.al.|[2609.17527](http://arxiv.org/abs/2609.17527)|null|
+|**2026-09-15**|**You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers**|Santosh Gokul Narayanan et.al.|[2609.17525](http://arxiv.org/abs/2609.17525)|null|
+|**2026-09-15**|**Modality-Autoregressive World-Action Models**|Adam Hung et.al.|[2609.17524](http://arxiv.org/abs/2609.17524)|null|
+|**2026-09-15**|**ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents**|Shuhan Xue et.al.|[2609.17523](http://arxiv.org/abs/2609.17523)|null|
+|**2026-09-15**|**Coupling spherical p-spin systems**|Riccardo Cipolloni et.al.|[2609.17522](http://arxiv.org/abs/2609.17522)|null|
+|**2026-09-15**|**PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control**|Chuhao Chen et.al.|[2609.17521](http://arxiv.org/abs/2609.17521)|null|
+|**2026-09-15**|**Renormalizing small ball events for branching random walk**|Vilas Winstein et.al.|[2609.17520](http://arxiv.org/abs/2609.17520)|null|
+|**2026-09-15**|**Regularized barycentric Rényi divergences**|Milán Mosonyi et.al.|[2609.17517](http://arxiv.org/abs/2609.17517)|null|
 |**2026-09-04**|**UniMate: One Unified Model to Animate Diverse Skeletons**|Linzhan Mou et.al.|[2609.05415](http://arxiv.org/abs/2609.05415)|null|
 |**2026-09-04**|**Tracing the Cosmic Origins: Machine Learning Reconstruction of the Primordial Density Field from EoR Observations**|Anchal Saxena et.al.|[2609.05412](http://arxiv.org/abs/2609.05412)|null|
 |**2026-09-04**|**Early against Late: A contrast on dark energy in the light of DESI DR2**|Miguel A. Zapata et.al.|[2609.05410](http://arxiv.org/abs/2609.05410)|null|
@@ -8131,7 +8191,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
