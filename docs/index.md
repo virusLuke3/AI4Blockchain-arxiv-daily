@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Environment Alignment and Redundant Record Formation in Imperfect-CNOT Quantum Darwinism**|Aleksander Lasek et.al.|[2609.20823](http://arxiv.org/abs/2609.20823)|null|
+|**2026-09-17**|**Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision**|Nitish Dashora et.al.|[2609.20820](http://arxiv.org/abs/2609.20820)|null|
+|**2026-09-17**|**Paint-Anything: Unified Any-Color Control for Image Generation and Editing**|Ji Xie et.al.|[2609.20816](http://arxiv.org/abs/2609.20816)|null|
+|**2026-09-17**|**ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis**|Zahra Ghaffari et.al.|[2609.20815](http://arxiv.org/abs/2609.20815)|null|
+|**2026-09-17**|**How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?**|Pochinapeddi Sai Bhargav et.al.|[2609.20814](http://arxiv.org/abs/2609.20814)|null|
+|**2026-09-17**|**Quantifying Overclaiming Propensity in Frontier LLM Agents**|Nolan Smyth et.al.|[2609.20812](http://arxiv.org/abs/2609.20812)|null|
+|**2026-09-17**|**The linear instability of Kasner spacetimes**|Oliver Petersen et.al.|[2609.20809](http://arxiv.org/abs/2609.20809)|null|
+|**2026-09-17**|**M2-brane matrix models and Fermi gas on affine ABCD quivers**|Taro Kimura et.al.|[2609.20806](http://arxiv.org/abs/2609.20806)|null|
+|**2026-09-17**|**An Empirical Study of Harness Design for Coding Agents**|Run-Ze Fan et.al.|[2609.20804](http://arxiv.org/abs/2609.20804)|null|
+|**2026-09-17**|**Regularity of asymptotically axisymmetric solutions to the 3D Navier-Stokes equations with analytic forcing**|Peter Constantin et.al.|[2609.20803](http://arxiv.org/abs/2609.20803)|null|
 |**2026-09-16**|**A Zeroth-Order Paradigm for LLM Preference Alignment**|Peter Chen et.al.|[2609.19144](http://arxiv.org/abs/2609.19144)|null|
 |**2026-09-16**|**PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics**|Bardienus P. Duisterhof et.al.|[2609.19142](http://arxiv.org/abs/2609.19142)|null|
 |**2026-09-16**|**Period-Inverted Blast-Radius Normalization for a Non-Ablating Hypersonic Reentry Source Using OSIRIS-REx Capsule Infrasound**|Elizabeth A. Silber et.al.|[2609.19141](http://arxiv.org/abs/2609.19141)|null|
@@ -1478,6 +1488,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Environment Alignment and Redundant Record Formation in Imperfect-CNOT Quantum Darwinism**|Aleksander Lasek et.al.|[2609.20823](http://arxiv.org/abs/2609.20823)|null|
+|**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Bingxin Xu et.al.|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
+|**2026-09-17**|**Embedding Models Measure in Peculiar Ways**|Juri Opitz et.al.|[2609.20821](http://arxiv.org/abs/2609.20821)|null|
+|**2026-09-17**|**Can 4D Foundation Models Remember?**|Guangzhao He et.al.|[2609.20819](http://arxiv.org/abs/2609.20819)|null|
+|**2026-09-17**|**SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos**|Peiyu Liu et.al.|[2609.20818](http://arxiv.org/abs/2609.20818)|null|
+|**2026-09-17**|**FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations**|Kevin Qu et.al.|[2609.20817](http://arxiv.org/abs/2609.20817)|null|
+|**2026-09-17**|**Paint-Anything: Unified Any-Color Control for Image Generation and Editing**|Ji Xie et.al.|[2609.20816](http://arxiv.org/abs/2609.20816)|null|
+|**2026-09-17**|**ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis**|Zahra Ghaffari et.al.|[2609.20815](http://arxiv.org/abs/2609.20815)|null|
+|**2026-09-17**|**M2-brane matrix models and Fermi gas on affine ABCD quivers**|Taro Kimura et.al.|[2609.20806](http://arxiv.org/abs/2609.20806)|null|
+|**2026-09-17**|**Locally optimized variational evolution for quantum many-body systems**|Carolin Wille et.al.|[2609.20802](http://arxiv.org/abs/2609.20802)|null|
 |**2026-09-16**|**A Zeroth-Order Paradigm for LLM Preference Alignment**|Peter Chen et.al.|[2609.19144](http://arxiv.org/abs/2609.19144)|null|
 |**2026-09-16**|**PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection**|Sara Pieri et.al.|[2609.19143](http://arxiv.org/abs/2609.19143)|null|
 |**2026-09-16**|**PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics**|Bardienus P. Duisterhof et.al.|[2609.19142](http://arxiv.org/abs/2609.19142)|null|
@@ -2803,6 +2823,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Environment Alignment and Redundant Record Formation in Imperfect-CNOT Quantum Darwinism**|Aleksander Lasek et.al.|[2609.20823](http://arxiv.org/abs/2609.20823)|null|
+|**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Bingxin Xu et.al.|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
+|**2026-09-17**|**Paint-Anything: Unified Any-Color Control for Image Generation and Editing**|Ji Xie et.al.|[2609.20816](http://arxiv.org/abs/2609.20816)|null|
+|**2026-09-17**|**Quantifying Overclaiming Propensity in Frontier LLM Agents**|Nolan Smyth et.al.|[2609.20812](http://arxiv.org/abs/2609.20812)|null|
+|**2026-09-17**|**Unifying Models of Intergroup Hostility in Online Discourse**|Patrick Gerard et.al.|[2609.20808](http://arxiv.org/abs/2609.20808)|null|
+|**2026-09-17**|**Universal completeness of exponentials**|Susanna Bertolini et.al.|[2609.20805](http://arxiv.org/abs/2609.20805)|null|
+|**2026-09-17**|**An Empirical Study of Harness Design for Coding Agents**|Run-Ze Fan et.al.|[2609.20804](http://arxiv.org/abs/2609.20804)|null|
+|**2026-09-17**|**Regularity of asymptotically axisymmetric solutions to the 3D Navier-Stokes equations with analytic forcing**|Peter Constantin et.al.|[2609.20803](http://arxiv.org/abs/2609.20803)|null|
+|**2026-09-17**|**Locally optimized variational evolution for quantum many-body systems**|Carolin Wille et.al.|[2609.20802](http://arxiv.org/abs/2609.20802)|null|
+|**2026-09-17**|**Disorder on the hyperbolic square lattice I: Anderson delocalization and absolutely continuous spectrum**|Simon Becker et.al.|[2609.20798](http://arxiv.org/abs/2609.20798)|null|
 |**2026-09-16**|**Objective vs. Search: Decomposing What Makes a Good Tokeniser**|Ahmetcan Yavuz et.al.|[2609.19145](http://arxiv.org/abs/2609.19145)|null|
 |**2026-09-16**|**A Zeroth-Order Paradigm for LLM Preference Alignment**|Peter Chen et.al.|[2609.19144](http://arxiv.org/abs/2609.19144)|null|
 |**2026-09-16**|**Period-Inverted Blast-Radius Normalization for a Non-Ablating Hypersonic Reentry Source Using OSIRIS-REx Capsule Infrasound**|Elizabeth A. Silber et.al.|[2609.19141](http://arxiv.org/abs/2609.19141)|null|
@@ -4111,6 +4141,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos**|Peiyu Liu et.al.|[2609.20818](http://arxiv.org/abs/2609.20818)|null|
+|**2026-09-17**|**ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis**|Zahra Ghaffari et.al.|[2609.20815](http://arxiv.org/abs/2609.20815)|null|
+|**2026-09-17**|**Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts**|Hanyu Xue et.al.|[2609.20813](http://arxiv.org/abs/2609.20813)|null|
+|**2026-09-17**|**An Empirical Study of Harness Design for Coding Agents**|Run-Ze Fan et.al.|[2609.20804](http://arxiv.org/abs/2609.20804)|null|
+|**2026-09-17**|**PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers**|Jiachen Yao et.al.|[2609.20794](http://arxiv.org/abs/2609.20794)|null|
+|**2026-09-17**|**A Framework for Supervised and Unsupervised Learning via Reproducing Kernel Hilbert Spaces**|Frédéric Protin et.al.|[2609.20792](http://arxiv.org/abs/2609.20792)|null|
+|**2026-09-17**|**Mutual Evaluation and Supervision without Peers**|Zachary Robertson et.al.|[2609.20789](http://arxiv.org/abs/2609.20789)|null|
+|**2026-09-17**|**Boolean Small-Ball Inequalities for Discrepancy Theory**|Emrullah Akbas et.al.|[2609.20785](http://arxiv.org/abs/2609.20785)|null|
+|**2026-09-17**|**Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations**|Sarah Wyer et.al.|[2609.20779](http://arxiv.org/abs/2609.20779)|null|
+|**2026-09-17**|**Conditional Independence Testing in Time Series**|Jieru Shi et.al.|[2609.20772](http://arxiv.org/abs/2609.20772)|null|
 |**2026-09-16**|**PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection**|Sara Pieri et.al.|[2609.19143](http://arxiv.org/abs/2609.19143)|null|
 |**2026-09-16**|**PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics**|Bardienus P. Duisterhof et.al.|[2609.19142](http://arxiv.org/abs/2609.19142)|null|
 |**2026-09-16**|**Period-Inverted Blast-Radius Normalization for a Non-Ablating Hypersonic Reentry Source Using OSIRIS-REx Capsule Infrasound**|Elizabeth A. Silber et.al.|[2609.19141](http://arxiv.org/abs/2609.19141)|null|
@@ -5469,6 +5509,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Bingxin Xu et.al.|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
+|**2026-09-17**|**Embedding Models Measure in Peculiar Ways**|Juri Opitz et.al.|[2609.20821](http://arxiv.org/abs/2609.20821)|null|
+|**2026-09-17**|**SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos**|Peiyu Liu et.al.|[2609.20818](http://arxiv.org/abs/2609.20818)|null|
+|**2026-09-17**|**A near-IR survey of luminous asymptotic giant branch stars in the satellites and stellar halo of M31**|Jess M. Howell et.al.|[2609.20810](http://arxiv.org/abs/2609.20810)|null|
+|**2026-09-17**|**Unifying Models of Intergroup Hostility in Online Discourse**|Patrick Gerard et.al.|[2609.20808](http://arxiv.org/abs/2609.20808)|null|
+|**2026-09-17**|**M2-brane matrix models and Fermi gas on affine ABCD quivers**|Taro Kimura et.al.|[2609.20806](http://arxiv.org/abs/2609.20806)|null|
+|**2026-09-17**|**An Empirical Study of Harness Design for Coding Agents**|Run-Ze Fan et.al.|[2609.20804](http://arxiv.org/abs/2609.20804)|null|
+|**2026-09-17**|**Regularity of asymptotically axisymmetric solutions to the 3D Navier-Stokes equations with analytic forcing**|Peter Constantin et.al.|[2609.20803](http://arxiv.org/abs/2609.20803)|null|
+|**2026-09-17**|**Locally optimized variational evolution for quantum many-body systems**|Carolin Wille et.al.|[2609.20802](http://arxiv.org/abs/2609.20802)|null|
+|**2026-09-17**|**JEPA-Anything: Learning Predictive Models across Different Worlds**|Taoyong Cui et.al.|[2609.20800](http://arxiv.org/abs/2609.20800)|null|
 |**2026-09-16**|**Objective vs. Search: Decomposing What Makes a Good Tokeniser**|Ahmetcan Yavuz et.al.|[2609.19145](http://arxiv.org/abs/2609.19145)|null|
 |**2026-09-16**|**A Zeroth-Order Paradigm for LLM Preference Alignment**|Peter Chen et.al.|[2609.19144](http://arxiv.org/abs/2609.19144)|null|
 |**2026-09-16**|**PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection**|Sara Pieri et.al.|[2609.19143](http://arxiv.org/abs/2609.19143)|null|
@@ -6825,6 +6875,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Environment Alignment and Redundant Record Formation in Imperfect-CNOT Quantum Darwinism**|Aleksander Lasek et.al.|[2609.20823](http://arxiv.org/abs/2609.20823)|null|
+|**2026-09-17**|**Embedding Models Measure in Peculiar Ways**|Juri Opitz et.al.|[2609.20821](http://arxiv.org/abs/2609.20821)|null|
+|**2026-09-17**|**Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision**|Nitish Dashora et.al.|[2609.20820](http://arxiv.org/abs/2609.20820)|null|
+|**2026-09-17**|**SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos**|Peiyu Liu et.al.|[2609.20818](http://arxiv.org/abs/2609.20818)|null|
+|**2026-09-17**|**FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations**|Kevin Qu et.al.|[2609.20817](http://arxiv.org/abs/2609.20817)|null|
+|**2026-09-17**|**Paint-Anything: Unified Any-Color Control for Image Generation and Editing**|Ji Xie et.al.|[2609.20816](http://arxiv.org/abs/2609.20816)|null|
+|**2026-09-17**|**ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis**|Zahra Ghaffari et.al.|[2609.20815](http://arxiv.org/abs/2609.20815)|null|
+|**2026-09-17**|**How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?**|Pochinapeddi Sai Bhargav et.al.|[2609.20814](http://arxiv.org/abs/2609.20814)|null|
+|**2026-09-17**|**Quantifying Overclaiming Propensity in Frontier LLM Agents**|Nolan Smyth et.al.|[2609.20812](http://arxiv.org/abs/2609.20812)|null|
+|**2026-09-17**|**A near-IR survey of luminous asymptotic giant branch stars in the satellites and stellar halo of M31**|Jess M. Howell et.al.|[2609.20810](http://arxiv.org/abs/2609.20810)|null|
 |**2026-09-16**|**Objective vs. Search: Decomposing What Makes a Good Tokeniser**|Ahmetcan Yavuz et.al.|[2609.19145](http://arxiv.org/abs/2609.19145)|null|
 |**2026-09-16**|**A Zeroth-Order Paradigm for LLM Preference Alignment**|Peter Chen et.al.|[2609.19144](http://arxiv.org/abs/2609.19144)|null|
 |**2026-09-16**|**PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection**|Sara Pieri et.al.|[2609.19143](http://arxiv.org/abs/2609.19143)|null|
