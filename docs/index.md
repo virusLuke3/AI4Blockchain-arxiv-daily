@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
+|**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[2609.22082](http://arxiv.org/abs/2609.22082)|null|
+|**2026-09-18**|**Stellahedral Geometry of Partially Ordered Sets**|Tommaso Faustini et.al.|[2609.22078](http://arxiv.org/abs/2609.22078)|null|
+|**2026-09-18**|**APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport**|Uchi Uchibeke et.al.|[2609.22076](http://arxiv.org/abs/2609.22076)|null|
+|**2026-09-18**|**The AGN Channel in 3D: Scattering Belts and the Importance of Eccentricity in the Black Hole Population**|Connar Rowan et.al.|[2609.22074](http://arxiv.org/abs/2609.22074)|null|
+|**2026-09-18**|**Discovery, Characterization, and Potential Origins of a Stream in the Stellar Halo of Nearby LMC-Mass Galaxy NGC 55**|Benjamin N. Velguth et.al.|[2609.22071](http://arxiv.org/abs/2609.22071)|null|
+|**2026-09-18**|**BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings**|Alexandre Andre et.al.|[2609.22064](http://arxiv.org/abs/2609.22064)|null|
+|**2026-09-18**|**Duality and minors for embeddings of graphs in pseudosurfaces**|Blake Dunshee et.al.|[2609.22061](http://arxiv.org/abs/2609.22061)|null|
+|**2026-09-18**|**Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features**|Arefeh Rezaei et.al.|[2609.22060](http://arxiv.org/abs/2609.22060)|null|
+|**2026-09-18**|**Strongly stable CMC-one hypersurfaces in every hyperbolic space of dimension at least four**|Zihao Wang et.al.|[2609.22059](http://arxiv.org/abs/2609.22059)|null|
 |**2026-09-17**|**Environment Alignment and Redundant Record Formation in Imperfect-CNOT Quantum Darwinism**|Aleksander Lasek et.al.|[2609.20823](http://arxiv.org/abs/2609.20823)|null|
 |**2026-09-17**|**Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision**|Nitish Dashora et.al.|[2609.20820](http://arxiv.org/abs/2609.20820)|null|
 |**2026-09-17**|**Paint-Anything: Unified Any-Color Control for Image Generation and Editing**|Ji Xie et.al.|[2609.20816](http://arxiv.org/abs/2609.20816)|null|
@@ -1488,6 +1498,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design**|Hongyang Du et.al.|[2609.22086](http://arxiv.org/abs/2609.22086)|null|
+|**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
+|**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[2609.22082](http://arxiv.org/abs/2609.22082)|null|
+|**2026-09-18**|**APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport**|Uchi Uchibeke et.al.|[2609.22076](http://arxiv.org/abs/2609.22076)|null|
+|**2026-09-18**|**Duty Factor Predicts Robust Constrained Quadrupedal Locomotion Across Gait Types**|James Zhu et.al.|[2609.22073](http://arxiv.org/abs/2609.22073)|null|
+|**2026-09-18**|**Multi-Epoch Stability in the Rotational Modulation of the Planetary-Mass Companion Ross 458C**|Elena Manjavacas et.al.|[2609.22072](http://arxiv.org/abs/2609.22072)|null|
+|**2026-09-18**|**OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation**|Wenxue Li et.al.|[2609.22069](http://arxiv.org/abs/2609.22069)|null|
+|**2026-09-18**|**Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw**|Renkai Ma et.al.|[2609.22067](http://arxiv.org/abs/2609.22067)|null|
+|**2026-09-18**|**Gripper-Aware Automatic Dense Packing of Irregular Objects**|Tianhao Qin et.al.|[2609.22062](http://arxiv.org/abs/2609.22062)|null|
+|**2026-09-18**|**Duality and minors for embeddings of graphs in pseudosurfaces**|Blake Dunshee et.al.|[2609.22061](http://arxiv.org/abs/2609.22061)|null|
 |**2026-09-17**|**Environment Alignment and Redundant Record Formation in Imperfect-CNOT Quantum Darwinism**|Aleksander Lasek et.al.|[2609.20823](http://arxiv.org/abs/2609.20823)|null|
 |**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Bingxin Xu et.al.|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
 |**2026-09-17**|**Embedding Models Measure in Peculiar Ways**|Juri Opitz et.al.|[2609.20821](http://arxiv.org/abs/2609.20821)|null|
@@ -2823,6 +2843,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design**|Hongyang Du et.al.|[2609.22086](http://arxiv.org/abs/2609.22086)|null|
+|**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[2609.22082](http://arxiv.org/abs/2609.22082)|null|
+|**2026-09-18**|**Cross-sector generalization of accident-process role classification in occupational accident narratives**|Aho Yapi et.al.|[2609.22081](http://arxiv.org/abs/2609.22081)|null|
+|**2026-09-18**|**Rotating Neutron Star Migrations as a Standardized Test for 3+1 Numerical Relativity**|Óscar H. Petit et.al.|[2609.22080](http://arxiv.org/abs/2609.22080)|null|
+|**2026-09-18**|**Universal Eigenvector Statistics of Non-Hermitian Random Matrices**|Ze Chen et.al.|[2609.22079](http://arxiv.org/abs/2609.22079)|null|
+|**2026-09-18**|**Energy minimization for eight points on the sphere**|Liudmyla Kryvonos et.al.|[2609.22077](http://arxiv.org/abs/2609.22077)|null|
+|**2026-09-18**|**Duty Factor Predicts Robust Constrained Quadrupedal Locomotion Across Gait Types**|James Zhu et.al.|[2609.22073](http://arxiv.org/abs/2609.22073)|null|
+|**2026-09-18**|**Discovery, Characterization, and Potential Origins of a Stream in the Stellar Halo of Nearby LMC-Mass Galaxy NGC 55**|Benjamin N. Velguth et.al.|[2609.22071](http://arxiv.org/abs/2609.22071)|null|
+|**2026-09-18**|**A Sociotechnical Review of Algorithms in Health Systems: Technical, Cost, and Human-Centered Considerations**|Victoria Chui et.al.|[2609.22070](http://arxiv.org/abs/2609.22070)|null|
+|**2026-09-18**|**OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation**|Wenxue Li et.al.|[2609.22069](http://arxiv.org/abs/2609.22069)|null|
 |**2026-09-17**|**Environment Alignment and Redundant Record Formation in Imperfect-CNOT Quantum Darwinism**|Aleksander Lasek et.al.|[2609.20823](http://arxiv.org/abs/2609.20823)|null|
 |**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Bingxin Xu et.al.|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
 |**2026-09-17**|**Paint-Anything: Unified Any-Color Control for Image Generation and Editing**|Ji Xie et.al.|[2609.20816](http://arxiv.org/abs/2609.20816)|null|
@@ -4141,6 +4171,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Cross-sector generalization of accident-process role classification in occupational accident narratives**|Aho Yapi et.al.|[2609.22081](http://arxiv.org/abs/2609.22081)|null|
+|**2026-09-18**|**LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control**|Jake Gonzales et.al.|[2609.22075](http://arxiv.org/abs/2609.22075)|null|
+|**2026-09-18**|**Discovery, Characterization, and Potential Origins of a Stream in the Stellar Halo of Nearby LMC-Mass Galaxy NGC 55**|Benjamin N. Velguth et.al.|[2609.22071](http://arxiv.org/abs/2609.22071)|null|
+|**2026-09-18**|**OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation**|Wenxue Li et.al.|[2609.22069](http://arxiv.org/abs/2609.22069)|null|
+|**2026-09-18**|**Generalized Hamiltonian formalism for spatially nonlocal nonlinear differential equations**|Ali Pazarci et.al.|[2609.22066](http://arxiv.org/abs/2609.22066)|null|
+|**2026-09-18**|**Hermite-Fisher bounds and stability for min-entropy power inequalities**|Silouanos Brazitikos et.al.|[2609.22065](http://arxiv.org/abs/2609.22065)|null|
+|**2026-09-18**|**BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings**|Alexandre Andre et.al.|[2609.22064](http://arxiv.org/abs/2609.22064)|null|
+|**2026-09-18**|**Strongly stable CMC-one hypersurfaces in every hyperbolic space of dimension at least four**|Zihao Wang et.al.|[2609.22059](http://arxiv.org/abs/2609.22059)|null|
+|**2026-09-18**|**Design and pricing of a transparent parametric-modeled loss CAT bond: application to German windstorm**|John Ery et.al.|[2609.22052](http://arxiv.org/abs/2609.22052)|null|
+|**2026-09-18**|**How Researchers Use and Verify AI Coding Assistants: Tasks and Validation Practices in Scientific Programming**|Gabrielle O'Brien et.al.|[2609.22049](http://arxiv.org/abs/2609.22049)|null|
 |**2026-09-17**|**SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos**|Peiyu Liu et.al.|[2609.20818](http://arxiv.org/abs/2609.20818)|null|
 |**2026-09-17**|**ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis**|Zahra Ghaffari et.al.|[2609.20815](http://arxiv.org/abs/2609.20815)|null|
 |**2026-09-17**|**Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts**|Hanyu Xue et.al.|[2609.20813](http://arxiv.org/abs/2609.20813)|null|
@@ -5509,6 +5549,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation**|Saksham Singh et.al.|[2609.22085](http://arxiv.org/abs/2609.22085)|null|
+|**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[2609.22082](http://arxiv.org/abs/2609.22082)|null|
+|**2026-09-18**|**Cross-sector generalization of accident-process role classification in occupational accident narratives**|Aho Yapi et.al.|[2609.22081](http://arxiv.org/abs/2609.22081)|null|
+|**2026-09-18**|**Energy minimization for eight points on the sphere**|Liudmyla Kryvonos et.al.|[2609.22077](http://arxiv.org/abs/2609.22077)|null|
+|**2026-09-18**|**APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport**|Uchi Uchibeke et.al.|[2609.22076](http://arxiv.org/abs/2609.22076)|null|
+|**2026-09-18**|**LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control**|Jake Gonzales et.al.|[2609.22075](http://arxiv.org/abs/2609.22075)|null|
+|**2026-09-18**|**The AGN Channel in 3D: Scattering Belts and the Importance of Eccentricity in the Black Hole Population**|Connar Rowan et.al.|[2609.22074](http://arxiv.org/abs/2609.22074)|null|
+|**2026-09-18**|**Multi-Epoch Stability in the Rotational Modulation of the Planetary-Mass Companion Ross 458C**|Elena Manjavacas et.al.|[2609.22072](http://arxiv.org/abs/2609.22072)|null|
+|**2026-09-18**|**Discovery, Characterization, and Potential Origins of a Stream in the Stellar Halo of Nearby LMC-Mass Galaxy NGC 55**|Benjamin N. Velguth et.al.|[2609.22071](http://arxiv.org/abs/2609.22071)|null|
+|**2026-09-18**|**A Sociotechnical Review of Algorithms in Health Systems: Technical, Cost, and Human-Centered Considerations**|Victoria Chui et.al.|[2609.22070](http://arxiv.org/abs/2609.22070)|null|
 |**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Bingxin Xu et.al.|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
 |**2026-09-17**|**Embedding Models Measure in Peculiar Ways**|Juri Opitz et.al.|[2609.20821](http://arxiv.org/abs/2609.20821)|null|
 |**2026-09-17**|**SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos**|Peiyu Liu et.al.|[2609.20818](http://arxiv.org/abs/2609.20818)|null|
@@ -6875,6 +6925,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation**|Saksham Singh et.al.|[2609.22085](http://arxiv.org/abs/2609.22085)|null|
+|**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
+|**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[2609.22082](http://arxiv.org/abs/2609.22082)|null|
+|**2026-09-18**|**Cross-sector generalization of accident-process role classification in occupational accident narratives**|Aho Yapi et.al.|[2609.22081](http://arxiv.org/abs/2609.22081)|null|
+|**2026-09-18**|**Rotating Neutron Star Migrations as a Standardized Test for 3+1 Numerical Relativity**|Óscar H. Petit et.al.|[2609.22080](http://arxiv.org/abs/2609.22080)|null|
+|**2026-09-18**|**APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport**|Uchi Uchibeke et.al.|[2609.22076](http://arxiv.org/abs/2609.22076)|null|
+|**2026-09-18**|**LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control**|Jake Gonzales et.al.|[2609.22075](http://arxiv.org/abs/2609.22075)|null|
+|**2026-09-18**|**Duty Factor Predicts Robust Constrained Quadrupedal Locomotion Across Gait Types**|James Zhu et.al.|[2609.22073](http://arxiv.org/abs/2609.22073)|null|
+|**2026-09-18**|**Multi-Epoch Stability in the Rotational Modulation of the Planetary-Mass Companion Ross 458C**|Elena Manjavacas et.al.|[2609.22072](http://arxiv.org/abs/2609.22072)|null|
+|**2026-09-18**|**Discovery, Characterization, and Potential Origins of a Stream in the Stellar Halo of Nearby LMC-Mass Galaxy NGC 55**|Benjamin N. Velguth et.al.|[2609.22071](http://arxiv.org/abs/2609.22071)|null|
 |**2026-09-17**|**Environment Alignment and Redundant Record Formation in Imperfect-CNOT Quantum Darwinism**|Aleksander Lasek et.al.|[2609.20823](http://arxiv.org/abs/2609.20823)|null|
 |**2026-09-17**|**Embedding Models Measure in Peculiar Ways**|Juri Opitz et.al.|[2609.20821](http://arxiv.org/abs/2609.20821)|null|
 |**2026-09-17**|**Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision**|Nitish Dashora et.al.|[2609.20820](http://arxiv.org/abs/2609.20820)|null|
