@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Toward a Unified Mathematics of Concepts**|Chen Shani et.al.|[2609.24554](http://arxiv.org/abs/2609.24554)|null|
+|**2026-09-21**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
+|**2026-09-21**|**Positive formulas for q-Zeta numerators of Ferrers-cell posets**|Qihang Wang et.al.|[2609.24541](http://arxiv.org/abs/2609.24541)|null|
+|**2026-09-21**|**Incentive Noise and Structural Prior Infusion for Multi-modal Object Re-Identification**|Weixiang Zhou et.al.|[2609.24539](http://arxiv.org/abs/2609.24539)|null|
+|**2026-09-21**|**Premature re-entry of the FACSAT-2 nanosatellite: orbital decay and attribution to the maximum of solar cycle 25**|Santiago Vargas Dominguez et.al.|[2609.24534](http://arxiv.org/abs/2609.24534)|null|
+|**2026-09-21**|**Dynamic Thermal Gaussians: Multimodal 4D Gaussian Splatting**|Rongfeng Lu et.al.|[2609.24531](http://arxiv.org/abs/2609.24531)|null|
+|**2026-09-21**|**Bridge3D: Enabling Vision-Language-Action Models to See and Act in 3D**|Haoxuan Li et.al.|[2609.24525](http://arxiv.org/abs/2609.24525)|null|
+|**2026-09-21**|**Gauge invariants raised from commutators of unimodular Hopf algebras**|Zhihua Wang et.al.|[2609.24523](http://arxiv.org/abs/2609.24523)|null|
+|**2026-09-21**|**Braneworld tidal charge through the classical double copy**|Juan C. La Cruz et.al.|[2609.24521](http://arxiv.org/abs/2609.24521)|null|
+|**2026-09-21**|**AWE: Adaptive Weight Encoding for Exact Integer Matrix Products with Fewer GEMMs on FP4 Tensor Cores**|Shun-ichiro Hayashi et.al.|[2609.24519](http://arxiv.org/abs/2609.24519)|null|
 |**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
 |**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[2609.22082](http://arxiv.org/abs/2609.22082)|null|
 |**2026-09-18**|**Stellahedral Geometry of Partially Ordered Sets**|Tommaso Faustini et.al.|[2609.22078](http://arxiv.org/abs/2609.22078)|null|
@@ -1498,6 +1508,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Identifying Representational Biases in Datasets Using PCA: A Max-Disparity Partition Framework**|Arjun KM et.al.|[2609.24556](http://arxiv.org/abs/2609.24556)|null|
+|**2026-09-21**|**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**|Wai Kin Wong et.al.|[2609.24550](http://arxiv.org/abs/2609.24550)|null|
+|**2026-09-21**|**Interior estimates for Hessian quotient equations**|Guohuan Qiu et.al.|[2609.24549](http://arxiv.org/abs/2609.24549)|null|
+|**2026-09-21**|**Unused power surge compromises U.S. road vehicles sustainability**|Hugues Perraut et.al.|[2609.24543](http://arxiv.org/abs/2609.24543)|null|
+|**2026-09-21**|**The Generalized Lax Conjecture for Strictly Hyperbolic Polynomials**|Mario Kummer et.al.|[2609.24542](http://arxiv.org/abs/2609.24542)|null|
+|**2026-09-21**|**Incentive Noise and Structural Prior Infusion for Multi-modal Object Re-Identification**|Weixiang Zhou et.al.|[2609.24539](http://arxiv.org/abs/2609.24539)|null|
+|**2026-09-21**|**MIRAGE: Full-Body Bystander Privacy for Smart Glasses with Consent-Based Restoration**|Muhammad Umair et.al.|[2609.24537](http://arxiv.org/abs/2609.24537)|null|
+|**2026-09-21**|**Spectroscopic parameters of $B_c$ meson**|Sinem Küçükyılmaz et.al.|[2609.24536](http://arxiv.org/abs/2609.24536)|null|
+|**2026-09-21**|**Estimation and Control of Tensegrity Manipulator Kinematics based on Strut Inclination Angles**|Tufail Ahmad Bhat et.al.|[2609.24535](http://arxiv.org/abs/2609.24535)|null|
+|**2026-09-21**|**Dynamic Thermal Gaussians: Multimodal 4D Gaussian Splatting**|Rongfeng Lu et.al.|[2609.24531](http://arxiv.org/abs/2609.24531)|null|
 |**2026-09-18**|**Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design**|Hongyang Du et.al.|[2609.22086](http://arxiv.org/abs/2609.22086)|null|
 |**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
 |**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[2609.22082](http://arxiv.org/abs/2609.22082)|null|
@@ -2843,6 +2863,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Identifying Representational Biases in Datasets Using PCA: A Max-Disparity Partition Framework**|Arjun KM et.al.|[2609.24556](http://arxiv.org/abs/2609.24556)|null|
+|**2026-09-21**|**The Endless Exam: Mathematical Constructions from Today's Models toward Superintelligence**|Muhan Zhang et.al.|[2609.24555](http://arxiv.org/abs/2609.24555)|null|
+|**2026-09-21**|**A Proof of the Global Attractor Conjecture in a Special Case**|Carsten Wiuf et.al.|[2609.24553](http://arxiv.org/abs/2609.24553)|null|
+|**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Utsav Panchal et.al.|[2609.24552](http://arxiv.org/abs/2609.24552)|null|
+|**2026-09-21**|**Dirac-harmonic maps from manifolds with boundary via index theory**|Volker Branding et.al.|[2609.24551](http://arxiv.org/abs/2609.24551)|null|
+|**2026-09-21**|**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**|Wai Kin Wong et.al.|[2609.24550](http://arxiv.org/abs/2609.24550)|null|
+|**2026-09-21**|**Interior estimates for Hessian quotient equations**|Guohuan Qiu et.al.|[2609.24549](http://arxiv.org/abs/2609.24549)|null|
+|**2026-09-21**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
+|**2026-09-21**|**Density Collapse and Gradient Catastrophe in a One-Dimensional Euler--Poisson--Cattaneo System**|Qingsong Zhao et.al.|[2609.24546](http://arxiv.org/abs/2609.24546)|null|
+|**2026-09-21**|**Unused power surge compromises U.S. road vehicles sustainability**|Hugues Perraut et.al.|[2609.24543](http://arxiv.org/abs/2609.24543)|null|
 |**2026-09-18**|**Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design**|Hongyang Du et.al.|[2609.22086](http://arxiv.org/abs/2609.22086)|null|
 |**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[2609.22082](http://arxiv.org/abs/2609.22082)|null|
 |**2026-09-18**|**Cross-sector generalization of accident-process role classification in occupational accident narratives**|Aho Yapi et.al.|[2609.22081](http://arxiv.org/abs/2609.22081)|null|
@@ -4171,6 +4201,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**|Wai Kin Wong et.al.|[2609.24550](http://arxiv.org/abs/2609.24550)|null|
+|**2026-09-21**|**Affine Volterra covariance processes and application to commodity markets**|Boris Günther et.al.|[2609.24548](http://arxiv.org/abs/2609.24548)|null|
+|**2026-09-21**|**Density Collapse and Gradient Catastrophe in a One-Dimensional Euler--Poisson--Cattaneo System**|Qingsong Zhao et.al.|[2609.24546](http://arxiv.org/abs/2609.24546)|null|
+|**2026-09-21**|**Positive formulas for q-Zeta numerators of Ferrers-cell posets**|Qihang Wang et.al.|[2609.24541](http://arxiv.org/abs/2609.24541)|null|
+|**2026-09-21**|**QLoRA Fine-Tuning of Ministral LLM for Sequence-to-Function Protein Annotation**|Demian Pavlyshenko et.al.|[2609.24538](http://arxiv.org/abs/2609.24538)|null|
+|**2026-09-21**|**Spectroscopic parameters of $B_c$ meson**|Sinem Küçükyılmaz et.al.|[2609.24536](http://arxiv.org/abs/2609.24536)|null|
+|**2026-09-21**|**Premature re-entry of the FACSAT-2 nanosatellite: orbital decay and attribution to the maximum of solar cycle 25**|Santiago Vargas Dominguez et.al.|[2609.24534](http://arxiv.org/abs/2609.24534)|null|
+|**2026-09-21**|**Beyond Point Prediction: Artificial Representative Trees with Uncertainty**|Lea L. Mairhöfer et.al.|[2609.24528](http://arxiv.org/abs/2609.24528)|null|
+|**2026-09-21**|**Probing Massive Invisible Dark Photons in Higgs Decays via Gluon--Gluon Fusion at ATLAS Run 3**|Waqas Ahmed et.al.|[2609.24527](http://arxiv.org/abs/2609.24527)|null|
+|**2026-09-21**|**Gauge invariants raised from commutators of unimodular Hopf algebras**|Zhihua Wang et.al.|[2609.24523](http://arxiv.org/abs/2609.24523)|null|
 |**2026-09-18**|**Cross-sector generalization of accident-process role classification in occupational accident narratives**|Aho Yapi et.al.|[2609.22081](http://arxiv.org/abs/2609.22081)|null|
 |**2026-09-18**|**LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control**|Jake Gonzales et.al.|[2609.22075](http://arxiv.org/abs/2609.22075)|null|
 |**2026-09-18**|**Discovery, Characterization, and Potential Origins of a Stream in the Stellar Halo of Nearby LMC-Mass Galaxy NGC 55**|Benjamin N. Velguth et.al.|[2609.22071](http://arxiv.org/abs/2609.22071)|null|
@@ -5549,6 +5589,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**The Endless Exam: Mathematical Constructions from Today's Models toward Superintelligence**|Muhan Zhang et.al.|[2609.24555](http://arxiv.org/abs/2609.24555)|null|
+|**2026-09-21**|**Toward a Unified Mathematics of Concepts**|Chen Shani et.al.|[2609.24554](http://arxiv.org/abs/2609.24554)|null|
+|**2026-09-21**|**A Proof of the Global Attractor Conjecture in a Special Case**|Carsten Wiuf et.al.|[2609.24553](http://arxiv.org/abs/2609.24553)|null|
+|**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Utsav Panchal et.al.|[2609.24552](http://arxiv.org/abs/2609.24552)|null|
+|**2026-09-21**|**Dirac-harmonic maps from manifolds with boundary via index theory**|Volker Branding et.al.|[2609.24551](http://arxiv.org/abs/2609.24551)|null|
+|**2026-09-21**|**Interior estimates for Hessian quotient equations**|Guohuan Qiu et.al.|[2609.24549](http://arxiv.org/abs/2609.24549)|null|
+|**2026-09-21**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
+|**2026-09-21**|**Density Collapse and Gradient Catastrophe in a One-Dimensional Euler--Poisson--Cattaneo System**|Qingsong Zhao et.al.|[2609.24546](http://arxiv.org/abs/2609.24546)|null|
+|**2026-09-21**|**The Generalized Lax Conjecture for Strictly Hyperbolic Polynomials**|Mario Kummer et.al.|[2609.24542](http://arxiv.org/abs/2609.24542)|null|
+|**2026-09-21**|**Positive formulas for q-Zeta numerators of Ferrers-cell posets**|Qihang Wang et.al.|[2609.24541](http://arxiv.org/abs/2609.24541)|null|
 |**2026-09-18**|**SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation**|Saksham Singh et.al.|[2609.22085](http://arxiv.org/abs/2609.22085)|null|
 |**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[2609.22082](http://arxiv.org/abs/2609.22082)|null|
 |**2026-09-18**|**Cross-sector generalization of accident-process role classification in occupational accident narratives**|Aho Yapi et.al.|[2609.22081](http://arxiv.org/abs/2609.22081)|null|
@@ -6925,6 +6975,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Identifying Representational Biases in Datasets Using PCA: A Max-Disparity Partition Framework**|Arjun KM et.al.|[2609.24556](http://arxiv.org/abs/2609.24556)|null|
+|**2026-09-21**|**The Endless Exam: Mathematical Constructions from Today's Models toward Superintelligence**|Muhan Zhang et.al.|[2609.24555](http://arxiv.org/abs/2609.24555)|null|
+|**2026-09-21**|**Toward a Unified Mathematics of Concepts**|Chen Shani et.al.|[2609.24554](http://arxiv.org/abs/2609.24554)|null|
+|**2026-09-21**|**A Proof of the Global Attractor Conjecture in a Special Case**|Carsten Wiuf et.al.|[2609.24553](http://arxiv.org/abs/2609.24553)|null|
+|**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Utsav Panchal et.al.|[2609.24552](http://arxiv.org/abs/2609.24552)|null|
+|**2026-09-21**|**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**|Wai Kin Wong et.al.|[2609.24550](http://arxiv.org/abs/2609.24550)|null|
+|**2026-09-21**|**Interior estimates for Hessian quotient equations**|Guohuan Qiu et.al.|[2609.24549](http://arxiv.org/abs/2609.24549)|null|
+|**2026-09-21**|**Affine Volterra covariance processes and application to commodity markets**|Boris Günther et.al.|[2609.24548](http://arxiv.org/abs/2609.24548)|null|
+|**2026-09-21**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
+|**2026-09-21**|**Density Collapse and Gradient Catastrophe in a One-Dimensional Euler--Poisson--Cattaneo System**|Qingsong Zhao et.al.|[2609.24546](http://arxiv.org/abs/2609.24546)|null|
 |**2026-09-18**|**SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation**|Saksham Singh et.al.|[2609.22085](http://arxiv.org/abs/2609.22085)|null|
 |**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
 |**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[2609.22082](http://arxiv.org/abs/2609.22082)|null|
