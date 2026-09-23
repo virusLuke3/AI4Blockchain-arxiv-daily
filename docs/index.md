@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**The First Blind Survey of Intervening NaI Absorbers: Incidence and Cosmic Evolution with DESI**|Abhijeet Anand et.al.|[2609.26794](http://arxiv.org/abs/2609.26794)|null|
+|**2026-09-22**|**HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis**|Shufan Sun et.al.|[2609.26793](http://arxiv.org/abs/2609.26793)|null|
+|**2026-09-22**|**Cascade mechanisms for Navier-Stokes blow-up**|Alexey Cheskidov et.al.|[2609.26790](http://arxiv.org/abs/2609.26790)|null|
+|**2026-09-22**|**Polylogarithmic Collective Tree Exploration**|Romain Cosson et.al.|[2609.26789](http://arxiv.org/abs/2609.26789)|null|
+|**2026-09-22**|**Quantum Advantage for Distributed Symmetry Breaking**|Maxime Flin et.al.|[2609.26788](http://arxiv.org/abs/2609.26788)|null|
+|**2026-09-22**|**Extreme values of central $L$ -derivatives and heights of Heegner points**|Mohammad H. Hamdar et.al.|[2609.26786](http://arxiv.org/abs/2609.26786)|null|
+|**2026-09-22**|**The BRIDGE Survey. I. Metallicities and Physical Properties of Gas Probing the Circumgalactic Medium at Cosmic Noon**|Saloni Deepak et.al.|[2609.26785](http://arxiv.org/abs/2609.26785)|null|
+|**2026-09-22**|**Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery**|Daniel Dilley et.al.|[2609.26784](http://arxiv.org/abs/2609.26784)|null|
+|**2026-09-22**|**A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing**|Xiaoxing Ren et.al.|[2609.26783](http://arxiv.org/abs/2609.26783)|null|
+|**2026-09-22**|**SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue**|Haobo Zheng et.al.|[2609.26780](http://arxiv.org/abs/2609.26780)|null|
 |**2026-09-21**|**Toward a Unified Mathematics of Concepts**|Chen Shani et.al.|[2609.24554](http://arxiv.org/abs/2609.24554)|null|
 |**2026-09-21**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
 |**2026-09-21**|**Positive formulas for q-Zeta numerators of Ferrers-cell posets**|Qihang Wang et.al.|[2609.24541](http://arxiv.org/abs/2609.24541)|null|
@@ -1508,6 +1518,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
+|**2026-09-22**|**φ-RIE: From Photorealistic Reconstruction to Interactive Environments**|Runyi Yang et.al.|[2609.26795](http://arxiv.org/abs/2609.26795)|null|
+|**2026-09-22**|**The First Blind Survey of Intervening NaI Absorbers: Incidence and Cosmic Evolution with DESI**|Abhijeet Anand et.al.|[2609.26794](http://arxiv.org/abs/2609.26794)|null|
+|**2026-09-22**|**HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis**|Shufan Sun et.al.|[2609.26793](http://arxiv.org/abs/2609.26793)|null|
+|**2026-09-22**|**DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving**|Ziyang Leng et.al.|[2609.26792](http://arxiv.org/abs/2609.26792)|null|
+|**2026-09-22**|**Polylogarithmic Collective Tree Exploration**|Romain Cosson et.al.|[2609.26789](http://arxiv.org/abs/2609.26789)|null|
+|**2026-09-22**|**The BRIDGE Survey. I. Metallicities and Physical Properties of Gas Probing the Circumgalactic Medium at Cosmic Noon**|Saloni Deepak et.al.|[2609.26785](http://arxiv.org/abs/2609.26785)|null|
+|**2026-09-22**|**A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing**|Xiaoxing Ren et.al.|[2609.26783](http://arxiv.org/abs/2609.26783)|null|
+|**2026-09-22**|**Comparing phylogenetic trees of stars with spectral graph distances**|Theosamuele Signor et.al.|[2609.26782](http://arxiv.org/abs/2609.26782)|null|
+|**2026-09-22**|**CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents**|Trang Nguyen et.al.|[2609.26779](http://arxiv.org/abs/2609.26779)|null|
 |**2026-09-21**|**Identifying Representational Biases in Datasets Using PCA: A Max-Disparity Partition Framework**|Arjun KM et.al.|[2609.24556](http://arxiv.org/abs/2609.24556)|null|
 |**2026-09-21**|**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**|Wai Kin Wong et.al.|[2609.24550](http://arxiv.org/abs/2609.24550)|null|
 |**2026-09-21**|**Interior estimates for Hessian quotient equations**|Guohuan Qiu et.al.|[2609.24549](http://arxiv.org/abs/2609.24549)|null|
@@ -2863,6 +2883,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
+|**2026-09-22**|**The First Blind Survey of Intervening NaI Absorbers: Incidence and Cosmic Evolution with DESI**|Abhijeet Anand et.al.|[2609.26794](http://arxiv.org/abs/2609.26794)|null|
+|**2026-09-22**|**Cascade mechanisms for Navier-Stokes blow-up**|Alexey Cheskidov et.al.|[2609.26790](http://arxiv.org/abs/2609.26790)|null|
+|**2026-09-22**|**Polylogarithmic Collective Tree Exploration**|Romain Cosson et.al.|[2609.26789](http://arxiv.org/abs/2609.26789)|null|
+|**2026-09-22**|**Quantum Advantage for Distributed Symmetry Breaking**|Maxime Flin et.al.|[2609.26788](http://arxiv.org/abs/2609.26788)|null|
+|**2026-09-22**|**Extreme values of central $L$ -derivatives and heights of Heegner points**|Mohammad H. Hamdar et.al.|[2609.26786](http://arxiv.org/abs/2609.26786)|null|
+|**2026-09-22**|**Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery**|Daniel Dilley et.al.|[2609.26784](http://arxiv.org/abs/2609.26784)|null|
+|**2026-09-22**|**A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing**|Xiaoxing Ren et.al.|[2609.26783](http://arxiv.org/abs/2609.26783)|null|
+|**2026-09-22**|**Comparing phylogenetic trees of stars with spectral graph distances**|Theosamuele Signor et.al.|[2609.26782](http://arxiv.org/abs/2609.26782)|null|
+|**2026-09-22**|**Agensh: Scaling Organizational Intelligence to 1,024 Agents**|Zhihao Zhan et.al.|[2609.26781](http://arxiv.org/abs/2609.26781)|null|
 |**2026-09-21**|**Identifying Representational Biases in Datasets Using PCA: A Max-Disparity Partition Framework**|Arjun KM et.al.|[2609.24556](http://arxiv.org/abs/2609.24556)|null|
 |**2026-09-21**|**The Endless Exam: Mathematical Constructions from Today's Models toward Superintelligence**|Muhan Zhang et.al.|[2609.24555](http://arxiv.org/abs/2609.24555)|null|
 |**2026-09-21**|**A Proof of the Global Attractor Conjecture in a Special Case**|Carsten Wiuf et.al.|[2609.24553](http://arxiv.org/abs/2609.24553)|null|
@@ -4201,6 +4231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
+|**2026-09-22**|**Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery**|Daniel Dilley et.al.|[2609.26784](http://arxiv.org/abs/2609.26784)|null|
+|**2026-09-22**|**A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing**|Xiaoxing Ren et.al.|[2609.26783](http://arxiv.org/abs/2609.26783)|null|
+|**2026-09-22**|**Comparing phylogenetic trees of stars with spectral graph distances**|Theosamuele Signor et.al.|[2609.26782](http://arxiv.org/abs/2609.26782)|null|
+|**2026-09-22**|**An Exponential Succinctness Gap between Three-Variable Logic and the Calculus of Relations**|Yuya Uezato et.al.|[2609.26778](http://arxiv.org/abs/2609.26778)|null|
+|**2026-09-22**|**Optical Ion Clock with Engineered Immunity to Motion-Induced Frequency Shifts**|Mark Lide et.al.|[2609.26775](http://arxiv.org/abs/2609.26775)|null|
+|**2026-09-22**|**Empirical Bayes prepivoting under group invariance: false discovery rate control and moderated t-tests**|Nikolaos Ignatiadis et.al.|[2609.26764](http://arxiv.org/abs/2609.26764)|null|
+|**2026-09-22**|**A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem**|Laizhen Li et.al.|[2609.26761](http://arxiv.org/abs/2609.26761)|null|
+|**2026-09-22**|**Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents**|Laizhen Li et.al.|[2609.26760](http://arxiv.org/abs/2609.26760)|null|
+|**2026-09-22**|**Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It**|Yu Sun et.al.|[2609.26758](http://arxiv.org/abs/2609.26758)|null|
 |**2026-09-21**|**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**|Wai Kin Wong et.al.|[2609.24550](http://arxiv.org/abs/2609.24550)|null|
 |**2026-09-21**|**Affine Volterra covariance processes and application to commodity markets**|Boris Günther et.al.|[2609.24548](http://arxiv.org/abs/2609.24548)|null|
 |**2026-09-21**|**Density Collapse and Gradient Catastrophe in a One-Dimensional Euler--Poisson--Cattaneo System**|Qingsong Zhao et.al.|[2609.24546](http://arxiv.org/abs/2609.24546)|null|
@@ -5589,6 +5629,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
+|**2026-09-22**|**The First Blind Survey of Intervening NaI Absorbers: Incidence and Cosmic Evolution with DESI**|Abhijeet Anand et.al.|[2609.26794](http://arxiv.org/abs/2609.26794)|null|
+|**2026-09-22**|**Fully Discrete Multi-Entropy Stability of High-Order Schemes for Compressible MHD: A Weak-to-Strong Framework**|Huihui Cao et.al.|[2609.26791](http://arxiv.org/abs/2609.26791)|null|
+|**2026-09-22**|**Cascade mechanisms for Navier-Stokes blow-up**|Alexey Cheskidov et.al.|[2609.26790](http://arxiv.org/abs/2609.26790)|null|
+|**2026-09-22**|**Polylogarithmic Collective Tree Exploration**|Romain Cosson et.al.|[2609.26789](http://arxiv.org/abs/2609.26789)|null|
+|**2026-09-22**|**A finite arithmetic form of Robin's inequality and its equivalence to the Riemann hypothesis**|Challenger Mishra et.al.|[2609.26787](http://arxiv.org/abs/2609.26787)|null|
+|**2026-09-22**|**Extreme values of central $L$ -derivatives and heights of Heegner points**|Mohammad H. Hamdar et.al.|[2609.26786](http://arxiv.org/abs/2609.26786)|null|
+|**2026-09-22**|**Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery**|Daniel Dilley et.al.|[2609.26784](http://arxiv.org/abs/2609.26784)|null|
+|**2026-09-22**|**A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing**|Xiaoxing Ren et.al.|[2609.26783](http://arxiv.org/abs/2609.26783)|null|
+|**2026-09-22**|**Comparing phylogenetic trees of stars with spectral graph distances**|Theosamuele Signor et.al.|[2609.26782](http://arxiv.org/abs/2609.26782)|null|
 |**2026-09-21**|**The Endless Exam: Mathematical Constructions from Today's Models toward Superintelligence**|Muhan Zhang et.al.|[2609.24555](http://arxiv.org/abs/2609.24555)|null|
 |**2026-09-21**|**Toward a Unified Mathematics of Concepts**|Chen Shani et.al.|[2609.24554](http://arxiv.org/abs/2609.24554)|null|
 |**2026-09-21**|**A Proof of the Global Attractor Conjecture in a Special Case**|Carsten Wiuf et.al.|[2609.24553](http://arxiv.org/abs/2609.24553)|null|
@@ -6975,6 +7025,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
+|**2026-09-22**|**HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis**|Shufan Sun et.al.|[2609.26793](http://arxiv.org/abs/2609.26793)|null|
+|**2026-09-22**|**Fully Discrete Multi-Entropy Stability of High-Order Schemes for Compressible MHD: A Weak-to-Strong Framework**|Huihui Cao et.al.|[2609.26791](http://arxiv.org/abs/2609.26791)|null|
+|**2026-09-22**|**Cascade mechanisms for Navier-Stokes blow-up**|Alexey Cheskidov et.al.|[2609.26790](http://arxiv.org/abs/2609.26790)|null|
+|**2026-09-22**|**Polylogarithmic Collective Tree Exploration**|Romain Cosson et.al.|[2609.26789](http://arxiv.org/abs/2609.26789)|null|
+|**2026-09-22**|**Quantum Advantage for Distributed Symmetry Breaking**|Maxime Flin et.al.|[2609.26788](http://arxiv.org/abs/2609.26788)|null|
+|**2026-09-22**|**A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing**|Xiaoxing Ren et.al.|[2609.26783](http://arxiv.org/abs/2609.26783)|null|
+|**2026-09-22**|**Comparing phylogenetic trees of stars with spectral graph distances**|Theosamuele Signor et.al.|[2609.26782](http://arxiv.org/abs/2609.26782)|null|
+|**2026-09-22**|**SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue**|Haobo Zheng et.al.|[2609.26780](http://arxiv.org/abs/2609.26780)|null|
+|**2026-09-22**|**CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents**|Trang Nguyen et.al.|[2609.26779](http://arxiv.org/abs/2609.26779)|null|
 |**2026-09-21**|**Identifying Representational Biases in Datasets Using PCA: A Max-Disparity Partition Framework**|Arjun KM et.al.|[2609.24556](http://arxiv.org/abs/2609.24556)|null|
 |**2026-09-21**|**The Endless Exam: Mathematical Constructions from Today's Models toward Superintelligence**|Muhan Zhang et.al.|[2609.24555](http://arxiv.org/abs/2609.24555)|null|
 |**2026-09-21**|**Toward a Unified Mathematics of Concepts**|Chen Shani et.al.|[2609.24554](http://arxiv.org/abs/2609.24554)|null|
