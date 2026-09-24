@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Hutch#: Optimal non-adaptive Frobenius norm estimation**|Tyler Chen et.al.|[2609.28472](http://arxiv.org/abs/2609.28472)|null|
+|**2026-09-23**|**StudentBench: AI and human tutoring yield equivalent GRE learning gains**|Curtis Northcutt et.al.|[2609.28470](http://arxiv.org/abs/2609.28470)|null|
+|**2026-09-23**|**Compressed Permutation Oracles Revisited**|Joseph Carolan et.al.|[2609.28469](http://arxiv.org/abs/2609.28469)|null|
+|**2026-09-23**|**Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites**|Shaun Tan et.al.|[2609.28468](http://arxiv.org/abs/2609.28468)|null|
+|**2026-09-23**|**The Spectra of the Henze-Zirkler and Henze-Wagner Operators for BHEP Tests**|Bruno Ebner et.al.|[2609.28464](http://arxiv.org/abs/2609.28464)|null|
+|**2026-09-23**|**On the multicolour Ramsey numbers $R(3,3,k)$**|Bruno Andrades et.al.|[2609.28455](http://arxiv.org/abs/2609.28455)|null|
+|**2026-09-23**|**Global well-posedness and scattering for mass-critical Hartree equation**|Zuyu Ma et.al.|[2609.28454](http://arxiv.org/abs/2609.28454)|null|
+|**2026-09-23**|**Stochastic Domination of Gaussian Maxima by the Regular Simplex**|Abhijeet Mulgund et.al.|[2609.28452](http://arxiv.org/abs/2609.28452)|null|
+|**2026-09-23**|**Inter-Temporal Price Constraints in Dynamic Pricing: Performance Guarantees Under Price Monotonicity and Promotion Fatigue**|Weiyuan Li et.al.|[2609.28451](http://arxiv.org/abs/2609.28451)|null|
+|**2026-09-23**|**Spatial-Spectral Trade-offs in Metasurface-Based Snapshot Hyperspectral Imaging**|Liam Fitzpatrick et.al.|[2609.28450](http://arxiv.org/abs/2609.28450)|null|
 |**2026-09-22**|**The First Blind Survey of Intervening NaI Absorbers: Incidence and Cosmic Evolution with DESI**|Abhijeet Anand et.al.|[2609.26794](http://arxiv.org/abs/2609.26794)|null|
 |**2026-09-22**|**HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis**|Shufan Sun et.al.|[2609.26793](http://arxiv.org/abs/2609.26793)|null|
 |**2026-09-22**|**Cascade mechanisms for Navier-Stokes blow-up**|Alexey Cheskidov et.al.|[2609.26790](http://arxiv.org/abs/2609.26790)|null|
@@ -1518,6 +1528,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**A sub-100 pc view at z~5 of a Multiply-Imaged Massive Quiescent Galaxy**|Richard Pan et.al.|[2609.28474](http://arxiv.org/abs/2609.28474)|null|
+|**2026-09-23**|**On the Diffusibility of High-Dimensional Latents**|Chao Feng et.al.|[2609.28473](http://arxiv.org/abs/2609.28473)|null|
+|**2026-09-23**|**Hutch#: Optimal non-adaptive Frobenius norm estimation**|Tyler Chen et.al.|[2609.28472](http://arxiv.org/abs/2609.28472)|null|
+|**2026-09-23**|**Compressed Permutation Oracles Revisited**|Joseph Carolan et.al.|[2609.28469](http://arxiv.org/abs/2609.28469)|null|
+|**2026-09-23**|**The Past Frames the Future: Memory for Autoregressive Video Generation**|Harold Haodong Chen et.al.|[2609.28466](http://arxiv.org/abs/2609.28466)|null|
+|**2026-09-23**|**Inter-Temporal Price Constraints in Dynamic Pricing: Performance Guarantees Under Price Monotonicity and Promotion Fatigue**|Weiyuan Li et.al.|[2609.28451](http://arxiv.org/abs/2609.28451)|null|
+|**2026-09-23**|**Spatial-Spectral Trade-offs in Metasurface-Based Snapshot Hyperspectral Imaging**|Liam Fitzpatrick et.al.|[2609.28450](http://arxiv.org/abs/2609.28450)|null|
+|**2026-09-23**|**A Spectral Proof of Khachiyan's Ellipsoid Conjecture**|Zhou Longfei et.al.|[2609.28447](http://arxiv.org/abs/2609.28447)|null|
+|**2026-09-23**|**Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning**|Zhixu Silvia Tao et.al.|[2609.28442](http://arxiv.org/abs/2609.28442)|null|
+|**2026-09-23**|**Sharp pairwise reduction for quantum hypothesis testing**|Kuan-Yi Lee et.al.|[2609.28440](http://arxiv.org/abs/2609.28440)|null|
 |**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
 |**2026-09-22**|**φ-RIE: From Photorealistic Reconstruction to Interactive Environments**|Runyi Yang et.al.|[2609.26795](http://arxiv.org/abs/2609.26795)|null|
 |**2026-09-22**|**The First Blind Survey of Intervening NaI Absorbers: Incidence and Cosmic Evolution with DESI**|Abhijeet Anand et.al.|[2609.26794](http://arxiv.org/abs/2609.26794)|null|
@@ -2883,6 +2903,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Hutch#: Optimal non-adaptive Frobenius norm estimation**|Tyler Chen et.al.|[2609.28472](http://arxiv.org/abs/2609.28472)|null|
+|**2026-09-23**|**StudentBench: AI and human tutoring yield equivalent GRE learning gains**|Curtis Northcutt et.al.|[2609.28470](http://arxiv.org/abs/2609.28470)|null|
+|**2026-09-23**|**Compressed Permutation Oracles Revisited**|Joseph Carolan et.al.|[2609.28469](http://arxiv.org/abs/2609.28469)|null|
+|**2026-09-23**|**The Past Frames the Future: Memory for Autoregressive Video Generation**|Harold Haodong Chen et.al.|[2609.28466](http://arxiv.org/abs/2609.28466)|null|
+|**2026-09-23**|**Constructing Rational Curves via Jets on Projective Varieties with Non-Nef Canonical Bundle**|Bin Dong et.al.|[2609.28465](http://arxiv.org/abs/2609.28465)|null|
+|**2026-09-23**|**The Spectra of the Henze-Zirkler and Henze-Wagner Operators for BHEP Tests**|Bruno Ebner et.al.|[2609.28464](http://arxiv.org/abs/2609.28464)|null|
+|**2026-09-23**|**Market Completeness and Optional Projections under Restricted Information**|Levin David Schwab et.al.|[2609.28463](http://arxiv.org/abs/2609.28463)|null|
+|**2026-09-23**|**Purely-logarithmic-time- and constant-space-overhead fault-tolerant quantum computation**|Zhengyi Han et.al.|[2609.28461](http://arxiv.org/abs/2609.28461)|null|
+|**2026-09-23**|**First Pre-peak Ultraviolet Spectrum of a Tidal Disruption Event: A Fast Outflow Revealed Prior to Maximum Light in TDE2025aarm**|Erica Hammerstein et.al.|[2609.28460](http://arxiv.org/abs/2609.28460)|null|
+|**2026-09-23**|**Even Sharper Bounds for Transductive Learning and Its Applications**|Yingzhen Yang et.al.|[2609.28459](http://arxiv.org/abs/2609.28459)|null|
 |**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
 |**2026-09-22**|**The First Blind Survey of Intervening NaI Absorbers: Incidence and Cosmic Evolution with DESI**|Abhijeet Anand et.al.|[2609.26794](http://arxiv.org/abs/2609.26794)|null|
 |**2026-09-22**|**Cascade mechanisms for Navier-Stokes blow-up**|Alexey Cheskidov et.al.|[2609.26790](http://arxiv.org/abs/2609.26790)|null|
@@ -4231,6 +4261,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**A sub-100 pc view at z~5 of a Multiply-Imaged Massive Quiescent Galaxy**|Richard Pan et.al.|[2609.28474](http://arxiv.org/abs/2609.28474)|null|
+|**2026-09-23**|**Hutch#: Optimal non-adaptive Frobenius norm estimation**|Tyler Chen et.al.|[2609.28472](http://arxiv.org/abs/2609.28472)|null|
+|**2026-09-23**|**StudentBench: AI and human tutoring yield equivalent GRE learning gains**|Curtis Northcutt et.al.|[2609.28470](http://arxiv.org/abs/2609.28470)|null|
+|**2026-09-23**|**Compressed Permutation Oracles Revisited**|Joseph Carolan et.al.|[2609.28469](http://arxiv.org/abs/2609.28469)|null|
+|**2026-09-23**|**Market Completeness and Optional Projections under Restricted Information**|Levin David Schwab et.al.|[2609.28463](http://arxiv.org/abs/2609.28463)|null|
+|**2026-09-23**|**Detecting Structural Changes in High-Dimensional Multivariate Regression Models**|Haoran Li et.al.|[2609.28462](http://arxiv.org/abs/2609.28462)|null|
+|**2026-09-23**|**Even Sharper Bounds for Transductive Learning and Its Applications**|Yingzhen Yang et.al.|[2609.28459](http://arxiv.org/abs/2609.28459)|null|
+|**2026-09-23**|**Convergence of a fully discrete finite element method for the Beris-Edwards system of liquid crystal dynamics**|Gonzalo A. Benavides et.al.|[2609.28444](http://arxiv.org/abs/2609.28444)|null|
+|**2026-09-23**|**Sharp pairwise reduction for quantum hypothesis testing**|Kuan-Yi Lee et.al.|[2609.28440](http://arxiv.org/abs/2609.28440)|null|
+|**2026-09-23**|**Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Languages and Clinical Paradigms**|Wenjie Feng et.al.|[2609.28430](http://arxiv.org/abs/2609.28430)|null|
 |**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
 |**2026-09-22**|**Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery**|Daniel Dilley et.al.|[2609.26784](http://arxiv.org/abs/2609.26784)|null|
 |**2026-09-22**|**A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing**|Xiaoxing Ren et.al.|[2609.26783](http://arxiv.org/abs/2609.26783)|null|
@@ -5629,6 +5669,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Contrastive Learning for Authorship Verification**|Peter Kirby et.al.|[2609.28471](http://arxiv.org/abs/2609.28471)|null|
+|**2026-09-23**|**Compressed Permutation Oracles Revisited**|Joseph Carolan et.al.|[2609.28469](http://arxiv.org/abs/2609.28469)|null|
+|**2026-09-23**|**The Past Frames the Future: Memory for Autoregressive Video Generation**|Harold Haodong Chen et.al.|[2609.28466](http://arxiv.org/abs/2609.28466)|null|
+|**2026-09-23**|**Constructing Rational Curves via Jets on Projective Varieties with Non-Nef Canonical Bundle**|Bin Dong et.al.|[2609.28465](http://arxiv.org/abs/2609.28465)|null|
+|**2026-09-23**|**The Spectra of the Henze-Zirkler and Henze-Wagner Operators for BHEP Tests**|Bruno Ebner et.al.|[2609.28464](http://arxiv.org/abs/2609.28464)|null|
+|**2026-09-23**|**Market Completeness and Optional Projections under Restricted Information**|Levin David Schwab et.al.|[2609.28463](http://arxiv.org/abs/2609.28463)|null|
+|**2026-09-23**|**Detecting Structural Changes in High-Dimensional Multivariate Regression Models**|Haoran Li et.al.|[2609.28462](http://arxiv.org/abs/2609.28462)|null|
+|**2026-09-23**|**Purely-logarithmic-time- and constant-space-overhead fault-tolerant quantum computation**|Zhengyi Han et.al.|[2609.28461](http://arxiv.org/abs/2609.28461)|null|
+|**2026-09-23**|**First Pre-peak Ultraviolet Spectrum of a Tidal Disruption Event: A Fast Outflow Revealed Prior to Maximum Light in TDE2025aarm**|Erica Hammerstein et.al.|[2609.28460](http://arxiv.org/abs/2609.28460)|null|
+|**2026-09-23**|**Even Sharper Bounds for Transductive Learning and Its Applications**|Yingzhen Yang et.al.|[2609.28459](http://arxiv.org/abs/2609.28459)|null|
 |**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
 |**2026-09-22**|**The First Blind Survey of Intervening NaI Absorbers: Incidence and Cosmic Evolution with DESI**|Abhijeet Anand et.al.|[2609.26794](http://arxiv.org/abs/2609.26794)|null|
 |**2026-09-22**|**Fully Discrete Multi-Entropy Stability of High-Order Schemes for Compressible MHD: A Weak-to-Strong Framework**|Huihui Cao et.al.|[2609.26791](http://arxiv.org/abs/2609.26791)|null|
@@ -7025,6 +7075,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**On the Diffusibility of High-Dimensional Latents**|Chao Feng et.al.|[2609.28473](http://arxiv.org/abs/2609.28473)|null|
+|**2026-09-23**|**Hutch#: Optimal non-adaptive Frobenius norm estimation**|Tyler Chen et.al.|[2609.28472](http://arxiv.org/abs/2609.28472)|null|
+|**2026-09-23**|**Contrastive Learning for Authorship Verification**|Peter Kirby et.al.|[2609.28471](http://arxiv.org/abs/2609.28471)|null|
+|**2026-09-23**|**StudentBench: AI and human tutoring yield equivalent GRE learning gains**|Curtis Northcutt et.al.|[2609.28470](http://arxiv.org/abs/2609.28470)|null|
+|**2026-09-23**|**Compressed Permutation Oracles Revisited**|Joseph Carolan et.al.|[2609.28469](http://arxiv.org/abs/2609.28469)|null|
+|**2026-09-23**|**Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites**|Shaun Tan et.al.|[2609.28468](http://arxiv.org/abs/2609.28468)|null|
+|**2026-09-23**|**Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction**|Zilin Fang et.al.|[2609.28467](http://arxiv.org/abs/2609.28467)|null|
+|**2026-09-23**|**The Past Frames the Future: Memory for Autoregressive Video Generation**|Harold Haodong Chen et.al.|[2609.28466](http://arxiv.org/abs/2609.28466)|null|
+|**2026-09-23**|**The Spectra of the Henze-Zirkler and Henze-Wagner Operators for BHEP Tests**|Bruno Ebner et.al.|[2609.28464](http://arxiv.org/abs/2609.28464)|null|
+|**2026-09-23**|**Market Completeness and Optional Projections under Restricted Information**|Levin David Schwab et.al.|[2609.28463](http://arxiv.org/abs/2609.28463)|null|
 |**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
 |**2026-09-22**|**HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis**|Shufan Sun et.al.|[2609.26793](http://arxiv.org/abs/2609.26793)|null|
 |**2026-09-22**|**Fully Discrete Multi-Entropy Stability of High-Order Schemes for Compressible MHD: A Weak-to-Strong Framework**|Huihui Cao et.al.|[2609.26791](http://arxiv.org/abs/2609.26791)|null|
