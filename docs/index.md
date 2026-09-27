@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.26
+## Updated on 2026.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -5719,6 +5719,14 @@ layout: default
 |**2026-09-24**|**Forte: A sensitivity type system for imperative Rust**|Chiké Abuah et.al.|[2609.30254](http://arxiv.org/abs/2609.30254)|null|
 |**2026-09-24**|**How Not to Build Microcrypt**|Aditya Gulati et.al.|[2609.30253](http://arxiv.org/abs/2609.30253)|null|
 |**2026-09-24**|**Simulating the thermodynamics of gas, radiation, and multispecies dust: Method and applications to protoplanetary disks**|Dhruv Muley et.al.|[2609.30252](http://arxiv.org/abs/2609.30252)|null|
+|**2026-09-24**|**Proximity operator of the weighted squared $\ell_{2,\infty}$ norm with applications**|Sergio López-Rivera et.al.|[2609.30237](http://arxiv.org/abs/2609.30237)|null|
+|**2026-09-24**|**Frobenius lifts and point counting for smooth curves**|Amnon Besser et.al.|[2609.30236](http://arxiv.org/abs/2609.30236)|null|
+|**2026-09-24**|**TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations**|Ayush Jain et.al.|[2609.30222](http://arxiv.org/abs/2609.30222)|null|
+|**2026-09-24**|**ReVAMP: Vector-Accelerated Motion Planning for Kinematically-Constrained Systems via Reparameterization**|Shrutheesh R. Iyer et.al.|[2609.30213](http://arxiv.org/abs/2609.30213)|null|
+|**2026-09-24**|**The Dynamical Radius of Comparison for C*-Dynamical Systems**|M. Ali Asadi-Vasfi et.al.|[2609.30211](http://arxiv.org/abs/2609.30211)|null|
+|**2026-09-24**|**Localization near the edge for the lattice Anderson-Bernoulli model on general dimension**|Linjun Li et.al.|[2609.30209](http://arxiv.org/abs/2609.30209)|null|
+|**2026-09-24**|**Diophantine approximation by primes and Landau--Siegel zeros**|Sun-Kai Leung et.al.|[2609.30207](http://arxiv.org/abs/2609.30207)|null|
+|**2026-09-24**|**On the Binary Rank of Matrices with Constant Real Rank**|Michal Parnas et.al.|[2609.30203](http://arxiv.org/abs/2609.30203)|null|
 |**2026-09-23**|**Contrastive Learning for Authorship Verification**|Peter Kirby et.al.|[2609.28471](http://arxiv.org/abs/2609.28471)|null|
 |**2026-09-23**|**Compressed Permutation Oracles Revisited**|Joseph Carolan et.al.|[2609.28469](http://arxiv.org/abs/2609.28469)|null|
 |**2026-09-23**|**The Past Frames the Future: Memory for Autoregressive Video Generation**|Harold Haodong Chen et.al.|[2609.28466](http://arxiv.org/abs/2609.28466)|null|
