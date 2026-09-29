@@ -1,4 +1,4 @@
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**A pathwise approach to semilinear SPDEs with Lévy drivers**|Dirk Becherer et.al.|[2609.35176](http://arxiv.org/abs/2609.35176)|null|
+|**2026-09-28**|**Analyzing Solana's Blocks and Transactions**|Yaron Hay et.al.|[2609.35171](http://arxiv.org/abs/2609.35171)|null|
+|**2026-09-28**|**Improving the critical current density of the $\mathrm{V}_{0.59}\mathrm{Ti}_{0.40}\mathrm{Ce}_{0.01}$ alloy superconductor through successive cold-working and annealing at different temperatures**|Asi Khandelwal et.al.|[2609.35169](http://arxiv.org/abs/2609.35169)|null|
+|**2026-09-28**|**EdgeCraft: Automated Model Crafting for Edge IoT**|Genglin Wang et.al.|[2609.35167](http://arxiv.org/abs/2609.35167)|null|
+|**2026-09-28**|**Deployment of Large IQP Circuit Born Machines on Qubit-Limited Hardware Using Noise Injection**|Ju-Young Ryu et.al.|[2609.35163](http://arxiv.org/abs/2609.35163)|null|
+|**2026-09-28**|**Coordinated Lane-Level Variable Speed Limits and Ramp Metering for Successive Weaving Segments Considering Merging/Diverging Risks: A Hybrid Model Predictive Control and Multi-Agent Reinforcement Learning Approach**|Guodong Ma et.al.|[2609.35152](http://arxiv.org/abs/2609.35152)|null|
+|**2026-09-28**|**Toward a Culturally Adapted Chinese Language Agent: A Wizard-of-Oz Study of Nonverbal Behavior in Chinese-German Intercultural Interaction**|Siddhant Jain et.al.|[2609.35150](http://arxiv.org/abs/2609.35150)|null|
+|**2026-09-28**|**From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale**|Yaxiao Liu et.al.|[2609.35149](http://arxiv.org/abs/2609.35149)|null|
+|**2026-09-28**|**ShARK: A Stochastic Transport Framework for the Relativistic Relaxation Time Approximation Boltzmann Equation**|Tiago Nunes da Silva et.al.|[2609.35148](http://arxiv.org/abs/2609.35148)|null|
+|**2026-09-28**|**A Sharper Theory of Ball-Proximal Optimization: Convergence and Radius Selection**|Peter Richtárik et.al.|[2609.35147](http://arxiv.org/abs/2609.35147)|null|
 |**2026-09-25**|**FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders**|Hongyang Du et.al.|[2609.31620](http://arxiv.org/abs/2609.31620)|null|
 |**2026-09-25**|**A Unified Spin-Fermion Framework for Magnetic Diversity in Chromium Monopnictides**|Ruoshi Jiang et.al.|[2609.31616](http://arxiv.org/abs/2609.31616)|null|
 |**2026-09-25**|**Galois groups of twisted reciprocal polynomials: a uniform asymptotic**|Evan M. O'Dorney et.al.|[2609.31613](http://arxiv.org/abs/2609.31613)|null|
@@ -1564,12 +1574,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Multi-material flow with a new viscoelastic model**|S{é}bastien Boyaval et.al.|[2609.35172](http://arxiv.org/abs/2609.35172)|null|
+|**2026-09-28**|**Analyzing Solana's Blocks and Transactions**|Yaron Hay et.al.|[2609.35171](http://arxiv.org/abs/2609.35171)|null|
+|**2026-09-28**|**QAM: Quadratic-Accurate Checkpoint Merging via Sequential Consistency**|Shihao Wang et.al.|[2609.35168](http://arxiv.org/abs/2609.35168)|null|
+|**2026-09-28**|**Learning to Re-Draft: A Variational Stackelberg Game for Discrete Diffusion**|Dmitrii Moor et.al.|[2609.35166](http://arxiv.org/abs/2609.35166)|null|
+|**2026-09-28**|**FONDANT: Strong and Best-Effort Planning via Antichains**|Benjamin Aminof et.al.|[2609.35160](http://arxiv.org/abs/2609.35160)|null|
+|**2026-09-28**|**PEARL: Adaptive Prefill-Decode Execution with Elasticity for Agentic Reinforcement Learning**|Jiaan Zhu et.al.|[2609.35158](http://arxiv.org/abs/2609.35158)|null|
+|**2026-09-28**|**Delegation without Priors**|Wei He et.al.|[2609.35156](http://arxiv.org/abs/2609.35156)|null|
+|**2026-09-28**|**LENS: The Sum Is Worse Than the Parts for Set-Level Poisoning in Retrieval-Augmented Generation**|Kaisheng Fan et.al.|[2609.35155](http://arxiv.org/abs/2609.35155)|null|
+|**2026-09-28**|**Optimal Control of a Non-Stationary Inventory-Queue, with Applications to EV-Battery Swapping**|Hanyu Cheng et.al.|[2609.35153](http://arxiv.org/abs/2609.35153)|null|
+|**2026-09-28**|**Coordinated Lane-Level Variable Speed Limits and Ramp Metering for Successive Weaving Segments Considering Merging/Diverging Risks: A Hybrid Model Predictive Control and Multi-Agent Reinforcement Learning Approach**|Guodong Ma et.al.|[2609.35152](http://arxiv.org/abs/2609.35152)|null|
 |**2026-09-25**|**FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders**|Hongyang Du et.al.|[2609.31620](http://arxiv.org/abs/2609.31620)|null|
 |**2026-09-25**|**Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency**|Parsa Hosseini et.al.|[2609.31619](http://arxiv.org/abs/2609.31619)|null|
 |**2026-09-25**|**Quantum Representation Selects Neutral Skyrmion Molecules**|Vishnu Jejjala et.al.|[2609.31618](http://arxiv.org/abs/2609.31618)|null|
@@ -2961,12 +2981,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation**|Yueming Lyu et.al.|[2609.35177](http://arxiv.org/abs/2609.35177)|null|
+|**2026-09-28**|**Uniqueness of one-phase cones with isolated singularity**|Matteo Carducci et.al.|[2609.35175](http://arxiv.org/abs/2609.35175)|null|
+|**2026-09-28**|**ProtoSeam: Lifting Classifier Training with Latent Gaussian Mixture Models**|Robert Lampel et.al.|[2609.35174](http://arxiv.org/abs/2609.35174)|null|
+|**2026-09-28**|**Analyzing Solana's Blocks and Transactions**|Yaron Hay et.al.|[2609.35171](http://arxiv.org/abs/2609.35171)|null|
+|**2026-09-28**|**The Future of Visualization Dashboards in the Age of Generative AI**|Vaishali Dhanoa et.al.|[2609.35170](http://arxiv.org/abs/2609.35170)|null|
+|**2026-09-28**|**Improving the critical current density of the $\mathrm{V}_{0.59}\mathrm{Ti}_{0.40}\mathrm{Ce}_{0.01}$ alloy superconductor through successive cold-working and annealing at different temperatures**|Asi Khandelwal et.al.|[2609.35169](http://arxiv.org/abs/2609.35169)|null|
+|**2026-09-28**|**QAM: Quadratic-Accurate Checkpoint Merging via Sequential Consistency**|Shihao Wang et.al.|[2609.35168](http://arxiv.org/abs/2609.35168)|null|
+|**2026-09-28**|**EdgeCraft: Automated Model Crafting for Edge IoT**|Genglin Wang et.al.|[2609.35167](http://arxiv.org/abs/2609.35167)|null|
+|**2026-09-28**|**Learning to Re-Draft: A Variational Stackelberg Game for Discrete Diffusion**|Dmitrii Moor et.al.|[2609.35166](http://arxiv.org/abs/2609.35166)|null|
+|**2026-09-28**|**Relaxation-Time Boltzmann Solutions Without Truncations**|Tiago Nunes da Silva et.al.|[2609.35164](http://arxiv.org/abs/2609.35164)|null|
 |**2026-09-25**|**FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders**|Hongyang Du et.al.|[2609.31620](http://arxiv.org/abs/2609.31620)|null|
 |**2026-09-25**|**Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency**|Parsa Hosseini et.al.|[2609.31619](http://arxiv.org/abs/2609.31619)|null|
 |**2026-09-25**|**Singularity models for the Bernoulli free boundary problem from isoparametric hypersurfaces**|Benjy Firester et.al.|[2609.31617](http://arxiv.org/abs/2609.31617)|null|
@@ -4341,12 +4371,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Uniqueness of one-phase cones with isolated singularity**|Matteo Carducci et.al.|[2609.35175](http://arxiv.org/abs/2609.35175)|null|
+|**2026-09-28**|**ProtoSeam: Lifting Classifier Training with Latent Gaussian Mixture Models**|Robert Lampel et.al.|[2609.35174](http://arxiv.org/abs/2609.35174)|null|
+|**2026-09-28**|**EdgeCraft: Automated Model Crafting for Edge IoT**|Genglin Wang et.al.|[2609.35167](http://arxiv.org/abs/2609.35167)|null|
+|**2026-09-28**|**Deployment of Large IQP Circuit Born Machines on Qubit-Limited Hardware Using Noise Injection**|Ju-Young Ryu et.al.|[2609.35163](http://arxiv.org/abs/2609.35163)|null|
+|**2026-09-28**|**Hybrid epidemic simulation framework coupling equation-based and individual-based models**|Jaeyoung Kwak et.al.|[2609.35162](http://arxiv.org/abs/2609.35162)|null|
+|**2026-09-28**|**PEARL: Adaptive Prefill-Decode Execution with Elasticity for Agentic Reinforcement Learning**|Jiaan Zhu et.al.|[2609.35158](http://arxiv.org/abs/2609.35158)|null|
+|**2026-09-28**|**Toward a Culturally Adapted Chinese Language Agent: A Wizard-of-Oz Study of Nonverbal Behavior in Chinese-German Intercultural Interaction**|Siddhant Jain et.al.|[2609.35150](http://arxiv.org/abs/2609.35150)|null|
+|**2026-09-28**|**From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale**|Yaxiao Liu et.al.|[2609.35149](http://arxiv.org/abs/2609.35149)|null|
+|**2026-09-28**|**A Sharper Theory of Ball-Proximal Optimization: Convergence and Radius Selection**|Peter Richtárik et.al.|[2609.35147](http://arxiv.org/abs/2609.35147)|null|
+|**2026-09-28**|**Strategically Robust Game-Theoretic Multi-Agent Trajectory Optimization**|Victor L. Qin et.al.|[2609.35142](http://arxiv.org/abs/2609.35142)|null|
 |**2026-09-25**|**FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders**|Hongyang Du et.al.|[2609.31620](http://arxiv.org/abs/2609.31620)|null|
 |**2026-09-25**|**A Unified Spin-Fermion Framework for Magnetic Diversity in Chromium Monopnictides**|Ruoshi Jiang et.al.|[2609.31616](http://arxiv.org/abs/2609.31616)|null|
 |**2026-09-25**|**A Multidimensional General-Relativistic Boltzmann Solver for Neutrino Transport: Implementation, Discretization and Optimization**|Arthur Offermans et.al.|[2609.31611](http://arxiv.org/abs/2609.31611)|null|
@@ -5771,12 +5811,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation**|Yueming Lyu et.al.|[2609.35177](http://arxiv.org/abs/2609.35177)|null|
+|**2026-09-28**|**A pathwise approach to semilinear SPDEs with Lévy drivers**|Dirk Becherer et.al.|[2609.35176](http://arxiv.org/abs/2609.35176)|null|
+|**2026-09-28**|**Task-Oriented Communications for Edge-Assisted Multi-View Localization**|Zhengru Fang et.al.|[2609.35173](http://arxiv.org/abs/2609.35173)|null|
+|**2026-09-28**|**The Future of Visualization Dashboards in the Age of Generative AI**|Vaishali Dhanoa et.al.|[2609.35170](http://arxiv.org/abs/2609.35170)|null|
+|**2026-09-28**|**EdgeCraft: Automated Model Crafting for Edge IoT**|Genglin Wang et.al.|[2609.35167](http://arxiv.org/abs/2609.35167)|null|
+|**2026-09-28**|**Learning to Re-Draft: A Variational Stackelberg Game for Discrete Diffusion**|Dmitrii Moor et.al.|[2609.35166](http://arxiv.org/abs/2609.35166)|null|
+|**2026-09-28**|**Perturbative QCD correction to the nonleptonic weak rate in dense quark matter**|Matti Heikinheimo et.al.|[2609.35165](http://arxiv.org/abs/2609.35165)|null|
+|**2026-09-28**|**Deployment of Large IQP Circuit Born Machines on Qubit-Limited Hardware Using Noise Injection**|Ju-Young Ryu et.al.|[2609.35163](http://arxiv.org/abs/2609.35163)|null|
+|**2026-09-28**|**Weakly interacting fermionic Gibbs states are Gaussian mixtures and classically simulable**|Zhengyi Han et.al.|[2609.35159](http://arxiv.org/abs/2609.35159)|null|
+|**2026-09-28**|**Degeneration of Calabi-Yau threefolds with Galois action induced by modular form of weight 3**|Marcin Oczko et.al.|[2609.35157](http://arxiv.org/abs/2609.35157)|null|
 |**2026-09-25**|**Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency**|Parsa Hosseini et.al.|[2609.31619](http://arxiv.org/abs/2609.31619)|null|
 |**2026-09-25**|**A Multidimensional General-Relativistic Boltzmann Solver for Neutrino Transport: Implementation, Discretization and Optimization**|Arthur Offermans et.al.|[2609.31611](http://arxiv.org/abs/2609.31611)|null|
 |**2026-09-25**|**Optimal regularity for the arrival time equation**|Yiqi Huang et.al.|[2609.31610](http://arxiv.org/abs/2609.31610)|null|
@@ -7207,12 +7257,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation**|Yueming Lyu et.al.|[2609.35177](http://arxiv.org/abs/2609.35177)|null|
+|**2026-09-28**|**Uniqueness of one-phase cones with isolated singularity**|Matteo Carducci et.al.|[2609.35175](http://arxiv.org/abs/2609.35175)|null|
+|**2026-09-28**|**ProtoSeam: Lifting Classifier Training with Latent Gaussian Mixture Models**|Robert Lampel et.al.|[2609.35174](http://arxiv.org/abs/2609.35174)|null|
+|**2026-09-28**|**Task-Oriented Communications for Edge-Assisted Multi-View Localization**|Zhengru Fang et.al.|[2609.35173](http://arxiv.org/abs/2609.35173)|null|
+|**2026-09-28**|**Multi-material flow with a new viscoelastic model**|S{é}bastien Boyaval et.al.|[2609.35172](http://arxiv.org/abs/2609.35172)|null|
+|**2026-09-28**|**The Future of Visualization Dashboards in the Age of Generative AI**|Vaishali Dhanoa et.al.|[2609.35170](http://arxiv.org/abs/2609.35170)|null|
+|**2026-09-28**|**Improving the critical current density of the $\mathrm{V}_{0.59}\mathrm{Ti}_{0.40}\mathrm{Ce}_{0.01}$ alloy superconductor through successive cold-working and annealing at different temperatures**|Asi Khandelwal et.al.|[2609.35169](http://arxiv.org/abs/2609.35169)|null|
+|**2026-09-28**|**QAM: Quadratic-Accurate Checkpoint Merging via Sequential Consistency**|Shihao Wang et.al.|[2609.35168](http://arxiv.org/abs/2609.35168)|null|
+|**2026-09-28**|**EdgeCraft: Automated Model Crafting for Edge IoT**|Genglin Wang et.al.|[2609.35167](http://arxiv.org/abs/2609.35167)|null|
+|**2026-09-28**|**Learning to Re-Draft: A Variational Stackelberg Game for Discrete Diffusion**|Dmitrii Moor et.al.|[2609.35166](http://arxiv.org/abs/2609.35166)|null|
 |**2026-09-25**|**FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders**|Hongyang Du et.al.|[2609.31620](http://arxiv.org/abs/2609.31620)|null|
 |**2026-09-25**|**Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency**|Parsa Hosseini et.al.|[2609.31619](http://arxiv.org/abs/2609.31619)|null|
 |**2026-09-25**|**Singularity models for the Bernoulli free boundary problem from isoparametric hypersurfaces**|Benjy Firester et.al.|[2609.31617](http://arxiv.org/abs/2609.31617)|null|
@@ -8679,7 +8739,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
