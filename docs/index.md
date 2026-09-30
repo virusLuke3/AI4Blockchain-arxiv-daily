@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.29
+## Updated on 2026.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Breakdown of Local Denoising as Semantic Speciation**|Guangkuo Liu et.al.|[2609.38176](http://arxiv.org/abs/2609.38176)|null|
+|**2026-09-29**|**Proximal causal inference through cross-proxy balancing**|Grace V. Ringlein et.al.|[2609.38175](http://arxiv.org/abs/2609.38175)|null|
+|**2026-09-29**|**Adversarial Training for Pixel Diffusion**|Xin Lin et.al.|[2609.38170](http://arxiv.org/abs/2609.38170)|null|
+|**2026-09-29**|**STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization**|Bingchen Yao et.al.|[2609.38169](http://arxiv.org/abs/2609.38169)|null|
+|**2026-09-29**|**Exact bispectra in strongly mixed multifield inflation**|Lucas Pinol et.al.|[2609.38167](http://arxiv.org/abs/2609.38167)|null|
+|**2026-09-29**|**Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data**|Joseph Metcalfe et.al.|[2609.38165](http://arxiv.org/abs/2609.38165)|null|
+|**2026-09-29**|**Rho: A Foundation for Efficiently Adaptable VLA Models**| Rho Team et.al.|[2609.38164](http://arxiv.org/abs/2609.38164)|null|
+|**2026-09-29**|**Why Last-Iterate Scale-Invariant Regret Matching Converges Linearly?**|Boning Li et.al.|[2609.38162](http://arxiv.org/abs/2609.38162)|null|
+|**2026-09-29**|**A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization**|Jianru Shen et.al.|[2609.38161](http://arxiv.org/abs/2609.38161)|null|
+|**2026-09-29**|**Optimal Tolerant Testing of Lindbladian Dissipation**|Jinge Bao et.al.|[2609.38160](http://arxiv.org/abs/2609.38160)|null|
 |**2026-09-28**|**A pathwise approach to semilinear SPDEs with Lévy drivers**|Dirk Becherer et.al.|[2609.35176](http://arxiv.org/abs/2609.35176)|null|
 |**2026-09-28**|**Analyzing Solana's Blocks and Transactions**|Yaron Hay et.al.|[2609.35171](http://arxiv.org/abs/2609.35171)|null|
 |**2026-09-28**|**Improving the critical current density of the $\mathrm{V}_{0.59}\mathrm{Ti}_{0.40}\mathrm{Ce}_{0.01}$ alloy superconductor through successive cold-working and annealing at different temperatures**|Asi Khandelwal et.al.|[2609.35169](http://arxiv.org/abs/2609.35169)|null|
@@ -1558,6 +1568,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Point2Part: Unified 3D Partitioning from Point Prompts**|Hao-Tang Tsui et.al.|[2609.38180](http://arxiv.org/abs/2609.38180)|null|
+|**2026-09-29**|**Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering**|Jaewoo Jung et.al.|[2609.38177](http://arxiv.org/abs/2609.38177)|null|
+|**2026-09-29**|**Proximal causal inference through cross-proxy balancing**|Grace V. Ringlein et.al.|[2609.38175](http://arxiv.org/abs/2609.38175)|null|
+|**2026-09-29**|**Imaging phase winding in topological superconductors with a fork-tip Josephson STM**|Vladislav Poliakov et.al.|[2609.38174](http://arxiv.org/abs/2609.38174)|null|
+|**2026-09-29**|**Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation**|Zihan Wang et.al.|[2609.38172](http://arxiv.org/abs/2609.38172)|null|
+|**2026-09-29**|**Adversarial Training for Pixel Diffusion**|Xin Lin et.al.|[2609.38170](http://arxiv.org/abs/2609.38170)|null|
+|**2026-09-29**|**STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization**|Bingchen Yao et.al.|[2609.38169](http://arxiv.org/abs/2609.38169)|null|
+|**2026-09-29**|**Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data**|Joseph Metcalfe et.al.|[2609.38165](http://arxiv.org/abs/2609.38165)|null|
+|**2026-09-29**|**Rethinking Representations for World-Action Modeling**|Haoyi Jiang et.al.|[2609.38163](http://arxiv.org/abs/2609.38163)|null|
+|**2026-09-29**|**Why Last-Iterate Scale-Invariant Regret Matching Converges Linearly?**|Boning Li et.al.|[2609.38162](http://arxiv.org/abs/2609.38162)|null|
 |**2026-09-28**|**Multi-material flow with a new viscoelastic model**|S{é}bastien Boyaval et.al.|[2609.35172](http://arxiv.org/abs/2609.35172)|null|
 |**2026-09-28**|**Analyzing Solana's Blocks and Transactions**|Yaron Hay et.al.|[2609.35171](http://arxiv.org/abs/2609.35171)|null|
 |**2026-09-28**|**QAM: Quadratic-Accurate Checkpoint Merging via Sequential Consistency**|Shihao Wang et.al.|[2609.35168](http://arxiv.org/abs/2609.35168)|null|
