@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
+|**2026-10-01**|**Sphere Encoder 2**|Kaiyu Yue et.al.|[2610.02208](http://arxiv.org/abs/2610.02208)|null|
+|**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
+|**2026-10-01**|**Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control**|Akshay Balsubramani et.al.|[2610.02195](http://arxiv.org/abs/2610.02195)|null|
+|**2026-10-01**|**SW1D: A Python package for seismic surface wave solutions in 1-D elastic media**|Piyush Kolhe et.al.|[2610.02194](http://arxiv.org/abs/2610.02194)|null|
+|**2026-10-01**|**Hierarchical Continuous Diffusion Language Models**|Hui Ren et.al.|[2610.02193](http://arxiv.org/abs/2610.02193)|null|
+|**2026-10-01**|**DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation**|Zhengming Yu et.al.|[2610.02188](http://arxiv.org/abs/2610.02188)|null|
+|**2026-10-01**|**Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry**|Yiming Huang et.al.|[2610.02186](http://arxiv.org/abs/2610.02186)|null|
+|**2026-10-01**|**Single-Particle Spectral Estimation**|Adrian Chapman et.al.|[2610.02183](http://arxiv.org/abs/2610.02183)|null|
+|**2026-10-01**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
 |**2026-09-29**|**Breakdown of Local Denoising as Semantic Speciation**|Guangkuo Liu et.al.|[2609.38176](http://arxiv.org/abs/2609.38176)|null|
 |**2026-09-29**|**Proximal causal inference through cross-proxy balancing**|Grace V. Ringlein et.al.|[2609.38175](http://arxiv.org/abs/2609.38175)|null|
 |**2026-09-29**|**Adversarial Training for Pixel Diffusion**|Xin Lin et.al.|[2609.38170](http://arxiv.org/abs/2609.38170)|null|
@@ -1568,6 +1578,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
+|**2026-10-01**|**Sphere Encoder 2**|Kaiyu Yue et.al.|[2610.02208](http://arxiv.org/abs/2610.02208)|null|
+|**2026-10-01**|**One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**|Ramazan Fazylov et.al.|[2610.02207](http://arxiv.org/abs/2610.02207)|null|
+|**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
+|**2026-10-01**|**ROWBench: Do Video Models Render What the Program Specifies?**|Zheng-Hui Huang et.al.|[2610.02205](http://arxiv.org/abs/2610.02205)|null|
+|**2026-10-01**|**Embedding Prediction Helps Image Generation**|Sihan Xu et.al.|[2610.02203](http://arxiv.org/abs/2610.02203)|null|
+|**2026-10-01**|**SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation**|Tianjiao Yu et.al.|[2610.02201](http://arxiv.org/abs/2610.02201)|null|
+|**2026-10-01**|**VISTA: A Visual Harness for Reasoning in an Interactive World**|Qiushi Han et.al.|[2610.02200](http://arxiv.org/abs/2610.02200)|null|
+|**2026-10-01**|**TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning**|Jichao Jiang et.al.|[2610.02199](http://arxiv.org/abs/2610.02199)|null|
+|**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
 |**2026-09-29**|**Point2Part: Unified 3D Partitioning from Point Prompts**|Hao-Tang Tsui et.al.|[2609.38180](http://arxiv.org/abs/2609.38180)|null|
 |**2026-09-29**|**Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering**|Jaewoo Jung et.al.|[2609.38177](http://arxiv.org/abs/2609.38177)|null|
 |**2026-09-29**|**Proximal causal inference through cross-proxy balancing**|Grace V. Ringlein et.al.|[2609.38175](http://arxiv.org/abs/2609.38175)|null|
@@ -2983,6 +3003,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
+|**2026-10-01**|**One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**|Ramazan Fazylov et.al.|[2610.02207](http://arxiv.org/abs/2610.02207)|null|
+|**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
+|**2026-10-01**|**Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents**|Yen-Jen Wang et.al.|[2610.02204](http://arxiv.org/abs/2610.02204)|null|
+|**2026-10-01**|**Embedding Prediction Helps Image Generation**|Sihan Xu et.al.|[2610.02203](http://arxiv.org/abs/2610.02203)|null|
+|**2026-10-01**|**ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research**|Sohyeon Kim et.al.|[2610.02202](http://arxiv.org/abs/2610.02202)|null|
+|**2026-10-01**|**TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning**|Jichao Jiang et.al.|[2610.02199](http://arxiv.org/abs/2610.02199)|null|
+|**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
+|**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
+|**2026-10-01**|**SW1D: A Python package for seismic surface wave solutions in 1-D elastic media**|Piyush Kolhe et.al.|[2610.02194](http://arxiv.org/abs/2610.02194)|null|
 |**2026-09-28**|**Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation**|Yueming Lyu et.al.|[2609.35177](http://arxiv.org/abs/2609.35177)|null|
 |**2026-09-28**|**Uniqueness of one-phase cones with isolated singularity**|Matteo Carducci et.al.|[2609.35175](http://arxiv.org/abs/2609.35175)|null|
 |**2026-09-28**|**ProtoSeam: Lifting Classifier Training with Latent Gaussian Mixture Models**|Robert Lampel et.al.|[2609.35174](http://arxiv.org/abs/2609.35174)|null|
@@ -4371,6 +4401,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research**|Sohyeon Kim et.al.|[2610.02202](http://arxiv.org/abs/2610.02202)|null|
+|**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
+|**2026-10-01**|**Hyperbolic lattices with mass disorder: Phases and phase transitions**|Sheersh Sen et.al.|[2610.02192](http://arxiv.org/abs/2610.02192)|null|
+|**2026-10-01**|**Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning**|Cristian McGee et.al.|[2610.02190](http://arxiv.org/abs/2610.02190)|null|
+|**2026-10-01**|**Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry**|Yiming Huang et.al.|[2610.02186](http://arxiv.org/abs/2610.02186)|null|
+|**2026-10-01**|**Decoding Looped Transformers Better for (Almost) Free**|Weihao Liu et.al.|[2610.02185](http://arxiv.org/abs/2610.02185)|null|
+|**2026-10-01**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
+|**2026-10-01**|**From Permutation Symmetry to Communication Bounds and Additivity**|Zahra Baghali Khanian et.al.|[2610.02176](http://arxiv.org/abs/2610.02176)|null|
+|**2026-10-01**|**A baby universe from a large family: booklet cosmology states and quantum error correction**|Jingshu Dai et.al.|[2610.02168](http://arxiv.org/abs/2610.02168)|null|
+|**2026-10-01**|**Learning Many-Body Hamiltonians Using a Local Probe**|Suying Liu et.al.|[2610.02157](http://arxiv.org/abs/2610.02157)|null|
 |**2026-09-28**|**Uniqueness of one-phase cones with isolated singularity**|Matteo Carducci et.al.|[2609.35175](http://arxiv.org/abs/2609.35175)|null|
 |**2026-09-28**|**ProtoSeam: Lifting Classifier Training with Latent Gaussian Mixture Models**|Robert Lampel et.al.|[2609.35174](http://arxiv.org/abs/2609.35174)|null|
 |**2026-09-28**|**EdgeCraft: Automated Model Crafting for Edge IoT**|Genglin Wang et.al.|[2609.35167](http://arxiv.org/abs/2609.35167)|null|
@@ -5809,6 +5849,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
+|**2026-10-01**|**Leading gravitational dressing of operators and states in de Sitter space**|Steven B. Giddings et.al.|[2610.02209](http://arxiv.org/abs/2610.02209)|null|
+|**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
+|**2026-10-01**|**Embedding Prediction Helps Image Generation**|Sihan Xu et.al.|[2610.02203](http://arxiv.org/abs/2610.02203)|null|
+|**2026-10-01**|**ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research**|Sohyeon Kim et.al.|[2610.02202](http://arxiv.org/abs/2610.02202)|null|
+|**2026-10-01**|**TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning**|Jichao Jiang et.al.|[2610.02199](http://arxiv.org/abs/2610.02199)|null|
+|**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
+|**2026-10-01**|**Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control**|Akshay Balsubramani et.al.|[2610.02195](http://arxiv.org/abs/2610.02195)|null|
+|**2026-10-01**|**SW1D: A Python package for seismic surface wave solutions in 1-D elastic media**|Piyush Kolhe et.al.|[2610.02194](http://arxiv.org/abs/2610.02194)|null|
+|**2026-10-01**|**Hierarchical Continuous Diffusion Language Models**|Hui Ren et.al.|[2610.02193](http://arxiv.org/abs/2610.02193)|null|
 |**2026-09-28**|**Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation**|Yueming Lyu et.al.|[2609.35177](http://arxiv.org/abs/2609.35177)|null|
 |**2026-09-28**|**A pathwise approach to semilinear SPDEs with Lévy drivers**|Dirk Becherer et.al.|[2609.35176](http://arxiv.org/abs/2609.35176)|null|
 |**2026-09-28**|**Task-Oriented Communications for Edge-Assisted Multi-View Localization**|Zhengru Fang et.al.|[2609.35173](http://arxiv.org/abs/2609.35173)|null|
@@ -7253,6 +7303,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
+|**2026-10-01**|**One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**|Ramazan Fazylov et.al.|[2610.02207](http://arxiv.org/abs/2610.02207)|null|
+|**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
+|**2026-10-01**|**Embedding Prediction Helps Image Generation**|Sihan Xu et.al.|[2610.02203](http://arxiv.org/abs/2610.02203)|null|
+|**2026-10-01**|**ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research**|Sohyeon Kim et.al.|[2610.02202](http://arxiv.org/abs/2610.02202)|null|
+|**2026-10-01**|**SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation**|Tianjiao Yu et.al.|[2610.02201](http://arxiv.org/abs/2610.02201)|null|
+|**2026-10-01**|**TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning**|Jichao Jiang et.al.|[2610.02199](http://arxiv.org/abs/2610.02199)|null|
+|**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
+|**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
+|**2026-10-01**|**InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation**|Zhuo Lin et.al.|[2610.02196](http://arxiv.org/abs/2610.02196)|null|
 |**2026-09-28**|**Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation**|Yueming Lyu et.al.|[2609.35177](http://arxiv.org/abs/2609.35177)|null|
 |**2026-09-28**|**Uniqueness of one-phase cones with isolated singularity**|Matteo Carducci et.al.|[2609.35175](http://arxiv.org/abs/2609.35175)|null|
 |**2026-09-28**|**ProtoSeam: Lifting Classifier Training with Latent Gaussian Mixture Models**|Robert Lampel et.al.|[2609.35174](http://arxiv.org/abs/2609.35174)|null|
