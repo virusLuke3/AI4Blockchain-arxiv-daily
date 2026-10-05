@@ -165,7 +165,7 @@
 |**2026-09-29**|**STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization**|Bingchen Yao et.al.|[2609.38169](http://arxiv.org/abs/2609.38169)|null|
 |**2026-09-29**|**Exact bispectra in strongly mixed multifield inflation**|Lucas Pinol et.al.|[2609.38167](http://arxiv.org/abs/2609.38167)|null|
 |**2026-09-29**|**Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data**|Joseph Metcalfe et.al.|[2609.38165](http://arxiv.org/abs/2609.38165)|null|
-|**2026-09-29**|**Rho: A Foundation for Efficiently Adaptable VLA Models**| Rho Team et.al.|[2609.38164](http://arxiv.org/abs/2609.38164)|null|
+|**2026-09-29**|**Rho: A Foundation for Efficiently Adaptable VLA Models**|Rho Team et.al.|[2609.38164](http://arxiv.org/abs/2609.38164)|null|
 |**2026-09-29**|**Why Last-Iterate Scale-Invariant Regret Matching Converges Linearly?**|Boning Li et.al.|[2609.38162](http://arxiv.org/abs/2609.38162)|null|
 |**2026-09-29**|**A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization**|Jianru Shen et.al.|[2609.38161](http://arxiv.org/abs/2609.38161)|null|
 |**2026-09-29**|**Optimal Tolerant Testing of Lindbladian Dissipation**|Jinge Bao et.al.|[2609.38160](http://arxiv.org/abs/2609.38160)|null|
