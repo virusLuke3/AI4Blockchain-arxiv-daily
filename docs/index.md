@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**On the Dirichlet problem for the degenerate $2$ -Hessian equation**|Yasheng Lyu et.al.|[2610.06853](http://arxiv.org/abs/2610.06853)|null|
+|**2026-10-05**|**Boundary-accessible work in a collision-charged topological quantum battery**|Osman Orçun Keskin et.al.|[2610.06849](http://arxiv.org/abs/2610.06849)|null|
+|**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
+|**2026-10-05**|**S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation**|Jeffrey Hu et.al.|[2610.06847](http://arxiv.org/abs/2610.06847)|null|
+|**2026-10-05**|**Learning to Read the Contextual Tokens in Diffusion Transformers**|Omer Dahary et.al.|[2610.06844](http://arxiv.org/abs/2610.06844)|null|
+|**2026-10-05**|**Goal-Oriented Wave Computing for Direction-of-Arrival Estimation**|Mert Kalfa et.al.|[2610.06839](http://arxiv.org/abs/2610.06839)|null|
+|**2026-10-05**|**Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report**|Xingyue Zhao et.al.|[2610.06837](http://arxiv.org/abs/2610.06837)|null|
+|**2026-10-05**|**Semi-Cliffordness of the Clifford hierarchy for a single qudit in composite dimensions**|Yifei Qi et.al.|[2610.06836](http://arxiv.org/abs/2610.06836)|null|
+|**2026-10-05**|**Distributional Quantum Query Complexity**|Shalev Ben-David et.al.|[2610.06835](http://arxiv.org/abs/2610.06835)|null|
+|**2026-10-05**|**Direct Intermediate Initialization for Tilted Diffusion Samplers**|Gregory D. Bellchambers et.al.|[2610.06834](http://arxiv.org/abs/2610.06834)|null|
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
 |**2026-10-01**|**Sphere Encoder 2**|Kaiyu Yue et.al.|[2610.02208](http://arxiv.org/abs/2610.02208)|null|
 |**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
@@ -1578,6 +1588,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline**|Shih-Chen Tseng et.al.|[2610.06852](http://arxiv.org/abs/2610.06852)|null|
+|**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Yucheng Zhang et.al.|[2610.06850](http://arxiv.org/abs/2610.06850)|null|
+|**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
+|**2026-10-05**|**S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation**|Jeffrey Hu et.al.|[2610.06847](http://arxiv.org/abs/2610.06847)|null|
+|**2026-10-05**|**BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance**|Haojin Deng et.al.|[2610.06846](http://arxiv.org/abs/2610.06846)|null|
+|**2026-10-05**|**Learning to Read the Contextual Tokens in Diffusion Transformers**|Omer Dahary et.al.|[2610.06844](http://arxiv.org/abs/2610.06844)|null|
+|**2026-10-05**|**Testing Refracted Gravity with the kinematics of stacked galaxy clusters**|Dario Primignani et.al.|[2610.06841](http://arxiv.org/abs/2610.06841)|null|
+|**2026-10-05**|**Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report**|Xingyue Zhao et.al.|[2610.06837](http://arxiv.org/abs/2610.06837)|null|
+|**2026-10-05**|**Energy-constrained two-way capacities of the pure-loss bosonic channel**|Stefano Pirandola et.al.|[2610.06832](http://arxiv.org/abs/2610.06832)|null|
+|**2026-10-05**|**UniSlider: Perceptually Uniform Sliders for Continuous Image Editing**|David Serrano-Lozano et.al.|[2610.06831](http://arxiv.org/abs/2610.06831)|null|
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
 |**2026-10-01**|**Sphere Encoder 2**|Kaiyu Yue et.al.|[2610.02208](http://arxiv.org/abs/2610.02208)|null|
 |**2026-10-01**|**One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**|Ramazan Fazylov et.al.|[2610.02207](http://arxiv.org/abs/2610.02207)|null|
