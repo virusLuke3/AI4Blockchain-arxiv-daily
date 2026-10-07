@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Building Rome from a Single Image**|Jiraphon Yenphraphai et.al.|[2610.08790](http://arxiv.org/abs/2610.08790)|null|
+|**2026-10-06**|**Energy-constrained two-way capacity bounds for noisy Gaussian channels**|Stefano Pirandola et.al.|[2610.08786](http://arxiv.org/abs/2610.08786)|null|
+|**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
+|**2026-10-06**|**The Kuranishi space of joint deformations of Calabi--Yau manifolds and holomorphic vector bundles**|Runze Zhang et.al.|[2610.08776](http://arxiv.org/abs/2610.08776)|null|
+|**2026-10-06**|**Normalised Hamiltonian Elliptic Systems: a Gagliardo-Nirenberg inequality for bilinear mass**|Daniele Cassani et.al.|[2610.08774](http://arxiv.org/abs/2610.08774)|null|
+|**2026-10-06**|**Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation**|Liao Ma et.al.|[2610.08772](http://arxiv.org/abs/2610.08772)|null|
+|**2026-10-06**|**Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study**|Dimitrios Nikou et.al.|[2610.08771](http://arxiv.org/abs/2610.08771)|null|
+|**2026-10-06**|**Observing the magic Mpemba effect in localized dynamics on a digital quantum computer**|Han-Ze Li et.al.|[2610.08769](http://arxiv.org/abs/2610.08769)|null|
+|**2026-10-06**|**Arbitrarily Slow Polynomial Convergence of Fictitious Play**|Jacob Abernethy et.al.|[2610.08768](http://arxiv.org/abs/2610.08768)|null|
+|**2026-10-06**|**Geometric Photon-drag Effect in Unconventional Magnets**|Bristi Ghosh et.al.|[2610.08767](http://arxiv.org/abs/2610.08767)|null|
 |**2026-10-05**|**On the Dirichlet problem for the degenerate $2$ -Hessian equation**|Yasheng Lyu et.al.|[2610.06853](http://arxiv.org/abs/2610.06853)|null|
 |**2026-10-05**|**Boundary-accessible work in a collision-charged topological quantum battery**|Osman Orçun Keskin et.al.|[2610.06849](http://arxiv.org/abs/2610.06849)|null|
 |**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
@@ -1588,6 +1598,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
+|**2026-10-06**|**Building Rome from a Single Image**|Jiraphon Yenphraphai et.al.|[2610.08790](http://arxiv.org/abs/2610.08790)|null|
+|**2026-10-06**|**4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**|Shiqi Li et.al.|[2610.08782](http://arxiv.org/abs/2610.08782)|null|
+|**2026-10-06**|**DepthWorld: 3D World Model for Robot Manipulation**|Jai Bardhan et.al.|[2610.08780](http://arxiv.org/abs/2610.08780)|null|
+|**2026-10-06**|**ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing**|Zhenghong Zhou et.al.|[2610.08779](http://arxiv.org/abs/2610.08779)|null|
+|**2026-10-06**|**CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching**|Shangye Song et.al.|[2610.08777](http://arxiv.org/abs/2610.08777)|null|
+|**2026-10-06**|**Normalised Hamiltonian Elliptic Systems: a Gagliardo-Nirenberg inequality for bilinear mass**|Daniele Cassani et.al.|[2610.08774](http://arxiv.org/abs/2610.08774)|null|
+|**2026-10-06**|**AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model**|Sarim Hashmi et.al.|[2610.08773](http://arxiv.org/abs/2610.08773)|null|
+|**2026-10-06**|**Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation**|Liao Ma et.al.|[2610.08772](http://arxiv.org/abs/2610.08772)|null|
+|**2026-10-06**|**Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study**|Dimitrios Nikou et.al.|[2610.08771](http://arxiv.org/abs/2610.08771)|null|
 |**2026-10-05**|**One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline**|Shih-Chen Tseng et.al.|[2610.06852](http://arxiv.org/abs/2610.06852)|null|
 |**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Yucheng Zhang et.al.|[2610.06850](http://arxiv.org/abs/2610.06850)|null|
 |**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
@@ -3023,6 +3043,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
+|**2026-10-06**|**Building Rome from a Single Image**|Jiraphon Yenphraphai et.al.|[2610.08790](http://arxiv.org/abs/2610.08790)|null|
+|**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
+|**2026-10-06**|**Algebraic Tensor Network Renormalization and Holographic duality**|Chenqi Meng et.al.|[2610.08787](http://arxiv.org/abs/2610.08787)|null|
+|**2026-10-06**|**Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective**|Kevin Zhang et.al.|[2610.08785](http://arxiv.org/abs/2610.08785)|null|
+|**2026-10-06**|**Quantum twisting microscopy as a momentum-resolved probe of quantum geometry and sublattice symmetries**|Lucas V. Pupim et.al.|[2610.08783](http://arxiv.org/abs/2610.08783)|null|
+|**2026-10-06**|**Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?**|Ankit Sonthalia et.al.|[2610.08775](http://arxiv.org/abs/2610.08775)|null|
+|**2026-10-06**|**Normalised Hamiltonian Elliptic Systems: a Gagliardo-Nirenberg inequality for bilinear mass**|Daniele Cassani et.al.|[2610.08774](http://arxiv.org/abs/2610.08774)|null|
+|**2026-10-06**|**Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation**|Liao Ma et.al.|[2610.08772](http://arxiv.org/abs/2610.08772)|null|
+|**2026-10-06**|**Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study**|Dimitrios Nikou et.al.|[2610.08771](http://arxiv.org/abs/2610.08771)|null|
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
 |**2026-10-01**|**One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**|Ramazan Fazylov et.al.|[2610.02207](http://arxiv.org/abs/2610.02207)|null|
 |**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
@@ -4421,6 +4451,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Algebraic Tensor Network Renormalization and Holographic duality**|Chenqi Meng et.al.|[2610.08787](http://arxiv.org/abs/2610.08787)|null|
+|**2026-10-06**|**Energy-constrained two-way capacity bounds for noisy Gaussian channels**|Stefano Pirandola et.al.|[2610.08786](http://arxiv.org/abs/2610.08786)|null|
+|**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
+|**2026-10-06**|**IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas**|Ziyu Chen et.al.|[2610.08781](http://arxiv.org/abs/2610.08781)|null|
+|**2026-10-06**|**DepthWorld: 3D World Model for Robot Manipulation**|Jai Bardhan et.al.|[2610.08780](http://arxiv.org/abs/2610.08780)|null|
+|**2026-10-06**|**ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing**|Zhenghong Zhou et.al.|[2610.08779](http://arxiv.org/abs/2610.08779)|null|
+|**2026-10-06**|**Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?**|Ankit Sonthalia et.al.|[2610.08775](http://arxiv.org/abs/2610.08775)|null|
+|**2026-10-06**|**Normalised Hamiltonian Elliptic Systems: a Gagliardo-Nirenberg inequality for bilinear mass**|Daniele Cassani et.al.|[2610.08774](http://arxiv.org/abs/2610.08774)|null|
+|**2026-10-06**|**Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study**|Dimitrios Nikou et.al.|[2610.08771](http://arxiv.org/abs/2610.08771)|null|
+|**2026-10-06**|**Estimation and Recovery of a Planted Dense Subgraph from a Single Network Cascade**|Maximilien Dreveton et.al.|[2610.08766](http://arxiv.org/abs/2610.08766)|null|
 |**2026-10-01**|**ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research**|Sohyeon Kim et.al.|[2610.02202](http://arxiv.org/abs/2610.02202)|null|
 |**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
 |**2026-10-01**|**Hyperbolic lattices with mass disorder: Phases and phase transitions**|Sheersh Sen et.al.|[2610.02192](http://arxiv.org/abs/2610.02192)|null|
@@ -5869,6 +5909,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
+|**2026-10-06**|**Algebraic Tensor Network Renormalization and Holographic duality**|Chenqi Meng et.al.|[2610.08787](http://arxiv.org/abs/2610.08787)|null|
+|**2026-10-06**|**Energy-constrained two-way capacity bounds for noisy Gaussian channels**|Stefano Pirandola et.al.|[2610.08786](http://arxiv.org/abs/2610.08786)|null|
+|**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
+|**2026-10-06**|**Quantum twisting microscopy as a momentum-resolved probe of quantum geometry and sublattice symmetries**|Lucas V. Pupim et.al.|[2610.08783](http://arxiv.org/abs/2610.08783)|null|
+|**2026-10-06**|**IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas**|Ziyu Chen et.al.|[2610.08781](http://arxiv.org/abs/2610.08781)|null|
+|**2026-10-06**|**Sherpa: Teaching LLMs to Teach Adaptively**|Weixian Xu et.al.|[2610.08778](http://arxiv.org/abs/2610.08778)|null|
+|**2026-10-06**|**CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching**|Shangye Song et.al.|[2610.08777](http://arxiv.org/abs/2610.08777)|null|
+|**2026-10-06**|**Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?**|Ankit Sonthalia et.al.|[2610.08775](http://arxiv.org/abs/2610.08775)|null|
+|**2026-10-06**|**Normalised Hamiltonian Elliptic Systems: a Gagliardo-Nirenberg inequality for bilinear mass**|Daniele Cassani et.al.|[2610.08774](http://arxiv.org/abs/2610.08774)|null|
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
 |**2026-10-01**|**Leading gravitational dressing of operators and states in de Sitter space**|Steven B. Giddings et.al.|[2610.02209](http://arxiv.org/abs/2610.02209)|null|
 |**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
@@ -7323,6 +7373,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
+|**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
+|**2026-10-06**|**Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective**|Kevin Zhang et.al.|[2610.08785](http://arxiv.org/abs/2610.08785)|null|
+|**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
+|**2026-10-06**|**4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**|Shiqi Li et.al.|[2610.08782](http://arxiv.org/abs/2610.08782)|null|
+|**2026-10-06**|**IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas**|Ziyu Chen et.al.|[2610.08781](http://arxiv.org/abs/2610.08781)|null|
+|**2026-10-06**|**DepthWorld: 3D World Model for Robot Manipulation**|Jai Bardhan et.al.|[2610.08780](http://arxiv.org/abs/2610.08780)|null|
+|**2026-10-06**|**ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing**|Zhenghong Zhou et.al.|[2610.08779](http://arxiv.org/abs/2610.08779)|null|
+|**2026-10-06**|**Sherpa: Teaching LLMs to Teach Adaptively**|Weixian Xu et.al.|[2610.08778](http://arxiv.org/abs/2610.08778)|null|
+|**2026-10-06**|**CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching**|Shangye Song et.al.|[2610.08777](http://arxiv.org/abs/2610.08777)|null|
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
 |**2026-10-01**|**One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**|Ramazan Fazylov et.al.|[2610.02207](http://arxiv.org/abs/2610.02207)|null|
 |**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
