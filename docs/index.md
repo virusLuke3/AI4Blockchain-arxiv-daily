@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**The Economic Security of Exponential EIP-1559**|Ben Berger et.al.|[2610.10333](http://arxiv.org/abs/2610.10333)|null|
 |**2026-10-06**|**Building Rome from a Single Image**|Jiraphon Yenphraphai et.al.|[2610.08790](http://arxiv.org/abs/2610.08790)|null|
 |**2026-10-06**|**Energy-constrained two-way capacity bounds for noisy Gaussian channels**|Stefano Pirandola et.al.|[2610.08786](http://arxiv.org/abs/2610.08786)|null|
 |**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
@@ -139,6 +140,8 @@ layout: default
 |**2026-10-06**|**Observing the magic Mpemba effect in localized dynamics on a digital quantum computer**|Han-Ze Li et.al.|[2610.08769](http://arxiv.org/abs/2610.08769)|null|
 |**2026-10-06**|**Arbitrarily Slow Polynomial Convergence of Fictitious Play**|Jacob Abernethy et.al.|[2610.08768](http://arxiv.org/abs/2610.08768)|null|
 |**2026-10-06**|**Geometric Photon-drag Effect in Unconventional Magnets**|Bristi Ghosh et.al.|[2610.08767](http://arxiv.org/abs/2610.08767)|null|
+|**2026-10-05**|**BVI: Lightweight, Data-Centric Blockchain-Based Verification of Identity Claims**|Harshith Pothapala et.al.|[2610.07531](http://arxiv.org/abs/2610.07531)|null|
+|**2026-10-05**|**When Does AI Supervision Help? A Role-Aware Study of Network Fraud Decision Management with Blockchain Auditability**|Saviz Changizi et.al.|[2610.07434](http://arxiv.org/abs/2610.07434)|null|
 |**2026-10-05**|**On the Dirichlet problem for the degenerate $2$ -Hessian equation**|Yasheng Lyu et.al.|[2610.06853](http://arxiv.org/abs/2610.06853)|null|
 |**2026-10-05**|**Boundary-accessible work in a collision-charged topological quantum battery**|Osman Orçun Keskin et.al.|[2610.06849](http://arxiv.org/abs/2610.06849)|null|
 |**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
@@ -149,6 +152,11 @@ layout: default
 |**2026-10-05**|**Semi-Cliffordness of the Clifford hierarchy for a single qudit in composite dimensions**|Yifei Qi et.al.|[2610.06836](http://arxiv.org/abs/2610.06836)|null|
 |**2026-10-05**|**Distributional Quantum Query Complexity**|Shalev Ben-David et.al.|[2610.06835](http://arxiv.org/abs/2610.06835)|null|
 |**2026-10-05**|**Direct Intermediate Initialization for Tilted Diffusion Samplers**|Gregory D. Bellchambers et.al.|[2610.06834](http://arxiv.org/abs/2610.06834)|null|
+|**2026-10-04**|**Cross-chain Access Control for Permissioned Blockchain Interoperation**|Tirthankar Sengupta et.al.|[2610.05054](http://arxiv.org/abs/2610.05054)|null|
+|**2026-10-03**|**Post-Quantum Authentication Protocol for Internet of Medical Things**|Kartick Sutradhar et.al.|[2610.04661](http://arxiv.org/abs/2610.04661)|null|
+|**2026-10-02**|**From TS-SUF-2 to TS-SUF-4: Practical Security Enhancements for FROST2 Threshold Signatures**|Will Wang et.al.|[2610.02805](http://arxiv.org/abs/2610.02805)|null|
+|**2026-10-01**|**Rateless Nested Lattice Codes for Secure Cooperative V2X Broadcast over Fading and Erasure Channels**|Pegah Sharifi et.al.|[2610.02605](http://arxiv.org/abs/2610.02605)|null|
+|**2026-10-01**|**SoK: Stablecoins in the Quantum Era**|Panagiotis Chatzigiannis et.al.|[2610.02435](http://arxiv.org/abs/2610.02435)|null|
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
 |**2026-10-01**|**Sphere Encoder 2**|Kaiyu Yue et.al.|[2610.02208](http://arxiv.org/abs/2610.02208)|null|
 |**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
@@ -159,6 +167,8 @@ layout: default
 |**2026-10-01**|**Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry**|Yiming Huang et.al.|[2610.02186](http://arxiv.org/abs/2610.02186)|null|
 |**2026-10-01**|**Single-Particle Spectral Estimation**|Adrian Chapman et.al.|[2610.02183](http://arxiv.org/abs/2610.02183)|null|
 |**2026-10-01**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
+|**2026-10-01**|**From Network Intrusion Detection to Blockchain-Backed Endpoint Detection and Response: Mapping the Landscape of Decentralized Detection-and-Response Architectures**|Yahya Shahsavari et.al.|[2610.01872](http://arxiv.org/abs/2610.01872)|null|
+|**2026-10-01**|**GridSMR: Causal Compression for Sharded Blockchains**|Shir Cohen et.al.|[2610.01443](http://arxiv.org/abs/2610.01443)|null|
 |**2026-09-29**|**Breakdown of Local Denoising as Semantic Speciation**|Guangkuo Liu et.al.|[2609.38176](http://arxiv.org/abs/2609.38176)|null|
 |**2026-09-29**|**Proximal causal inference through cross-proxy balancing**|Grace V. Ringlein et.al.|[2609.38175](http://arxiv.org/abs/2609.38175)|null|
 |**2026-09-29**|**Adversarial Training for Pixel Diffusion**|Xin Lin et.al.|[2609.38170](http://arxiv.org/abs/2609.38170)|null|
@@ -3043,6 +3053,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Efficient Estimation of Logical Sensitivities Through Fault-Counting**|Winston Fu et.al.|[2610.10531](http://arxiv.org/abs/2610.10531)|null|
+|**2026-10-07**|**Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping**|Aleksandar Armacki et.al.|[2610.10527](http://arxiv.org/abs/2610.10527)|null|
+|**2026-10-07**|**A Hawkes Microfoundation for Multitype Inverse Gaussian Subordinators**|Yingli Wang et.al.|[2610.10525](http://arxiv.org/abs/2610.10525)|null|
+|**2026-10-07**|**Trend formation with sparse global sampling**|Sarath Sankar et.al.|[2610.10521](http://arxiv.org/abs/2610.10521)|null|
+|**2026-10-07**|**A Constant-Factor Approximation to Multidimensional Consumer Utility**|Kira Goldner et.al.|[2610.10516](http://arxiv.org/abs/2610.10516)|null|
+|**2026-10-07**|**Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models**|Amanda Myntti et.al.|[2610.10508](http://arxiv.org/abs/2610.10508)|null|
+|**2026-10-07**|**Stochasticity and Environmental Switching Shape Quorum Sensing Evolution in Bacterial Populations**|Uttam Kumar et.al.|[2610.10492](http://arxiv.org/abs/2610.10492)|null|
+|**2026-10-07**|**HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion**|Mike Zhang et.al.|[2610.10489](http://arxiv.org/abs/2610.10489)|null|
+|**2026-10-07**|**FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding**|Lipeng Zhuang et.al.|[2610.10462](http://arxiv.org/abs/2610.10462)|null|
+|**2026-10-07**|**Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts**|Hejian Sang et.al.|[2610.10460](http://arxiv.org/abs/2610.10460)|null|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**Building Rome from a Single Image**|Jiraphon Yenphraphai et.al.|[2610.08790](http://arxiv.org/abs/2610.08790)|null|
 |**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
