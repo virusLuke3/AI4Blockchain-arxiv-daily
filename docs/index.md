@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**On the estimation and validity of AI time horizons---a statistical look at the METR plot**|Drew T. Nguyen et.al.|[2610.12466](http://arxiv.org/abs/2610.12466)|null|
+|**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465](http://arxiv.org/abs/2610.12465)|null|
+|**2026-10-08**|**What 30,000 Hours of Ego-centric Video Does Not Teach**|Jiahua Dong et.al.|[2610.12464](http://arxiv.org/abs/2610.12464)|null|
+|**2026-10-08**|**From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents**|Abbas Raftari et.al.|[2610.12463](http://arxiv.org/abs/2610.12463)|null|
+|**2026-10-08**|**Infinite light rays and infinite clusters with infinitely many pivots**|Martin P. W. Zerner et.al.|[2610.12460](http://arxiv.org/abs/2610.12460)|null|
+|**2026-10-08**|**Coupling Independence Implies Zero-Freeness**|Shuai Shao et.al.|[2610.12456](http://arxiv.org/abs/2610.12456)|null|
+|**2026-10-08**|**Entanglement entropy and magic of ZX-diagrams**|Marcin Szyniszewski et.al.|[2610.12447](http://arxiv.org/abs/2610.12447)|null|
+|**2026-10-08**|**Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
+|**2026-10-08**|**A scalar-extended ${\rm U(1)_{L_μ-L_τ}}$ explanation of the LUX-ZEPLIN 248 keV excess**|Dipankar Pradhan et.al.|[2610.12443](http://arxiv.org/abs/2610.12443)|null|
+|**2026-10-08**|**LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation**|Suhwan Cho et.al.|[2610.12442](http://arxiv.org/abs/2610.12442)|null|
 |**2026-10-07**|**The Economic Security of Exponential EIP-1559**|Ben Berger et.al.|[2610.10333](http://arxiv.org/abs/2610.10333)|null|
 |**2026-10-06**|**Building Rome from a Single Image**|Jiraphon Yenphraphai et.al.|[2610.08790](http://arxiv.org/abs/2610.08790)|null|
 |**2026-10-06**|**Energy-constrained two-way capacity bounds for noisy Gaussian channels**|Stefano Pirandola et.al.|[2610.08786](http://arxiv.org/abs/2610.08786)|null|
@@ -1608,6 +1618,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
+|**2026-10-08**|**Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation**|Ritesh Thawkar et.al.|[2610.12469](http://arxiv.org/abs/2610.12469)|null|
+|**2026-10-08**|**DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training**|Junyan Li et.al.|[2610.12468](http://arxiv.org/abs/2610.12468)|null|
+|**2026-10-08**|**What 30,000 Hours of Ego-centric Video Does Not Teach**|Jiahua Dong et.al.|[2610.12464](http://arxiv.org/abs/2610.12464)|null|
+|**2026-10-08**|**From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents**|Abbas Raftari et.al.|[2610.12463](http://arxiv.org/abs/2610.12463)|null|
+|**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461](http://arxiv.org/abs/2610.12461)|null|
+|**2026-10-08**|**WorldGuide: Goal-Directed Video World Model for Procedural Task Execution**|Ankan Deria et.al.|[2610.12459](http://arxiv.org/abs/2610.12459)|null|
+|**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|null|
+|**2026-10-08**|**Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting**| Nhan et.al.|[2610.12455](http://arxiv.org/abs/2610.12455)|null|
+|**2026-10-08**|**BrickBench: Evaluating Agentic Brick Design**|Peter Kulits et.al.|[2610.12452](http://arxiv.org/abs/2610.12452)|null|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**Building Rome from a Single Image**|Jiraphon Yenphraphai et.al.|[2610.08790](http://arxiv.org/abs/2610.08790)|null|
 |**2026-10-06**|**4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**|Shiqi Li et.al.|[2610.08782](http://arxiv.org/abs/2610.08782)|null|
@@ -3053,6 +3073,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation**|Ritesh Thawkar et.al.|[2610.12469](http://arxiv.org/abs/2610.12469)|null|
+|**2026-10-08**|**On the estimation and validity of AI time horizons---a statistical look at the METR plot**|Drew T. Nguyen et.al.|[2610.12466](http://arxiv.org/abs/2610.12466)|null|
+|**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465](http://arxiv.org/abs/2610.12465)|null|
+|**2026-10-08**|**What 30,000 Hours of Ego-centric Video Does Not Teach**|Jiahua Dong et.al.|[2610.12464](http://arxiv.org/abs/2610.12464)|null|
+|**2026-10-08**|**From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents**|Abbas Raftari et.al.|[2610.12463](http://arxiv.org/abs/2610.12463)|null|
+|**2026-10-08**|**Coupling Independence Implies Zero-Freeness**|Shuai Shao et.al.|[2610.12456](http://arxiv.org/abs/2610.12456)|null|
+|**2026-10-08**|**BrickBench: Evaluating Agentic Brick Design**|Peter Kulits et.al.|[2610.12452](http://arxiv.org/abs/2610.12452)|null|
+|**2026-10-08**|**Discovery of Hidden Extragalactic Pulsars in the Parkes Archival Data**|Rahul Sengar et.al.|[2610.12450](http://arxiv.org/abs/2610.12450)|null|
+|**2026-10-08**|**Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems**|Anna Zimmel et.al.|[2610.12449](http://arxiv.org/abs/2610.12449)|null|
+|**2026-10-08**|**One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts**|Adrian Bulat et.al.|[2610.12448](http://arxiv.org/abs/2610.12448)|null|
 |**2026-10-07**|**Efficient Estimation of Logical Sensitivities Through Fault-Counting**|Winston Fu et.al.|[2610.10531](http://arxiv.org/abs/2610.10531)|null|
 |**2026-10-07**|**Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping**|Aleksandar Armacki et.al.|[2610.10527](http://arxiv.org/abs/2610.10527)|null|
 |**2026-10-07**|**A Hawkes Microfoundation for Multitype Inverse Gaussian Subordinators**|Yingli Wang et.al.|[2610.10525](http://arxiv.org/abs/2610.10525)|null|
@@ -4471,6 +4501,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
+|**2026-10-08**|**Coupling Independence Implies Zero-Freeness**|Shuai Shao et.al.|[2610.12456](http://arxiv.org/abs/2610.12456)|null|
+|**2026-10-08**|**Mental-Models for Multi-Agent Systems**|Hanan Gani et.al.|[2610.12453](http://arxiv.org/abs/2610.12453)|null|
+|**2026-10-08**|**Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems**|Anna Zimmel et.al.|[2610.12449](http://arxiv.org/abs/2610.12449)|null|
+|**2026-10-08**|**Entanglement entropy and magic of ZX-diagrams**|Marcin Szyniszewski et.al.|[2610.12447](http://arxiv.org/abs/2610.12447)|null|
+|**2026-10-08**|**LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation**|Suhwan Cho et.al.|[2610.12442](http://arxiv.org/abs/2610.12442)|null|
+|**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Dechen Gao et.al.|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
+|**2026-10-08**|**VioLA: Learning Generalist Humanoid Control Policies from Human Data**|Mert Albaba et.al.|[2610.12435](http://arxiv.org/abs/2610.12435)|null|
+|**2026-10-08**|**FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?**|Yuxuan Hu et.al.|[2610.12427](http://arxiv.org/abs/2610.12427)|null|
+|**2026-10-08**|**RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments**|Zimo Wen et.al.|[2610.12424](http://arxiv.org/abs/2610.12424)|null|
 |**2026-10-06**|**Algebraic Tensor Network Renormalization and Holographic duality**|Chenqi Meng et.al.|[2610.08787](http://arxiv.org/abs/2610.08787)|null|
 |**2026-10-06**|**Energy-constrained two-way capacity bounds for noisy Gaussian channels**|Stefano Pirandola et.al.|[2610.08786](http://arxiv.org/abs/2610.08786)|null|
 |**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
@@ -5929,6 +5969,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
+|**2026-10-08**|**On the estimation and validity of AI time horizons---a statistical look at the METR plot**|Drew T. Nguyen et.al.|[2610.12466](http://arxiv.org/abs/2610.12466)|null|
+|**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465](http://arxiv.org/abs/2610.12465)|null|
+|**2026-10-08**|**What 30,000 Hours of Ego-centric Video Does Not Teach**|Jiahua Dong et.al.|[2610.12464](http://arxiv.org/abs/2610.12464)|null|
+|**2026-10-08**|**Disk Structure May Determine AGN Variability and Explain the Accretion Disk Size Problem: No Broad Line Region Required**|Amy Secunda et.al.|[2610.12462](http://arxiv.org/abs/2610.12462)|null|
+|**2026-10-08**|**Infinite light rays and infinite clusters with infinitely many pivots**|Martin P. W. Zerner et.al.|[2610.12460](http://arxiv.org/abs/2610.12460)|null|
+|**2026-10-08**|**Coupling Independence Implies Zero-Freeness**|Shuai Shao et.al.|[2610.12456](http://arxiv.org/abs/2610.12456)|null|
+|**2026-10-08**|**Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting**| Nhan et.al.|[2610.12455](http://arxiv.org/abs/2610.12455)|null|
+|**2026-10-08**|**On PPT entanglement distillation**|Ludovico Lami et.al.|[2610.12454](http://arxiv.org/abs/2610.12454)|null|
+|**2026-10-08**|**Discovery of Hidden Extragalactic Pulsars in the Parkes Archival Data**|Rahul Sengar et.al.|[2610.12450](http://arxiv.org/abs/2610.12450)|null|
 |**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
 |**2026-10-06**|**Algebraic Tensor Network Renormalization and Holographic duality**|Chenqi Meng et.al.|[2610.08787](http://arxiv.org/abs/2610.08787)|null|
 |**2026-10-06**|**Energy-constrained two-way capacity bounds for noisy Gaussian channels**|Stefano Pirandola et.al.|[2610.08786](http://arxiv.org/abs/2610.08786)|null|
@@ -7393,6 +7443,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
+|**2026-10-08**|**DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training**|Junyan Li et.al.|[2610.12468](http://arxiv.org/abs/2610.12468)|null|
+|**2026-10-08**|**CSF: Contextual Safety Filtering for Motion Generators**|Lizhi Yang et.al.|[2610.12467](http://arxiv.org/abs/2610.12467)|null|
+|**2026-10-08**|**On the estimation and validity of AI time horizons---a statistical look at the METR plot**|Drew T. Nguyen et.al.|[2610.12466](http://arxiv.org/abs/2610.12466)|null|
+|**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465](http://arxiv.org/abs/2610.12465)|null|
+|**2026-10-08**|**From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents**|Abbas Raftari et.al.|[2610.12463](http://arxiv.org/abs/2610.12463)|null|
+|**2026-10-08**|**Disk Structure May Determine AGN Variability and Explain the Accretion Disk Size Problem: No Broad Line Region Required**|Amy Secunda et.al.|[2610.12462](http://arxiv.org/abs/2610.12462)|null|
+|**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461](http://arxiv.org/abs/2610.12461)|null|
+|**2026-10-08**|**WorldGuide: Goal-Directed Video World Model for Procedural Task Execution**|Ankan Deria et.al.|[2610.12459](http://arxiv.org/abs/2610.12459)|null|
+|**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|null|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
 |**2026-10-06**|**Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective**|Kevin Zhang et.al.|[2610.08785](http://arxiv.org/abs/2610.08785)|null|
