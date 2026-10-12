@@ -1658,7 +1658,7 @@
 |**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461](http://arxiv.org/abs/2610.12461)|null|
 |**2026-10-08**|**WorldGuide: Goal-Directed Video World Model for Procedural Task Execution**|Ankan Deria et.al.|[2610.12459](http://arxiv.org/abs/2610.12459)|null|
 |**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|null|
-|**2026-10-08**|**Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting**| Nhan et.al.|[2610.12455](http://arxiv.org/abs/2610.12455)|null|
+|**2026-10-08**|**Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting**|Nhan et.al.|[2610.12455](http://arxiv.org/abs/2610.12455)|null|
 |**2026-10-08**|**BrickBench: Evaluating Agentic Brick Design**|Peter Kulits et.al.|[2610.12452](http://arxiv.org/abs/2610.12452)|null|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**Building Rome from a Single Image**|Jiraphon Yenphraphai et.al.|[2610.08790](http://arxiv.org/abs/2610.08790)|null|
@@ -6014,7 +6014,7 @@
 |**2026-10-08**|**Disk Structure May Determine AGN Variability and Explain the Accretion Disk Size Problem: No Broad Line Region Required**|Amy Secunda et.al.|[2610.12462](http://arxiv.org/abs/2610.12462)|null|
 |**2026-10-08**|**Infinite light rays and infinite clusters with infinitely many pivots**|Martin P. W. Zerner et.al.|[2610.12460](http://arxiv.org/abs/2610.12460)|null|
 |**2026-10-08**|**Coupling Independence Implies Zero-Freeness**|Shuai Shao et.al.|[2610.12456](http://arxiv.org/abs/2610.12456)|null|
-|**2026-10-08**|**Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting**| Nhan et.al.|[2610.12455](http://arxiv.org/abs/2610.12455)|null|
+|**2026-10-08**|**Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting**|Nhan et.al.|[2610.12455](http://arxiv.org/abs/2610.12455)|null|
 |**2026-10-08**|**On PPT entanglement distillation**|Ludovico Lami et.al.|[2610.12454](http://arxiv.org/abs/2610.12454)|null|
 |**2026-10-08**|**Discovery of Hidden Extragalactic Pulsars in the Parkes Archival Data**|Rahul Sengar et.al.|[2610.12450](http://arxiv.org/abs/2610.12450)|null|
 |**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
