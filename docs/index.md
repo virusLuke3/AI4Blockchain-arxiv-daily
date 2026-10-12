@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**An entangling Hubbard quasiparticle collider on a digital quantum processor**|Chan Bin Bark et.al.|[2610.13946](http://arxiv.org/abs/2610.13946)|null|
+|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945](http://arxiv.org/abs/2610.13945)|null|
+|**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Junjie Lu et.al.|[2610.13943](http://arxiv.org/abs/2610.13943)|null|
+|**2026-10-09**|**OGLE-2016-BLG-0523: A Low-mass Brown Dwarf or super-Jupiter in a $>100$ au Orbit**|Hongjing Yang et.al.|[2610.13942](http://arxiv.org/abs/2610.13942)|null|
+|**2026-10-09**|**Sandpile avalanches in two dimensions are finite**|Ahmed Bou-Rabee et.al.|[2610.13940](http://arxiv.org/abs/2610.13940)|null|
+|**2026-10-09**|**Constructive Arboricity in Almost-Linear Time for Dense Graphs**|Iman Gholami et.al.|[2610.13937](http://arxiv.org/abs/2610.13937)|null|
+|**2026-10-09**|**A Warped Born Rule Turns an Observer into a Maxwell's Demon**|Olumakinde Ogunnaike et.al.|[2610.13936](http://arxiv.org/abs/2610.13936)|null|
+|**2026-10-09**|**A Riesz-Map Preconditioned Extragradient Method for Price Formation in Mean Field Games**|Yeva Gevorgyan et.al.|[2610.13934](http://arxiv.org/abs/2610.13934)|null|
+|**2026-10-09**|**Constructive Bounds for the Topological Expressivity of Neural Networks**|Kosio Beshkov et.al.|[2610.13931](http://arxiv.org/abs/2610.13931)|null|
+|**2026-10-09**|**The LZ inelastic splitting as a probe of anomaly mediation**|Seung J. Lee et.al.|[2610.13930](http://arxiv.org/abs/2610.13930)|null|
 |**2026-10-08**|**On the estimation and validity of AI time horizons---a statistical look at the METR plot**|Drew T. Nguyen et.al.|[2610.12466](http://arxiv.org/abs/2610.12466)|null|
 |**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465](http://arxiv.org/abs/2610.12465)|null|
 |**2026-10-08**|**What 30,000 Hours of Ego-centric Video Does Not Teach**|Jiahua Dong et.al.|[2610.12464](http://arxiv.org/abs/2610.12464)|null|
