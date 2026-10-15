@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**|Shaoyuan Xie et.al.|[2610.20609](http://arxiv.org/abs/2610.20609)|null|
+|**2026-10-14**|**Representation Conditioning for Generation**|Saeed Razavi et.al.|[2610.20608](http://arxiv.org/abs/2610.20608)|null|
+|**2026-10-14**|**Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion**|Huixuan Cheng et.al.|[2610.20606](http://arxiv.org/abs/2610.20606)|null|
+|**2026-10-14**|**Heavy-Heavy-Light-Light correlators from holography on the worldsheet**|Matías Colaneri et.al.|[2610.20602](http://arxiv.org/abs/2610.20602)|null|
+|**2026-10-14**|**Transient PULSE: Code for the Transient Propagation of UltraLight (pseudo)Scalars to Earth**|Jason Arakawa et.al.|[2610.20601](http://arxiv.org/abs/2610.20601)|null|
+|**2026-10-14**|**DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning**|Qihang Cao et.al.|[2610.20598](http://arxiv.org/abs/2610.20598)|null|
+|**2026-10-14**|**Co-Evolving Acting and Forecasting for Language Agents**|Haofei Yu et.al.|[2610.20597](http://arxiv.org/abs/2610.20597)|null|
+|**2026-10-14**|**The $\mathrm{U}$ -Derivative Associated with Linear Recurrence Sequences**|Ronald Orozco López et.al.|[2610.20593](http://arxiv.org/abs/2610.20593)|null|
+|**2026-10-14**|**Logical CCZ state cultivation**|Yuta Hirasaki et.al.|[2610.20591](http://arxiv.org/abs/2610.20591)|null|
+|**2026-10-14**|**Price of Anarchy of First-Price Auctions in Agentic Markets**|Shubhendu Trivedi et.al.|[2610.20587](http://arxiv.org/abs/2610.20587)|null|
 |**2026-10-12**|**Sharp decay characterization for the Oldroyd-B system with only velocity dissipation**|Zhi Chen et.al.|[2610.16228](http://arxiv.org/abs/2610.16228)|null|
 |**2026-10-12**|**Contractivity of Rudin's diagonal restriction operator for $H^p$ of the polydisc**|Ole Fredrik Brevig et.al.|[2610.16227](http://arxiv.org/abs/2610.16227)|null|
 |**2026-10-12**|**Higher order isoperimetric inequalities and rigidity for surfaces in $\R^n$**|Xu-Qian Fan et.al.|[2610.16221](http://arxiv.org/abs/2610.16221)|null|
