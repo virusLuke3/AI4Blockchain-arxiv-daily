@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Brennan's Conjecture and the Universal Integral Means Spectrum**|Ilia Binder et.al.|[2610.23853](http://arxiv.org/abs/2610.23853)|null|
+|**2026-10-16**|**Flashing with colours: Photometric indicators of an early interaction in type II supernovae**|A. Mendez-Llorca et.al.|[2610.23852](http://arxiv.org/abs/2610.23852)|null|
+|**2026-10-16**|**Behavioral Couplings: From Formation to Behavioral Emergence in Language Models**|Dongyoon Hahm et.al.|[2610.23847](http://arxiv.org/abs/2610.23847)|null|
+|**2026-10-16**|**Identifiability from Moments in Independent Component Analysis Mixture Models**|Pardis Semnani et.al.|[2610.23846](http://arxiv.org/abs/2610.23846)|null|
+|**2026-10-16**|**ModeCast: One-Shot Prediction of Linear MHD Eigenmodes and Growth Rates in Tokamaks**|Alex Higginbottom et.al.|[2610.23844](http://arxiv.org/abs/2610.23844)|null|
+|**2026-10-16**|**Canonical Layer Inference for Deep Gaussian Processes via Symmetry-Breaking Augmentation**|Yichen Zhu et.al.|[2610.23842](http://arxiv.org/abs/2610.23842)|null|
+|**2026-10-16**|**A stable multipersistence invariant for ladder modules**|Marco Delgado-Garrido et.al.|[2610.23838](http://arxiv.org/abs/2610.23838)|null|
+|**2026-10-16**|**Uniform restriction lower bounds and nongeodesic common nodal curves in integrable systems**|Xianchao Wu et.al.|[2610.23836](http://arxiv.org/abs/2610.23836)|null|
+|**2026-10-16**|**Leveraging verifiable structure in quantum circuits to find more efficient compilations with agentic AI**|Tanuj Khattar et.al.|[2610.23832](http://arxiv.org/abs/2610.23832)|null|
+|**2026-10-16**|**Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation**|Shaoang Li et.al.|[2610.23831](http://arxiv.org/abs/2610.23831)|null|
 |**2026-10-14**|**SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**|Shaoyuan Xie et.al.|[2610.20609](http://arxiv.org/abs/2610.20609)|null|
 |**2026-10-14**|**Representation Conditioning for Generation**|Saeed Razavi et.al.|[2610.20608](http://arxiv.org/abs/2610.20608)|null|
 |**2026-10-14**|**Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion**|Huixuan Cheng et.al.|[2610.20606](http://arxiv.org/abs/2610.20606)|null|
@@ -1648,6 +1658,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Learning to Correct Geometry in Generated Videos**|Weijie Lyu et.al.|[2610.23856](http://arxiv.org/abs/2610.23856)|null|
+|**2026-10-16**|**Rethinking the design space of Vanilla Pixel Diffusion Transformers**|Soumik Mukhopadhyay et.al.|[2610.23854](http://arxiv.org/abs/2610.23854)|null|
+|**2026-10-16**|**Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps**|Ethan Myers et.al.|[2610.23851](http://arxiv.org/abs/2610.23851)|null|
+|**2026-10-16**|**Canonical Layer Inference for Deep Gaussian Processes via Symmetry-Breaking Augmentation**|Yichen Zhu et.al.|[2610.23842](http://arxiv.org/abs/2610.23842)|null|
+|**2026-10-16**|**StopWatch: Goal Grounding for Object-goal Navigation**|Xinhao Liu et.al.|[2610.23841](http://arxiv.org/abs/2610.23841)|null|
+|**2026-10-16**|**Demonstration of Logical Error Suppression in a Surface Code Memory on a Cloud-Accessible IBM Superconducting Processor**|Shuwen Kan et.al.|[2610.23840](http://arxiv.org/abs/2610.23840)|null|
+|**2026-10-16**|**DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses**|Jianyuan Zhong et.al.|[2610.23839](http://arxiv.org/abs/2610.23839)|null|
+|**2026-10-16**|**SparseMax-dSTL: Sound Robustness with Horizon-Independent Gradient Allocation for Temporal Logic Trajectory Optimization**|Sai Sandeep Damera et.al.|[2610.23837](http://arxiv.org/abs/2610.23837)|null|
+|**2026-10-16**|**Leveraging verifiable structure in quantum circuits to find more efficient compilations with agentic AI**|Tanuj Khattar et.al.|[2610.23832](http://arxiv.org/abs/2610.23832)|null|
+|**2026-10-16**|**Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation**|Rama AlHamidi et.al.|[2610.23830](http://arxiv.org/abs/2610.23830)|null|
 |**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
 |**2026-10-08**|**Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation**|Ritesh Thawkar et.al.|[2610.12469](http://arxiv.org/abs/2610.12469)|null|
 |**2026-10-08**|**DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training**|Junyan Li et.al.|[2610.12468](http://arxiv.org/abs/2610.12468)|null|
@@ -3103,6 +3123,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Unitary $S^1$ -Manifolds with Four Fixed Points and Kosniowski's Conjecture**|Zhi Lü et.al.|[2610.23855](http://arxiv.org/abs/2610.23855)|null|
+|**2026-10-16**|**Rethinking the design space of Vanilla Pixel Diffusion Transformers**|Soumik Mukhopadhyay et.al.|[2610.23854](http://arxiv.org/abs/2610.23854)|null|
+|**2026-10-16**|**Brennan's Conjecture and the Universal Integral Means Spectrum**|Ilia Binder et.al.|[2610.23853](http://arxiv.org/abs/2610.23853)|null|
+|**2026-10-16**|**Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps**|Ethan Myers et.al.|[2610.23851](http://arxiv.org/abs/2610.23851)|null|
+|**2026-10-16**|**Geometric Viewpoint of $L^\infty$ Estimates for Linearized Monge-Ampère Equations**|Arghya Rakshit et.al.|[2610.23848](http://arxiv.org/abs/2610.23848)|null|
+|**2026-10-16**|**Behavioral Couplings: From Formation to Behavioral Emergence in Language Models**|Dongyoon Hahm et.al.|[2610.23847](http://arxiv.org/abs/2610.23847)|null|
+|**2026-10-16**|**AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery**|Shicheng Liu et.al.|[2610.23845](http://arxiv.org/abs/2610.23845)|null|
+|**2026-10-16**|**Analyticity of the correlation length in subcritical FK-percolation and Potts models**|Lucas D'Alimonte et.al.|[2610.23843](http://arxiv.org/abs/2610.23843)|null|
+|**2026-10-16**|**Canonical Layer Inference for Deep Gaussian Processes via Symmetry-Breaking Augmentation**|Yichen Zhu et.al.|[2610.23842](http://arxiv.org/abs/2610.23842)|null|
+|**2026-10-16**|**StopWatch: Goal Grounding for Object-goal Navigation**|Xinhao Liu et.al.|[2610.23841](http://arxiv.org/abs/2610.23841)|null|
 |**2026-10-12**|**MSC: Multi-Stage Caster-aware Control Framework with Uncertainty-Aware NMPC and RL-based Execution Layer**|Jinho Park et.al.|[2610.16199](http://arxiv.org/abs/2610.16199)|null|
 |**2026-10-12**|**When Sample-Splitting Choices Matter in TMLE and AIPW: Cross-Fitting, Targeting, and Repetition**|M. Ehsan Karim et.al.|[2610.16192](http://arxiv.org/abs/2610.16192)|null|
 |**2026-10-12**|**Self-Avoidance Governs Re-entrant Coil-Globule Transition of Inertial Active Brownian Ring Polymers**|Rakesh Palariya et.al.|[2610.16188](http://arxiv.org/abs/2610.16188)|null|
@@ -4541,6 +4571,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Flashing with colours: Photometric indicators of an early interaction in type II supernovae**|A. Mendez-Llorca et.al.|[2610.23852](http://arxiv.org/abs/2610.23852)|null|
+|**2026-10-16**|**AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery**|Shicheng Liu et.al.|[2610.23845](http://arxiv.org/abs/2610.23845)|null|
+|**2026-10-16**|**ModeCast: One-Shot Prediction of Linear MHD Eigenmodes and Growth Rates in Tokamaks**|Alex Higginbottom et.al.|[2610.23844](http://arxiv.org/abs/2610.23844)|null|
+|**2026-10-16**|**DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses**|Jianyuan Zhong et.al.|[2610.23839](http://arxiv.org/abs/2610.23839)|null|
+|**2026-10-16**|**Detecting Exoplanetary Rings with Roman CGI Reflected Light Phase Curve Observations**|Elizabeth Lane et.al.|[2610.23835](http://arxiv.org/abs/2610.23835)|null|
+|**2026-10-16**|**Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation**|Rama AlHamidi et.al.|[2610.23830](http://arxiv.org/abs/2610.23830)|null|
+|**2026-10-16**|**Self-Building Labs**|Jiaru Bai et.al.|[2610.23826](http://arxiv.org/abs/2610.23826)|null|
+|**2026-10-16**|**A generalised and modular proof-theoretic semantics for sequent systems**|Victor Barroso-Nascimento et.al.|[2610.23822](http://arxiv.org/abs/2610.23822)|null|
+|**2026-10-16**|**Learning without relearning physical symmetry: an SO(3)-equivariant convolutional network (CNN) on the sphere**|Joshua Williamson et.al.|[2610.23821](http://arxiv.org/abs/2610.23821)|null|
+|**2026-10-16**|**Memory effects in the homogenization of a viscous fluid containing elastic particles**|J. Casado-Díaz et.al.|[2610.23819](http://arxiv.org/abs/2610.23819)|null|
 |**2026-10-12**|**NetRL: Powering Network Decisions via NetGRPO-Driven Reinforcement Learning**|Lingfeng Peng et.al.|[2610.16226](http://arxiv.org/abs/2610.16226)|null|
 |**2026-10-12**|**Higher order isoperimetric inequalities and rigidity for surfaces in $\R^n$**|Xu-Qian Fan et.al.|[2610.16221](http://arxiv.org/abs/2610.16221)|null|
 |**2026-10-12**|**When Participant Disjoint Validation Is Not Enough to Establish Generalization in Parkinson's Gait Classification**|Md. Sifat et.al.|[2610.16220](http://arxiv.org/abs/2610.16220)|null|
@@ -6019,6 +6059,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Brennan's Conjecture and the Universal Integral Means Spectrum**|Ilia Binder et.al.|[2610.23853](http://arxiv.org/abs/2610.23853)|null|
+|**2026-10-16**|**Flashing with colours: Photometric indicators of an early interaction in type II supernovae**|A. Mendez-Llorca et.al.|[2610.23852](http://arxiv.org/abs/2610.23852)|null|
+|**2026-10-16**|**Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps**|Ethan Myers et.al.|[2610.23851](http://arxiv.org/abs/2610.23851)|null|
+|**2026-10-16**|**Entering the Era of Circumplanetary Ring Detection with Direct Imaging**|Samantha N. Hasler et.al.|[2610.23850](http://arxiv.org/abs/2610.23850)|null|
+|**2026-10-16**|**Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts**|Antonia Bronars et.al.|[2610.23849](http://arxiv.org/abs/2610.23849)|null|
+|**2026-10-16**|**Geometric Viewpoint of $L^\infty$ Estimates for Linearized Monge-Ampère Equations**|Arghya Rakshit et.al.|[2610.23848](http://arxiv.org/abs/2610.23848)|null|
+|**2026-10-16**|**Behavioral Couplings: From Formation to Behavioral Emergence in Language Models**|Dongyoon Hahm et.al.|[2610.23847](http://arxiv.org/abs/2610.23847)|null|
+|**2026-10-16**|**AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery**|Shicheng Liu et.al.|[2610.23845](http://arxiv.org/abs/2610.23845)|null|
+|**2026-10-16**|**Analyticity of the correlation length in subcritical FK-percolation and Potts models**|Lucas D'Alimonte et.al.|[2610.23843](http://arxiv.org/abs/2610.23843)|null|
+|**2026-10-16**|**Canonical Layer Inference for Deep Gaussian Processes via Symmetry-Breaking Augmentation**|Yichen Zhu et.al.|[2610.23842](http://arxiv.org/abs/2610.23842)|null|
 |**2026-10-12**|**Seg2Click: Learning Pixel-Level Action Masks for GUI Visual Grounding**|Jingchao Wang et.al.|[2610.16234](http://arxiv.org/abs/2610.16234)|null|
 |**2026-10-12**|**Learning Rules, Memorizing Facts: An Information-Theoretic View of Hallucination**|Gengze Xu et.al.|[2610.16233](http://arxiv.org/abs/2610.16233)|null|
 |**2026-10-12**|**AutoNovo: Agentic Program Search Discovers Transferable Nucleic Acid Design Algorithms**|Joel Shor et.al.|[2610.16232](http://arxiv.org/abs/2610.16232)|null|
@@ -7503,6 +7553,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Learning to Correct Geometry in Generated Videos**|Weijie Lyu et.al.|[2610.23856](http://arxiv.org/abs/2610.23856)|null|
+|**2026-10-16**|**Rethinking the design space of Vanilla Pixel Diffusion Transformers**|Soumik Mukhopadhyay et.al.|[2610.23854](http://arxiv.org/abs/2610.23854)|null|
+|**2026-10-16**|**Brennan's Conjecture and the Universal Integral Means Spectrum**|Ilia Binder et.al.|[2610.23853](http://arxiv.org/abs/2610.23853)|null|
+|**2026-10-16**|**Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps**|Ethan Myers et.al.|[2610.23851](http://arxiv.org/abs/2610.23851)|null|
+|**2026-10-16**|**Entering the Era of Circumplanetary Ring Detection with Direct Imaging**|Samantha N. Hasler et.al.|[2610.23850](http://arxiv.org/abs/2610.23850)|null|
+|**2026-10-16**|**Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts**|Antonia Bronars et.al.|[2610.23849](http://arxiv.org/abs/2610.23849)|null|
+|**2026-10-16**|**Geometric Viewpoint of $L^\infty$ Estimates for Linearized Monge-Ampère Equations**|Arghya Rakshit et.al.|[2610.23848](http://arxiv.org/abs/2610.23848)|null|
+|**2026-10-16**|**Behavioral Couplings: From Formation to Behavioral Emergence in Language Models**|Dongyoon Hahm et.al.|[2610.23847](http://arxiv.org/abs/2610.23847)|null|
+|**2026-10-16**|**Identifiability from Moments in Independent Component Analysis Mixture Models**|Pardis Semnani et.al.|[2610.23846](http://arxiv.org/abs/2610.23846)|null|
+|**2026-10-16**|**AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery**|Shicheng Liu et.al.|[2610.23845](http://arxiv.org/abs/2610.23845)|null|
 |**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
 |**2026-10-08**|**DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training**|Junyan Li et.al.|[2610.12468](http://arxiv.org/abs/2610.12468)|null|
 |**2026-10-08**|**CSF: Contextual Safety Filtering for Motion Generators**|Lizhi Yang et.al.|[2610.12467](http://arxiv.org/abs/2610.12467)|null|
