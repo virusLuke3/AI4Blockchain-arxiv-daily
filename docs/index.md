@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**When to retire: the cultural evolution of post-reproductive oblique teaching**|Hirotaka Goto et.al.|[2610.30135](http://arxiv.org/abs/2610.30135)|null|
+|**2026-10-21**|**Optimal galaxy magnification: generalized fundamental-plane residuals and number counts are all you need**|Kun Xu et.al.|[2610.30133](http://arxiv.org/abs/2610.30133)|null|
+|**2026-10-21**|**Scaling H2 Factorization to Billion-Unknown Three-Dimensional Problems**|Tianyu Liang et.al.|[2610.30131](http://arxiv.org/abs/2610.30131)|null|
+|**2026-10-21**|**Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation**|Zhanshuo Cao et.al.|[2610.30128](http://arxiv.org/abs/2610.30128)|null|
+|**2026-10-21**|**PhysiCalWorld: In-Context Physics Calibration for World Models**|Yunhao Luo et.al.|[2610.30125](http://arxiv.org/abs/2610.30125)|null|
+|**2026-10-21**|**Temporal Exploration and Rendezvous via Weisfeiler-Leman Colorings**|Frank Kammer et.al.|[2610.30123](http://arxiv.org/abs/2610.30123)|null|
+|**2026-10-21**|**A Quasipolynomial Algorithm for $\ell_\infty$ Contractions**|Ashkan Soleymani et.al.|[2610.30122](http://arxiv.org/abs/2610.30122)|null|
+|**2026-10-21**|**Geometric Algebra for Neural Networks: A Survey**|Tao Zhong et.al.|[2610.30121](http://arxiv.org/abs/2610.30121)|null|
+|**2026-10-21**|**ALPS: Visual State Encoders for World Models**|Yanqing Liu et.al.|[2610.30120](http://arxiv.org/abs/2610.30120)|null|
+|**2026-10-21**|**Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence**|Imon Banerjee et.al.|[2610.30119](http://arxiv.org/abs/2610.30119)|null|
 |**2026-10-16**|**Brennan's Conjecture and the Universal Integral Means Spectrum**|Ilia Binder et.al.|[2610.23853](http://arxiv.org/abs/2610.23853)|null|
 |**2026-10-16**|**Flashing with colours: Photometric indicators of an early interaction in type II supernovae**|A. Mendez-Llorca et.al.|[2610.23852](http://arxiv.org/abs/2610.23852)|null|
 |**2026-10-16**|**Behavioral Couplings: From Formation to Behavioral Emergence in Language Models**|Dongyoon Hahm et.al.|[2610.23847](http://arxiv.org/abs/2610.23847)|null|
@@ -1658,6 +1668,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Optimal galaxy magnification: generalized fundamental-plane residuals and number counts are all you need**|Kun Xu et.al.|[2610.30133](http://arxiv.org/abs/2610.30133)|null|
+|**2026-10-21**|**Rethinking Video Autoencoders for Interactive World Models**|Adrien Ramanana Rahary et.al.|[2610.30129](http://arxiv.org/abs/2610.30129)|null|
+|**2026-10-21**|**Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation**|Zhanshuo Cao et.al.|[2610.30128](http://arxiv.org/abs/2610.30128)|null|
+|**2026-10-21**|**VoxProg: 3D Spatial Reasoning through Voxel Programming**|Zhichao Zhai et.al.|[2610.30127](http://arxiv.org/abs/2610.30127)|null|
+|**2026-10-21**|**PhysiCalWorld: In-Context Physics Calibration for World Models**|Yunhao Luo et.al.|[2610.30125](http://arxiv.org/abs/2610.30125)|null|
+|**2026-10-21**|**A Quasipolynomial Algorithm for $\ell_\infty$ Contractions**|Ashkan Soleymani et.al.|[2610.30122](http://arxiv.org/abs/2610.30122)|null|
+|**2026-10-21**|**Geometric Algebra for Neural Networks: A Survey**|Tao Zhong et.al.|[2610.30121](http://arxiv.org/abs/2610.30121)|null|
+|**2026-10-21**|**ALPS: Visual State Encoders for World Models**|Yanqing Liu et.al.|[2610.30120](http://arxiv.org/abs/2610.30120)|null|
+|**2026-10-21**|**Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence**|Imon Banerjee et.al.|[2610.30119](http://arxiv.org/abs/2610.30119)|null|
+|**2026-10-21**|**Environment Duels: A Microcosm of LLM Co-Evolution**|Shibo Jin et.al.|[2610.30116](http://arxiv.org/abs/2610.30116)|null|
 |**2026-10-16**|**Learning to Correct Geometry in Generated Videos**|Weijie Lyu et.al.|[2610.23856](http://arxiv.org/abs/2610.23856)|null|
 |**2026-10-16**|**Rethinking the design space of Vanilla Pixel Diffusion Transformers**|Soumik Mukhopadhyay et.al.|[2610.23854](http://arxiv.org/abs/2610.23854)|null|
 |**2026-10-16**|**Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps**|Ethan Myers et.al.|[2610.23851](http://arxiv.org/abs/2610.23851)|null|
@@ -3123,6 +3143,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Agentic World Action Models**|Zhuoyang Liu et.al.|[2610.30136](http://arxiv.org/abs/2610.30136)|null|
+|**2026-10-21**|**When to retire: the cultural evolution of post-reproductive oblique teaching**|Hirotaka Goto et.al.|[2610.30135](http://arxiv.org/abs/2610.30135)|null|
+|**2026-10-21**|**Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation**|Zhanshuo Cao et.al.|[2610.30128](http://arxiv.org/abs/2610.30128)|null|
+|**2026-10-21**|**VoxProg: 3D Spatial Reasoning through Voxel Programming**|Zhichao Zhai et.al.|[2610.30127](http://arxiv.org/abs/2610.30127)|null|
+|**2026-10-21**|**Random Euclidean CFT $_2$ from Triangulated dS$_3$ Gravity**|Ji-seong Chae et.al.|[2610.30126](http://arxiv.org/abs/2610.30126)|null|
+|**2026-10-21**|**Phonon-assisted free-electron recoil control and mechanical sensing**|Sunjun Hwang et.al.|[2610.30124](http://arxiv.org/abs/2610.30124)|null|
+|**2026-10-21**|**Temporal Exploration and Rendezvous via Weisfeiler-Leman Colorings**|Frank Kammer et.al.|[2610.30123](http://arxiv.org/abs/2610.30123)|null|
+|**2026-10-21**|**A Quasipolynomial Algorithm for $\ell_\infty$ Contractions**|Ashkan Soleymani et.al.|[2610.30122](http://arxiv.org/abs/2610.30122)|null|
+|**2026-10-21**|**Geometric Algebra for Neural Networks: A Survey**|Tao Zhong et.al.|[2610.30121](http://arxiv.org/abs/2610.30121)|null|
+|**2026-10-21**|**ALPS: Visual State Encoders for World Models**|Yanqing Liu et.al.|[2610.30120](http://arxiv.org/abs/2610.30120)|null|
 |**2026-10-16**|**Unitary $S^1$ -Manifolds with Four Fixed Points and Kosniowski's Conjecture**|Zhi Lü et.al.|[2610.23855](http://arxiv.org/abs/2610.23855)|null|
 |**2026-10-16**|**Rethinking the design space of Vanilla Pixel Diffusion Transformers**|Soumik Mukhopadhyay et.al.|[2610.23854](http://arxiv.org/abs/2610.23854)|null|
 |**2026-10-16**|**Brennan's Conjecture and the Universal Integral Means Spectrum**|Ilia Binder et.al.|[2610.23853](http://arxiv.org/abs/2610.23853)|null|
@@ -4571,6 +4601,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Agentic World Action Models**|Zhuoyang Liu et.al.|[2610.30136](http://arxiv.org/abs/2610.30136)|null|
+|**2026-10-21**|**Phonon-assisted free-electron recoil control and mechanical sensing**|Sunjun Hwang et.al.|[2610.30124](http://arxiv.org/abs/2610.30124)|null|
+|**2026-10-21**|**Temporal Exploration and Rendezvous via Weisfeiler-Leman Colorings**|Frank Kammer et.al.|[2610.30123](http://arxiv.org/abs/2610.30123)|null|
+|**2026-10-21**|**Environment Duels: A Microcosm of LLM Co-Evolution**|Shibo Jin et.al.|[2610.30116](http://arxiv.org/abs/2610.30116)|null|
+|**2026-10-21**|**The End of Consensus Research?**|Clément Burgelin et.al.|[2610.30114](http://arxiv.org/abs/2610.30114)|null|
+|**2026-10-21**|**Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research**|Houde Qian et.al.|[2610.30113](http://arxiv.org/abs/2610.30113)|null|
+|**2026-10-21**|**Implementation of Dynamic Microsegmentation for a Multi-Robot Network**|Vishwam Raval et.al.|[2610.30102](http://arxiv.org/abs/2610.30102)|null|
+|**2026-10-21**|**Spatial Control of Compressible Active Fluids**|Yu-Chuan Cheng et.al.|[2610.30092](http://arxiv.org/abs/2610.30092)|null|
+|**2026-10-21**|**An Implicit Conservative Finite Volume Scheme with Poisson Brackets for the Steady-State Transport of Galactic Cosmic Rays**|Weihao Liu et.al.|[2610.30091](http://arxiv.org/abs/2610.30091)|null|
+|**2026-10-21**|**ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video**|Ruotong Liao et.al.|[2610.30089](http://arxiv.org/abs/2610.30089)|null|
 |**2026-10-16**|**Flashing with colours: Photometric indicators of an early interaction in type II supernovae**|A. Mendez-Llorca et.al.|[2610.23852](http://arxiv.org/abs/2610.23852)|null|
 |**2026-10-16**|**AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery**|Shicheng Liu et.al.|[2610.23845](http://arxiv.org/abs/2610.23845)|null|
 |**2026-10-16**|**ModeCast: One-Shot Prediction of Linear MHD Eigenmodes and Growth Rates in Tokamaks**|Alex Higginbottom et.al.|[2610.23844](http://arxiv.org/abs/2610.23844)|null|
@@ -6059,6 +6099,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**When to retire: the cultural evolution of post-reproductive oblique teaching**|Hirotaka Goto et.al.|[2610.30135](http://arxiv.org/abs/2610.30135)|null|
+|**2026-10-21**|**A signature of the timelike singularity in holography**|Joydeep Chakravarty et.al.|[2610.30134](http://arxiv.org/abs/2610.30134)|null|
+|**2026-10-21**|**Optimal galaxy magnification: generalized fundamental-plane residuals and number counts are all you need**|Kun Xu et.al.|[2610.30133](http://arxiv.org/abs/2610.30133)|null|
+|**2026-10-21**|**LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data**|Zhennan Wan et.al.|[2610.30132](http://arxiv.org/abs/2610.30132)|null|
+|**2026-10-21**|**Scaling H2 Factorization to Billion-Unknown Three-Dimensional Problems**|Tianyu Liang et.al.|[2610.30131](http://arxiv.org/abs/2610.30131)|null|
+|**2026-10-21**|**Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation**|Zhanshuo Cao et.al.|[2610.30128](http://arxiv.org/abs/2610.30128)|null|
+|**2026-10-21**|**VoxProg: 3D Spatial Reasoning through Voxel Programming**|Zhichao Zhai et.al.|[2610.30127](http://arxiv.org/abs/2610.30127)|null|
+|**2026-10-21**|**Random Euclidean CFT $_2$ from Triangulated dS$_3$ Gravity**|Ji-seong Chae et.al.|[2610.30126](http://arxiv.org/abs/2610.30126)|null|
+|**2026-10-21**|**PhysiCalWorld: In-Context Physics Calibration for World Models**|Yunhao Luo et.al.|[2610.30125](http://arxiv.org/abs/2610.30125)|null|
+|**2026-10-21**|**Temporal Exploration and Rendezvous via Weisfeiler-Leman Colorings**|Frank Kammer et.al.|[2610.30123](http://arxiv.org/abs/2610.30123)|null|
 |**2026-10-16**|**Brennan's Conjecture and the Universal Integral Means Spectrum**|Ilia Binder et.al.|[2610.23853](http://arxiv.org/abs/2610.23853)|null|
 |**2026-10-16**|**Flashing with colours: Photometric indicators of an early interaction in type II supernovae**|A. Mendez-Llorca et.al.|[2610.23852](http://arxiv.org/abs/2610.23852)|null|
 |**2026-10-16**|**Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps**|Ethan Myers et.al.|[2610.23851](http://arxiv.org/abs/2610.23851)|null|
@@ -7553,6 +7603,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Agentic World Action Models**|Zhuoyang Liu et.al.|[2610.30136](http://arxiv.org/abs/2610.30136)|null|
+|**2026-10-21**|**Optimal galaxy magnification: generalized fundamental-plane residuals and number counts are all you need**|Kun Xu et.al.|[2610.30133](http://arxiv.org/abs/2610.30133)|null|
+|**2026-10-21**|**LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data**|Zhennan Wan et.al.|[2610.30132](http://arxiv.org/abs/2610.30132)|null|
+|**2026-10-21**|**Scaling H2 Factorization to Billion-Unknown Three-Dimensional Problems**|Tianyu Liang et.al.|[2610.30131](http://arxiv.org/abs/2610.30131)|null|
+|**2026-10-21**|**Generalized Kahler BHE threefolds**|Beatrice Brienza et.al.|[2610.30130](http://arxiv.org/abs/2610.30130)|null|
+|**2026-10-21**|**Rethinking Video Autoencoders for Interactive World Models**|Adrien Ramanana Rahary et.al.|[2610.30129](http://arxiv.org/abs/2610.30129)|null|
+|**2026-10-21**|**Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation**|Zhanshuo Cao et.al.|[2610.30128](http://arxiv.org/abs/2610.30128)|null|
+|**2026-10-21**|**PhysiCalWorld: In-Context Physics Calibration for World Models**|Yunhao Luo et.al.|[2610.30125](http://arxiv.org/abs/2610.30125)|null|
+|**2026-10-21**|**Phonon-assisted free-electron recoil control and mechanical sensing**|Sunjun Hwang et.al.|[2610.30124](http://arxiv.org/abs/2610.30124)|null|
+|**2026-10-21**|**Temporal Exploration and Rendezvous via Weisfeiler-Leman Colorings**|Frank Kammer et.al.|[2610.30123](http://arxiv.org/abs/2610.30123)|null|
 |**2026-10-16**|**Learning to Correct Geometry in Generated Videos**|Weijie Lyu et.al.|[2610.23856](http://arxiv.org/abs/2610.23856)|null|
 |**2026-10-16**|**Rethinking the design space of Vanilla Pixel Diffusion Transformers**|Soumik Mukhopadhyay et.al.|[2610.23854](http://arxiv.org/abs/2610.23854)|null|
 |**2026-10-16**|**Brennan's Conjecture and the Universal Integral Means Spectrum**|Ilia Binder et.al.|[2610.23853](http://arxiv.org/abs/2610.23853)|null|
