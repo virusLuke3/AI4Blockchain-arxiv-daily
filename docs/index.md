@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.23
+## Updated on 2026.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory**|G. Bonelli et.al.|[2610.31672](http://arxiv.org/abs/2610.31672)|null|
+|**2026-10-22**|**Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**|Yunfei Xie et.al.|[2610.31670](http://arxiv.org/abs/2610.31670)|null|
+|**2026-10-22**|**Collapsed translating solitons with planar wings**|Eddygledson Souza Gama et.al.|[2610.31669](http://arxiv.org/abs/2610.31669)|null|
+|**2026-10-22**|**Half-Completeness from Standard Gravitational Dispersion Relations**|Lukas W. Lindwasser et.al.|[2610.31665](http://arxiv.org/abs/2610.31665)|null|
+|**2026-10-22**|**Odd radio circle J1555+2726: Observational evidence for shock re-acceleration of fossil plasma**|L. Bruno et.al.|[2610.31664](http://arxiv.org/abs/2610.31664)|null|
+|**2026-10-22**|**Phase Transition from Random Features to Fully Trainable Networks**|Xin He et.al.|[2610.31663](http://arxiv.org/abs/2610.31663)|null|
+|**2026-10-22**|**On the Concordance Invariants of Cable Links**|Aadhishwaran Bhuvaraghamoorthy et.al.|[2610.31654](http://arxiv.org/abs/2610.31654)|null|
+|**2026-10-22**|**On Born-Infeld-type higher-spin interactions and supersymmetry**|Nikita Zaigraev et.al.|[2610.31652](http://arxiv.org/abs/2610.31652)|null|
+|**2026-10-22**|**Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation**|Xiaolin Li et.al.|[2610.31649](http://arxiv.org/abs/2610.31649)|null|
+|**2026-10-22**|**Low-Bit N-Gram Embeddings for Language Models**|Stephen Chung et.al.|[2610.31646](http://arxiv.org/abs/2610.31646)|null|
 |**2026-10-22**|**ChainSEED: A Scalable, High-Fidelity Blockchain Emulator**|Qishu Jin et.al.|[2610.31188](http://arxiv.org/abs/2610.31188)|null|
 |**2026-10-22**|**DLT Terms 100: a learner's glossary based on ISO 22739:2024**|Yusuke Kaneko et.al.|[2610.30596](http://arxiv.org/abs/2610.30596)|null|
 |**2026-10-22**|**Temporal Liquidity Crossing for Blockchains: An EIP-1559 Extension for Admission Below the Base Fee**|Duanyang Dan Guo et.al.|[2610.30595](http://arxiv.org/abs/2610.30595)|null|
@@ -1678,6 +1688,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**A Unified Framework for Image-to-3D Part Generation via Variable Granularity**|Qiwen Gu et.al.|[2610.31671](http://arxiv.org/abs/2610.31671)|null|
+|**2026-10-22**|**Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**|Yunfei Xie et.al.|[2610.31670](http://arxiv.org/abs/2610.31670)|null|
+|**2026-10-22**|**Reading, Writing, Sharing, and Interacting with the World through Video**|Shengqiong Wu et.al.|[2610.31668](http://arxiv.org/abs/2610.31668)|null|
+|**2026-10-22**|**Direct Pass@ $k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning**|Mahdi Salmani et.al.|[2610.31667](http://arxiv.org/abs/2610.31667)|null|
+|**2026-10-22**|**Odd radio circle J1555+2726: Observational evidence for shock re-acceleration of fossil plasma**|L. Bruno et.al.|[2610.31664](http://arxiv.org/abs/2610.31664)|null|
+|**2026-10-22**|**Phase Transition from Random Features to Fully Trainable Networks**|Xin He et.al.|[2610.31663](http://arxiv.org/abs/2610.31663)|null|
+|**2026-10-22**|**Reliable AI-Assisted Decisions via Selective Auditing**|Isaac Gibbs et.al.|[2610.31662](http://arxiv.org/abs/2610.31662)|null|
+|**2026-10-22**|**SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing**|Sy-Tuyen Ho et.al.|[2610.31659](http://arxiv.org/abs/2610.31659)|null|
+|**2026-10-22**|**BrickWright: Agentic Creation of Physically Feasible Brick Builds**|Ava Pun et.al.|[2610.31651](http://arxiv.org/abs/2610.31651)|null|
+|**2026-10-22**|**EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence**|Qijin Zhang et.al.|[2610.31650](http://arxiv.org/abs/2610.31650)|null|
 |**2026-10-22**|**BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing**|Hayden Prairie et.al.|[2610.31633](http://arxiv.org/abs/2610.31633)|null|
 |**2026-10-22**|**Sharp fractional Hardy--Maz'ya remainders on half-spaces: angular reduction and energy stability**|Shengbing Deng et.al.|[2610.31595](http://arxiv.org/abs/2610.31595)|null|
 |**2026-10-22**|**What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models**|Jinya Sakurai et.al.|[2610.31576](http://arxiv.org/abs/2610.31576)|null|
