@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**SEMAC: Spherical Energy Matching Ambisonics Codec for Efficient Higher-Order Ambisonics Compression**|Christoph Hold et.al.|[2610.32981](http://arxiv.org/abs/2610.32981)|null|
+|**2026-10-23**|**Fréchet Kriging for Metric Space-Valued Spatial Data**|Ryo Okano et.al.|[2610.32979](http://arxiv.org/abs/2610.32979)|null|
+|**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
+|**2026-10-23**|**Comprehensive Visible and Near-infrared Keck and Gemini Monitoring and Characterization of Interstellar Comet 3I/ATLAS during its Encounter with the Solar System**|Bryce T. Bolin et.al.|[2610.32972](http://arxiv.org/abs/2610.32972)|null|
+|**2026-10-23**|**On the continuity of conditional distributions and stratification for derivative pricing**|Aleksandar Arandjelovic et.al.|[2610.32970](http://arxiv.org/abs/2610.32970)|null|
+|**2026-10-23**|**Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions**|Chayan Patra et.al.|[2610.32968](http://arxiv.org/abs/2610.32968)|null|
+|**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Bernardo Perrone Ribeiro et.al.|[2610.32964](http://arxiv.org/abs/2610.32964)|null|
+|**2026-10-23**|**Optimal collective investment under regulatory uncertainty**|An Chen et.al.|[2610.32959](http://arxiv.org/abs/2610.32959)|null|
+|**2026-10-23**|**All Order Self-Dual Correlators From Symmetries**|Chandramouli Chowdhury et.al.|[2610.32956](http://arxiv.org/abs/2610.32956)|null|
+|**2026-10-23**|**Acyclic 2-edge-coloured graphs: polynomial-time linkages and colouring hardness**|Jørgen Bang-Jensen et.al.|[2610.32954](http://arxiv.org/abs/2610.32954)|null|
 |**2026-10-22**|**Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory**|G. Bonelli et.al.|[2610.31672](http://arxiv.org/abs/2610.31672)|null|
 |**2026-10-22**|**Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**|Yunfei Xie et.al.|[2610.31670](http://arxiv.org/abs/2610.31670)|null|
 |**2026-10-22**|**Collapsed translating solitons with planar wings**|Eddygledson Souza Gama et.al.|[2610.31669](http://arxiv.org/abs/2610.31669)|null|
@@ -1688,6 +1698,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Fréchet Kriging for Metric Space-Valued Spatial Data**|Ryo Okano et.al.|[2610.32979](http://arxiv.org/abs/2610.32979)|null|
+|**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
+|**2026-10-23**|**UniAction: Unified Action Conditioning for World Models**|Bowen Xue et.al.|[2610.32977](http://arxiv.org/abs/2610.32977)|null|
+|**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976](http://arxiv.org/abs/2610.32976)|null|
+|**2026-10-23**|**Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions**|Chayan Patra et.al.|[2610.32968](http://arxiv.org/abs/2610.32968)|null|
+|**2026-10-23**|**MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs**|Tarunya Prasad et.al.|[2610.32967](http://arxiv.org/abs/2610.32967)|null|
+|**2026-10-23**|**ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback**|Zimo He et.al.|[2610.32966](http://arxiv.org/abs/2610.32966)|null|
+|**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Bernardo Perrone Ribeiro et.al.|[2610.32964](http://arxiv.org/abs/2610.32964)|null|
+|**2026-10-23**|**Optimal collective investment under regulatory uncertainty**|An Chen et.al.|[2610.32959](http://arxiv.org/abs/2610.32959)|null|
+|**2026-10-23**|**CoupleFlow: Null-Calibrated Auditory Attention Decoding With Time-Locked Brain-Speech Coupling and Flow-Matching Likelihood Ratios**|Ali Alavi et.al.|[2610.32950](http://arxiv.org/abs/2610.32950)|null|
 |**2026-10-22**|**A Unified Framework for Image-to-3D Part Generation via Variable Granularity**|Qiwen Gu et.al.|[2610.31671](http://arxiv.org/abs/2610.31671)|null|
 |**2026-10-22**|**Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**|Yunfei Xie et.al.|[2610.31670](http://arxiv.org/abs/2610.31670)|null|
 |**2026-10-22**|**Reading, Writing, Sharing, and Interacting with the World through Video**|Shengqiong Wu et.al.|[2610.31668](http://arxiv.org/abs/2610.31668)|null|
@@ -3183,6 +3203,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Separating Thinking from Spelling for Efficient Generative Recommendation**|Danil Gusak et.al.|[2610.32980](http://arxiv.org/abs/2610.32980)|null|
+|**2026-10-23**|**Fréchet Kriging for Metric Space-Valued Spatial Data**|Ryo Okano et.al.|[2610.32979](http://arxiv.org/abs/2610.32979)|null|
+|**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
+|**2026-10-23**|**Comprehensive Visible and Near-infrared Keck and Gemini Monitoring and Characterization of Interstellar Comet 3I/ATLAS during its Encounter with the Solar System**|Bryce T. Bolin et.al.|[2610.32972](http://arxiv.org/abs/2610.32972)|null|
+|**2026-10-23**|**RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms**|Xi Chen et.al.|[2610.32971](http://arxiv.org/abs/2610.32971)|null|
+|**2026-10-23**|**On the continuity of conditional distributions and stratification for derivative pricing**|Aleksandar Arandjelovic et.al.|[2610.32970](http://arxiv.org/abs/2610.32970)|null|
+|**2026-10-23**|**Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions**|Chayan Patra et.al.|[2610.32968](http://arxiv.org/abs/2610.32968)|null|
+|**2026-10-23**|**MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs**|Tarunya Prasad et.al.|[2610.32967](http://arxiv.org/abs/2610.32967)|null|
+|**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Bernardo Perrone Ribeiro et.al.|[2610.32964](http://arxiv.org/abs/2610.32964)|null|
+|**2026-10-23**|**Fiscal Dominance and Global Determinacy**|Alessandro Piergallini et.al.|[2610.32963](http://arxiv.org/abs/2610.32963)|null|
 |**2026-10-22**|**A Unified Framework for Image-to-3D Part Generation via Variable Granularity**|Qiwen Gu et.al.|[2610.31671](http://arxiv.org/abs/2610.31671)|null|
 |**2026-10-22**|**Reading, Writing, Sharing, and Interacting with the World through Video**|Shengqiong Wu et.al.|[2610.31668](http://arxiv.org/abs/2610.31668)|null|
 |**2026-10-22**|**Direct Pass@ $k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning**|Mahdi Salmani et.al.|[2610.31667](http://arxiv.org/abs/2610.31667)|null|
@@ -4651,6 +4681,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Separating Thinking from Spelling for Efficient Generative Recommendation**|Danil Gusak et.al.|[2610.32980](http://arxiv.org/abs/2610.32980)|null|
+|**2026-10-23**|**Ideal interaction dynamics of defects and background fields in condensed matter**|François Gay-Balmaz et.al.|[2610.32973](http://arxiv.org/abs/2610.32973)|null|
+|**2026-10-23**|**On the continuity of conditional distributions and stratification for derivative pricing**|Aleksandar Arandjelovic et.al.|[2610.32970](http://arxiv.org/abs/2610.32970)|null|
+|**2026-10-23**|**Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions**|Chayan Patra et.al.|[2610.32968](http://arxiv.org/abs/2610.32968)|null|
+|**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Bernardo Perrone Ribeiro et.al.|[2610.32964](http://arxiv.org/abs/2610.32964)|null|
+|**2026-10-23**|**Fiscal Dominance and Global Determinacy**|Alessandro Piergallini et.al.|[2610.32963](http://arxiv.org/abs/2610.32963)|null|
+|**2026-10-23**|**Shared clones make random cell halves look reproducible in pooled screens**|Xuanrui Huang et.al.|[2610.32962](http://arxiv.org/abs/2610.32962)|null|
+|**2026-10-23**|**Optimal collective investment under regulatory uncertainty**|An Chen et.al.|[2610.32959](http://arxiv.org/abs/2610.32959)|null|
+|**2026-10-23**|**Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox**|Federico Lucca et.al.|[2610.32955](http://arxiv.org/abs/2610.32955)|null|
+|**2026-10-23**|**Acyclic 2-edge-coloured graphs: polynomial-time linkages and colouring hardness**|Jørgen Bang-Jensen et.al.|[2610.32954](http://arxiv.org/abs/2610.32954)|null|
 |**2026-10-22**|**Collapsed translating solitons with planar wings**|Eddygledson Souza Gama et.al.|[2610.31669](http://arxiv.org/abs/2610.31669)|null|
 |**2026-10-22**|**Direct Pass@ $k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning**|Mahdi Salmani et.al.|[2610.31667](http://arxiv.org/abs/2610.31667)|null|
 |**2026-10-22**|**Boosted Dark Matter Directionality in Large Liquid Scintillator Detectors**|Samuel S. H. Tse et.al.|[2610.31666](http://arxiv.org/abs/2610.31666)|null|
@@ -6159,6 +6199,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**The Language of Instruction: Genre and Generative AI**|James E. Dobson et.al.|[2610.32982](http://arxiv.org/abs/2610.32982)|null|
+|**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
+|**2026-10-23**|**Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions**|Chayan Patra et.al.|[2610.32968](http://arxiv.org/abs/2610.32968)|null|
+|**2026-10-23**|**Fiscal Dominance and Global Determinacy**|Alessandro Piergallini et.al.|[2610.32963](http://arxiv.org/abs/2610.32963)|null|
+|**2026-10-23**|**A probabilistic approach to separate mergers and jellyfish galaxies: Application of morphological non-parametric indexes to the DESI Legacy Survey**|V. M. Sampaio et.al.|[2610.32960](http://arxiv.org/abs/2610.32960)|null|
+|**2026-10-23**|**Optimal collective investment under regulatory uncertainty**|An Chen et.al.|[2610.32959](http://arxiv.org/abs/2610.32959)|null|
+|**2026-10-23**|**All-multiplicity $\textrm{AdS}_4$ correlators in the self-dual sector**|Humberto Gomez et.al.|[2610.32957](http://arxiv.org/abs/2610.32957)|null|
+|**2026-10-23**|**Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox**|Federico Lucca et.al.|[2610.32955](http://arxiv.org/abs/2610.32955)|null|
+|**2026-10-23**|**Acyclic 2-edge-coloured graphs: polynomial-time linkages and colouring hardness**|Jørgen Bang-Jensen et.al.|[2610.32954](http://arxiv.org/abs/2610.32954)|null|
+|**2026-10-23**|**Low-Complexity Wideband Channel Estimation for ISAC in Analog Millimeter-Wave Systems**|Hamza Touati et.al.|[2610.32953](http://arxiv.org/abs/2610.32953)|null|
 |**2026-10-22**|**Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory**|G. Bonelli et.al.|[2610.31672](http://arxiv.org/abs/2610.31672)|null|
 |**2026-10-22**|**Collapsed translating solitons with planar wings**|Eddygledson Souza Gama et.al.|[2610.31669](http://arxiv.org/abs/2610.31669)|null|
 |**2026-10-22**|**Direct Pass@ $k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning**|Mahdi Salmani et.al.|[2610.31667](http://arxiv.org/abs/2610.31667)|null|
@@ -7673,6 +7723,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**The Language of Instruction: Genre and Generative AI**|James E. Dobson et.al.|[2610.32982](http://arxiv.org/abs/2610.32982)|null|
+|**2026-10-23**|**Fréchet Kriging for Metric Space-Valued Spatial Data**|Ryo Okano et.al.|[2610.32979](http://arxiv.org/abs/2610.32979)|null|
+|**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
+|**2026-10-23**|**RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms**|Xi Chen et.al.|[2610.32971](http://arxiv.org/abs/2610.32971)|null|
+|**2026-10-23**|**On the continuity of conditional distributions and stratification for derivative pricing**|Aleksandar Arandjelovic et.al.|[2610.32970](http://arxiv.org/abs/2610.32970)|null|
+|**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Amber Xie et.al.|[2610.32969](http://arxiv.org/abs/2610.32969)|null|
+|**2026-10-23**|**Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions**|Chayan Patra et.al.|[2610.32968](http://arxiv.org/abs/2610.32968)|null|
+|**2026-10-23**|**MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs**|Tarunya Prasad et.al.|[2610.32967](http://arxiv.org/abs/2610.32967)|null|
+|**2026-10-23**|**ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback**|Zimo He et.al.|[2610.32966](http://arxiv.org/abs/2610.32966)|null|
+|**2026-10-23**|**RynnUnify: Towards Unified Embodied Brain**|Minghao Zhu et.al.|[2610.32965](http://arxiv.org/abs/2610.32965)|null|
 |**2026-10-22**|**Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**|Yunfei Xie et.al.|[2610.31670](http://arxiv.org/abs/2610.31670)|null|
 |**2026-10-22**|**Reading, Writing, Sharing, and Interacting with the World through Video**|Shengqiong Wu et.al.|[2610.31668](http://arxiv.org/abs/2610.31668)|null|
 |**2026-10-22**|**Direct Pass@ $k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning**|Mahdi Salmani et.al.|[2610.31667](http://arxiv.org/abs/2610.31667)|null|
