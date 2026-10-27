@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Universal polynomials for Gromov-Witten invariants on toric surfaces**|Yanqiao Ding et.al.|[2610.35122](http://arxiv.org/abs/2610.35122)|null|
+|**2026-10-26**|**On a family of stably handle-slide trivial R-links**|Wenjie Diao et.al.|[2610.35120](http://arxiv.org/abs/2610.35120)|null|
+|**2026-10-26**|**Multinomial shot sampling for quantum circuits**|Ijaz Ahamed Mohammad et.al.|[2610.35119](http://arxiv.org/abs/2610.35119)|null|
+|**2026-10-26**|**Scenario Matching for Credit Dependence Stress Tests: Temporal correlation constraints and empirical risk bounds**|Naoufal Nifa et.al.|[2610.35118](http://arxiv.org/abs/2610.35118)|null|
+|**2026-10-26**|**Analysis of C-point and V-point Inhomogeneous Vector Beams Stability under Anisotropic Turbulence in Ground-to-Air Transmission**| Sagar et.al.|[2610.35116](http://arxiv.org/abs/2610.35116)|null|
+|**2026-10-26**|**QED VI: Neutral hydrogen gas in supernova-driven galactic outflows**|Chong-Chong He et.al.|[2610.35115](http://arxiv.org/abs/2610.35115)|null|
+|**2026-10-26**|**Subspace Crystallization in Grokking: Rank Compression Tracks the Phase Transition**|Shlok Mehendale et.al.|[2610.35112](http://arxiv.org/abs/2610.35112)|null|
+|**2026-10-26**|**Retrieval-Augmented Parkinson's Disease Classification from Resting-State Functional Connectivity**|Tara Niknam et.al.|[2610.35107](http://arxiv.org/abs/2610.35107)|null|
+|**2026-10-26**|**The Language of Deformation: Semantic Failure Analysis as a Prerequisite for Dexterous Manipulation of Deformable Objects**|Ignacio Cuiral-Zueco et.al.|[2610.35103](http://arxiv.org/abs/2610.35103)|null|
+|**2026-10-26**|**Useful Diversity or Hallucinated Variety? Persona-Conditioned Synthetic Query Generation for E-Commerce Search**|Filippos Ventirozos et.al.|[2610.35102](http://arxiv.org/abs/2610.35102)|null|
 |**2026-10-23**|**SEMAC: Spherical Energy Matching Ambisonics Codec for Efficient Higher-Order Ambisonics Compression**|Christoph Hold et.al.|[2610.32981](http://arxiv.org/abs/2610.32981)|null|
 |**2026-10-23**|**Fréchet Kriging for Metric Space-Valued Spatial Data**|Ryo Okano et.al.|[2610.32979](http://arxiv.org/abs/2610.32979)|null|
 |**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
@@ -1698,6 +1708,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Torque lags from magnetic unlocking in neutron stars and gravitational-wave smearing**|Arthur G. Suvorov et.al.|[2610.35117](http://arxiv.org/abs/2610.35117)|null|
+|**2026-10-26**|**QED VI: Neutral hydrogen gas in supernova-driven galactic outflows**|Chong-Chong He et.al.|[2610.35115](http://arxiv.org/abs/2610.35115)|null|
+|**2026-10-26**|**UTA: Universal Training Adaptive Learning Rate Decay**|Anda Tang et.al.|[2610.35113](http://arxiv.org/abs/2610.35113)|null|
+|**2026-10-26**|**Understanding and Repairing Cooperative Perception under Adverse Weather**|Mengxu Ma et.al.|[2610.35110](http://arxiv.org/abs/2610.35110)|null|
+|**2026-10-26**|**Space Electric and Magnetic Sensor (SEAMS) Phase I: A Pathfinder Mission for Low-Frequency Radio Astronomy**|Atharva Kulkarni et.al.|[2610.35104](http://arxiv.org/abs/2610.35104)|null|
+|**2026-10-26**|**Useful Diversity or Hallucinated Variety? Persona-Conditioned Synthetic Query Generation for E-Commerce Search**|Filippos Ventirozos et.al.|[2610.35102](http://arxiv.org/abs/2610.35102)|null|
+|**2026-10-26**|**WRF-JAX v1.1.28: a differentiable regional weather model with fully coupled physics, numerically consistent with WRF and matching 128-process CPU performance on a single GPU**|Shijin Yuan et.al.|[2610.35095](http://arxiv.org/abs/2610.35095)|null|
+|**2026-10-26**|**Uncertainty Evaluation to Support Safety of the Intended Functionality Analysis for Determining the Applicability of Performance Targets Across Triggering Conditions in ML-Based LiDAR Object Detection**|Milin Patel et.al.|[2610.35092](http://arxiv.org/abs/2610.35092)|null|
+|**2026-10-26**|**Test-Time Prompt-Agnostic Decomposition**|Junze Wang et.al.|[2610.35090](http://arxiv.org/abs/2610.35090)|null|
+|**2026-10-26**|**Learning to Remember: Advances in Memory Mechanisms for Large Language Models**|Chenye Han et.al.|[2610.35089](http://arxiv.org/abs/2610.35089)|null|
 |**2026-10-23**|**Fréchet Kriging for Metric Space-Valued Spatial Data**|Ryo Okano et.al.|[2610.32979](http://arxiv.org/abs/2610.32979)|null|
 |**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
 |**2026-10-23**|**UniAction: Unified Action Conditioning for World Models**|Bowen Xue et.al.|[2610.32977](http://arxiv.org/abs/2610.32977)|null|
@@ -3203,6 +3223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks**|Luca Biferale et.al.|[2610.35123](http://arxiv.org/abs/2610.35123)|null|
+|**2026-10-26**|**Universal polynomials for Gromov-Witten invariants on toric surfaces**|Yanqiao Ding et.al.|[2610.35122](http://arxiv.org/abs/2610.35122)|null|
+|**2026-10-26**|**Revisiting entropy and entropy-related magnitudes of a symbolic sequence and their estimation**|Efren Aragon-Perez et.al.|[2610.35121](http://arxiv.org/abs/2610.35121)|null|
+|**2026-10-26**|**On a family of stably handle-slide trivial R-links**|Wenjie Diao et.al.|[2610.35120](http://arxiv.org/abs/2610.35120)|null|
+|**2026-10-26**|**Multinomial shot sampling for quantum circuits**|Ijaz Ahamed Mohammad et.al.|[2610.35119](http://arxiv.org/abs/2610.35119)|null|
+|**2026-10-26**|**Scenario Matching for Credit Dependence Stress Tests: Temporal correlation constraints and empirical risk bounds**|Naoufal Nifa et.al.|[2610.35118](http://arxiv.org/abs/2610.35118)|null|
+|**2026-10-26**|**Analysis of C-point and V-point Inhomogeneous Vector Beams Stability under Anisotropic Turbulence in Ground-to-Air Transmission**| Sagar et.al.|[2610.35116](http://arxiv.org/abs/2610.35116)|null|
+|**2026-10-26**|**QED VI: Neutral hydrogen gas in supernova-driven galactic outflows**|Chong-Chong He et.al.|[2610.35115](http://arxiv.org/abs/2610.35115)|null|
+|**2026-10-26**|**UTA: Universal Training Adaptive Learning Rate Decay**|Anda Tang et.al.|[2610.35113](http://arxiv.org/abs/2610.35113)|null|
+|**2026-10-26**|**FlowGenesis: Representation-Driven Self-Organization of Neural Architectures**|Maksim A Kazanskii et.al.|[2610.35108](http://arxiv.org/abs/2610.35108)|null|
 |**2026-10-23**|**Separating Thinking from Spelling for Efficient Generative Recommendation**|Danil Gusak et.al.|[2610.32980](http://arxiv.org/abs/2610.32980)|null|
 |**2026-10-23**|**Fréchet Kriging for Metric Space-Valued Spatial Data**|Ryo Okano et.al.|[2610.32979](http://arxiv.org/abs/2610.32979)|null|
 |**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
@@ -4681,6 +4711,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**On a family of stably handle-slide trivial R-links**|Wenjie Diao et.al.|[2610.35120](http://arxiv.org/abs/2610.35120)|null|
+|**2026-10-26**|**Scenario Matching for Credit Dependence Stress Tests: Temporal correlation constraints and empirical risk bounds**|Naoufal Nifa et.al.|[2610.35118](http://arxiv.org/abs/2610.35118)|null|
+|**2026-10-26**|**New families of additive non-RS MDS codes and ACD codes from twisted Reed-Solomon codes**|Xia Li et.al.|[2610.35105](http://arxiv.org/abs/2610.35105)|null|
+|**2026-10-26**|**Interpreting LLM Scores in Peer Review: Alignment and Divergence Across Prompts, Domains, and Manuscript Features**|Wenqiang Qin et.al.|[2610.35098](http://arxiv.org/abs/2610.35098)|null|
+|**2026-10-26**|**Moving bits instead of watts: Accelerating global AI data-centre deployment at the energy-digital-water-land nexus**|Jiawei Qu et.al.|[2610.35088](http://arxiv.org/abs/2610.35088)|null|
+|**2026-10-26**|**Ask Before You Answer: A Question-Driven Evidence Reasoning Architecture (QERA) for In-Context Learning**|Jinhu Qi et.al.|[2610.35083](http://arxiv.org/abs/2610.35083)|null|
+|**2026-10-26**|**CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems**|Yujia Zheng et.al.|[2610.35082](http://arxiv.org/abs/2610.35082)|null|
+|**2026-10-26**|**Improving VLMs on Scientific Chart Analysis via Autonomous Evolution**|Abhinav Sudhakar Dubey et.al.|[2610.35077](http://arxiv.org/abs/2610.35077)|null|
+|**2026-10-26**|**Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data**|Dianyi Yang et.al.|[2610.35075](http://arxiv.org/abs/2610.35075)|null|
+|**2026-10-26**|**A Diagnostic Protocol for GNNs in Electricity Load Forecasting: Separating Parameter Sharing from Neighborhood Access**|Eloi Campagne et.al.|[2610.35074](http://arxiv.org/abs/2610.35074)|null|
 |**2026-10-23**|**Separating Thinking from Spelling for Efficient Generative Recommendation**|Danil Gusak et.al.|[2610.32980](http://arxiv.org/abs/2610.32980)|null|
 |**2026-10-23**|**Ideal interaction dynamics of defects and background fields in condensed matter**|François Gay-Balmaz et.al.|[2610.32973](http://arxiv.org/abs/2610.32973)|null|
 |**2026-10-23**|**On the continuity of conditional distributions and stratification for derivative pricing**|Aleksandar Arandjelovic et.al.|[2610.32970](http://arxiv.org/abs/2610.32970)|null|
@@ -6199,6 +6239,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks**|Luca Biferale et.al.|[2610.35123](http://arxiv.org/abs/2610.35123)|null|
+|**2026-10-26**|**Universal polynomials for Gromov-Witten invariants on toric surfaces**|Yanqiao Ding et.al.|[2610.35122](http://arxiv.org/abs/2610.35122)|null|
+|**2026-10-26**|**Revisiting entropy and entropy-related magnitudes of a symbolic sequence and their estimation**|Efren Aragon-Perez et.al.|[2610.35121](http://arxiv.org/abs/2610.35121)|null|
+|**2026-10-26**|**Multinomial shot sampling for quantum circuits**|Ijaz Ahamed Mohammad et.al.|[2610.35119](http://arxiv.org/abs/2610.35119)|null|
+|**2026-10-26**|**Scenario Matching for Credit Dependence Stress Tests: Temporal correlation constraints and empirical risk bounds**|Naoufal Nifa et.al.|[2610.35118](http://arxiv.org/abs/2610.35118)|null|
+|**2026-10-26**|**Quality over Quantity: Rethinking Data and Model Assumptions for Bengali Coreference Resolution**|Zenith Biswas et.al.|[2610.35114](http://arxiv.org/abs/2610.35114)|null|
+|**2026-10-26**|**Subspace Crystallization in Grokking: Rank Compression Tracks the Phase Transition**|Shlok Mehendale et.al.|[2610.35112](http://arxiv.org/abs/2610.35112)|null|
+|**2026-10-26**|**Rethinking Evaluation for Principled Generalization Using a Kripkean Challenge to Meaning as Use**|Niyar R Barman et.al.|[2610.35111](http://arxiv.org/abs/2610.35111)|null|
+|**2026-10-26**|**Understanding and Repairing Cooperative Perception under Adverse Weather**|Mengxu Ma et.al.|[2610.35110](http://arxiv.org/abs/2610.35110)|null|
+|**2026-10-26**|**FlowGenesis: Representation-Driven Self-Organization of Neural Architectures**|Maksim A Kazanskii et.al.|[2610.35108](http://arxiv.org/abs/2610.35108)|null|
 |**2026-10-23**|**The Language of Instruction: Genre and Generative AI**|James E. Dobson et.al.|[2610.32982](http://arxiv.org/abs/2610.32982)|null|
 |**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
 |**2026-10-23**|**Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions**|Chayan Patra et.al.|[2610.32968](http://arxiv.org/abs/2610.32968)|null|
@@ -7723,6 +7773,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks**|Luca Biferale et.al.|[2610.35123](http://arxiv.org/abs/2610.35123)|null|
+|**2026-10-26**|**Revisiting entropy and entropy-related magnitudes of a symbolic sequence and their estimation**|Efren Aragon-Perez et.al.|[2610.35121](http://arxiv.org/abs/2610.35121)|null|
+|**2026-10-26**|**Multinomial shot sampling for quantum circuits**|Ijaz Ahamed Mohammad et.al.|[2610.35119](http://arxiv.org/abs/2610.35119)|null|
+|**2026-10-26**|**Scenario Matching for Credit Dependence Stress Tests: Temporal correlation constraints and empirical risk bounds**|Naoufal Nifa et.al.|[2610.35118](http://arxiv.org/abs/2610.35118)|null|
+|**2026-10-26**|**Analysis of C-point and V-point Inhomogeneous Vector Beams Stability under Anisotropic Turbulence in Ground-to-Air Transmission**| Sagar et.al.|[2610.35116](http://arxiv.org/abs/2610.35116)|null|
+|**2026-10-26**|**UTA: Universal Training Adaptive Learning Rate Decay**|Anda Tang et.al.|[2610.35113](http://arxiv.org/abs/2610.35113)|null|
+|**2026-10-26**|**Subspace Crystallization in Grokking: Rank Compression Tracks the Phase Transition**|Shlok Mehendale et.al.|[2610.35112](http://arxiv.org/abs/2610.35112)|null|
+|**2026-10-26**|**Nonlocal Einstein Relation in Confined Phonon Hydrodynamics**|Guanda Quan et.al.|[2610.35109](http://arxiv.org/abs/2610.35109)|null|
+|**2026-10-26**|**FlowGenesis: Representation-Driven Self-Organization of Neural Architectures**|Maksim A Kazanskii et.al.|[2610.35108](http://arxiv.org/abs/2610.35108)|null|
+|**2026-10-26**|**Retrieval-Augmented Parkinson's Disease Classification from Resting-State Functional Connectivity**|Tara Niknam et.al.|[2610.35107](http://arxiv.org/abs/2610.35107)|null|
 |**2026-10-23**|**The Language of Instruction: Genre and Generative AI**|James E. Dobson et.al.|[2610.32982](http://arxiv.org/abs/2610.32982)|null|
 |**2026-10-23**|**Fréchet Kriging for Metric Space-Valued Spatial Data**|Ryo Okano et.al.|[2610.32979](http://arxiv.org/abs/2610.32979)|null|
 |**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
