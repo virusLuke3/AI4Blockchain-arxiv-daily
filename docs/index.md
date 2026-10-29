@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.28
+## Updated on 2026.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**The 't Hooft model on (A)dS $_2$**|Panos Betzios et.al.|[2610.37667](http://arxiv.org/abs/2610.37667)|null|
+|**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Chaehyun Kim et.al.|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
+|**2026-10-27**|**Exact Analytical Treatment of Collectively Pumped Dicke Superradiance**|Avishi Poddar et.al.|[2610.37665](http://arxiv.org/abs/2610.37665)|null|
+|**2026-10-27**|**Improving cosmological distance measurements at high redshift using Lyman-Alpha forest BAO reconstruction**|Boryana Hadzhiyska et.al.|[2610.37664](http://arxiv.org/abs/2610.37664)|null|
+|**2026-10-27**|**An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens**|Sebastian Pandolfi et.al.|[2610.37663](http://arxiv.org/abs/2610.37663)|null|
+|**2026-10-27**|**The Spatially-Resolved Recent Star Formation History of the M81 Disk**|Vaishnav V. Rao et.al.|[2610.37661](http://arxiv.org/abs/2610.37661)|null|
+|**2026-10-27**|**KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry**|Wenqing Peng et.al.|[2610.37655](http://arxiv.org/abs/2610.37655)|null|
+|**2026-10-27**|**Nonuniqueness of Solutions to 2D Incompressible Euler Equations with Unbounded Vorticity**|Hyungjun Choi et.al.|[2610.37653](http://arxiv.org/abs/2610.37653)|null|
+|**2026-10-27**|**Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well**|Ian Chuang et.al.|[2610.37652](http://arxiv.org/abs/2610.37652)|null|
+|**2026-10-27**|**MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control**|Athanasios Glentis et.al.|[2610.37647](http://arxiv.org/abs/2610.37647)|null|
 |**2026-10-26**|**Universal polynomials for Gromov-Witten invariants on toric surfaces**|Yanqiao Ding et.al.|[2610.35122](http://arxiv.org/abs/2610.35122)|null|
 |**2026-10-26**|**On a family of stably handle-slide trivial R-links**|Wenjie Diao et.al.|[2610.35120](http://arxiv.org/abs/2610.35120)|null|
 |**2026-10-26**|**Multinomial shot sampling for quantum circuits**|Ijaz Ahamed Mohammad et.al.|[2610.35119](http://arxiv.org/abs/2610.35119)|null|
@@ -1708,6 +1718,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction**|Prakhar Kaushik et.al.|[2610.37668](http://arxiv.org/abs/2610.37668)|null|
+|**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Chaehyun Kim et.al.|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
+|**2026-10-27**|**An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens**|Sebastian Pandolfi et.al.|[2610.37663](http://arxiv.org/abs/2610.37663)|null|
+|**2026-10-27**|**Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?**|Jialv Zou et.al.|[2610.37662](http://arxiv.org/abs/2610.37662)|null|
+|**2026-10-27**|**Optimal quantum discrimination at Liouvillian exceptional points**|Aritra Ghosh et.al.|[2610.37660](http://arxiv.org/abs/2610.37660)|null|
+|**2026-10-27**|**Sharp Stability of Brenier Potentials and its Link to Poincaré Inequalities**|Cyril Letrouit et.al.|[2610.37659](http://arxiv.org/abs/2610.37659)|null|
+|**2026-10-27**|**Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness**|Igor Shilov et.al.|[2610.37657](http://arxiv.org/abs/2610.37657)|null|
+|**2026-10-27**|**Mediated Interactions between Fermi Polarons in the Strongly Interacting Regime**|Renato Pessoa et.al.|[2610.37654](http://arxiv.org/abs/2610.37654)|null|
+|**2026-10-27**|**GEPA-Curator: Curated Learning for Self Improving Agents**|Zack Yu et.al.|[2610.37651](http://arxiv.org/abs/2610.37651)|null|
+|**2026-10-27**|**MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control**|Athanasios Glentis et.al.|[2610.37647](http://arxiv.org/abs/2610.37647)|null|
 |**2026-10-26**|**Torque lags from magnetic unlocking in neutron stars and gravitational-wave smearing**|Arthur G. Suvorov et.al.|[2610.35117](http://arxiv.org/abs/2610.35117)|null|
 |**2026-10-26**|**QED VI: Neutral hydrogen gas in supernova-driven galactic outflows**|Chong-Chong He et.al.|[2610.35115](http://arxiv.org/abs/2610.35115)|null|
 |**2026-10-26**|**UTA: Universal Training Adaptive Learning Rate Decay**|Anda Tang et.al.|[2610.35113](http://arxiv.org/abs/2610.35113)|null|
@@ -3223,6 +3243,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Improving cosmological distance measurements at high redshift using Lyman-Alpha forest BAO reconstruction**|Boryana Hadzhiyska et.al.|[2610.37664](http://arxiv.org/abs/2610.37664)|null|
+|**2026-10-27**|**An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens**|Sebastian Pandolfi et.al.|[2610.37663](http://arxiv.org/abs/2610.37663)|null|
+|**2026-10-27**|**Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?**|Jialv Zou et.al.|[2610.37662](http://arxiv.org/abs/2610.37662)|null|
+|**2026-10-27**|**The Spatially-Resolved Recent Star Formation History of the M81 Disk**|Vaishnav V. Rao et.al.|[2610.37661](http://arxiv.org/abs/2610.37661)|null|
+|**2026-10-27**|**Sharp Stability of Brenier Potentials and its Link to Poincaré Inequalities**|Cyril Letrouit et.al.|[2610.37659](http://arxiv.org/abs/2610.37659)|null|
+|**2026-10-27**|**When Should We Intervene at Test Time?**|Jiahao Zhang et.al.|[2610.37658](http://arxiv.org/abs/2610.37658)|null|
+|**2026-10-27**|**Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness**|Igor Shilov et.al.|[2610.37657](http://arxiv.org/abs/2610.37657)|null|
+|**2026-10-27**|**Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops**|Aakash Sarkar et.al.|[2610.37656](http://arxiv.org/abs/2610.37656)|null|
+|**2026-10-27**|**KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry**|Wenqing Peng et.al.|[2610.37655](http://arxiv.org/abs/2610.37655)|null|
+|**2026-10-27**|**Nonuniqueness of Solutions to 2D Incompressible Euler Equations with Unbounded Vorticity**|Hyungjun Choi et.al.|[2610.37653](http://arxiv.org/abs/2610.37653)|null|
 |**2026-10-26**|**Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks**|Luca Biferale et.al.|[2610.35123](http://arxiv.org/abs/2610.35123)|null|
 |**2026-10-26**|**Universal polynomials for Gromov-Witten invariants on toric surfaces**|Yanqiao Ding et.al.|[2610.35122](http://arxiv.org/abs/2610.35122)|null|
 |**2026-10-26**|**Revisiting entropy and entropy-related magnitudes of a symbolic sequence and their estimation**|Efren Aragon-Perez et.al.|[2610.35121](http://arxiv.org/abs/2610.35121)|null|
@@ -4711,6 +4741,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens**|Sebastian Pandolfi et.al.|[2610.37663](http://arxiv.org/abs/2610.37663)|null|
+|**2026-10-27**|**Mediated Interactions between Fermi Polarons in the Strongly Interacting Regime**|Renato Pessoa et.al.|[2610.37654](http://arxiv.org/abs/2610.37654)|null|
+|**2026-10-27**|**Can LLMs Uncover Hidden Physical Laws through Free Exploration?**|Zhen Yang et.al.|[2610.37649](http://arxiv.org/abs/2610.37649)|null|
+|**2026-10-27**|**Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis**|Andrew Szot et.al.|[2610.37648](http://arxiv.org/abs/2610.37648)|null|
+|**2026-10-27**|**Applications of the fixed point theorem for mappings contracting perimeters of triangles: ODEs, PDEs, integer and difference equations**|E. Petrov et.al.|[2610.37644](http://arxiv.org/abs/2610.37644)|null|
+|**2026-10-27**|**What shapes the bright end of the UV luminosity function? Stellar mass, star-formation variability, and dust in JADES**|Amanda Stoffers et.al.|[2610.37643](http://arxiv.org/abs/2610.37643)|null|
+|**2026-10-27**|**Algebraic fiberings of right-angled Coxeter groups on bipartite cone graphs**|Kasia Jankiewicz et.al.|[2610.37641](http://arxiv.org/abs/2610.37641)|null|
+|**2026-10-27**|**Sharp approximations for the stationary measures of the open ASEP I: The shock region**|Dominik Schmid et.al.|[2610.37639](http://arxiv.org/abs/2610.37639)|null|
+|**2026-10-27**|**Continuum thermodynamics of chemically reacting multi-temperature fluid mixtures**|Dieter Bothe et.al.|[2610.37637](http://arxiv.org/abs/2610.37637)|null|
+|**2026-10-27**|**UPP $^{\text{cc}}$ is Not Closed Under Intersection**|Mark Bun et.al.|[2610.37634](http://arxiv.org/abs/2610.37634)|null|
 |**2026-10-26**|**On a family of stably handle-slide trivial R-links**|Wenjie Diao et.al.|[2610.35120](http://arxiv.org/abs/2610.35120)|null|
 |**2026-10-26**|**Scenario Matching for Credit Dependence Stress Tests: Temporal correlation constraints and empirical risk bounds**|Naoufal Nifa et.al.|[2610.35118](http://arxiv.org/abs/2610.35118)|null|
 |**2026-10-26**|**New families of additive non-RS MDS codes and ACD codes from twisted Reed-Solomon codes**|Xia Li et.al.|[2610.35105](http://arxiv.org/abs/2610.35105)|null|
