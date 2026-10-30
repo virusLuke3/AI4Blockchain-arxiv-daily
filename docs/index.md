@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Automated Verification of Hamiltonian Simulation by Quantum Signal Processing**|Min Lai et.al.|[2610.39491](http://arxiv.org/abs/2610.39491)|null|
+|**2026-10-29**|**Program Bindings Inside Code Models**|Prateek Kumar Rajput et.al.|[2610.39489](http://arxiv.org/abs/2610.39489)|null|
+|**2026-10-29**|**Strongly explicit Ramanujan 2-lift towers via Hilbert modular forms**|Olga Kharlampovich et.al.|[2610.39485](http://arxiv.org/abs/2610.39485)|null|
+|**2026-10-29**|**Covariant phase space analysis of static spherical vacua in power-law $f(R)$ gravity**|Mariam Campbell et.al.|[2610.39484](http://arxiv.org/abs/2610.39484)|null|
+|**2026-10-29**|**Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfulness in Centralized vs. Federated Deepfake Detection**|Muhammad Uzair Shahid et.al.|[2610.39483](http://arxiv.org/abs/2610.39483)|null|
+|**2026-10-29**|**SeQUeNCe.DQC: Full-stack Simulation of Distributed Quantum Computing**|Sanjay Suresh et.al.|[2610.39476](http://arxiv.org/abs/2610.39476)|null|
+|**2026-10-29**|**Sharp observation time for wave equations with an inverse-square boundary potential**|Longben Wei et.al.|[2610.39475](http://arxiv.org/abs/2610.39475)|null|
+|**2026-10-29**|**Higher order unknotting numbers for knots and links**|Jean-Baptiste Meilhan et.al.|[2610.39474](http://arxiv.org/abs/2610.39474)|null|
+|**2026-10-29**|**Exponential Ergodicity and Invariant Distribution of a Degenerate Reflected SDE with Stable Noise**|Guodong Pang et.al.|[2610.39471](http://arxiv.org/abs/2610.39471)|null|
+|**2026-10-29**|**Guaranteed indirect delivery in directed networks: The joint extremal function and explicit attaining constructions**|Angel Ivanov Raychev et.al.|[2610.39469](http://arxiv.org/abs/2610.39469)|null|
 |**2026-10-27**|**The 't Hooft model on (A)dS $_2$**|Panos Betzios et.al.|[2610.37667](http://arxiv.org/abs/2610.37667)|null|
 |**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Chaehyun Kim et.al.|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
 |**2026-10-27**|**Exact Analytical Treatment of Collectively Pumped Dicke Superradiance**|Avishi Poddar et.al.|[2610.37665](http://arxiv.org/abs/2610.37665)|null|
@@ -1718,6 +1728,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Strongly explicit Ramanujan 2-lift towers via Hilbert modular forms**|Olga Kharlampovich et.al.|[2610.39485](http://arxiv.org/abs/2610.39485)|null|
+|**2026-10-29**|**Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfulness in Centralized vs. Federated Deepfake Detection**|Muhammad Uzair Shahid et.al.|[2610.39483](http://arxiv.org/abs/2610.39483)|null|
+|**2026-10-29**|**Splitting Compositions of Monotone Operators**|Haoming Qu et.al.|[2610.39480](http://arxiv.org/abs/2610.39480)|null|
+|**2026-10-29**|**Regional Anchor Routing for Multi-Object Motion Transfer**|Yuze Li et.al.|[2610.39478](http://arxiv.org/abs/2610.39478)|null|
+|**2026-10-29**|**Topology Survives Shuffling: Robust Long-Context Memory Access Prediction for Graph Analytics**|Dongyan Sun et.al.|[2610.39477](http://arxiv.org/abs/2610.39477)|null|
+|**2026-10-29**|**Sharp observation time for wave equations with an inverse-square boundary potential**|Longben Wei et.al.|[2610.39475](http://arxiv.org/abs/2610.39475)|null|
+|**2026-10-29**|**CoraLive: Ultra-Low-Power Underwater Vision for Long-term Coral Reef Monitoring**|Sitong Shen et.al.|[2610.39472](http://arxiv.org/abs/2610.39472)|null|
+|**2026-10-29**|**Soei: Structured Observability of Evidence and Intent for Multi-Agent AI Software Engineering**|Mohammed Nayeem Khan et.al.|[2610.39468](http://arxiv.org/abs/2610.39468)|null|
+|**2026-10-29**|**Calibrating Attention-Based Token Pruning for Efficient Multi-Image Synthesis in UMMs**|Zimeng Wu et.al.|[2610.39467](http://arxiv.org/abs/2610.39467)|null|
+|**2026-10-29**|**Achieving Minimax-Optimal First-Order and Best-of-Both-Worlds Regret Simultaneously in Multi-Armed Bandits**|Mengxiao Zhang et.al.|[2610.39457](http://arxiv.org/abs/2610.39457)|null|
 |**2026-10-27**|**Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction**|Prakhar Kaushik et.al.|[2610.37668](http://arxiv.org/abs/2610.37668)|null|
 |**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Chaehyun Kim et.al.|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
 |**2026-10-27**|**An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens**|Sebastian Pandolfi et.al.|[2610.37663](http://arxiv.org/abs/2610.37663)|null|
@@ -3243,6 +3263,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Automated Verification of Hamiltonian Simulation by Quantum Signal Processing**|Min Lai et.al.|[2610.39491](http://arxiv.org/abs/2610.39491)|null|
+|**2026-10-29**|**Epimorphism testing with dihedral targets**|Murray Elder et.al.|[2610.39487](http://arxiv.org/abs/2610.39487)|null|
+|**2026-10-29**|**On the Turán Number of the Cartesian Product of Two Stars**|Quan Sun et.al.|[2610.39486](http://arxiv.org/abs/2610.39486)|null|
+|**2026-10-29**|**Strongly explicit Ramanujan 2-lift towers via Hilbert modular forms**|Olga Kharlampovich et.al.|[2610.39485](http://arxiv.org/abs/2610.39485)|null|
+|**2026-10-29**|**Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfulness in Centralized vs. Federated Deepfake Detection**|Muhammad Uzair Shahid et.al.|[2610.39483](http://arxiv.org/abs/2610.39483)|null|
+|**2026-10-29**|**$e$ -Positive caterpillars have maximum degree at most three**|Davion Q. B. Tang et.al.|[2610.39481](http://arxiv.org/abs/2610.39481)|null|
+|**2026-10-29**|**Splitting Compositions of Monotone Operators**|Haoming Qu et.al.|[2610.39480](http://arxiv.org/abs/2610.39480)|null|
+|**2026-10-29**|**Topology Survives Shuffling: Robust Long-Context Memory Access Prediction for Graph Analytics**|Dongyan Sun et.al.|[2610.39477](http://arxiv.org/abs/2610.39477)|null|
+|**2026-10-29**|**SeQUeNCe.DQC: Full-stack Simulation of Distributed Quantum Computing**|Sanjay Suresh et.al.|[2610.39476](http://arxiv.org/abs/2610.39476)|null|
+|**2026-10-29**|**Sharp observation time for wave equations with an inverse-square boundary potential**|Longben Wei et.al.|[2610.39475](http://arxiv.org/abs/2610.39475)|null|
 |**2026-10-27**|**Improving cosmological distance measurements at high redshift using Lyman-Alpha forest BAO reconstruction**|Boryana Hadzhiyska et.al.|[2610.37664](http://arxiv.org/abs/2610.37664)|null|
 |**2026-10-27**|**An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens**|Sebastian Pandolfi et.al.|[2610.37663](http://arxiv.org/abs/2610.37663)|null|
 |**2026-10-27**|**Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?**|Jialv Zou et.al.|[2610.37662](http://arxiv.org/abs/2610.37662)|null|
@@ -4741,6 +4771,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Automated Verification of Hamiltonian Simulation by Quantum Signal Processing**|Min Lai et.al.|[2610.39491](http://arxiv.org/abs/2610.39491)|null|
+|**2026-10-29**|**Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfulness in Centralized vs. Federated Deepfake Detection**|Muhammad Uzair Shahid et.al.|[2610.39483](http://arxiv.org/abs/2610.39483)|null|
+|**2026-10-29**|**Splitting Compositions of Monotone Operators**|Haoming Qu et.al.|[2610.39480](http://arxiv.org/abs/2610.39480)|null|
+|**2026-10-29**|**SeQUeNCe.DQC: Full-stack Simulation of Distributed Quantum Computing**|Sanjay Suresh et.al.|[2610.39476](http://arxiv.org/abs/2610.39476)|null|
+|**2026-10-29**|**Sharp observation time for wave equations with an inverse-square boundary potential**|Longben Wei et.al.|[2610.39475](http://arxiv.org/abs/2610.39475)|null|
+|**2026-10-29**|**Calibrating Attention-Based Token Pruning for Efficient Multi-Image Synthesis in UMMs**|Zimeng Wu et.al.|[2610.39467](http://arxiv.org/abs/2610.39467)|null|
+|**2026-10-29**|**Resisting Drying Stress in Laponite Bentonite Clay Composites, Two Step Yielding and Crack Peel Selection**|Tapati Dutta et.al.|[2610.39465](http://arxiv.org/abs/2610.39465)|null|
+|**2026-10-29**|**Early-Buyer Groups and Fast-Wallet Teams on a Bonding-Curve Launchpad: A Prospective Measurement Study of pump.fun on Solana**|Fail Gafarov et.al.|[2610.39458](http://arxiv.org/abs/2610.39458)|null|
+|**2026-10-29**|**Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System**|Jonathan Pipping-Gamón et.al.|[2610.39452](http://arxiv.org/abs/2610.39452)|null|
+|**2026-10-29**|**Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning**|Shota Nomura et.al.|[2610.39451](http://arxiv.org/abs/2610.39451)|null|
 |**2026-10-27**|**An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens**|Sebastian Pandolfi et.al.|[2610.37663](http://arxiv.org/abs/2610.37663)|null|
 |**2026-10-27**|**Mediated Interactions between Fermi Polarons in the Strongly Interacting Regime**|Renato Pessoa et.al.|[2610.37654](http://arxiv.org/abs/2610.37654)|null|
 |**2026-10-27**|**Can LLMs Uncover Hidden Physical Laws through Free Exploration?**|Zhen Yang et.al.|[2610.37649](http://arxiv.org/abs/2610.37649)|null|
@@ -6279,6 +6319,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Automated Verification of Hamiltonian Simulation by Quantum Signal Processing**|Min Lai et.al.|[2610.39491](http://arxiv.org/abs/2610.39491)|null|
+|**2026-10-29**|**Program Bindings Inside Code Models**|Prateek Kumar Rajput et.al.|[2610.39489](http://arxiv.org/abs/2610.39489)|null|
+|**2026-10-29**|**Strongly explicit Ramanujan 2-lift towers via Hilbert modular forms**|Olga Kharlampovich et.al.|[2610.39485](http://arxiv.org/abs/2610.39485)|null|
+|**2026-10-29**|**Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfulness in Centralized vs. Federated Deepfake Detection**|Muhammad Uzair Shahid et.al.|[2610.39483](http://arxiv.org/abs/2610.39483)|null|
+|**2026-10-29**|**Substring Complexity in BWT-Runs Bounded Space**|Johannes Fischer et.al.|[2610.39482](http://arxiv.org/abs/2610.39482)|null|
+|**2026-10-29**|**$e$ -Positive caterpillars have maximum degree at most three**|Davion Q. B. Tang et.al.|[2610.39481](http://arxiv.org/abs/2610.39481)|null|
+|**2026-10-29**|**Topology Survives Shuffling: Robust Long-Context Memory Access Prediction for Graph Analytics**|Dongyan Sun et.al.|[2610.39477](http://arxiv.org/abs/2610.39477)|null|
+|**2026-10-29**|**SeQUeNCe.DQC: Full-stack Simulation of Distributed Quantum Computing**|Sanjay Suresh et.al.|[2610.39476](http://arxiv.org/abs/2610.39476)|null|
+|**2026-10-29**|**Sharp observation time for wave equations with an inverse-square boundary potential**|Longben Wei et.al.|[2610.39475](http://arxiv.org/abs/2610.39475)|null|
+|**2026-10-29**|**CoraLive: Ultra-Low-Power Underwater Vision for Long-term Coral Reef Monitoring**|Sitong Shen et.al.|[2610.39472](http://arxiv.org/abs/2610.39472)|null|
 |**2026-10-26**|**Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks**|Luca Biferale et.al.|[2610.35123](http://arxiv.org/abs/2610.35123)|null|
 |**2026-10-26**|**Universal polynomials for Gromov-Witten invariants on toric surfaces**|Yanqiao Ding et.al.|[2610.35122](http://arxiv.org/abs/2610.35122)|null|
 |**2026-10-26**|**Revisiting entropy and entropy-related magnitudes of a symbolic sequence and their estimation**|Efren Aragon-Perez et.al.|[2610.35121](http://arxiv.org/abs/2610.35121)|null|
@@ -7813,6 +7863,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Automated Verification of Hamiltonian Simulation by Quantum Signal Processing**|Min Lai et.al.|[2610.39491](http://arxiv.org/abs/2610.39491)|null|
+|**2026-10-29**|**A Sharp Bound of Crossing Limit Cycle for Planar piecewise linear Systems with a Straight Switching Line**|Zijie Xu et.al.|[2610.39490](http://arxiv.org/abs/2610.39490)|null|
+|**2026-10-29**|**Program Bindings Inside Code Models**|Prateek Kumar Rajput et.al.|[2610.39489](http://arxiv.org/abs/2610.39489)|null|
+|**2026-10-29**|**InterA11y: Interactive Web Accessibility Error Detection with LLM Agents**|Mingyuan Zhong et.al.|[2610.39488](http://arxiv.org/abs/2610.39488)|null|
+|**2026-10-29**|**Strongly explicit Ramanujan 2-lift towers via Hilbert modular forms**|Olga Kharlampovich et.al.|[2610.39485](http://arxiv.org/abs/2610.39485)|null|
+|**2026-10-29**|**Covariant phase space analysis of static spherical vacua in power-law $f(R)$ gravity**|Mariam Campbell et.al.|[2610.39484](http://arxiv.org/abs/2610.39484)|null|
+|**2026-10-29**|**Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfulness in Centralized vs. Federated Deepfake Detection**|Muhammad Uzair Shahid et.al.|[2610.39483](http://arxiv.org/abs/2610.39483)|null|
+|**2026-10-29**|**Splitting Compositions of Monotone Operators**|Haoming Qu et.al.|[2610.39480](http://arxiv.org/abs/2610.39480)|null|
+|**2026-10-29**|**Regional Anchor Routing for Multi-Object Motion Transfer**|Yuze Li et.al.|[2610.39478](http://arxiv.org/abs/2610.39478)|null|
+|**2026-10-29**|**Topology Survives Shuffling: Robust Long-Context Memory Access Prediction for Graph Analytics**|Dongyan Sun et.al.|[2610.39477](http://arxiv.org/abs/2610.39477)|null|
 |**2026-10-26**|**Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks**|Luca Biferale et.al.|[2610.35123](http://arxiv.org/abs/2610.35123)|null|
 |**2026-10-26**|**Revisiting entropy and entropy-related magnitudes of a symbolic sequence and their estimation**|Efren Aragon-Perez et.al.|[2610.35121](http://arxiv.org/abs/2610.35121)|null|
 |**2026-10-26**|**Multinomial shot sampling for quantum circuits**|Ijaz Ahamed Mohammad et.al.|[2610.35119](http://arxiv.org/abs/2610.35119)|null|
