@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.30
+## Updated on 2026.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal**|Ya-Hui Zhang et.al.|[2610.40657](http://arxiv.org/abs/2610.40657)|null|
+|**2026-10-29**|**When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering**|Nathan Engelman Lado et.al.|[2610.40650](http://arxiv.org/abs/2610.40650)|null|
+|**2026-10-29**|**Adaptive Scenario Generation for KL-DRO Around a Learned Density Model**|Aron Brenner et.al.|[2610.40644](http://arxiv.org/abs/2610.40644)|null|
+|**2026-10-29**|**From extreme weather to agricultural consequences with agentic AI**|Minghan Yu et.al.|[2610.40641](http://arxiv.org/abs/2610.40641)|null|
+|**2026-10-29**|**Entanglement diagnostics of stochastic-resetting steady states: theory and measurement on superconducting qubits**|Jakob Murauer et.al.|[2610.40638](http://arxiv.org/abs/2610.40638)|null|
+|**2026-10-29**|**Probing Spatial State Representations in Visual Foundation Models**|Baiqiao Yin et.al.|[2610.40636](http://arxiv.org/abs/2610.40636)|null|
+|**2026-10-29**|**PRISMS GHZ8: Evidence for a Young Burst and Potential Merger Activity at z=10.23**|Ruqiu Lin et.al.|[2610.40633](http://arxiv.org/abs/2610.40633)|null|
+|**2026-10-29**|**Gravitational-Wave Echoes and Greybody Cutoff from Logarithmic Throats at a Marginal-Trapping Threshold**|Jahed Abedi et.al.|[2610.40631](http://arxiv.org/abs/2610.40631)|null|
+|**2026-10-29**|**A Lighter QCD-Axion from Small Instantons**|Sourav Bera et.al.|[2610.40629](http://arxiv.org/abs/2610.40629)|null|
+|**2026-10-29**|**ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender**|Qiyao Ma et.al.|[2610.40627](http://arxiv.org/abs/2610.40627)|null|
 |**2026-10-29**|**Automated Verification of Hamiltonian Simulation by Quantum Signal Processing**|Min Lai et.al.|[2610.39491](http://arxiv.org/abs/2610.39491)|null|
 |**2026-10-29**|**Program Bindings Inside Code Models**|Prateek Kumar Rajput et.al.|[2610.39489](http://arxiv.org/abs/2610.39489)|null|
 |**2026-10-29**|**Strongly explicit Ramanujan 2-lift towers via Hilbert modular forms**|Olga Kharlampovich et.al.|[2610.39485](http://arxiv.org/abs/2610.39485)|null|
@@ -1728,6 +1738,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal**|Ya-Hui Zhang et.al.|[2610.40657](http://arxiv.org/abs/2610.40657)|null|
+|**2026-10-29**|**Micro-Edits: Computational Support for Fine-Scale Edits in Film**|Nhan Tran et.al.|[2610.40653](http://arxiv.org/abs/2610.40653)|null|
+|**2026-10-29**|**When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering**|Nathan Engelman Lado et.al.|[2610.40650](http://arxiv.org/abs/2610.40650)|null|
+|**2026-10-29**|**Rethinking Neural Thickets Without Weight Perturbations**|Nicolas Dufour et.al.|[2610.40649](http://arxiv.org/abs/2610.40649)|null|
+|**2026-10-29**|**Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers**|Jiongfan Yang et.al.|[2610.40647](http://arxiv.org/abs/2610.40647)|null|
+|**2026-10-29**|**JT gravity as a conformal scaling limit of random flat combinatorial disks**|Morris Ang et.al.|[2610.40645](http://arxiv.org/abs/2610.40645)|null|
+|**2026-10-29**|**Adaptive Scenario Generation for KL-DRO Around a Learned Density Model**|Aron Brenner et.al.|[2610.40644](http://arxiv.org/abs/2610.40644)|null|
+|**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](http://arxiv.org/abs/2610.40643)|null|
+|**2026-10-29**|**SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization**|Derong Jin et.al.|[2610.40640](http://arxiv.org/abs/2610.40640)|null|
+|**2026-10-29**|**Probing Spatial State Representations in Visual Foundation Models**|Baiqiao Yin et.al.|[2610.40636](http://arxiv.org/abs/2610.40636)|null|
 |**2026-10-29**|**Strongly explicit Ramanujan 2-lift towers via Hilbert modular forms**|Olga Kharlampovich et.al.|[2610.39485](http://arxiv.org/abs/2610.39485)|null|
 |**2026-10-29**|**Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfulness in Centralized vs. Federated Deepfake Detection**|Muhammad Uzair Shahid et.al.|[2610.39483](http://arxiv.org/abs/2610.39483)|null|
 |**2026-10-29**|**Splitting Compositions of Monotone Operators**|Haoming Qu et.al.|[2610.39480](http://arxiv.org/abs/2610.39480)|null|
@@ -3263,6 +3283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal**|Ya-Hui Zhang et.al.|[2610.40657](http://arxiv.org/abs/2610.40657)|null|
+|**2026-10-29**|**The $δ$ Scuti instability strip and period-luminosity relation as seen by TESS and Gaia DR3**|Daniel Hey et.al.|[2610.40656](http://arxiv.org/abs/2610.40656)|null|
+|**2026-10-29**|**Elucidating the Design Space of LM Data Attribution**|Steven Yu et.al.|[2610.40655](http://arxiv.org/abs/2610.40655)|null|
+|**2026-10-29**|**Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering**|Moshe Shenfeld et.al.|[2610.40654](http://arxiv.org/abs/2610.40654)|null|
+|**2026-10-29**|**Micro-Edits: Computational Support for Fine-Scale Edits in Film**|Nhan Tran et.al.|[2610.40653](http://arxiv.org/abs/2610.40653)|null|
+|**2026-10-29**|**When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering**|Nathan Engelman Lado et.al.|[2610.40650](http://arxiv.org/abs/2610.40650)|null|
+|**2026-10-29**|**Rethinking Neural Thickets Without Weight Perturbations**|Nicolas Dufour et.al.|[2610.40649](http://arxiv.org/abs/2610.40649)|null|
+|**2026-10-29**|**Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers**|Jiongfan Yang et.al.|[2610.40647](http://arxiv.org/abs/2610.40647)|null|
+|**2026-10-29**|**SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing**|Yunchu Zhang et.al.|[2610.40646](http://arxiv.org/abs/2610.40646)|null|
+|**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](http://arxiv.org/abs/2610.40643)|null|
 |**2026-10-29**|**Automated Verification of Hamiltonian Simulation by Quantum Signal Processing**|Min Lai et.al.|[2610.39491](http://arxiv.org/abs/2610.39491)|null|
 |**2026-10-29**|**Epimorphism testing with dihedral targets**|Murray Elder et.al.|[2610.39487](http://arxiv.org/abs/2610.39487)|null|
 |**2026-10-29**|**On the Turán Number of the Cartesian Product of Two Stars**|Quan Sun et.al.|[2610.39486](http://arxiv.org/abs/2610.39486)|null|
@@ -4771,6 +4801,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal**|Ya-Hui Zhang et.al.|[2610.40657](http://arxiv.org/abs/2610.40657)|null|
+|**2026-10-29**|**Light-Cone Friedel Oscillations: a Window into van Hove Superconductivity**|Archisman Panigrahi et.al.|[2610.40648](http://arxiv.org/abs/2610.40648)|null|
+|**2026-10-29**|**Finding Competitive Equilibria in Online Marketplaces with Platform Fees, Taxes, and Subsidies**|Taihei Oki et.al.|[2610.40626](http://arxiv.org/abs/2610.40626)|null|
+|**2026-10-29**|**Generalizing Density Functional Theory with a Particle-Hole Expansion**|Shurui Zhao et.al.|[2610.40621](http://arxiv.org/abs/2610.40621)|null|
+|**2026-10-29**|**An ODE-based Sampler for Discrete Diffusion Models**|Samson Gourevitch et.al.|[2610.40618](http://arxiv.org/abs/2610.40618)|null|
+|**2026-10-29**|**TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races**|Tom Sander et.al.|[2610.40613](http://arxiv.org/abs/2610.40613)|null|
+|**2026-10-29**|**HairDeck: Animation-Ready Stylized Hair Cards from a Single Image**|Yuze He et.al.|[2610.40599](http://arxiv.org/abs/2610.40599)|null|
+|**2026-10-29**|**Collaborative AI agents for autonomous experimental research with solid-state quantum spins**|El Mustapha Mansouri et.al.|[2610.40589](http://arxiv.org/abs/2610.40589)|null|
+|**2026-10-29**|**Optimal Policy With Noisy Sufficient Statistics**|José Luis Montiel Olea et.al.|[2610.40582](http://arxiv.org/abs/2610.40582)|null|
+|**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Joaquín Figueira et.al.|[2610.40580](http://arxiv.org/abs/2610.40580)|null|
 |**2026-10-29**|**Automated Verification of Hamiltonian Simulation by Quantum Signal Processing**|Min Lai et.al.|[2610.39491](http://arxiv.org/abs/2610.39491)|null|
 |**2026-10-29**|**Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfulness in Centralized vs. Federated Deepfake Detection**|Muhammad Uzair Shahid et.al.|[2610.39483](http://arxiv.org/abs/2610.39483)|null|
 |**2026-10-29**|**Splitting Compositions of Monotone Operators**|Haoming Qu et.al.|[2610.39480](http://arxiv.org/abs/2610.39480)|null|
@@ -6319,6 +6359,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Elucidating the Design Space of LM Data Attribution**|Steven Yu et.al.|[2610.40655](http://arxiv.org/abs/2610.40655)|null|
+|**2026-10-29**|**Micro-Edits: Computational Support for Fine-Scale Edits in Film**|Nhan Tran et.al.|[2610.40653](http://arxiv.org/abs/2610.40653)|null|
+|**2026-10-29**|**Reconstructing hidden observables via quantum snapshot thermometry**|Jie Ren et.al.|[2610.40652](http://arxiv.org/abs/2610.40652)|null|
+|**2026-10-29**|**Light-Cone Friedel Oscillations: a Window into van Hove Superconductivity**|Archisman Panigrahi et.al.|[2610.40648](http://arxiv.org/abs/2610.40648)|null|
+|**2026-10-29**|**Comparison of entangling strategies for unitary synthesis**|Jonas Wunder et.al.|[2610.40642](http://arxiv.org/abs/2610.40642)|null|
+|**2026-10-29**|**How many mutations does it take to evolve a new function?**|Nida Farheen et.al.|[2610.40635](http://arxiv.org/abs/2610.40635)|null|
+|**2026-10-29**|**Hyaluronic acid over-expression drives tissue architecture in both healthy and diseased states**|Kyungeun Kim et.al.|[2610.40634](http://arxiv.org/abs/2610.40634)|null|
+|**2026-10-29**|**SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors**|Fnu Aryan et.al.|[2610.40632](http://arxiv.org/abs/2610.40632)|null|
+|**2026-10-29**|**Gravitational-Wave Echoes and Greybody Cutoff from Logarithmic Throats at a Marginal-Trapping Threshold**|Jahed Abedi et.al.|[2610.40631](http://arxiv.org/abs/2610.40631)|null|
+|**2026-10-29**|**Central Limit Theorems and Network-Free Inference for Heterogeneous Spatial Autoregressions on Sparse Graphons**|Wei Li et.al.|[2610.40630](http://arxiv.org/abs/2610.40630)|null|
 |**2026-10-29**|**Automated Verification of Hamiltonian Simulation by Quantum Signal Processing**|Min Lai et.al.|[2610.39491](http://arxiv.org/abs/2610.39491)|null|
 |**2026-10-29**|**Program Bindings Inside Code Models**|Prateek Kumar Rajput et.al.|[2610.39489](http://arxiv.org/abs/2610.39489)|null|
 |**2026-10-29**|**Strongly explicit Ramanujan 2-lift towers via Hilbert modular forms**|Olga Kharlampovich et.al.|[2610.39485](http://arxiv.org/abs/2610.39485)|null|
@@ -7863,6 +7913,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**The $δ$ Scuti instability strip and period-luminosity relation as seen by TESS and Gaia DR3**|Daniel Hey et.al.|[2610.40656](http://arxiv.org/abs/2610.40656)|null|
+|**2026-10-29**|**Elucidating the Design Space of LM Data Attribution**|Steven Yu et.al.|[2610.40655](http://arxiv.org/abs/2610.40655)|null|
+|**2026-10-29**|**Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering**|Moshe Shenfeld et.al.|[2610.40654](http://arxiv.org/abs/2610.40654)|null|
+|**2026-10-29**|**Micro-Edits: Computational Support for Fine-Scale Edits in Film**|Nhan Tran et.al.|[2610.40653](http://arxiv.org/abs/2610.40653)|null|
+|**2026-10-29**|**When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering**|Nathan Engelman Lado et.al.|[2610.40650](http://arxiv.org/abs/2610.40650)|null|
+|**2026-10-29**|**Rethinking Neural Thickets Without Weight Perturbations**|Nicolas Dufour et.al.|[2610.40649](http://arxiv.org/abs/2610.40649)|null|
+|**2026-10-29**|**Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers**|Jiongfan Yang et.al.|[2610.40647](http://arxiv.org/abs/2610.40647)|null|
+|**2026-10-29**|**SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing**|Yunchu Zhang et.al.|[2610.40646](http://arxiv.org/abs/2610.40646)|null|
+|**2026-10-29**|**Adaptive Scenario Generation for KL-DRO Around a Learned Density Model**|Aron Brenner et.al.|[2610.40644](http://arxiv.org/abs/2610.40644)|null|
+|**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](http://arxiv.org/abs/2610.40643)|null|
 |**2026-10-29**|**Automated Verification of Hamiltonian Simulation by Quantum Signal Processing**|Min Lai et.al.|[2610.39491](http://arxiv.org/abs/2610.39491)|null|
 |**2026-10-29**|**A Sharp Bound of Crossing Limit Cycle for Planar piecewise linear Systems with a Straight Switching Line**|Zijie Xu et.al.|[2610.39490](http://arxiv.org/abs/2610.39490)|null|
 |**2026-10-29**|**Program Bindings Inside Code Models**|Prateek Kumar Rajput et.al.|[2610.39489](http://arxiv.org/abs/2610.39489)|null|
