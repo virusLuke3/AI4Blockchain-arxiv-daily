@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -6359,6 +6359,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Peeling the Matryoshka: Extracting Ontological Structure from Retrieval Embeddings**|Eunchan Kim et.al.|[2610.41785](http://arxiv.org/abs/2610.41785)|null|
+|**2026-10-30**|**Critical fluctuations in the edge--triangle exponential random graph models**|Song-Hao Liu et.al.|[2610.41781](http://arxiv.org/abs/2610.41781)|null|
+|**2026-10-30**|**Homogeneous Spectral Freedom and Hadamard Consistency of Perturbative Green Functions**|Bekir Can Lütfüoğlu et.al.|[2610.41777](http://arxiv.org/abs/2610.41777)|null|
+|**2026-10-30**|**An odd version of the Grothendieck--Teichmüller Lie algebra and the odd Deligne--Drinfeld conjecture**|Florian Naef et.al.|[2610.41766](http://arxiv.org/abs/2610.41766)|null|
+|**2026-10-30**|**Scaling laws of entanglement entropy in fractal dimensions**|Zheyu Cheng et.al.|[2610.41761](http://arxiv.org/abs/2610.41761)|null|
+|**2026-10-30**|**Hereditary Approximation under Hilbertian Extension**|Gang Cai et.al.|[2610.41758](http://arxiv.org/abs/2610.41758)|null|
+|**2026-10-30**|**CypherGuard: Database-Grounded Correction for Reliable Text-to-Cypher**|Zebin Chen et.al.|[2610.41755](http://arxiv.org/abs/2610.41755)|null|
+|**2026-10-30**|**Functional-Specific Information Borrowing under Limited Overlap**|Shinichiro Shirota et.al.|[2610.41753](http://arxiv.org/abs/2610.41753)|null|
+|**2026-10-30**|**Feasibility of Common-Stream-Only Sensing in ZF-RSMA with Imperfect CSIT**|Surya Harsha et.al.|[2610.41744](http://arxiv.org/abs/2610.41744)|null|
+|**2026-10-30**|**On unitary representations of $p$-adic $\textrm{Sp}_{2n}$ and $\textrm{SO}_{2n+1}$ of purely bad parity**|Chi-Heng Lo et.al.|[2610.41742](http://arxiv.org/abs/2610.41742)|null|
 |**2026-10-29**|**Elucidating the Design Space of LM Data Attribution**|Steven Yu et.al.|[2610.40655](http://arxiv.org/abs/2610.40655)|null|
 |**2026-10-29**|**Micro-Edits: Computational Support for Fine-Scale Edits in Film**|Nhan Tran et.al.|[2610.40653](http://arxiv.org/abs/2610.40653)|null|
 |**2026-10-29**|**Reconstructing hidden observables via quantum snapshot thermometry**|Jie Ren et.al.|[2610.40652](http://arxiv.org/abs/2610.40652)|null|
