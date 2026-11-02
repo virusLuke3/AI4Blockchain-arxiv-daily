@@ -163,7 +163,7 @@ layout: default
 |**2026-10-26**|**On a family of stably handle-slide trivial R-links**|Wenjie Diao et.al.|[2610.35120](http://arxiv.org/abs/2610.35120)|null|
 |**2026-10-26**|**Multinomial shot sampling for quantum circuits**|Ijaz Ahamed Mohammad et.al.|[2610.35119](http://arxiv.org/abs/2610.35119)|null|
 |**2026-10-26**|**Scenario Matching for Credit Dependence Stress Tests: Temporal correlation constraints and empirical risk bounds**|Naoufal Nifa et.al.|[2610.35118](http://arxiv.org/abs/2610.35118)|null|
-|**2026-10-26**|**Analysis of C-point and V-point Inhomogeneous Vector Beams Stability under Anisotropic Turbulence in Ground-to-Air Transmission**| Sagar et.al.|[2610.35116](http://arxiv.org/abs/2610.35116)|null|
+|**2026-10-26**|**Analysis of C-point and V-point Inhomogeneous Vector Beams Stability under Anisotropic Turbulence in Ground-to-Air Transmission**|Sagar et.al.|[2610.35116](http://arxiv.org/abs/2610.35116)|null|
 |**2026-10-26**|**QED VI: Neutral hydrogen gas in supernova-driven galactic outflows**|Chong-Chong He et.al.|[2610.35115](http://arxiv.org/abs/2610.35115)|null|
 |**2026-10-26**|**Subspace Crystallization in Grokking: Rank Compression Tracks the Phase Transition**|Shlok Mehendale et.al.|[2610.35112](http://arxiv.org/abs/2610.35112)|null|
 |**2026-10-26**|**Retrieval-Augmented Parkinson's Disease Classification from Resting-State Functional Connectivity**|Tara Niknam et.al.|[2610.35107](http://arxiv.org/abs/2610.35107)|null|
@@ -3319,7 +3319,7 @@ layout: default
 |**2026-10-26**|**On a family of stably handle-slide trivial R-links**|Wenjie Diao et.al.|[2610.35120](http://arxiv.org/abs/2610.35120)|null|
 |**2026-10-26**|**Multinomial shot sampling for quantum circuits**|Ijaz Ahamed Mohammad et.al.|[2610.35119](http://arxiv.org/abs/2610.35119)|null|
 |**2026-10-26**|**Scenario Matching for Credit Dependence Stress Tests: Temporal correlation constraints and empirical risk bounds**|Naoufal Nifa et.al.|[2610.35118](http://arxiv.org/abs/2610.35118)|null|
-|**2026-10-26**|**Analysis of C-point and V-point Inhomogeneous Vector Beams Stability under Anisotropic Turbulence in Ground-to-Air Transmission**| Sagar et.al.|[2610.35116](http://arxiv.org/abs/2610.35116)|null|
+|**2026-10-26**|**Analysis of C-point and V-point Inhomogeneous Vector Beams Stability under Anisotropic Turbulence in Ground-to-Air Transmission**|Sagar et.al.|[2610.35116](http://arxiv.org/abs/2610.35116)|null|
 |**2026-10-26**|**QED VI: Neutral hydrogen gas in supernova-driven galactic outflows**|Chong-Chong He et.al.|[2610.35115](http://arxiv.org/abs/2610.35115)|null|
 |**2026-10-26**|**UTA: Universal Training Adaptive Learning Rate Decay**|Anda Tang et.al.|[2610.35113](http://arxiv.org/abs/2610.35113)|null|
 |**2026-10-26**|**FlowGenesis: Representation-Driven Self-Organization of Neural Architectures**|Maksim A Kazanskii et.al.|[2610.35108](http://arxiv.org/abs/2610.35108)|null|
@@ -7947,7 +7947,7 @@ layout: default
 |**2026-10-26**|**Revisiting entropy and entropy-related magnitudes of a symbolic sequence and their estimation**|Efren Aragon-Perez et.al.|[2610.35121](http://arxiv.org/abs/2610.35121)|null|
 |**2026-10-26**|**Multinomial shot sampling for quantum circuits**|Ijaz Ahamed Mohammad et.al.|[2610.35119](http://arxiv.org/abs/2610.35119)|null|
 |**2026-10-26**|**Scenario Matching for Credit Dependence Stress Tests: Temporal correlation constraints and empirical risk bounds**|Naoufal Nifa et.al.|[2610.35118](http://arxiv.org/abs/2610.35118)|null|
-|**2026-10-26**|**Analysis of C-point and V-point Inhomogeneous Vector Beams Stability under Anisotropic Turbulence in Ground-to-Air Transmission**| Sagar et.al.|[2610.35116](http://arxiv.org/abs/2610.35116)|null|
+|**2026-10-26**|**Analysis of C-point and V-point Inhomogeneous Vector Beams Stability under Anisotropic Turbulence in Ground-to-Air Transmission**|Sagar et.al.|[2610.35116](http://arxiv.org/abs/2610.35116)|null|
 |**2026-10-26**|**UTA: Universal Training Adaptive Learning Rate Decay**|Anda Tang et.al.|[2610.35113](http://arxiv.org/abs/2610.35113)|null|
 |**2026-10-26**|**Subspace Crystallization in Grokking: Rank Compression Tracks the Phase Transition**|Shlok Mehendale et.al.|[2610.35112](http://arxiv.org/abs/2610.35112)|null|
 |**2026-10-26**|**Nonlocal Einstein Relation in Confined Phonon Hydrodynamics**|Guanda Quan et.al.|[2610.35109](http://arxiv.org/abs/2610.35109)|null|
