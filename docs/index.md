@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Where and Why is Grounded Reasoning Useful?**|David Yan et.al.|[2611.08485](http://arxiv.org/abs/2611.08485)|null|
+|**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|null|
+|**2026-11-05**|**Hypersurface covariance in relativistic local equilibrium**|You-yu Li et.al.|[2611.08482](http://arxiv.org/abs/2611.08482)|null|
+|**2026-11-05**|**Joint analysis of the Macquart relation and the dispersion measure power spectrum: cross-covariance and redshift self-calibration**|Amy Wayland et.al.|[2611.08481](http://arxiv.org/abs/2611.08481)|null|
+|**2026-11-05**|**Direct transition from a fractional Chern insulator to a topological superconductor**|Taige Wang et.al.|[2611.08475](http://arxiv.org/abs/2611.08475)|null|
+|**2026-11-05**|**Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC**| ALICE Collaboration et.al.|[2611.08473](http://arxiv.org/abs/2611.08473)|null|
+|**2026-11-05**|**XStack: A Benchmark for ML Repo Migration**|Linrong Cai et.al.|[2611.08472](http://arxiv.org/abs/2611.08472)|null|
+|**2026-11-05**|**An Accelerated Proximal Gradient Method for Bures-Wasserstein Space**|Jakob Nylöf et.al.|[2611.08468](http://arxiv.org/abs/2611.08468)|null|
+|**2026-11-05**|**Almost sure bounds and tail phases for critical non-Gaussian holomorphic chaos**|Feng Guo et.al.|[2611.08467](http://arxiv.org/abs/2611.08467)|null|
+|**2026-11-05**|**Joint Bayesian Inference for Extraction of Charmonium Long Distance Matrix Elements Using PYTHIA**|Yubo Liu et.al.|[2611.08463](http://arxiv.org/abs/2611.08463)|null|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918](http://arxiv.org/abs/2611.06918)|null|
 |**2026-11-04**|**ReveaLLAGN 3: Revealing the Infrared Spectral Energy Distributions of Low Luminosity AGN**|David Ohlson et.al.|[2611.06916](http://arxiv.org/abs/2611.06916)|null|
 |**2026-11-04**|**Preparing for the Gaia DR4 Epochalypse: Simulated Epoch Astrometry for Substellar Companion Orbit-Modeling Benchmarks**|Daniel A. Yahalomi et.al.|[2611.06915](http://arxiv.org/abs/2611.06915)|null|
@@ -1758,6 +1768,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI**|Xiaoqi Zhao et.al.|[2611.08486](http://arxiv.org/abs/2611.08486)|null|
+|**2026-11-05**|**Where and Why is Grounded Reasoning Useful?**|David Yan et.al.|[2611.08485](http://arxiv.org/abs/2611.08485)|null|
+|**2026-11-05**|**Evolution of Dust In Protoplanetary Disks With Magnetized Winds**|Olcay Goksu et.al.|[2611.08484](http://arxiv.org/abs/2611.08484)|null|
+|**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|null|
+|**2026-11-05**|**Flat-band systems: A platform to realize the moments of Quantum Metric**|Rishi Gangadhar et.al.|[2611.08479](http://arxiv.org/abs/2611.08479)|null|
+|**2026-11-05**|**EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling**|Yanlin Jin et.al.|[2611.08477](http://arxiv.org/abs/2611.08477)|null|
+|**2026-11-05**|**Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information**|Linqian Wu et.al.|[2611.08469](http://arxiv.org/abs/2611.08469)|null|
+|**2026-11-05**|**An Accelerated Proximal Gradient Method for Bures-Wasserstein Space**|Jakob Nylöf et.al.|[2611.08468](http://arxiv.org/abs/2611.08468)|null|
+|**2026-11-05**|**Room-Temperature Quantum Emission from Boron Nitride Nanotubes**|Ke-Sean J. M. Peter et.al.|[2611.08460](http://arxiv.org/abs/2611.08460)|null|
+|**2026-11-05**|**Testing the Spin of New Physics with Top Precision Measurements**|André Lessa et.al.|[2611.08459](http://arxiv.org/abs/2611.08459)|null|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918](http://arxiv.org/abs/2611.06918)|null|
 |**2026-11-04**|**A Framework for Context Enrichment and Selective Robustness in LLM Social Agents**|Mattia Greiche et.al.|[2611.06914](http://arxiv.org/abs/2611.06914)|null|
 |**2026-11-04**|**cuRoboV2-Fast: Fast Torque-Limited Collision-Free Motion Planning**|Balakumar Sundaralingam et.al.|[2611.06913](http://arxiv.org/abs/2611.06913)|null|
@@ -3323,6 +3343,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Provable circuit-level thresholds for non-abelian topological phases**|Yuanjie Ren et.al.|[2611.08488](http://arxiv.org/abs/2611.08488)|null|
+|**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[2611.08487](http://arxiv.org/abs/2611.08487)|null|
+|**2026-11-05**|**Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI**|Xiaoqi Zhao et.al.|[2611.08486](http://arxiv.org/abs/2611.08486)|null|
+|**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|null|
+|**2026-11-05**|**Hypersurface covariance in relativistic local equilibrium**|You-yu Li et.al.|[2611.08482](http://arxiv.org/abs/2611.08482)|null|
+|**2026-11-05**|**Joint analysis of the Macquart relation and the dispersion measure power spectrum: cross-covariance and redshift self-calibration**|Amy Wayland et.al.|[2611.08481](http://arxiv.org/abs/2611.08481)|null|
+|**2026-11-05**|**XStack: A Benchmark for ML Repo Migration**|Linrong Cai et.al.|[2611.08472](http://arxiv.org/abs/2611.08472)|null|
+|**2026-11-05**|**Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information**|Linqian Wu et.al.|[2611.08469](http://arxiv.org/abs/2611.08469)|null|
+|**2026-11-05**|**An Accelerated Proximal Gradient Method for Bures-Wasserstein Space**|Jakob Nylöf et.al.|[2611.08468](http://arxiv.org/abs/2611.08468)|null|
+|**2026-11-05**|**Canonical Cut Hierarchy in Almost-Linear Time via Reduction to Max-Flow**|Karthekeyan Chandrasekaran et.al.|[2611.08466](http://arxiv.org/abs/2611.08466)|null|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918](http://arxiv.org/abs/2611.06918)|null|
 |**2026-11-04**|**Using topology to reveal all mutually unbiased bases in dimension six**|Mateo Cárdenes Wuttig et.al.|[2611.06917](http://arxiv.org/abs/2611.06917)|null|
 |**2026-11-04**|**ReveaLLAGN 3: Revealing the Infrared Spectral Energy Distributions of Low Luminosity AGN**|David Ohlson et.al.|[2611.06916](http://arxiv.org/abs/2611.06916)|null|
@@ -4861,6 +4891,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Joint analysis of the Macquart relation and the dispersion measure power spectrum: cross-covariance and redshift self-calibration**|Amy Wayland et.al.|[2611.08481](http://arxiv.org/abs/2611.08481)|null|
+|**2026-11-05**|**Joint Electricity Price and Load Forecasting for Data Center Battery Dispatch Using Polynomial Diffusion Models**|Matthew Van Ham et.al.|[2611.08470](http://arxiv.org/abs/2611.08470)|null|
+|**2026-11-05**|**Canonical Cut Hierarchy in Almost-Linear Time via Reduction to Max-Flow**|Karthekeyan Chandrasekaran et.al.|[2611.08466](http://arxiv.org/abs/2611.08466)|null|
+|**2026-11-05**|**Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems**|Aldana Al-Sulaiti et.al.|[2611.08461](http://arxiv.org/abs/2611.08461)|null|
+|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449](http://arxiv.org/abs/2611.08449)|null|
+|**2026-11-05**|**Dynamical effects induced by synthetic SU(1,1) gauge fields**|Chenwei Lv et.al.|[2611.08447](http://arxiv.org/abs/2611.08447)|null|
+|**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
+|**2026-11-05**|**Dynamics Aware Past-Future Information Bottleneck**|Wooyoung Chung et.al.|[2611.08426](http://arxiv.org/abs/2611.08426)|null|
+|**2026-11-05**|**Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks**|E. Kelly Buchanan et.al.|[2611.08417](http://arxiv.org/abs/2611.08417)|null|
+|**2026-11-05**|**Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning**|Chenruo Liu et.al.|[2611.08414](http://arxiv.org/abs/2611.08414)|null|
 |**2026-11-04**|**FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors**|Nicolas Tricard et.al.|[2611.06912](http://arxiv.org/abs/2611.06912)|null|
 |**2026-11-04**|**BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories**|Fei Lin et.al.|[2611.06911](http://arxiv.org/abs/2611.06911)|null|
 |**2026-11-04**|**Arithmetic Depth, Minimal Gate Alphabets, and Exact Program-State Resources for Single-Qubit Dyadic Programs**|Tony Newton et.al.|[2611.06909](http://arxiv.org/abs/2611.06909)|null|
@@ -6439,6 +6479,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres**|Esther Wang et.al.|[2611.08489](http://arxiv.org/abs/2611.08489)|null|
+|**2026-11-05**|**Provable circuit-level thresholds for non-abelian topological phases**|Yuanjie Ren et.al.|[2611.08488](http://arxiv.org/abs/2611.08488)|null|
+|**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[2611.08487](http://arxiv.org/abs/2611.08487)|null|
+|**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|null|
+|**2026-11-05**|**Scientist World: Grow a Research World for AI-Scientists**|Taiming Lu et.al.|[2611.08478](http://arxiv.org/abs/2611.08478)|null|
+|**2026-11-05**|**EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling**|Yanlin Jin et.al.|[2611.08477](http://arxiv.org/abs/2611.08477)|null|
+|**2026-11-05**|**Defect Anomalies at a Distance**|Oleksandr Diatlyk et.al.|[2611.08476](http://arxiv.org/abs/2611.08476)|null|
+|**2026-11-05**|**Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC**| ALICE Collaboration et.al.|[2611.08473](http://arxiv.org/abs/2611.08473)|null|
+|**2026-11-05**|**The three-dimensional Galilean black hole**|Luis Avilés et.al.|[2611.08471](http://arxiv.org/abs/2611.08471)|null|
+|**2026-11-05**|**Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information**|Linqian Wu et.al.|[2611.08469](http://arxiv.org/abs/2611.08469)|null|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918](http://arxiv.org/abs/2611.06918)|null|
 |**2026-11-04**|**Using topology to reveal all mutually unbiased bases in dimension six**|Mateo Cárdenes Wuttig et.al.|[2611.06917](http://arxiv.org/abs/2611.06917)|null|
 |**2026-11-04**|**Preparing for the Gaia DR4 Epochalypse: Simulated Epoch Astrometry for Substellar Companion Orbit-Modeling Benchmarks**|Daniel A. Yahalomi et.al.|[2611.06915](http://arxiv.org/abs/2611.06915)|null|
@@ -8023,6 +8073,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Provable circuit-level thresholds for non-abelian topological phases**|Yuanjie Ren et.al.|[2611.08488](http://arxiv.org/abs/2611.08488)|null|
+|**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[2611.08487](http://arxiv.org/abs/2611.08487)|null|
+|**2026-11-05**|**Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI**|Xiaoqi Zhao et.al.|[2611.08486](http://arxiv.org/abs/2611.08486)|null|
+|**2026-11-05**|**Where and Why is Grounded Reasoning Useful?**|David Yan et.al.|[2611.08485](http://arxiv.org/abs/2611.08485)|null|
+|**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|null|
+|**2026-11-05**|**Joint analysis of the Macquart relation and the dispersion measure power spectrum: cross-covariance and redshift self-calibration**|Amy Wayland et.al.|[2611.08481](http://arxiv.org/abs/2611.08481)|null|
+|**2026-11-05**|**Flat-band systems: A platform to realize the moments of Quantum Metric**|Rishi Gangadhar et.al.|[2611.08479](http://arxiv.org/abs/2611.08479)|null|
+|**2026-11-05**|**Scientist World: Grow a Research World for AI-Scientists**|Taiming Lu et.al.|[2611.08478](http://arxiv.org/abs/2611.08478)|null|
+|**2026-11-05**|**EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling**|Yanlin Jin et.al.|[2611.08477](http://arxiv.org/abs/2611.08477)|null|
+|**2026-11-05**|**XStack: A Benchmark for ML Repo Migration**|Linrong Cai et.al.|[2611.08472](http://arxiv.org/abs/2611.08472)|null|
 |**2026-11-04**|**Preparing for the Gaia DR4 Epochalypse: Simulated Epoch Astrometry for Substellar Companion Orbit-Modeling Benchmarks**|Daniel A. Yahalomi et.al.|[2611.06915](http://arxiv.org/abs/2611.06915)|null|
 |**2026-11-04**|**A Framework for Context Enrichment and Selective Robustness in LLM Social Agents**|Mattia Greiche et.al.|[2611.06914](http://arxiv.org/abs/2611.06914)|null|
 |**2026-11-04**|**cuRoboV2-Fast: Fast Torque-Limited Collision-Free Motion Planning**|Balakumar Sundaralingam et.al.|[2611.06913](http://arxiv.org/abs/2611.06913)|null|
