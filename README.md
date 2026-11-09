@@ -155,7 +155,7 @@
 |**2026-11-05**|**Hypersurface covariance in relativistic local equilibrium**|You-yu Li et.al.|[2611.08482](http://arxiv.org/abs/2611.08482)|null|
 |**2026-11-05**|**Joint analysis of the Macquart relation and the dispersion measure power spectrum: cross-covariance and redshift self-calibration**|Amy Wayland et.al.|[2611.08481](http://arxiv.org/abs/2611.08481)|null|
 |**2026-11-05**|**Direct transition from a fractional Chern insulator to a topological superconductor**|Taige Wang et.al.|[2611.08475](http://arxiv.org/abs/2611.08475)|null|
-|**2026-11-05**|**Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC**| ALICE Collaboration et.al.|[2611.08473](http://arxiv.org/abs/2611.08473)|null|
+|**2026-11-05**|**Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC**|ALICE Collaboration et.al.|[2611.08473](http://arxiv.org/abs/2611.08473)|null|
 |**2026-11-05**|**XStack: A Benchmark for ML Repo Migration**|Linrong Cai et.al.|[2611.08472](http://arxiv.org/abs/2611.08472)|null|
 |**2026-11-05**|**An Accelerated Proximal Gradient Method for Bures-Wasserstein Space**|Jakob Nylöf et.al.|[2611.08468](http://arxiv.org/abs/2611.08468)|null|
 |**2026-11-05**|**Almost sure bounds and tail phases for critical non-Gaussian holomorphic chaos**|Feng Guo et.al.|[2611.08467](http://arxiv.org/abs/2611.08467)|null|
@@ -6554,7 +6554,7 @@
 |**2026-11-05**|**Scientist World: Grow a Research World for AI-Scientists**|Taiming Lu et.al.|[2611.08478](http://arxiv.org/abs/2611.08478)|null|
 |**2026-11-05**|**EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling**|Yanlin Jin et.al.|[2611.08477](http://arxiv.org/abs/2611.08477)|null|
 |**2026-11-05**|**Defect Anomalies at a Distance**|Oleksandr Diatlyk et.al.|[2611.08476](http://arxiv.org/abs/2611.08476)|null|
-|**2026-11-05**|**Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC**| ALICE Collaboration et.al.|[2611.08473](http://arxiv.org/abs/2611.08473)|null|
+|**2026-11-05**|**Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC**|ALICE Collaboration et.al.|[2611.08473](http://arxiv.org/abs/2611.08473)|null|
 |**2026-11-05**|**The three-dimensional Galilean black hole**|Luis Avilés et.al.|[2611.08471](http://arxiv.org/abs/2611.08471)|null|
 |**2026-11-05**|**Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information**|Linqian Wu et.al.|[2611.08469](http://arxiv.org/abs/2611.08469)|null|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918](http://arxiv.org/abs/2611.06918)|null|
