@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Replication Certification at Publication: Checkable by Anyone, Anywhere, in Seconds, Forever**|Gary King et.al.|[2611.09214](http://arxiv.org/abs/2611.09214)|null|
 |**2026-11-05**|**Where and Why is Grounded Reasoning Useful?**|David Yan et.al.|[2611.08485](http://arxiv.org/abs/2611.08485)|null|
 |**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|null|
 |**2026-11-05**|**Hypersurface covariance in relativistic local equilibrium**|You-yu Li et.al.|[2611.08482](http://arxiv.org/abs/2611.08482)|null|
@@ -139,6 +140,7 @@ layout: default
 |**2026-11-05**|**An Accelerated Proximal Gradient Method for Bures-Wasserstein Space**|Jakob Nylöf et.al.|[2611.08468](http://arxiv.org/abs/2611.08468)|null|
 |**2026-11-05**|**Almost sure bounds and tail phases for critical non-Gaussian holomorphic chaos**|Feng Guo et.al.|[2611.08467](http://arxiv.org/abs/2611.08467)|null|
 |**2026-11-05**|**Joint Bayesian Inference for Extraction of Charmonium Long Distance Matrix Elements Using PYTHIA**|Yubo Liu et.al.|[2611.08463](http://arxiv.org/abs/2611.08463)|null|
+|**2026-11-05**|**Post-Quantum Authentication of IoT Data on Ethereum: Signatures, the Calldata Floor, and Device-Signed Merkle Roots**|Ming-Fong Sie et.al.|[2611.08108](http://arxiv.org/abs/2611.08108)|null|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918](http://arxiv.org/abs/2611.06918)|null|
 |**2026-11-04**|**ReveaLLAGN 3: Revealing the Infrared Spectral Energy Distributions of Low Luminosity AGN**|David Ohlson et.al.|[2611.06916](http://arxiv.org/abs/2611.06916)|null|
 |**2026-11-04**|**Preparing for the Gaia DR4 Epochalypse: Simulated Epoch Astrometry for Substellar Companion Orbit-Modeling Benchmarks**|Daniel A. Yahalomi et.al.|[2611.06915](http://arxiv.org/abs/2611.06915)|null|
@@ -149,6 +151,9 @@ layout: default
 |**2026-11-04**|**A Simple Subquadratic Cut Query Protocol for Directed Reachability**|Henry Fleischmann et.al.|[2611.06906](http://arxiv.org/abs/2611.06906)|null|
 |**2026-11-04**|**Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement**|Michal Korniak et.al.|[2611.06905](http://arxiv.org/abs/2611.06905)|null|
 |**2026-11-04**|**Gravitational-Wave Constraints on $R^2$ Gravity**|Pawan Kumar Gupta et.al.|[2611.06902](http://arxiv.org/abs/2611.06902)|null|
+|**2026-11-04**|**Weaver: Unlocking Blockchain Transaction Parallelism through State-Decoupled Symbolic Execution**|Ru Cheng et.al.|[2611.06462](http://arxiv.org/abs/2611.06462)|null|
+|**2026-11-04**|**GRIDSHIELD: Verifiable Grid Feasibility and Manipulation Resistance in Privacy-Preserving Peer-to-Peer Energy Trading**|Abdullahil Kafi et.al.|[2611.05816](http://arxiv.org/abs/2611.05816)|null|
+|**2026-11-03**|**Anduin: A sybil-resistant agentic marketplace reputation system**|Reza Ramji et.al.|[2611.05586](http://arxiv.org/abs/2611.05586)|null|
 |**2026-11-03**|**Training Specialist LLMs on Your Phone: Forward-Only Optimization via Block-Spectral Coordinates**|Liyan Tan et.al.|[2611.04797](http://arxiv.org/abs/2611.04797)|null|
 |**2026-11-03**|**Accelerating Offloading-Based MoE Inference by Interleaving Concurrent Requests**|Hongseung Yu et.al.|[2611.04794](http://arxiv.org/abs/2611.04794)|null|
 |**2026-11-03**|**Space--time Runge approximation for weakly viscous nonlocal waves and identification of coefficients**|Philipp Zimmermann et.al.|[2611.04790](http://arxiv.org/abs/2611.04790)|null|
@@ -159,6 +164,11 @@ layout: default
 |**2026-11-03**|**Who Is Doing the Thinking? Characterising Human Agency in First-Year Students' AI Interactions**|Ali Shakiba et.al.|[2611.04783](http://arxiv.org/abs/2611.04783)|null|
 |**2026-11-03**|**Reducing Logprob Without Causal Verification: Diagnosing SAE-Based PII Suppression in LLMs**|Chaerin Lee et.al.|[2611.04782](http://arxiv.org/abs/2611.04782)|null|
 |**2026-11-03**|**On the Onsager--Machlup functional of the infinite-dimensional angular central Gaussian distribution and related measures**|Hefin Lambley et.al.|[2611.04781](http://arxiv.org/abs/2611.04781)|null|
+|**2026-11-02**|**Exploring the Power Consumption of ERC-4337 Bundling on Server Infrastructure**|Claudiu-Nicu Bărbieru et.al.|[2611.04033](http://arxiv.org/abs/2611.04033)|null|
+|**2026-11-02**|**Self-governed access control in open robot swarms using a blockchain-based DAO**|Raina Zakir et.al.|[2611.03975](http://arxiv.org/abs/2611.03975)|null|
+|**2026-11-02**|**AMLBench: A Real-Incident Benchmark for Agentic Blockchain Anti-Money Laundering**|Qishuang Fu et.al.|[2611.02530](http://arxiv.org/abs/2611.02530)|null|
+|**2026-11-01**|**RegionFence: Adaptive Concurrency Control for Blockchain Parallel Transaction Execution**|Jiaying Feng et.al.|[2611.02164](http://arxiv.org/abs/2611.02164)|null|
+|**2026-11-01**|**Attack Patterns in Cross-chain Bridges: A Trust-based Empirical Analysis**|Ishraq Samiha et.al.|[2611.01587](http://arxiv.org/abs/2611.01587)|null|
 |**2026-10-29**|**Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal**|Ya-Hui Zhang et.al.|[2610.40657](http://arxiv.org/abs/2610.40657)|null|
 |**2026-10-29**|**When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering**|Nathan Engelman Lado et.al.|[2610.40650](http://arxiv.org/abs/2610.40650)|null|
 |**2026-10-29**|**Adaptive Scenario Generation for KL-DRO Around a Learned Density Model**|Aron Brenner et.al.|[2610.40644](http://arxiv.org/abs/2610.40644)|null|
@@ -1768,6 +1778,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Consensus-Constrained Dual-Federated Optimization with Client-Side Dynamic Weighting for Distributed Android Device Threat Defense**|Mohammad Mashreghi et.al.|[2611.09470](http://arxiv.org/abs/2611.09470)|null|
+|**2026-11-06**|**Not All Entropy Is Equal: Reward-Conditioned Entropy Allocation in Reinforcement Learning with Verifiable Rewards**|Song Yu et.al.|[2611.09448](http://arxiv.org/abs/2611.09448)|null|
+|**2026-11-06**|**Towards a recursive construction of string scattering amplitudes**|Arkajyoti Manna et.al.|[2611.09398](http://arxiv.org/abs/2611.09398)|null|
+|**2026-11-06**|**Enabling Privacy-Preserving Natural Language Access to Industrial Smart Meter Data**|Carlos Martín-Abellán et.al.|[2611.09372](http://arxiv.org/abs/2611.09372)|null|
+|**2026-11-06**|**SafeOrchestrate: Runtime Checked Intent-Driven Orchestration for Cyber-Physical Systems**|Muhammad Ashfaq et.al.|[2611.09364](http://arxiv.org/abs/2611.09364)|null|
+|**2026-11-06**|**A State-Variable Theory of Evolving Material Symmetry**|Pengfei Zhu et.al.|[2611.09314](http://arxiv.org/abs/2611.09314)|null|
+|**2026-11-06**|**Wake 5: A Python Framework for Solidity Testing, Fuzzing, and Static Analysis**|Josef Gattermayer et.al.|[2611.09307](http://arxiv.org/abs/2611.09307)|null|
+|**2026-11-06**|**An Empirical Study of Issues in GPU Kernel Libraries for LLM Systems**|Yanjie Gao et.al.|[2611.09280](http://arxiv.org/abs/2611.09280)|null|
+|**2026-11-06**|**Centres and semisimple deformations of contraction algebras**|Joseph Karmazyn et.al.|[2611.09220](http://arxiv.org/abs/2611.09220)|null|
+|**2026-11-06**|**Provable State Estimation with Recurrent Models**|Vincent Andrieu et.al.|[2611.09217](http://arxiv.org/abs/2611.09217)|null|
 |**2026-11-05**|**Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI**|Xiaoqi Zhao et.al.|[2611.08486](http://arxiv.org/abs/2611.08486)|null|
 |**2026-11-05**|**Where and Why is Grounded Reasoning Useful?**|David Yan et.al.|[2611.08485](http://arxiv.org/abs/2611.08485)|null|
 |**2026-11-05**|**Evolution of Dust In Protoplanetary Disks With Magnetized Winds**|Olcay Goksu et.al.|[2611.08484](http://arxiv.org/abs/2611.08484)|null|
@@ -3343,6 +3363,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Stacking, symmetry and exciton fine structure in boron nitride bilayers**|Mehdi Arfaoui et.al.|[2611.09473](http://arxiv.org/abs/2611.09473)|null|
+|**2026-11-06**|**Interface-driven second harmonic generation in indium tin oxide/gold nanolayers: density and mass discontinuities matter**|J. Arya et.al.|[2611.09471](http://arxiv.org/abs/2611.09471)|null|
+|**2026-11-06**|**Consensus-Constrained Dual-Federated Optimization with Client-Side Dynamic Weighting for Distributed Android Device Threat Defense**|Mohammad Mashreghi et.al.|[2611.09470](http://arxiv.org/abs/2611.09470)|null|
+|**2026-11-06**|**Mechanical Interaction Sensing for Robotic Kiwifruit Handling with an Optoelectronic Soft Suction Cup**|Romina Adhami et.al.|[2611.09468](http://arxiv.org/abs/2611.09468)|null|
+|**2026-11-06**|**Helical magnetism from sliding Luttinger liquids in hole-doped twisted bilayer WTe $_2$**|Yung-Yeh Chang et.al.|[2611.09462](http://arxiv.org/abs/2611.09462)|null|
+|**2026-11-06**|**Increased Crystal Nucleation in the Glassy State of a Polymer/Water Mixture**|Mika Kobayashi et.al.|[2611.09456](http://arxiv.org/abs/2611.09456)|null|
+|**2026-11-06**|**Incentive Pathologies in a Live LLM Agent Arena: An Empirical Study of Concentration, Reward-Rule Implementation Discrepancy, and Network Dilution**|Lei Zhenbing et.al.|[2611.09445](http://arxiv.org/abs/2611.09445)|null|
+|**2026-11-06**|**Robust & Scalable Website Fingerprinting via Minimal DRAM Traffic**|Shubham Roy et.al.|[2611.09422](http://arxiv.org/abs/2611.09422)|null|
+|**2026-11-06**|**DeepRadio: A Human-Agent Workspace for Physical Radio Development**|Jiazhen Lei et.al.|[2611.09418](http://arxiv.org/abs/2611.09418)|null|
+|**2026-11-06**|**Nothing Is Shared Until You Synchronise: Reinterpreting Java for Data-Race Freedom**|Luke Cheeseman et.al.|[2611.09410](http://arxiv.org/abs/2611.09410)|null|
 |**2026-11-05**|**Provable circuit-level thresholds for non-abelian topological phases**|Yuanjie Ren et.al.|[2611.08488](http://arxiv.org/abs/2611.08488)|null|
 |**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[2611.08487](http://arxiv.org/abs/2611.08487)|null|
 |**2026-11-05**|**Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI**|Xiaoqi Zhao et.al.|[2611.08486](http://arxiv.org/abs/2611.08486)|null|
@@ -4911,6 +4941,7 @@ layout: default
 |**2026-11-04**|**$ω$ -limit sets of triangular maps over periodic orbits of the base**|Juan Luis García Guirao et.al.|[2611.06889](http://arxiv.org/abs/2611.06889)|null|
 |**2026-11-04**|**Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure**|Siyi Yu et.al.|[2611.06888](http://arxiv.org/abs/2611.06888)|null|
 |**2026-11-04**|**On Natural Exponential Families with Log-Affine Generalized Variance**|Zeyu Cao et.al.|[2611.06885](http://arxiv.org/abs/2611.06885)|null|
+|**2026-11-04**|**Anomalous thermal transport in isotope-enriched germanium carbide**|Wenjiang Zhou et.al.|[2611.06663](http://arxiv.org/abs/2611.06663)|null|
 |**2026-11-03**|**LIPS-PC: Learning Illumination Patterns for Single-Pixel Classification**|Tomer Porat et.al.|[2611.04780](http://arxiv.org/abs/2611.04780)|null|
 |**2026-11-03**|**Replica-Aware Split Inference for Edge IoT Systems**|Zied Jenhani et.al.|[2611.04779](http://arxiv.org/abs/2611.04779)|null|
 |**2026-11-03**|**RESTberus: Trace-Aware Benchmarking of Automated REST API Testing Tools Across Microservice Dependencies**|John Toniutti et.al.|[2611.04769](http://arxiv.org/abs/2611.04769)|null|
@@ -4921,6 +4952,9 @@ layout: default
 |**2026-11-03**|**What Does It Mean to Remove an Edge? Intervention-Aware Fidelity for Graph Neural Network Explanations**|Rocco Mattia Di Mauro et.al.|[2611.04751](http://arxiv.org/abs/2611.04751)|null|
 |**2026-11-03**|**TAPES: Task-Aligned Joint Predictive Pretraining for Transaction Event Sequences**|Ruobing Zuo et.al.|[2611.04747](http://arxiv.org/abs/2611.04747)|null|
 |**2026-11-03**|**Approximation Algorithms for Multi-Criteria Network Design Problems**|Mehrshad Taziki et.al.|[2611.04742](http://arxiv.org/abs/2611.04742)|null|
+|**2026-11-03**|**The Survival Paradox of Close-In Planets Orbiting Red Clump Giants**|Wen-Xu Lin et.al.|[2611.04544](http://arxiv.org/abs/2611.04544)|null|
+|**2026-10-31**|**Growth of global science: reflections on measurability and scientometric insights**|Robert Tijssen et.al.|[2611.01086](http://arxiv.org/abs/2611.01086)|null|
+|**2026-10-31**|**Price is Only the Symptom: Understanding and Analyzing Economic-State Manipulation Vulnerabilities in DeFi**|Hao Wu et.al.|[2611.00587](http://arxiv.org/abs/2611.00587)|null|
 |**2026-10-29**|**Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal**|Ya-Hui Zhang et.al.|[2610.40657](http://arxiv.org/abs/2610.40657)|null|
 |**2026-10-29**|**Light-Cone Friedel Oscillations: a Window into van Hove Superconductivity**|Archisman Panigrahi et.al.|[2610.40648](http://arxiv.org/abs/2610.40648)|null|
 |**2026-10-29**|**Finding Competitive Equilibria in Online Marketplaces with Platform Fees, Taxes, and Subsidies**|Taihei Oki et.al.|[2610.40626](http://arxiv.org/abs/2610.40626)|null|
@@ -4951,6 +4985,8 @@ layout: default
 |**2026-10-27**|**Sharp approximations for the stationary measures of the open ASEP I: The shock region**|Dominik Schmid et.al.|[2610.37639](http://arxiv.org/abs/2610.37639)|null|
 |**2026-10-27**|**Continuum thermodynamics of chemically reacting multi-temperature fluid mixtures**|Dieter Bothe et.al.|[2610.37637](http://arxiv.org/abs/2610.37637)|null|
 |**2026-10-27**|**UPP $^{\text{cc}}$ is Not Closed Under Intersection**|Mark Bun et.al.|[2610.37634](http://arxiv.org/abs/2610.37634)|null|
+|**2026-10-27**|**Water at the molecular frontier**|Mischa Bonn et.al.|[2610.37581](http://arxiv.org/abs/2610.37581)|null|
+|**2026-10-26**|**Distilling neural networks into equations to predict planetary instability**|Simon Alford et.al.|[2610.35617](http://arxiv.org/abs/2610.35617)|null|
 |**2026-10-26**|**On a family of stably handle-slide trivial R-links**|Wenjie Diao et.al.|[2610.35120](http://arxiv.org/abs/2610.35120)|null|
 |**2026-10-26**|**Scenario Matching for Credit Dependence Stress Tests: Temporal correlation constraints and empirical risk bounds**|Naoufal Nifa et.al.|[2610.35118](http://arxiv.org/abs/2610.35118)|null|
 |**2026-10-26**|**New families of additive non-RS MDS codes and ACD codes from twisted Reed-Solomon codes**|Xia Li et.al.|[2610.35105](http://arxiv.org/abs/2610.35105)|null|
@@ -4961,6 +4997,7 @@ layout: default
 |**2026-10-26**|**Improving VLMs on Scientific Chart Analysis via Autonomous Evolution**|Abhinav Sudhakar Dubey et.al.|[2610.35077](http://arxiv.org/abs/2610.35077)|null|
 |**2026-10-26**|**Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data**|Dianyi Yang et.al.|[2610.35075](http://arxiv.org/abs/2610.35075)|null|
 |**2026-10-26**|**A Diagnostic Protocol for GNNs in Electricity Load Forecasting: Separating Parameter Sharing from Neighborhood Access**|Eloi Campagne et.al.|[2610.35074](http://arxiv.org/abs/2610.35074)|null|
+|**2026-10-26**|**A Multi-Asset Dataset and Tail-Risk Framework for DeFi Yield Trading Derivatives**|Huaiyu Jia et.al.|[2610.34930](http://arxiv.org/abs/2610.34930)|null|
 |**2026-10-23**|**Separating Thinking from Spelling for Efficient Generative Recommendation**|Danil Gusak et.al.|[2610.32980](http://arxiv.org/abs/2610.32980)|null|
 |**2026-10-23**|**Ideal interaction dynamics of defects and background fields in condensed matter**|François Gay-Balmaz et.al.|[2610.32973](http://arxiv.org/abs/2610.32973)|null|
 |**2026-10-23**|**On the continuity of conditional distributions and stratification for derivative pricing**|Aleksandar Arandjelovic et.al.|[2610.32970](http://arxiv.org/abs/2610.32970)|null|
@@ -4971,6 +5008,7 @@ layout: default
 |**2026-10-23**|**Optimal collective investment under regulatory uncertainty**|An Chen et.al.|[2610.32959](http://arxiv.org/abs/2610.32959)|null|
 |**2026-10-23**|**Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox**|Federico Lucca et.al.|[2610.32955](http://arxiv.org/abs/2610.32955)|null|
 |**2026-10-23**|**Acyclic 2-edge-coloured graphs: polynomial-time linkages and colouring hardness**|Jørgen Bang-Jensen et.al.|[2610.32954](http://arxiv.org/abs/2610.32954)|null|
+|**2026-10-23**|**Tracing Money Laundering Across DeFi, Bridges, and Mixers on Ethereum**|Huan Xing et.al.|[2610.32210](http://arxiv.org/abs/2610.32210)|null|
 |**2026-10-22**|**Collapsed translating solitons with planar wings**|Eddygledson Souza Gama et.al.|[2610.31669](http://arxiv.org/abs/2610.31669)|null|
 |**2026-10-22**|**Direct Pass@ $k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning**|Mahdi Salmani et.al.|[2610.31667](http://arxiv.org/abs/2610.31667)|null|
 |**2026-10-22**|**Boosted Dark Matter Directionality in Large Liquid Scintillator Detectors**|Samuel S. H. Tse et.al.|[2610.31666](http://arxiv.org/abs/2610.31666)|null|
@@ -4991,6 +5029,8 @@ layout: default
 |**2026-10-21**|**Spatial Control of Compressible Active Fluids**|Yu-Chuan Cheng et.al.|[2610.30092](http://arxiv.org/abs/2610.30092)|null|
 |**2026-10-21**|**An Implicit Conservative Finite Volume Scheme with Poisson Brackets for the Steady-State Transport of Galactic Cosmic Rays**|Weihao Liu et.al.|[2610.30091](http://arxiv.org/abs/2610.30091)|null|
 |**2026-10-21**|**ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video**|Ruotong Liao et.al.|[2610.30089](http://arxiv.org/abs/2610.30089)|null|
+|**2026-10-19**|**Boundary-Sensitive Quantum Order on Non-Amenable Lattices**|Xingzhi Wang et.al.|[2610.26859](http://arxiv.org/abs/2610.26859)|null|
+|**2026-10-19**|**How Quantum Is Light? Concepts, Measures, and Applications of Optical Quantumness**|Soumyakanti Bose et.al.|[2610.25894](http://arxiv.org/abs/2610.25894)|null|
 |**2026-10-16**|**Flashing with colours: Photometric indicators of an early interaction in type II supernovae**|A. Mendez-Llorca et.al.|[2610.23852](http://arxiv.org/abs/2610.23852)|null|
 |**2026-10-16**|**AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery**|Shicheng Liu et.al.|[2610.23845](http://arxiv.org/abs/2610.23845)|null|
 |**2026-10-16**|**ModeCast: One-Shot Prediction of Linear MHD Eigenmodes and Growth Rates in Tokamaks**|Alex Higginbottom et.al.|[2610.23844](http://arxiv.org/abs/2610.23844)|null|
