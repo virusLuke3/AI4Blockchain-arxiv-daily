@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.09
+## Updated on 2026.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of Extremely Sparse Planar Images in Differentiated Thyroid Cancer**|Boyang Pan et.al.|[2611.12044](http://arxiv.org/abs/2611.12044)|null|
+|**2026-11-09**|**Four-Step Text-Bearing Image Generation via Distillation with Local Response Regularization and Teacher-Guided Training**|Kairui Wen et.al.|[2611.12042](http://arxiv.org/abs/2611.12042)|null|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
+|**2026-11-09**|**Split-Ring Couplers for On-Skin Wi-Fi Communication via an SSPP Waveguide Textile**|Akihito Noda et.al.|[2611.12036](http://arxiv.org/abs/2611.12036)|null|
+|**2026-11-09**|**Uniqueness of positive solutions of mixed Laplacian and fractional Laplacian in $\mathbb R$**|Xifeng Su et.al.|[2611.12035](http://arxiv.org/abs/2611.12035)|null|
+|**2026-11-09**|**Spectral conditions for the existence of $\{K_2,\{C_k\}\}$-factor in $t$ -tough graphs**|Zhenhao Zhang et.al.|[2611.12030](http://arxiv.org/abs/2611.12030)|null|
+|**2026-11-09**|**Parametric spatio-temporal reduced-order modelling via Spectral Proper Orthogonal Decomposition and Gaussian Process Regression**|Guglielmo Padula et.al.|[2611.12028](http://arxiv.org/abs/2611.12028)|null|
+|**2026-11-09**|**A Finite-Lag Markov Chain Model for Coarse-Graining Linear SDEs**|Yuan Chen et.al.|[2611.12022](http://arxiv.org/abs/2611.12022)|null|
+|**2026-11-09**|**Grasp-Taxonomy Conditioning as a Mode Switch for Dexterous Grasping of Climbing Holds**|Rumi Loghmani et.al.|[2611.12017](http://arxiv.org/abs/2611.12017)|null|
+|**2026-11-09**|**Speculative Self-Distillation enables Efficient Knowledge Internalization**|Shayan Talaei et.al.|[2611.12016](http://arxiv.org/abs/2611.12016)|null|
 |**2026-11-06**|**Replication Certification at Publication: Checkable by Anyone, Anywhere, in Seconds, Forever**|Gary King et.al.|[2611.09214](http://arxiv.org/abs/2611.09214)|null|
 |**2026-11-05**|**Where and Why is Grounded Reasoning Useful?**|David Yan et.al.|[2611.08485](http://arxiv.org/abs/2611.08485)|null|
 |**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|null|
@@ -1778,6 +1788,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of Extremely Sparse Planar Images in Differentiated Thyroid Cancer**|Boyang Pan et.al.|[2611.12044](http://arxiv.org/abs/2611.12044)|null|
+|**2026-11-09**|**Four-Step Text-Bearing Image Generation via Distillation with Local Response Regularization and Teacher-Guided Training**|Kairui Wen et.al.|[2611.12042](http://arxiv.org/abs/2611.12042)|null|
+|**2026-11-09**|**Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal Pre-training**|Wentao Wu et.al.|[2611.12040](http://arxiv.org/abs/2611.12040)|null|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
+|**2026-11-09**|**SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction**|Yucheng Wang et.al.|[2611.12037](http://arxiv.org/abs/2611.12037)|null|
+|**2026-11-09**|**Split-Ring Couplers for On-Skin Wi-Fi Communication via an SSPP Waveguide Textile**|Akihito Noda et.al.|[2611.12036](http://arxiv.org/abs/2611.12036)|null|
+|**2026-11-09**|**An open source Python code for three-dimensional topology optimization in single precision on a consumer GPU**|Leonilson Toffoli Pedrini et.al.|[2611.12027](http://arxiv.org/abs/2611.12027)|null|
+|**2026-11-09**|**Single Image Super-Resolution via Semantic Prompt and Cross-Modal Training on Content Area**|Xiao Tan et.al.|[2611.12025](http://arxiv.org/abs/2611.12025)|null|
+|**2026-11-09**|**TIRAD: Text-guided Image Residual Learning for Generalist Anomaly Detection**|Seongsu Lee et.al.|[2611.12023](http://arxiv.org/abs/2611.12023)|null|
+|**2026-11-09**|**Extending the reach of real-space real-time TDDFT: new developments in the Octopus code**|Nicolas Tancogne-Dejean et.al.|[2611.12018](http://arxiv.org/abs/2611.12018)|null|
 |**2026-11-06**|**Consensus-Constrained Dual-Federated Optimization with Client-Side Dynamic Weighting for Distributed Android Device Threat Defense**|Mohammad Mashreghi et.al.|[2611.09470](http://arxiv.org/abs/2611.09470)|null|
 |**2026-11-06**|**Not All Entropy Is Equal: Reward-Conditioned Entropy Allocation in Reinforcement Learning with Verifiable Rewards**|Song Yu et.al.|[2611.09448](http://arxiv.org/abs/2611.09448)|null|
 |**2026-11-06**|**Towards a recursive construction of string scattering amplitudes**|Arkajyoti Manna et.al.|[2611.09398](http://arxiv.org/abs/2611.09398)|null|
@@ -3363,6 +3383,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**$\mathrm{RO}(G)$ -graded norms for de Rham-Witt forms**|Yuri J. F. Sulyma et.al.|[2611.12043](http://arxiv.org/abs/2611.12043)|null|
+|**2026-11-09**|**SMO: Compiling Natural Language Skills into Graphs of Reusable State-Move-Outcome Bricks**|Chao Chen et.al.|[2611.12041](http://arxiv.org/abs/2611.12041)|null|
+|**2026-11-09**|**Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal Pre-training**|Wentao Wu et.al.|[2611.12040](http://arxiv.org/abs/2611.12040)|null|
+|**2026-11-09**|**SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction**|Yucheng Wang et.al.|[2611.12037](http://arxiv.org/abs/2611.12037)|null|
+|**2026-11-09**|**Split-Ring Couplers for On-Skin Wi-Fi Communication via an SSPP Waveguide Textile**|Akihito Noda et.al.|[2611.12036](http://arxiv.org/abs/2611.12036)|null|
+|**2026-11-09**|**The Power of Migration on Identical Machines is Two**|Nicole Megow et.al.|[2611.12034](http://arxiv.org/abs/2611.12034)|null|
+|**2026-11-09**|**Aircraft speed and height from Doppler-shifted sound and flight-track data**|Praveen Pathak et.al.|[2611.12033](http://arxiv.org/abs/2611.12033)|null|
+|**2026-11-09**|**Quasipositive and almost positive sectional curvature on finite quotients of Wallach spaces**|Minbo Gao et.al.|[2611.12029](http://arxiv.org/abs/2611.12029)|null|
+|**2026-11-09**|**An open source Python code for three-dimensional topology optimization in single precision on a consumer GPU**|Leonilson Toffoli Pedrini et.al.|[2611.12027](http://arxiv.org/abs/2611.12027)|null|
+|**2026-11-09**|**MambaPD: Bidirectional Selective State Space Model for Parkinson's Disease Detection from Resting-State EEG**|Ayesha Zulfiqar et.al.|[2611.12026](http://arxiv.org/abs/2611.12026)|null|
 |**2026-11-06**|**Stacking, symmetry and exciton fine structure in boron nitride bilayers**|Mehdi Arfaoui et.al.|[2611.09473](http://arxiv.org/abs/2611.09473)|null|
 |**2026-11-06**|**Interface-driven second harmonic generation in indium tin oxide/gold nanolayers: density and mass discontinuities matter**|J. Arya et.al.|[2611.09471](http://arxiv.org/abs/2611.09471)|null|
 |**2026-11-06**|**Consensus-Constrained Dual-Federated Optimization with Client-Side Dynamic Weighting for Distributed Android Device Threat Defense**|Mohammad Mashreghi et.al.|[2611.09470](http://arxiv.org/abs/2611.09470)|null|
@@ -4921,6 +4951,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Four-Step Text-Bearing Image Generation via Distillation with Local Response Regularization and Teacher-Guided Training**|Kairui Wen et.al.|[2611.12042](http://arxiv.org/abs/2611.12042)|null|
+|**2026-11-09**|**Scale-Invariant Empirical-Bayes Laplace Approximation for ReLU Networks**|Shivam Pal et.al.|[2611.12031](http://arxiv.org/abs/2611.12031)|null|
+|**2026-11-09**|**Parametric spatio-temporal reduced-order modelling via Spectral Proper Orthogonal Decomposition and Gaussian Process Regression**|Guglielmo Padula et.al.|[2611.12028](http://arxiv.org/abs/2611.12028)|null|
+|**2026-11-09**|**An open source Python code for three-dimensional topology optimization in single precision on a consumer GPU**|Leonilson Toffoli Pedrini et.al.|[2611.12027](http://arxiv.org/abs/2611.12027)|null|
+|**2026-11-09**|**MambaPD: Bidirectional Selective State Space Model for Parkinson's Disease Detection from Resting-State EEG**|Ayesha Zulfiqar et.al.|[2611.12026](http://arxiv.org/abs/2611.12026)|null|
+|**2026-11-09**|**A Poisson-bracket operator for Hamiltonian separability: intrinsic geometry and exact defects**|Vladimir Martinusi et.al.|[2611.12015](http://arxiv.org/abs/2611.12015)|null|
+|**2026-11-09**|**Benchmarking language models and agents for scientific reasoning in evolving materials laboratories**|Xuyu Dong et.al.|[2611.12014](http://arxiv.org/abs/2611.12014)|null|
+|**2026-11-09**|**SATE: Transferable Spin-Adapted Neural Wavefunctions**|Timothy Sereda et.al.|[2611.12002](http://arxiv.org/abs/2611.12002)|null|
+|**2026-11-09**|**HyPLM Technical Report**|Haowei Lin et.al.|[2611.12000](http://arxiv.org/abs/2611.12000)|null|
+|**2026-11-09**|**Optimal last-iterate rates for the projected decentralized stochastic subgradient method**|Hao Wu et.al.|[2611.11992](http://arxiv.org/abs/2611.11992)|null|
 |**2026-11-05**|**Joint analysis of the Macquart relation and the dispersion measure power spectrum: cross-covariance and redshift self-calibration**|Amy Wayland et.al.|[2611.08481](http://arxiv.org/abs/2611.08481)|null|
 |**2026-11-05**|**Joint Electricity Price and Load Forecasting for Data Center Battery Dispatch Using Polynomial Diffusion Models**|Matthew Van Ham et.al.|[2611.08470](http://arxiv.org/abs/2611.08470)|null|
 |**2026-11-05**|**Canonical Cut Hierarchy in Almost-Linear Time via Reduction to Max-Flow**|Karthekeyan Chandrasekaran et.al.|[2611.08466](http://arxiv.org/abs/2611.08466)|null|
@@ -6519,6 +6559,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**$\mathrm{RO}(G)$ -graded norms for de Rham-Witt forms**|Yuri J. F. Sulyma et.al.|[2611.12043](http://arxiv.org/abs/2611.12043)|null|
+|**2026-11-09**|**SMO: Compiling Natural Language Skills into Graphs of Reusable State-Move-Outcome Bricks**|Chao Chen et.al.|[2611.12041](http://arxiv.org/abs/2611.12041)|null|
+|**2026-11-09**|**Split-Ring Couplers for On-Skin Wi-Fi Communication via an SSPP Waveguide Textile**|Akihito Noda et.al.|[2611.12036](http://arxiv.org/abs/2611.12036)|null|
+|**2026-11-09**|**The Power of Migration on Identical Machines is Two**|Nicole Megow et.al.|[2611.12034](http://arxiv.org/abs/2611.12034)|null|
+|**2026-11-09**|**Aircraft speed and height from Doppler-shifted sound and flight-track data**|Praveen Pathak et.al.|[2611.12033](http://arxiv.org/abs/2611.12033)|null|
+|**2026-11-09**|**Magnetotropic signatures of Fulde-Ferrell Pairing in a Pauli-limited superconductor**|Gulnaz Rakhmanova et.al.|[2611.12032](http://arxiv.org/abs/2611.12032)|null|
+|**2026-11-09**|**Scale-Invariant Empirical-Bayes Laplace Approximation for ReLU Networks**|Shivam Pal et.al.|[2611.12031](http://arxiv.org/abs/2611.12031)|null|
+|**2026-11-09**|**Spectral conditions for the existence of $\{K_2,\{C_k\}\}$-factor in $t$ -tough graphs**|Zhenhao Zhang et.al.|[2611.12030](http://arxiv.org/abs/2611.12030)|null|
+|**2026-11-09**|**Quasipositive and almost positive sectional curvature on finite quotients of Wallach spaces**|Minbo Gao et.al.|[2611.12029](http://arxiv.org/abs/2611.12029)|null|
+|**2026-11-09**|**Parametric spatio-temporal reduced-order modelling via Spectral Proper Orthogonal Decomposition and Gaussian Process Regression**|Guglielmo Padula et.al.|[2611.12028](http://arxiv.org/abs/2611.12028)|null|
 |**2026-11-05**|**BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres**|Esther Wang et.al.|[2611.08489](http://arxiv.org/abs/2611.08489)|null|
 |**2026-11-05**|**Provable circuit-level thresholds for non-abelian topological phases**|Yuanjie Ren et.al.|[2611.08488](http://arxiv.org/abs/2611.08488)|null|
 |**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[2611.08487](http://arxiv.org/abs/2611.08487)|null|
@@ -8113,6 +8163,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of Extremely Sparse Planar Images in Differentiated Thyroid Cancer**|Boyang Pan et.al.|[2611.12044](http://arxiv.org/abs/2611.12044)|null|
+|**2026-11-09**|**Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal Pre-training**|Wentao Wu et.al.|[2611.12040](http://arxiv.org/abs/2611.12040)|null|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
+|**2026-11-09**|**SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction**|Yucheng Wang et.al.|[2611.12037](http://arxiv.org/abs/2611.12037)|null|
+|**2026-11-09**|**Uniqueness of positive solutions of mixed Laplacian and fractional Laplacian in $\mathbb R$**|Xifeng Su et.al.|[2611.12035](http://arxiv.org/abs/2611.12035)|null|
+|**2026-11-09**|**The Power of Migration on Identical Machines is Two**|Nicole Megow et.al.|[2611.12034](http://arxiv.org/abs/2611.12034)|null|
+|**2026-11-09**|**Aircraft speed and height from Doppler-shifted sound and flight-track data**|Praveen Pathak et.al.|[2611.12033](http://arxiv.org/abs/2611.12033)|null|
+|**2026-11-09**|**Scale-Invariant Empirical-Bayes Laplace Approximation for ReLU Networks**|Shivam Pal et.al.|[2611.12031](http://arxiv.org/abs/2611.12031)|null|
+|**2026-11-09**|**Quasipositive and almost positive sectional curvature on finite quotients of Wallach spaces**|Minbo Gao et.al.|[2611.12029](http://arxiv.org/abs/2611.12029)|null|
+|**2026-11-09**|**Parametric spatio-temporal reduced-order modelling via Spectral Proper Orthogonal Decomposition and Gaussian Process Regression**|Guglielmo Padula et.al.|[2611.12028](http://arxiv.org/abs/2611.12028)|null|
 |**2026-11-05**|**Provable circuit-level thresholds for non-abelian topological phases**|Yuanjie Ren et.al.|[2611.08488](http://arxiv.org/abs/2611.08488)|null|
 |**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[2611.08487](http://arxiv.org/abs/2611.08487)|null|
 |**2026-11-05**|**Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI**|Xiaoqi Zhao et.al.|[2611.08486](http://arxiv.org/abs/2611.08486)|null|
