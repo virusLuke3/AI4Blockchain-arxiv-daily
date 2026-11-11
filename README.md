@@ -1,4 +1,4 @@
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Evidence of anomalous Hall crystals in moiré rhombohedral graphene**|Hongyuan Li et.al.|[2611.14067](http://arxiv.org/abs/2611.14067)|null|
+|**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
+|**2026-11-10**|**A posteriori error estimates for higher-order BDF methods for parabolic partial differential equations**|Stefan Karch et.al.|[2611.14065](http://arxiv.org/abs/2611.14065)|null|
+|**2026-11-10**|**DEIA: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS**|Xuhui Lu et.al.|[2611.14064](http://arxiv.org/abs/2611.14064)|null|
+|**2026-11-10**|**HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios**|Rezwan Islam Salvi et.al.|[2611.14059](http://arxiv.org/abs/2611.14059)|null|
+|**2026-11-10**|**Sharp Proximity Bounds for Integer Programs with Few Rows**|Stefan Kuhlmann et.al.|[2611.14052](http://arxiv.org/abs/2611.14052)|null|
+|**2026-11-10**|**Can KV Cache Be Reused Across Model Updates? A DeepSeek-V4-Flash Case Study**|Zhikun Tao et.al.|[2611.14051](http://arxiv.org/abs/2611.14051)|null|
+|**2026-11-10**|**Ontology-Guided Knowledge Graph Construction and Robust Evidence Retrieval for Indian Knowledge Systems**|Anand Kaniyaar Sriranga Prasad et.al.|[2611.14050](http://arxiv.org/abs/2611.14050)|null|
+|**2026-11-10**|**Complete self-shrinkers with scalar curvature bounded below**|Qing-Ming Cheng et.al.|[2611.14047](http://arxiv.org/abs/2611.14047)|null|
+|**2026-11-10**|**Structured Confidence Perturbation via Fisher Geometry for Adversarial Training**|Chenlong Wei et.al.|[2611.14046](http://arxiv.org/abs/2611.14046)|null|
 |**2026-11-09**|**Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of Extremely Sparse Planar Images in Differentiated Thyroid Cancer**|Boyang Pan et.al.|[2611.12044](http://arxiv.org/abs/2611.12044)|null|
 |**2026-11-09**|**Four-Step Text-Bearing Image Generation via Distillation with Local Response Regularization and Teacher-Guided Training**|Kairui Wen et.al.|[2611.12042](http://arxiv.org/abs/2611.12042)|null|
 |**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
@@ -1804,12 +1814,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
+|**2026-11-10**|**A posteriori error estimates for higher-order BDF methods for parabolic partial differential equations**|Stefan Karch et.al.|[2611.14065](http://arxiv.org/abs/2611.14065)|null|
+|**2026-11-10**|**DEIA: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS**|Xuhui Lu et.al.|[2611.14064](http://arxiv.org/abs/2611.14064)|null|
+|**2026-11-10**|**Isolation Is Not Confidentiality: Security Boundaries of Geometric Access Control in RAG**|Steve Nouyep et.al.|[2611.14061](http://arxiv.org/abs/2611.14061)|null|
+|**2026-11-10**|**Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3**|Enhao Cui et.al.|[2611.14060](http://arxiv.org/abs/2611.14060)|null|
+|**2026-11-10**|**HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios**|Rezwan Islam Salvi et.al.|[2611.14059](http://arxiv.org/abs/2611.14059)|null|
+|**2026-11-10**|**CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution of 4D Flow MRI**|Luuk Jacobs et.al.|[2611.14058](http://arxiv.org/abs/2611.14058)|null|
+|**2026-11-10**|**Sharp Proximity Bounds for Integer Programs with Few Rows**|Stefan Kuhlmann et.al.|[2611.14052](http://arxiv.org/abs/2611.14052)|null|
+|**2026-11-10**|**RedirectMimic: Local Motion Content Redaction for Humanoid Whole-Body Control**|Zepeng Wang et.al.|[2611.14049](http://arxiv.org/abs/2611.14049)|null|
+|**2026-11-10**|**LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning**|Xuheng Zhang et.al.|[2611.14048](http://arxiv.org/abs/2611.14048)|null|
 |**2026-11-09**|**Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of Extremely Sparse Planar Images in Differentiated Thyroid Cancer**|Boyang Pan et.al.|[2611.12044](http://arxiv.org/abs/2611.12044)|null|
 |**2026-11-09**|**Four-Step Text-Bearing Image Generation via Distillation with Local Response Regularization and Teacher-Guided Training**|Kairui Wen et.al.|[2611.12042](http://arxiv.org/abs/2611.12042)|null|
 |**2026-11-09**|**Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal Pre-training**|Wentao Wu et.al.|[2611.12040](http://arxiv.org/abs/2611.12040)|null|
@@ -3401,12 +3421,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
+|**2026-11-10**|**DEIA: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS**|Xuhui Lu et.al.|[2611.14064](http://arxiv.org/abs/2611.14064)|null|
+|**2026-11-10**|**A human-in-the-loop Control Paradigm for Construction Robotics: From VR-Guided Teleoperation to Semi-Autonomous Dual-Arm Operation**|Jinhua Chen et.al.|[2611.14062](http://arxiv.org/abs/2611.14062)|null|
+|**2026-11-10**|**Isolation Is Not Confidentiality: Security Boundaries of Geometric Access Control in RAG**|Steve Nouyep et.al.|[2611.14061](http://arxiv.org/abs/2611.14061)|null|
+|**2026-11-10**|**Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3**|Enhao Cui et.al.|[2611.14060](http://arxiv.org/abs/2611.14060)|null|
+|**2026-11-10**|**CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution of 4D Flow MRI**|Luuk Jacobs et.al.|[2611.14058](http://arxiv.org/abs/2611.14058)|null|
+|**2026-11-10**|**Gorenstein dimensions for stable Auslander algebras of Nakayama algebras**|Odysseas Giatagantzidis et.al.|[2611.14057](http://arxiv.org/abs/2611.14057)|null|
+|**2026-11-10**|**Finite Blocklength Performance Analysis of Uplink RSMA with Practical Imperfections**|Farjam Karim et.al.|[2611.14055](http://arxiv.org/abs/2611.14055)|null|
+|**2026-11-10**|**Energy Dissipation Along Trajectories and Wasserstein Gradient Flow of Aggregation-Diffusion Equations**|Honglei Chen et.al.|[2611.14054](http://arxiv.org/abs/2611.14054)|null|
+|**2026-11-10**|**Triviality of metric fibrations over locally finite metric graphs**|Tsubasa Kamiyama et.al.|[2611.14053](http://arxiv.org/abs/2611.14053)|null|
 |**2026-11-09**|**$\mathrm{RO}(G)$ -graded norms for de Rham-Witt forms**|Yuri J. F. Sulyma et.al.|[2611.12043](http://arxiv.org/abs/2611.12043)|null|
 |**2026-11-09**|**SMO: Compiling Natural Language Skills into Graphs of Reusable State-Move-Outcome Bricks**|Chao Chen et.al.|[2611.12041](http://arxiv.org/abs/2611.12041)|null|
 |**2026-11-09**|**Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal Pre-training**|Wentao Wu et.al.|[2611.12040](http://arxiv.org/abs/2611.12040)|null|
@@ -4971,12 +5001,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
+|**2026-11-10**|**CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution of 4D Flow MRI**|Luuk Jacobs et.al.|[2611.14058](http://arxiv.org/abs/2611.14058)|null|
+|**2026-11-10**|**Can KV Cache Be Reused Across Model Updates? A DeepSeek-V4-Flash Case Study**|Zhikun Tao et.al.|[2611.14051](http://arxiv.org/abs/2611.14051)|null|
+|**2026-11-10**|**Ontology-Guided Knowledge Graph Construction and Robust Evidence Retrieval for Indian Knowledge Systems**|Anand Kaniyaar Sriranga Prasad et.al.|[2611.14050](http://arxiv.org/abs/2611.14050)|null|
+|**2026-11-10**|**CV-TF-QKD**|Stefano Pirandola et.al.|[2611.14044](http://arxiv.org/abs/2611.14044)|null|
+|**2026-11-10**|**Ultra-high-energy cosmic rays require metal-rich sources**|E. Podlesnyi et.al.|[2611.14038](http://arxiv.org/abs/2611.14038)|null|
+|**2026-11-10**|**MISO-BR: An Open Corpus for Misogyny Detection in Brazilian Portuguese**|Fábio A. S. Passos et.al.|[2611.14036](http://arxiv.org/abs/2611.14036)|null|
+|**2026-11-10**|**Forecast Projection and Decision Regret: Theory and Evidence from Battery Arbitrage**|Debangana Mukherjee et.al.|[2611.14030](http://arxiv.org/abs/2611.14030)|null|
+|**2026-11-10**|**Software Refactoring Research with Large Language Models: A Systematic Literature Review**|Sofia Martinez et.al.|[2611.14027](http://arxiv.org/abs/2611.14027)|null|
+|**2026-11-10**|**Safe and Scalable Minimax Adaptive Control of Positive Systems**|Fethi Bencherki et.al.|[2611.14021](http://arxiv.org/abs/2611.14021)|null|
 |**2026-11-09**|**Four-Step Text-Bearing Image Generation via Distillation with Local Response Regularization and Teacher-Guided Training**|Kairui Wen et.al.|[2611.12042](http://arxiv.org/abs/2611.12042)|null|
 |**2026-11-09**|**Scale-Invariant Empirical-Bayes Laplace Approximation for ReLU Networks**|Shivam Pal et.al.|[2611.12031](http://arxiv.org/abs/2611.12031)|null|
 |**2026-11-09**|**Parametric spatio-temporal reduced-order modelling via Spectral Proper Orthogonal Decomposition and Gaussian Process Regression**|Guglielmo Padula et.al.|[2611.12028](http://arxiv.org/abs/2611.12028)|null|
@@ -6581,12 +6621,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
+|**2026-11-10**|**A posteriori error estimates for higher-order BDF methods for parabolic partial differential equations**|Stefan Karch et.al.|[2611.14065](http://arxiv.org/abs/2611.14065)|null|
+|**2026-11-10**|**DEIA: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS**|Xuhui Lu et.al.|[2611.14064](http://arxiv.org/abs/2611.14064)|null|
+|**2026-11-10**|**HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios**|Rezwan Islam Salvi et.al.|[2611.14059](http://arxiv.org/abs/2611.14059)|null|
+|**2026-11-10**|**CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution of 4D Flow MRI**|Luuk Jacobs et.al.|[2611.14058](http://arxiv.org/abs/2611.14058)|null|
+|**2026-11-10**|**Gorenstein dimensions for stable Auslander algebras of Nakayama algebras**|Odysseas Giatagantzidis et.al.|[2611.14057](http://arxiv.org/abs/2611.14057)|null|
+|**2026-11-10**|**Finite Blocklength Performance Analysis of Uplink RSMA with Practical Imperfections**|Farjam Karim et.al.|[2611.14055](http://arxiv.org/abs/2611.14055)|null|
+|**2026-11-10**|**Triviality of metric fibrations over locally finite metric graphs**|Tsubasa Kamiyama et.al.|[2611.14053](http://arxiv.org/abs/2611.14053)|null|
+|**2026-11-10**|**Sharp Proximity Bounds for Integer Programs with Few Rows**|Stefan Kuhlmann et.al.|[2611.14052](http://arxiv.org/abs/2611.14052)|null|
+|**2026-11-10**|**Can KV Cache Be Reused Across Model Updates? A DeepSeek-V4-Flash Case Study**|Zhikun Tao et.al.|[2611.14051](http://arxiv.org/abs/2611.14051)|null|
 |**2026-11-09**|**$\mathrm{RO}(G)$ -graded norms for de Rham-Witt forms**|Yuri J. F. Sulyma et.al.|[2611.12043](http://arxiv.org/abs/2611.12043)|null|
 |**2026-11-09**|**SMO: Compiling Natural Language Skills into Graphs of Reusable State-Move-Outcome Bricks**|Chao Chen et.al.|[2611.12041](http://arxiv.org/abs/2611.12041)|null|
 |**2026-11-09**|**Split-Ring Couplers for On-Skin Wi-Fi Communication via an SSPP Waveguide Textile**|Akihito Noda et.al.|[2611.12036](http://arxiv.org/abs/2611.12036)|null|
@@ -8187,12 +8237,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
+|**2026-11-10**|**A posteriori error estimates for higher-order BDF methods for parabolic partial differential equations**|Stefan Karch et.al.|[2611.14065](http://arxiv.org/abs/2611.14065)|null|
+|**2026-11-10**|**DEIA: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS**|Xuhui Lu et.al.|[2611.14064](http://arxiv.org/abs/2611.14064)|null|
+|**2026-11-10**|**Isolation Is Not Confidentiality: Security Boundaries of Geometric Access Control in RAG**|Steve Nouyep et.al.|[2611.14061](http://arxiv.org/abs/2611.14061)|null|
+|**2026-11-10**|**Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3**|Enhao Cui et.al.|[2611.14060](http://arxiv.org/abs/2611.14060)|null|
+|**2026-11-10**|**HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios**|Rezwan Islam Salvi et.al.|[2611.14059](http://arxiv.org/abs/2611.14059)|null|
+|**2026-11-10**|**CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution of 4D Flow MRI**|Luuk Jacobs et.al.|[2611.14058](http://arxiv.org/abs/2611.14058)|null|
+|**2026-11-10**|**A resolution of the Erdős similarity problem in the large**|Chi Hoi Yip et.al.|[2611.14056](http://arxiv.org/abs/2611.14056)|null|
+|**2026-11-10**|**Finite Blocklength Performance Analysis of Uplink RSMA with Practical Imperfections**|Farjam Karim et.al.|[2611.14055](http://arxiv.org/abs/2611.14055)|null|
+|**2026-11-10**|**Energy Dissipation Along Trajectories and Wasserstein Gradient Flow of Aggregation-Diffusion Equations**|Honglei Chen et.al.|[2611.14054](http://arxiv.org/abs/2611.14054)|null|
 |**2026-11-09**|**Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of Extremely Sparse Planar Images in Differentiated Thyroid Cancer**|Boyang Pan et.al.|[2611.12044](http://arxiv.org/abs/2611.12044)|null|
 |**2026-11-09**|**Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal Pre-training**|Wentao Wu et.al.|[2611.12040](http://arxiv.org/abs/2611.12040)|null|
 |**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
@@ -9799,7 +9859,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
