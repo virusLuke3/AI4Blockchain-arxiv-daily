@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.11
+## Updated on 2026.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](http://arxiv.org/abs/2611.14519)|null|
+|**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](http://arxiv.org/abs/2611.14518)|null|
+|**2026-11-10**|**The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights**|Bernat Espigule et.al.|[2611.14517](http://arxiv.org/abs/2611.14517)|null|
+|**2026-11-10**|**Online Graph Coloring: Competitive Ratios Separating Randomized and Deterministic Algorithms**|Ken-ichi Kawarabayashi et.al.|[2611.14513](http://arxiv.org/abs/2611.14513)|null|
+|**2026-11-10**|**Solving the SU(2) BFSS model**|Kabir Bajaj et.al.|[2611.14512](http://arxiv.org/abs/2611.14512)|null|
+|**2026-11-10**|**Artificial Currency and Separate Selling: A 3-Approximation for Consumer Surplus**|Yang Cai et.al.|[2611.14509](http://arxiv.org/abs/2611.14509)|null|
+|**2026-11-10**|**Annular Counterexamples and Skew-Shape Block Identities**|Adam Tilèpe et.al.|[2611.14506](http://arxiv.org/abs/2611.14506)|null|
+|**2026-11-10**|**Emergent Biological Capabilities in a Foundation Model for Molecular Interactions**|Adi Mashiach et.al.|[2611.14504](http://arxiv.org/abs/2611.14504)|null|
+|**2026-11-10**|**The expected number of holes of the planar Wiener sausage**|Tristan Guillaume et.al.|[2611.14500](http://arxiv.org/abs/2611.14500)|null|
+|**2026-11-10**|**Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion**|Alexandre Garcia-Duran et.al.|[2611.14498](http://arxiv.org/abs/2611.14498)|null|
 |**2026-11-10**|**Evidence of anomalous Hall crystals in moiré rhombohedral graphene**|Hongyuan Li et.al.|[2611.14067](http://arxiv.org/abs/2611.14067)|null|
 |**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
 |**2026-11-10**|**A posteriori error estimates for higher-order BDF methods for parabolic partial differential equations**|Stefan Karch et.al.|[2611.14065](http://arxiv.org/abs/2611.14065)|null|
@@ -1798,6 +1808,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](http://arxiv.org/abs/2611.14519)|null|
+|**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](http://arxiv.org/abs/2611.14518)|null|
+|**2026-11-10**|**TorchCurves: Differentiable Parametric Curves**|Alex Shtoff et.al.|[2611.14516](http://arxiv.org/abs/2611.14516)|null|
+|**2026-11-10**|**Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents**|Megha Srivastava et.al.|[2611.14511](http://arxiv.org/abs/2611.14511)|null|
+|**2026-11-10**|**Artificial Currency and Separate Selling: A 3-Approximation for Consumer Surplus**|Yang Cai et.al.|[2611.14509](http://arxiv.org/abs/2611.14509)|null|
+|**2026-11-10**|**Spatial patterns of transportation choice in Niterói**|Sandro Martinelli Reia et.al.|[2611.14499](http://arxiv.org/abs/2611.14499)|null|
+|**2026-11-10**|**Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion**|Alexandre Garcia-Duran et.al.|[2611.14498](http://arxiv.org/abs/2611.14498)|null|
+|**2026-11-10**|**RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval**|Tanishq Rachamalla et.al.|[2611.14496](http://arxiv.org/abs/2611.14496)|null|
+|**2026-11-10**|**Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents**|Howard Zhang et.al.|[2611.14493](http://arxiv.org/abs/2611.14493)|null|
+|**2026-11-10**|**TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics**|Peng Chen et.al.|[2611.14491](http://arxiv.org/abs/2611.14491)|null|
 |**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
 |**2026-11-10**|**A posteriori error estimates for higher-order BDF methods for parabolic partial differential equations**|Stefan Karch et.al.|[2611.14065](http://arxiv.org/abs/2611.14065)|null|
 |**2026-11-10**|**DEIA: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS**|Xuhui Lu et.al.|[2611.14064](http://arxiv.org/abs/2611.14064)|null|
@@ -3403,6 +3423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](http://arxiv.org/abs/2611.14519)|null|
+|**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](http://arxiv.org/abs/2611.14518)|null|
+|**2026-11-10**|**The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights**|Bernat Espigule et.al.|[2611.14517](http://arxiv.org/abs/2611.14517)|null|
+|**2026-11-10**|**TorchCurves: Differentiable Parametric Curves**|Alex Shtoff et.al.|[2611.14516](http://arxiv.org/abs/2611.14516)|null|
+|**2026-11-10**|**Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations**|Ziang Liu et.al.|[2611.14514](http://arxiv.org/abs/2611.14514)|null|
+|**2026-11-10**|**Online Graph Coloring: Competitive Ratios Separating Randomized and Deterministic Algorithms**|Ken-ichi Kawarabayashi et.al.|[2611.14513](http://arxiv.org/abs/2611.14513)|null|
+|**2026-11-10**|**Solving the SU(2) BFSS model**|Kabir Bajaj et.al.|[2611.14512](http://arxiv.org/abs/2611.14512)|null|
+|**2026-11-10**|**Artificial Currency and Separate Selling: A 3-Approximation for Consumer Surplus**|Yang Cai et.al.|[2611.14509](http://arxiv.org/abs/2611.14509)|null|
+|**2026-11-10**|**When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology**|Yeyuan Liu et.al.|[2611.14508](http://arxiv.org/abs/2611.14508)|null|
+|**2026-11-10**|**Annular Counterexamples and Skew-Shape Block Identities**|Adam Tilèpe et.al.|[2611.14506](http://arxiv.org/abs/2611.14506)|null|
 |**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
 |**2026-11-10**|**DEIA: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS**|Xuhui Lu et.al.|[2611.14064](http://arxiv.org/abs/2611.14064)|null|
 |**2026-11-10**|**A human-in-the-loop Control Paradigm for Construction Robotics: From VR-Guided Teleoperation to Semi-Autonomous Dual-Arm Operation**|Jinhua Chen et.al.|[2611.14062](http://arxiv.org/abs/2611.14062)|null|
@@ -4981,6 +5011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Solving the SU(2) BFSS model**|Kabir Bajaj et.al.|[2611.14512](http://arxiv.org/abs/2611.14512)|null|
+|**2026-11-10**|**Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents**|Megha Srivastava et.al.|[2611.14511](http://arxiv.org/abs/2611.14511)|null|
+|**2026-11-10**|**When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology**|Yeyuan Liu et.al.|[2611.14508](http://arxiv.org/abs/2611.14508)|null|
+|**2026-11-10**|**Continual-ARC: Measuring Skill Acquisition over a Working Lifetime**|Daniel Lenton et.al.|[2611.14505](http://arxiv.org/abs/2611.14505)|null|
+|**2026-11-10**|**Emergent Biological Capabilities in a Foundation Model for Molecular Interactions**|Adi Mashiach et.al.|[2611.14504](http://arxiv.org/abs/2611.14504)|null|
+|**2026-11-10**|**Excess charge in the Engel-Dreizler model of atoms and molecules**|Rafael Benguria et.al.|[2611.14497](http://arxiv.org/abs/2611.14497)|null|
+|**2026-11-10**|**ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows**|Kaiyuan Hou et.al.|[2611.14492](http://arxiv.org/abs/2611.14492)|null|
+|**2026-11-10**|**Second-Best Trade Is Half Efficient in Multidimensional Markets**|Dirk Bergemann et.al.|[2611.14489](http://arxiv.org/abs/2611.14489)|null|
+|**2026-11-10**|**A fourth-order dimensionally split exponential time differencing scheme with real and distinct pole rational approximation for non-linear reaction-diffusion systems**|Wisdom Attipoe et.al.|[2611.14485](http://arxiv.org/abs/2611.14485)|null|
+|**2026-11-10**|**Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation**|Evelyn Y. Garland et.al.|[2611.14480](http://arxiv.org/abs/2611.14480)|null|
 |**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
 |**2026-11-10**|**CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution of 4D Flow MRI**|Luuk Jacobs et.al.|[2611.14058](http://arxiv.org/abs/2611.14058)|null|
 |**2026-11-10**|**Can KV Cache Be Reused Across Model Updates? A DeepSeek-V4-Flash Case Study**|Zhikun Tao et.al.|[2611.14051](http://arxiv.org/abs/2611.14051)|null|
@@ -6599,6 +6639,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](http://arxiv.org/abs/2611.14518)|null|
+|**2026-11-10**|**The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights**|Bernat Espigule et.al.|[2611.14517](http://arxiv.org/abs/2611.14517)|null|
+|**2026-11-10**|**TorchCurves: Differentiable Parametric Curves**|Alex Shtoff et.al.|[2611.14516](http://arxiv.org/abs/2611.14516)|null|
+|**2026-11-10**|**AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models**|Zijian Zhang et.al.|[2611.14515](http://arxiv.org/abs/2611.14515)|null|
+|**2026-11-10**|**Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations**|Ziang Liu et.al.|[2611.14514](http://arxiv.org/abs/2611.14514)|null|
+|**2026-11-10**|**Online Graph Coloring: Competitive Ratios Separating Randomized and Deterministic Algorithms**|Ken-ichi Kawarabayashi et.al.|[2611.14513](http://arxiv.org/abs/2611.14513)|null|
+|**2026-11-10**|**Solving the SU(2) BFSS model**|Kabir Bajaj et.al.|[2611.14512](http://arxiv.org/abs/2611.14512)|null|
+|**2026-11-10**|**Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents**|Megha Srivastava et.al.|[2611.14511](http://arxiv.org/abs/2611.14511)|null|
+|**2026-11-10**|**Gradient Estimates for Singular-Degenerate Elliptic Equations with Solution-Dependent Coefficients**|Van Le et.al.|[2611.14510](http://arxiv.org/abs/2611.14510)|null|
+|**2026-11-10**|**Artificial Currency and Separate Selling: A 3-Approximation for Consumer Surplus**|Yang Cai et.al.|[2611.14509](http://arxiv.org/abs/2611.14509)|null|
 |**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
 |**2026-11-10**|**A posteriori error estimates for higher-order BDF methods for parabolic partial differential equations**|Stefan Karch et.al.|[2611.14065](http://arxiv.org/abs/2611.14065)|null|
 |**2026-11-10**|**DEIA: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS**|Xuhui Lu et.al.|[2611.14064](http://arxiv.org/abs/2611.14064)|null|
@@ -8213,6 +8263,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](http://arxiv.org/abs/2611.14518)|null|
+|**2026-11-10**|**TorchCurves: Differentiable Parametric Curves**|Alex Shtoff et.al.|[2611.14516](http://arxiv.org/abs/2611.14516)|null|
+|**2026-11-10**|**AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models**|Zijian Zhang et.al.|[2611.14515](http://arxiv.org/abs/2611.14515)|null|
+|**2026-11-10**|**Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations**|Ziang Liu et.al.|[2611.14514](http://arxiv.org/abs/2611.14514)|null|
+|**2026-11-10**|**Online Graph Coloring: Competitive Ratios Separating Randomized and Deterministic Algorithms**|Ken-ichi Kawarabayashi et.al.|[2611.14513](http://arxiv.org/abs/2611.14513)|null|
+|**2026-11-10**|**Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents**|Megha Srivastava et.al.|[2611.14511](http://arxiv.org/abs/2611.14511)|null|
+|**2026-11-10**|**Gradient Estimates for Singular-Degenerate Elliptic Equations with Solution-Dependent Coefficients**|Van Le et.al.|[2611.14510](http://arxiv.org/abs/2611.14510)|null|
+|**2026-11-10**|**Artificial Currency and Separate Selling: A 3-Approximation for Consumer Surplus**|Yang Cai et.al.|[2611.14509](http://arxiv.org/abs/2611.14509)|null|
+|**2026-11-10**|**When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology**|Yeyuan Liu et.al.|[2611.14508](http://arxiv.org/abs/2611.14508)|null|
+|**2026-11-10**|**Continual-ARC: Measuring Skill Acquisition over a Working Lifetime**|Daniel Lenton et.al.|[2611.14505](http://arxiv.org/abs/2611.14505)|null|
 |**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
 |**2026-11-10**|**A posteriori error estimates for higher-order BDF methods for parabolic partial differential equations**|Stefan Karch et.al.|[2611.14065](http://arxiv.org/abs/2611.14065)|null|
 |**2026-11-10**|**DEIA: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS**|Xuhui Lu et.al.|[2611.14064](http://arxiv.org/abs/2611.14064)|null|
