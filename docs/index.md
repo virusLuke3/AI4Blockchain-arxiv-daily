@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -3423,6 +3423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**Quantum Control**|Matthias M. Müller et.al.|[2611.16117](http://arxiv.org/abs/2611.16117)|null|
+|**2026-11-11**|**Machine learning and high accuracy: Neural preconditioners for computational gravity**|Thomas Osburn et.al.|[2611.16106](http://arxiv.org/abs/2611.16106)|null|
+|**2026-11-11**|**An Optimized Expansion Auction Integrating Energy, Flexibility, and Network Constraints**|Rafael Benchimol Klausner et.al.|[2611.16084](http://arxiv.org/abs/2611.16084)|null|
+|**2026-11-11**|**Desorption of water from cosmic silicates**|C. Jäger et.al.|[2611.16077](http://arxiv.org/abs/2611.16077)|null|
+|**2026-11-11**|**Tokenized Reward Systems for Federated Learning: The Privacy vs. Fairness Tradeoff**|Andreas Sendros et.al.|[2611.16065](http://arxiv.org/abs/2611.16065)|null|
+|**2026-11-11**|**Vocabulary-Free Next-Event Prediction on Temporal Graphs**|Zhishang Luo et.al.|[2611.16063](http://arxiv.org/abs/2611.16063)|null|
+|**2026-11-11**|**Pyramidal Columns Acting as Attention Heads**|Fabrizia Giulia Garavaglia et.al.|[2611.16057](http://arxiv.org/abs/2611.16057)|null|
+|**2026-11-11**|**Folding of multishape metamaterials guided by plasticity**|Wenfeng Liu et.al.|[2611.16045](http://arxiv.org/abs/2611.16045)|null|
+|**2026-11-11**|**Plurality Consensus for $h$ -Majority via First-Repetition Rules**|Niccolò D'Archivio et.al.|[2611.16037](http://arxiv.org/abs/2611.16037)|null|
+|**2026-11-11**|**The importance of shear strain in narrow Si/SiGe quantum wells**|Hudaiba Soomro et.al.|[2611.16015](http://arxiv.org/abs/2611.16015)|null|
 |**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](http://arxiv.org/abs/2611.14519)|null|
 |**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](http://arxiv.org/abs/2611.14518)|null|
 |**2026-11-10**|**The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights**|Bernat Espigule et.al.|[2611.14517](http://arxiv.org/abs/2611.14517)|null|
