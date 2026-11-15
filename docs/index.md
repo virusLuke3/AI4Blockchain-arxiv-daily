@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.14
+## Updated on 2026.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**The full Gaia colour-magnitude diagram with white dwarfs reveals a declining Milky Way star formation history**|K. Sysoliatina et.al.|[2611.17337](http://arxiv.org/abs/2611.17337)|null|
+|**2026-11-12**|**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space**|Yanke Song et.al.|[2611.17336](http://arxiv.org/abs/2611.17336)|null|
+|**2026-11-12**|**Unbundling Multimodal Vision Encoding**|Ellis Brown et.al.|[2611.17334](http://arxiv.org/abs/2611.17334)|null|
+|**2026-11-12**|**Discrete Time Crystals from Anti-Unitary Floquet Driving and Dynamical Freezing**|Anirban Das et.al.|[2611.17333](http://arxiv.org/abs/2611.17333)|null|
+|**2026-11-12**|**TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models**|Chin-Yang Lin et.al.|[2611.17331](http://arxiv.org/abs/2611.17331)|null|
+|**2026-11-12**|**A Dark-Sector Mass Flip-Flop Mechanism for the ANITA-IV Events**|Dibya S. Chattopadhyay et.al.|[2611.17328](http://arxiv.org/abs/2611.17328)|null|
+|**2026-11-12**|**Decoupling Dynamics: A Tale of Two Limits**|Andrea Antinucci et.al.|[2611.17327](http://arxiv.org/abs/2611.17327)|null|
+|**2026-11-12**|**Bound States of Two D0-Branes and the Three-Graviton Coupling**|Sergio Sanjurjo et.al.|[2611.17325](http://arxiv.org/abs/2611.17325)|null|
+|**2026-11-12**|**$C^{1,α}$ Regularity of $W^{2,2}$ $Q$ -Valued Maps with Small Laplacian**|Mattia Luchese et.al.|[2611.17317](http://arxiv.org/abs/2611.17317)|null|
+|**2026-11-12**|**Countable dynamical systems with a dense orbit**|Jhon Pérez-Remolina et.al.|[2611.17315](http://arxiv.org/abs/2611.17315)|null|
 |**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](http://arxiv.org/abs/2611.14519)|null|
 |**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](http://arxiv.org/abs/2611.14518)|null|
 |**2026-11-10**|**The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights**|Bernat Espigule et.al.|[2611.14517](http://arxiv.org/abs/2611.14517)|null|
@@ -1808,6 +1818,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space**|Yanke Song et.al.|[2611.17336](http://arxiv.org/abs/2611.17336)|null|
+|**2026-11-12**|**Unbundling Multimodal Vision Encoding**|Ellis Brown et.al.|[2611.17334](http://arxiv.org/abs/2611.17334)|null|
+|**2026-11-12**|**TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models**|Chin-Yang Lin et.al.|[2611.17331](http://arxiv.org/abs/2611.17331)|null|
+|**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330](http://arxiv.org/abs/2611.17330)|null|
+|**2026-11-12**|**Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation**|Zeynep Yıldız et.al.|[2611.17329](http://arxiv.org/abs/2611.17329)|null|
+|**2026-11-12**|**K2V: Generative Keyframing For Physically Plausible Video Generation**|Felix O'Mahony et.al.|[2611.17324](http://arxiv.org/abs/2611.17324)|null|
+|**2026-11-12**|**BrickFlow: Connectivity-Guided Brick Reconstruction**|Peter Kulits et.al.|[2611.17321](http://arxiv.org/abs/2611.17321)|null|
+|**2026-11-12**|**Spatial Foundry: A Multimodal Dataset for Spatial Intelligence**|Ethan Lin et.al.|[2611.17318](http://arxiv.org/abs/2611.17318)|null|
+|**2026-11-12**|**Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces**|Abigail L. Tenenbaum et.al.|[2611.17314](http://arxiv.org/abs/2611.17314)|null|
+|**2026-11-12**|**Quantifying structural stability of transparent models for general insurance pricing**|Félix Côté et.al.|[2611.17308](http://arxiv.org/abs/2611.17308)|null|
 |**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](http://arxiv.org/abs/2611.14519)|null|
 |**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](http://arxiv.org/abs/2611.14518)|null|
 |**2026-11-10**|**TorchCurves: Differentiable Parametric Curves**|Alex Shtoff et.al.|[2611.14516](http://arxiv.org/abs/2611.14516)|null|
