@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies**|Shenghao Xiong et.al.|[2611.20765](http://arxiv.org/abs/2611.20765)|null|
+|**2026-11-16**|**Rigidity and classification of complete translating solitons and self-expanders with constant curvature in $\mathbb{R}^{4}$**|Zhi Li et.al.|[2611.20763](http://arxiv.org/abs/2611.20763)|null|
+|**2026-11-16**|**Muon and Tau Anomalies and $Δα_{had}^{(5)} (M_Z^2)$ in the Standard Model**|Stephan Narison et.al.|[2611.20762](http://arxiv.org/abs/2611.20762)|null|
+|**2026-11-16**|**Large deviations and the asymptotic geometry of Lorentz balls**|Simon Matzberger et.al.|[2611.20761](http://arxiv.org/abs/2611.20761)|null|
+|**2026-11-16**|**Deformation Quantization of Coisotropic A-branes**|Conan Naichung Leung et.al.|[2611.20760](http://arxiv.org/abs/2611.20760)|null|
+|**2026-11-16**|**Instant Weight-Space Consolidation for Long-Term Memory in LLMs**|Manan Suri et.al.|[2611.20759](http://arxiv.org/abs/2611.20759)|null|
+|**2026-11-16**|**Directionality of low-energy electron recoils in the CYGNO experiment**|F. D. Amaro et.al.|[2611.20754](http://arxiv.org/abs/2611.20754)|null|
+|**2026-11-16**|**UIAnchor: Anchoring UI Perception and Action Execution for Reliable Service-Composed Mobile Task Automation with GUI Agents**|Wentao Zhou et.al.|[2611.20753](http://arxiv.org/abs/2611.20753)|null|
+|**2026-11-16**|**Kinetic and Thermodynamic Limits of Sodium Pore Filling in Hard Carbon**|Ihor Radchenko et.al.|[2611.20749](http://arxiv.org/abs/2611.20749)|null|
+|**2026-11-16**|**Dimension-seven spectator effects in charm-hadron lifetimes at NLO**|Chia-Wei Liu et.al.|[2611.20747](http://arxiv.org/abs/2611.20747)|null|
 |**2026-11-12**|**The full Gaia colour-magnitude diagram with white dwarfs reveals a declining Milky Way star formation history**|K. Sysoliatina et.al.|[2611.17337](http://arxiv.org/abs/2611.17337)|null|
 |**2026-11-12**|**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space**|Yanke Song et.al.|[2611.17336](http://arxiv.org/abs/2611.17336)|null|
 |**2026-11-12**|**Unbundling Multimodal Vision Encoding**|Ellis Brown et.al.|[2611.17334](http://arxiv.org/abs/2611.17334)|null|
@@ -1818,6 +1828,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Design Rules for Low-Latency Multipath Congestion Control**|Danny De Vleeschauwer et.al.|[2611.20766](http://arxiv.org/abs/2611.20766)|null|
+|**2026-11-16**|**STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies**|Shenghao Xiong et.al.|[2611.20765](http://arxiv.org/abs/2611.20765)|null|
+|**2026-11-16**|**Instant Weight-Space Consolidation for Long-Term Memory in LLMs**|Manan Suri et.al.|[2611.20759](http://arxiv.org/abs/2611.20759)|null|
+|**2026-11-16**|**A Lifted Hessian-Riemannian Gradient Flow for LQR Synthesis under Passivity Constraints**|Armin Gießler et.al.|[2611.20757](http://arxiv.org/abs/2611.20757)|null|
+|**2026-11-16**|**Directionality of low-energy electron recoils in the CYGNO experiment**|F. D. Amaro et.al.|[2611.20754](http://arxiv.org/abs/2611.20754)|null|
+|**2026-11-16**|**A Seismic Foundation Model for Dense Feature Extraction**|Zhixiang Guo et.al.|[2611.20745](http://arxiv.org/abs/2611.20745)|null|
+|**2026-11-16**|**Robotic Reward Models in the Foundation-Model Era**|Guoqiang Liang et.al.|[2611.20741](http://arxiv.org/abs/2611.20741)|null|
+|**2026-11-16**|**On Sobolev spaces and Koksma-Hlawka-type inequalities of fractional order**|Yannick Meiners et.al.|[2611.20739](http://arxiv.org/abs/2611.20739)|null|
+|**2026-11-16**|**CLIFT: Contrastive LiDAR Instance Features for 3D Pedestrian Tracking**|German Devchich et.al.|[2611.20737](http://arxiv.org/abs/2611.20737)|null|
+|**2026-11-16**|**Selective Sensor Acquisition for Multimodal Place Recognition**|Margaux Edwards et.al.|[2611.20730](http://arxiv.org/abs/2611.20730)|null|
 |**2026-11-12**|**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space**|Yanke Song et.al.|[2611.17336](http://arxiv.org/abs/2611.17336)|null|
 |**2026-11-12**|**Unbundling Multimodal Vision Encoding**|Ellis Brown et.al.|[2611.17334](http://arxiv.org/abs/2611.17334)|null|
 |**2026-11-12**|**TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models**|Chin-Yang Lin et.al.|[2611.17331](http://arxiv.org/abs/2611.17331)|null|
@@ -3443,6 +3463,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies**|Shenghao Xiong et.al.|[2611.20765](http://arxiv.org/abs/2611.20765)|null|
+|**2026-11-16**|**Kinetic and Thermodynamic Limits of Sodium Pore Filling in Hard Carbon**|Ihor Radchenko et.al.|[2611.20749](http://arxiv.org/abs/2611.20749)|null|
+|**2026-11-16**|**Selective Sensor Acquisition for Multimodal Place Recognition**|Margaux Edwards et.al.|[2611.20730](http://arxiv.org/abs/2611.20730)|null|
+|**2026-11-16**|**Post-fusion Event-aware Time-Frequency Refinement for Audio Moment Retrieval**|Feiyang Xiao et.al.|[2611.20725](http://arxiv.org/abs/2611.20725)|null|
+|**2026-11-16**|**Oxirane Ring-Opening Dynamics Mediated By The First Singlet Excitation Using Time-Dependent \textit{GW} Molecular Dynamics**|Aaditya Manjanath et.al.|[2611.20723](http://arxiv.org/abs/2611.20723)|null|
+|**2026-11-16**|**TaF-Foundation: Wrench-Grounded Cross-Sensor Tactile Representations**|Jiaming Jiang et.al.|[2611.20718](http://arxiv.org/abs/2611.20718)|null|
+|**2026-11-16**|**Injectra: Retrofitting Extensibility into Web-Based Desktop Applications**|Qin Sun et.al.|[2611.20713](http://arxiv.org/abs/2611.20713)|null|
+|**2026-11-16**|**Unconventional Magneto-Optical Kerr Effect beyond Magnetization Scaling Driven by Pulse-Field-Induced Metamagnetism in Fe $_2$Mo$_3$O$_8$**|Soichiro Yamane et.al.|[2611.20697](http://arxiv.org/abs/2611.20697)|null|
+|**2026-11-16**|**VIVID: A Visual Harness for Agentic Video Editing**|Wenhan Yu et.al.|[2611.20688](http://arxiv.org/abs/2611.20688)|null|
+|**2026-11-16**|**UbiHearo: Bringing Scenario-Aware Sound Guidance to DHH Users with Mobile Agents**|Fengmin Wu et.al.|[2611.20686](http://arxiv.org/abs/2611.20686)|null|
 |**2026-11-11**|**Quantum Control**|Matthias M. Müller et.al.|[2611.16117](http://arxiv.org/abs/2611.16117)|null|
 |**2026-11-11**|**Machine learning and high accuracy: Neural preconditioners for computational gravity**|Thomas Osburn et.al.|[2611.16106](http://arxiv.org/abs/2611.16106)|null|
 |**2026-11-11**|**An Optimized Expansion Auction Integrating Energy, Flexibility, and Network Constraints**|Rafael Benchimol Klausner et.al.|[2611.16084](http://arxiv.org/abs/2611.16084)|null|
@@ -5041,6 +5071,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Instant Weight-Space Consolidation for Long-Term Memory in LLMs**|Manan Suri et.al.|[2611.20759](http://arxiv.org/abs/2611.20759)|null|
+|**2026-11-16**|**UIAnchor: Anchoring UI Perception and Action Execution for Reliable Service-Composed Mobile Task Automation with GUI Agents**|Wentao Zhou et.al.|[2611.20753](http://arxiv.org/abs/2611.20753)|null|
+|**2026-11-16**|**Cavity Control of Emission Dynamics from Spin Defects in Hexagonal Boron Nitride**|Anuj Kumar Singh et.al.|[2611.20751](http://arxiv.org/abs/2611.20751)|null|
+|**2026-11-16**|**European derivatives pricing via constrained Gaussian process regressions**|Arnaud Servais et.al.|[2611.20746](http://arxiv.org/abs/2611.20746)|null|
+|**2026-11-16**|**Linear Dynamics of Composition Operators on Zygmund Spaces of Rooted Trees**|Xiang Chen et.al.|[2611.20744](http://arxiv.org/abs/2611.20744)|null|
+|**2026-11-16**|**Oxirane Ring-Opening Dynamics Mediated By The First Singlet Excitation Using Time-Dependent \textit{GW} Molecular Dynamics**|Aaditya Manjanath et.al.|[2611.20723](http://arxiv.org/abs/2611.20723)|null|
+|**2026-11-16**|**Scaled boundary finite elements for FFT-based computational micromechanics**|Flavia Gehrig et.al.|[2611.20722](http://arxiv.org/abs/2611.20722)|null|
+|**2026-11-16**|**AVD: A Multi-Sensor Teleoperated Wheelchair Platform with Safety-Aware Control**|Namai Chandra et.al.|[2611.20720](http://arxiv.org/abs/2611.20720)|null|
+|**2026-11-16**|**ACiT: Proprioceptive-Prior Action Chunking with Inverted Transformers**|Haixiang Wu et.al.|[2611.20719](http://arxiv.org/abs/2611.20719)|null|
+|**2026-11-16**|**MSAR: Next-Scale Autoregressive Forecasting for Time Series via Modular Multi-Scale Decoupling**|Fanda Fan et.al.|[2611.20714](http://arxiv.org/abs/2611.20714)|null|
 |**2026-11-10**|**Solving the SU(2) BFSS model**|Kabir Bajaj et.al.|[2611.14512](http://arxiv.org/abs/2611.14512)|null|
 |**2026-11-10**|**Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents**|Megha Srivastava et.al.|[2611.14511](http://arxiv.org/abs/2611.14511)|null|
 |**2026-11-10**|**When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology**|Yeyuan Liu et.al.|[2611.14508](http://arxiv.org/abs/2611.14508)|null|
