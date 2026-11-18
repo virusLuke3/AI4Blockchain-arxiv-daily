@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Governance Risks in Decentralized Autonomous Organizations (DAOs): Implications for Traditional Financial Institutions**|Christian Plöschberger et.al.|[2611.23201](http://arxiv.org/abs/2611.23201)|null|
+|**2026-11-16**|**V2V Communications Using Blockchain-Enabled 6G Technology and Federated Learning**|Tahir H. Ahmed et.al.|[2611.21932](http://arxiv.org/abs/2611.21932)|null|
+|**2026-11-16**|**LLMs as Validators for Cross-Chain Bridges: Evaluating Source-Level and Transaction-Level Attack Detection on Solana**|Yasir Rahman et.al.|[2611.21777](http://arxiv.org/abs/2611.21777)|null|
+|**2026-11-16**|**Incentive Alignment for Electricity Data Assets in China: A Blockchain-Enabled Contribution-Credit Framework**|Jiazheng Zhang et.al.|[2611.21533](http://arxiv.org/abs/2611.21533)|null|
+|**2026-11-16**|**RESILAGENT: A Three-Pillar Architecture for Cyber-Physical Resilience in Electrical Power and Energy Systems**|Nikolaos Kekatos et.al.|[2611.21480](http://arxiv.org/abs/2611.21480)|null|
+|**2026-11-16**|**An Alternative to Crawlers: Scalable P2P Network Monitoring Using the Network Scale-Up Method**|Juan Marcos Ramirez et.al.|[2611.21330](http://arxiv.org/abs/2611.21330)|null|
+|**2026-11-16**|**Optimal Dynamic Fees for L2s: A Vault Approach**|Ulysse Pavloff et.al.|[2611.20838](http://arxiv.org/abs/2611.20838)|null|
+|**2026-11-16**|**Baryonic Keys and the Inheritance of Crypto-Assets: Revisiting the Tales From the Crypt Protocol**|Frédéric Prost et.al.|[2611.20782](http://arxiv.org/abs/2611.20782)|null|
 |**2026-11-16**|**STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies**|Shenghao Xiong et.al.|[2611.20765](http://arxiv.org/abs/2611.20765)|null|
 |**2026-11-16**|**Rigidity and classification of complete translating solitons and self-expanders with constant curvature in $\mathbb{R}^{4}$**|Zhi Li et.al.|[2611.20763](http://arxiv.org/abs/2611.20763)|null|
 |**2026-11-16**|**Muon and Tau Anomalies and $Δα_{had}^{(5)} (M_Z^2)$ in the Standard Model**|Stephan Narison et.al.|[2611.20762](http://arxiv.org/abs/2611.20762)|null|
@@ -139,6 +147,7 @@ layout: default
 |**2026-11-16**|**UIAnchor: Anchoring UI Perception and Action Execution for Reliable Service-Composed Mobile Task Automation with GUI Agents**|Wentao Zhou et.al.|[2611.20753](http://arxiv.org/abs/2611.20753)|null|
 |**2026-11-16**|**Kinetic and Thermodynamic Limits of Sodium Pore Filling in Hard Carbon**|Ihor Radchenko et.al.|[2611.20749](http://arxiv.org/abs/2611.20749)|null|
 |**2026-11-16**|**Dimension-seven spectator effects in charm-hadron lifetimes at NLO**|Chia-Wei Liu et.al.|[2611.20747](http://arxiv.org/abs/2611.20747)|null|
+|**2026-11-13**|**iGRAIL: Blockchain-Based Generative Federated Learning for Trustworthy Healthcare Intelligence**|Debashis Das et.al.|[2611.17703](http://arxiv.org/abs/2611.17703)|null|
 |**2026-11-12**|**The full Gaia colour-magnitude diagram with white dwarfs reveals a declining Milky Way star formation history**|K. Sysoliatina et.al.|[2611.17337](http://arxiv.org/abs/2611.17337)|null|
 |**2026-11-12**|**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space**|Yanke Song et.al.|[2611.17336](http://arxiv.org/abs/2611.17336)|null|
 |**2026-11-12**|**Unbundling Multimodal Vision Encoding**|Ellis Brown et.al.|[2611.17334](http://arxiv.org/abs/2611.17334)|null|
@@ -149,6 +158,7 @@ layout: default
 |**2026-11-12**|**Bound States of Two D0-Branes and the Three-Graviton Coupling**|Sergio Sanjurjo et.al.|[2611.17325](http://arxiv.org/abs/2611.17325)|null|
 |**2026-11-12**|**$C^{1,α}$ Regularity of $W^{2,2}$ $Q$ -Valued Maps with Small Laplacian**|Mattia Luchese et.al.|[2611.17317](http://arxiv.org/abs/2611.17317)|null|
 |**2026-11-12**|**Countable dynamical systems with a dense orbit**|Jhon Pérez-Remolina et.al.|[2611.17315](http://arxiv.org/abs/2611.17315)|null|
+|**2026-11-12**|**Cortex-FL: Agent-Mediated Collaboration for Federated Learning**|Rui Sun et.al.|[2611.17186](http://arxiv.org/abs/2611.17186)|null|
 |**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](http://arxiv.org/abs/2611.14519)|null|
 |**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](http://arxiv.org/abs/2611.14518)|null|
 |**2026-11-10**|**The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights**|Bernat Espigule et.al.|[2611.14517](http://arxiv.org/abs/2611.14517)|null|
@@ -1828,6 +1838,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Asymptotics of Gibbs Posterior Measures on Infinite-Dimensional Hypothesis Spaces**|Terje Mildner et.al.|[2611.23214](http://arxiv.org/abs/2611.23214)|null|
+|**2026-11-17**|**Governance Risks in Decentralized Autonomous Organizations (DAOs): Implications for Traditional Financial Institutions**|Christian Plöschberger et.al.|[2611.23201](http://arxiv.org/abs/2611.23201)|null|
+|**2026-11-17**|**Pareto-Informed Smart "Predict, then Optimize" for Multi-Objective Combinatorial Problems**|Aabhash Dhakal et.al.|[2611.23076](http://arxiv.org/abs/2611.23076)|null|
+|**2026-11-17**|**PAIR: Bringing Household Robots into the Smart Home**|Junseong Pyo et.al.|[2611.23070](http://arxiv.org/abs/2611.23070)|null|
+|**2026-11-17**|**RagHarnessDebugger: Jev-Guided Agentic RAG in Contract Inference Repair Auditing**|Moriya Dechtiar et.al.|[2611.22991](http://arxiv.org/abs/2611.22991)|null|
+|**2026-11-17**|**Binary Affine Optimization with Nearly-Graphic Constraint Matrices**|Qiming Fang et.al.|[2611.22944](http://arxiv.org/abs/2611.22944)|null|
+|**2026-11-17**|**Probing the Macroscopic Imprints of Singularity Resolution: Polarization Diagnostics of Rotating ABG Black Holes**|Zi-Yang Li et.al.|[2611.22936](http://arxiv.org/abs/2611.22936)|null|
+|**2026-11-17**|**Pluricanonical locally conformally almost Kähler metrics, circle-invariant $G_2$ structures, and Laplacian flows**|Mehdi Lejmi et.al.|[2611.22931](http://arxiv.org/abs/2611.22931)|null|
+|**2026-11-17**|**Projected Penalty-Gradient Tracking for Communication-Efficient Byzantine-Resilient Federated Learning**|Yanjie Dong et.al.|[2611.22929](http://arxiv.org/abs/2611.22929)|null|
+|**2026-11-17**|**Reconstructing hidden attractors with reservoir computing**|Mohammad Zaman et.al.|[2611.22918](http://arxiv.org/abs/2611.22918)|null|
 |**2026-11-16**|**Design Rules for Low-Latency Multipath Congestion Control**|Danny De Vleeschauwer et.al.|[2611.20766](http://arxiv.org/abs/2611.20766)|null|
 |**2026-11-16**|**STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies**|Shenghao Xiong et.al.|[2611.20765](http://arxiv.org/abs/2611.20765)|null|
 |**2026-11-16**|**Instant Weight-Space Consolidation for Long-Term Memory in LLMs**|Manan Suri et.al.|[2611.20759](http://arxiv.org/abs/2611.20759)|null|
