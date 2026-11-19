@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -6729,6 +6729,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation**|Jingzhi Bao et.al.|[2611.24941](http://arxiv.org/abs/2611.24941)|null|
+|**2026-11-18**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Yupeng Zheng et.al.|[2611.24938](http://arxiv.org/abs/2611.24938)|null|
+|**2026-11-18**|**On the refined Kaneko--Zagier conjecture**|Shin-ichiro Seki et.al.|[2611.24933](http://arxiv.org/abs/2611.24933)|null|
+|**2026-11-18**|**Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems**|Priyanka Sinha et.al.|[2611.24932](http://arxiv.org/abs/2611.24932)|null|
+|**2026-11-18**|**Residual Allan Stability under Periodic Auxiliary Ramsey Sampling**|Zhiqian Su et.al.|[2611.24928](http://arxiv.org/abs/2611.24928)|null|
+|**2026-11-18**|**Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation**|Zi-ang Cao et.al.|[2611.24926](http://arxiv.org/abs/2611.24926)|null|
+|**2026-11-18**|**The Holomorphic Reduction of Pseudoconvex Homogeneous Manifolds**|Bruce Gilligan et.al.|[2611.24922](http://arxiv.org/abs/2611.24922)|null|
+|**2026-11-18**|**Strong Epsilon-Near-Zero Confinement and Interface-Controlled Dynamics in Inverse-Designed Transparent Conducting Oxide Cavities**|Jae Ik Choi et.al.|[2611.24921](http://arxiv.org/abs/2611.24921)|null|
+|**2026-11-18**|**The Optimal Competitive Ratio for Subadditive Online Combinatorial Auctions is Less Than 1/2**|Andrés Cristi et.al.|[2611.24920](http://arxiv.org/abs/2611.24920)|null|
+|**2026-11-18**|**Zero-Temperature Energetics of a First-Order Surface Phase Transition from Diffraction**|Mohammad Tajik et.al.|[2611.24919](http://arxiv.org/abs/2611.24919)|null|
 |**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](http://arxiv.org/abs/2611.14518)|null|
 |**2026-11-10**|**The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights**|Bernat Espigule et.al.|[2611.14517](http://arxiv.org/abs/2611.14517)|null|
 |**2026-11-10**|**TorchCurves: Differentiable Parametric Curves**|Alex Shtoff et.al.|[2611.14516](http://arxiv.org/abs/2611.14516)|null|
