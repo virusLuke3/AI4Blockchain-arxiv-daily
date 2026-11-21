@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.20
+## Updated on 2026.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -6779,6 +6779,11 @@ layout: default
 |**2026-11-19**|**AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control**|Yiyang Du et.al.|[2611.26613](http://arxiv.org/abs/2611.26613)|null|
 |**2026-11-19**|**Bridging the Discovery Gap in Solid Dataspaces with a Semantic Data Catalog**|Florian Hölken et.al.|[2611.26611](http://arxiv.org/abs/2611.26611)|null|
 |**2026-11-19**|**Variants of Beam Search for DiskANN**|Viraj Agrawal et.al.|[2611.26609](http://arxiv.org/abs/2611.26609)|null|
+|**2026-11-19**|**Fast, in-place, and ancilla-free quantum algorithms for integer multiplication and inversion**|David Halpenny et.al.|[2611.26605](http://arxiv.org/abs/2611.26605)|null|
+|**2026-11-19**|**A Tutorial on Complementarity-Based Contact Models for Robotics**|Onur Beker et.al.|[2611.26600](http://arxiv.org/abs/2611.26600)|null|
+|**2026-11-19**|**Local orbital magnetization and Chern markers from equilibrium local currents**|Henrique P. Veiga et.al.|[2611.26599](http://arxiv.org/abs/2611.26599)|null|
+|**2026-11-19**|**Which black hole modes ring freely? Horizon regularity, the forced ringdown transient, and GW250114**|Jahed Abedi et.al.|[2611.26591](http://arxiv.org/abs/2611.26591)|null|
+|**2026-11-19**|**Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bugs That Escape UVM Scoreboards**|Ana E. Sanchez Villalobos et.al.|[2611.26588](http://arxiv.org/abs/2611.26588)|null|
 |**2026-11-18**|**UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation**|Jingzhi Bao et.al.|[2611.24941](http://arxiv.org/abs/2611.24941)|null|
 |**2026-11-18**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Yupeng Zheng et.al.|[2611.24938](http://arxiv.org/abs/2611.24938)|null|
 |**2026-11-18**|**On the refined Kaneko--Zagier conjecture**|Shin-ichiro Seki et.al.|[2611.24933](http://arxiv.org/abs/2611.24933)|null|
