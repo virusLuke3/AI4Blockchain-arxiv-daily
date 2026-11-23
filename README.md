@@ -1,4 +1,4 @@
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Ohmic warm inflation**|Anish Ghoshal et.al.|[2611.27986](http://arxiv.org/abs/2611.27986)|null|
+|**2026-11-20**|**Is Neutrino Disappearance Sensitive to T-Violation for Asymmetric Matter Profiles ?**|Gabriela Barenboim et.al.|[2611.27985](http://arxiv.org/abs/2611.27985)|null|
+|**2026-11-20**|**On the non-uniqueness of solutions of the axi-symmetric swirl-free Navier-Stokes equations, II**|Matthieu Cadiot et.al.|[2611.27984](http://arxiv.org/abs/2611.27984)|null|
+|**2026-11-20**|**Optimal Linear Regression Without a Variance**|Artin Tajdini et.al.|[2611.27983](http://arxiv.org/abs/2611.27983)|null|
+|**2026-11-20**|**Quantum Many-Body Scars from Operator Size**|Debarghya Chakraborty et.al.|[2611.27982](http://arxiv.org/abs/2611.27982)|null|
+|**2026-11-20**|**Structure and relaxation of long-lived odd-parity modes in two-dimensional Fermi liquids**|Stan Boeve et.al.|[2611.27980](http://arxiv.org/abs/2611.27980)|null|
+|**2026-11-20**|**MemOnce: A Scalable Memory Architecture for Large Language Models**|Chang Nie et.al.|[2611.27973](http://arxiv.org/abs/2611.27973)|null|
+|**2026-11-20**|**Localization of weakly integral objects in braided fusion categories**|César Galindo et.al.|[2611.27972](http://arxiv.org/abs/2611.27972)|null|
+|**2026-11-20**|**A proof of the polygonal Faber--Krahn inequality**|Yutian Li et.al.|[2611.27968](http://arxiv.org/abs/2611.27968)|null|
+|**2026-11-20**|**Recognizing $k$ -inducible Digraphs is NP-complete**|Felix Brandt et.al.|[2611.27965](http://arxiv.org/abs/2611.27965)|null|
 |**2026-11-19**|**Posterior Matching Distillation**|Hidir Yesiltepe et.al.|[2611.26629](http://arxiv.org/abs/2611.26629)|null|
 |**2026-11-19**|**High-temperature Gibbs states are uniformly Markovian and trivial**|Andrew D. Kim et.al.|[2611.26626](http://arxiv.org/abs/2611.26626)|null|
 |**2026-11-19**|**Quasipolynomial pyjamas**|Sida Li et.al.|[2611.26622](http://arxiv.org/abs/2611.26622)|null|
@@ -1864,12 +1874,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**On the non-uniqueness of solutions of the axi-symmetric swirl-free Navier-Stokes equations, II**|Matthieu Cadiot et.al.|[2611.27984](http://arxiv.org/abs/2611.27984)|null|
+|**2026-11-20**|**Optimal Linear Regression Without a Variance**|Artin Tajdini et.al.|[2611.27983](http://arxiv.org/abs/2611.27983)|null|
+|**2026-11-20**|**Thermopower overshoot from collinear scattering in two-dimensional Fermi liquids**|Johannes Hofmann et.al.|[2611.27981](http://arxiv.org/abs/2611.27981)|null|
+|**2026-11-20**|**Structure and relaxation of long-lived odd-parity modes in two-dimensional Fermi liquids**|Stan Boeve et.al.|[2611.27980](http://arxiv.org/abs/2611.27980)|null|
+|**2026-11-20**|**Nearly pristine gas and hard ionizing radiation one billion years after the Big Bang**|Takahiro Morishita et.al.|[2611.27979](http://arxiv.org/abs/2611.27979)|null|
+|**2026-11-20**|**A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning**|Hari Sitaula et.al.|[2611.27978](http://arxiv.org/abs/2611.27978)|null|
+|**2026-11-20**|**Observation of rotonic density enhancement at the boundary of a uniform dipolar superfluid**|Jasmine Kalia et.al.|[2611.27976](http://arxiv.org/abs/2611.27976)|null|
+|**2026-11-20**|**A proof of the polygonal Faber--Krahn inequality**|Yutian Li et.al.|[2611.27968](http://arxiv.org/abs/2611.27968)|null|
+|**2026-11-20**|**Your Camera Can Hear You: Side-Channel Acoustic Eavesdropping via Android Camera2 Metadata**|Guangyuan Ji et.al.|[2611.27964](http://arxiv.org/abs/2611.27964)|null|
+|**2026-11-20**|**Non-penetrating World Models**|Yuhang Dai et.al.|[2611.27963](http://arxiv.org/abs/2611.27963)|null|
 |**2026-11-19**|**Posterior Matching Distillation**|Hidir Yesiltepe et.al.|[2611.26629](http://arxiv.org/abs/2611.26629)|null|
 |**2026-11-19**|**RL Post-Training in Diffusion Transformers Is Activation Steering**|Tuna Han Salih Meral et.al.|[2611.26627](http://arxiv.org/abs/2611.26627)|null|
 |**2026-11-19**|**AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms**|Omoruyi Atekha et.al.|[2611.26625](http://arxiv.org/abs/2611.26625)|null|
@@ -3521,7 +3541,7 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Consensus
 
@@ -5141,12 +5161,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**On the non-uniqueness of solutions of the axi-symmetric swirl-free Navier-Stokes equations, II**|Matthieu Cadiot et.al.|[2611.27984](http://arxiv.org/abs/2611.27984)|null|
+|**2026-11-20**|**Optimal Linear Regression Without a Variance**|Artin Tajdini et.al.|[2611.27983](http://arxiv.org/abs/2611.27983)|null|
+|**2026-11-20**|**Thermopower overshoot from collinear scattering in two-dimensional Fermi liquids**|Johannes Hofmann et.al.|[2611.27981](http://arxiv.org/abs/2611.27981)|null|
+|**2026-11-20**|**Structure and relaxation of long-lived odd-parity modes in two-dimensional Fermi liquids**|Stan Boeve et.al.|[2611.27980](http://arxiv.org/abs/2611.27980)|null|
+|**2026-11-20**|**A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning**|Hari Sitaula et.al.|[2611.27978](http://arxiv.org/abs/2611.27978)|null|
+|**2026-11-20**|**Observation of rotonic density enhancement at the boundary of a uniform dipolar superfluid**|Jasmine Kalia et.al.|[2611.27976](http://arxiv.org/abs/2611.27976)|null|
+|**2026-11-20**|**Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design**|Haoyang Wang et.al.|[2611.27967](http://arxiv.org/abs/2611.27967)|null|
+|**2026-11-20**|**Explicational statistics: research for an AI age**|Sihai Dave Zhao et.al.|[2611.27961](http://arxiv.org/abs/2611.27961)|null|
+|**2026-11-20**|**Molecular structure breaks universality in screening behavior of electrolyte solutions**|Anna T. Bui et.al.|[2611.27955](http://arxiv.org/abs/2611.27955)|null|
+|**2026-11-20**|**Atmospheric parameters and chemical abundances of young stars with APOGEE -- II. Carbon, Nitrogen, Oxygen, and Sulphur abundances in Orion**|Ricardo López-Valdivia et.al.|[2611.27952](http://arxiv.org/abs/2611.27952)|null|
 |**2026-11-19**|**PlayCraft: Designing Engaging Games from Agent Play Experience**|Weihao Cheng et.al.|[2611.26624](http://arxiv.org/abs/2611.26624)|null|
 |**2026-11-19**|**Path-Independent Deleveraging Rules**|Christoph Schlegel et.al.|[2611.26623](http://arxiv.org/abs/2611.26623)|null|
 |**2026-11-19**|**TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming**|Jinbin Luo et.al.|[2611.26619](http://arxiv.org/abs/2611.26619)|null|
@@ -6791,12 +6821,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Is Neutrino Disappearance Sensitive to T-Violation for Asymmetric Matter Profiles ?**|Gabriela Barenboim et.al.|[2611.27985](http://arxiv.org/abs/2611.27985)|null|
+|**2026-11-20**|**On the non-uniqueness of solutions of the axi-symmetric swirl-free Navier-Stokes equations, II**|Matthieu Cadiot et.al.|[2611.27984](http://arxiv.org/abs/2611.27984)|null|
+|**2026-11-20**|**Nonperturbative Bounds on the Ground-State Energy of Lattice QED**|Paweł Zin et.al.|[2611.27975](http://arxiv.org/abs/2611.27975)|null|
+|**2026-11-20**|**Hölder continuity of meromorphic functions and equisingularity**|François Bernard et.al.|[2611.27974](http://arxiv.org/abs/2611.27974)|null|
+|**2026-11-20**|**MemOnce: A Scalable Memory Architecture for Large Language Models**|Chang Nie et.al.|[2611.27973](http://arxiv.org/abs/2611.27973)|null|
+|**2026-11-20**|**A proof of the polygonal Faber--Krahn inequality**|Yutian Li et.al.|[2611.27968](http://arxiv.org/abs/2611.27968)|null|
+|**2026-11-20**|**Your Camera Can Hear You: Side-Channel Acoustic Eavesdropping via Android Camera2 Metadata**|Guangyuan Ji et.al.|[2611.27964](http://arxiv.org/abs/2611.27964)|null|
+|**2026-11-20**|**Non-penetrating World Models**|Yuhang Dai et.al.|[2611.27963](http://arxiv.org/abs/2611.27963)|null|
+|**2026-11-20**|**Explicational statistics: research for an AI age**|Sihai Dave Zhao et.al.|[2611.27961](http://arxiv.org/abs/2611.27961)|null|
+|**2026-11-20**|**Differential Transmutations and First-Passage Expansions for Monomial Brownian Boundaries**|Gerardo Hernandez-del-Valle et.al.|[2611.27958](http://arxiv.org/abs/2611.27958)|null|
 |**2026-11-19**|**Posterior Matching Distillation**|Hidir Yesiltepe et.al.|[2611.26629](http://arxiv.org/abs/2611.26629)|null|
 |**2026-11-19**|**RL Post-Training in Diffusion Transformers Is Activation Steering**|Tuna Han Salih Meral et.al.|[2611.26627](http://arxiv.org/abs/2611.26627)|null|
 |**2026-11-19**|**High-temperature Gibbs states are uniformly Markovian and trivial**|Andrew D. Kim et.al.|[2611.26626](http://arxiv.org/abs/2611.26626)|null|
@@ -8442,7 +8482,7 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## AI in Finance
 
@@ -10084,7 +10124,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
