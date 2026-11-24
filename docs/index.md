@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Quantum-geometry-tuned Mott transition and emergent heavy fermions in a topological flat band**|Ya-Hui Zhang et.al.|[2611.31242](http://arxiv.org/abs/2611.31242)|null|
+|**2026-11-23**|**A Boundary Comparison Method for Gaussian Fluctuations in Planar Euclidean Optimization**|Zi-Yao Su et.al.|[2611.31241](http://arxiv.org/abs/2611.31241)|null|
+|**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240](http://arxiv.org/abs/2611.31240)|null|
+|**2026-11-23**|**Two messages suffice for quantum interactive proof systems**|Yupan Liu et.al.|[2611.31236](http://arxiv.org/abs/2611.31236)|null|
+|**2026-11-23**|**Nonabelianization map for the $W_{3,c=2}$ conformal blocks. Part I**|Qianyu Hao et.al.|[2611.31232](http://arxiv.org/abs/2611.31232)|null|
+|**2026-11-23**|**Euclid Data Release 1 (DR1). Learning machine learning: Investigating the complementarity and biases of strong gravitational lens finding networks on Euclid data**| Euclid Collaboration et.al.|[2611.31231](http://arxiv.org/abs/2611.31231)|null|
+|**2026-11-23**|**Central limit theorem for energies of determinantal point processes on complex manifolds I**|Hao Wu et.al.|[2611.31229](http://arxiv.org/abs/2611.31229)|null|
+|**2026-11-23**|**Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ**|Daniel Theron et.al.|[2611.31228](http://arxiv.org/abs/2611.31228)|null|
+|**2026-11-23**|**A proof of the chemical recurrence conjecture in two dimensions**|Andrea Agazzi et.al.|[2611.31221](http://arxiv.org/abs/2611.31221)|null|
+|**2026-11-23**|**On the linearization of the supercritical Lane-Emden equation in $\mathbb{R}^N$**|Massimo Grossi et.al.|[2611.31220](http://arxiv.org/abs/2611.31220)|null|
 |**2026-11-20**|**Ohmic warm inflation**|Anish Ghoshal et.al.|[2611.27986](http://arxiv.org/abs/2611.27986)|null|
 |**2026-11-20**|**Is Neutrino Disappearance Sensitive to T-Violation for Asymmetric Matter Profiles ?**|Gabriela Barenboim et.al.|[2611.27985](http://arxiv.org/abs/2611.27985)|null|
 |**2026-11-20**|**On the non-uniqueness of solutions of the axi-symmetric swirl-free Navier-Stokes equations, II**|Matthieu Cadiot et.al.|[2611.27984](http://arxiv.org/abs/2611.27984)|null|
@@ -1858,6 +1868,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**A Boundary Comparison Method for Gaussian Fluctuations in Planar Euclidean Optimization**|Zi-Yao Su et.al.|[2611.31241](http://arxiv.org/abs/2611.31241)|null|
+|**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240](http://arxiv.org/abs/2611.31240)|null|
+|**2026-11-23**|**Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory**|Chen Wang et.al.|[2611.31239](http://arxiv.org/abs/2611.31239)|null|
+|**2026-11-23**|**Modern Self-Supervised Vision Transformers Are Pareidolic**|Zihang Lin et.al.|[2611.31238](http://arxiv.org/abs/2611.31238)|null|
+|**2026-11-23**|**Let Vision-Language Models Generate Images through Their Representations**|JB Kim et.al.|[2611.31237](http://arxiv.org/abs/2611.31237)|null|
+|**2026-11-23**|**TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming**|Hani Alomari et.al.|[2611.31233](http://arxiv.org/abs/2611.31233)|null|
+|**2026-11-23**|**Simple design of adaptive protocols for quantum metrology with limited data**|Ricard Ravell Rodríguez et.al.|[2611.31230](http://arxiv.org/abs/2611.31230)|null|
+|**2026-11-23**|**Self-Supervised Dataset Distillation via Mutual Information Maximization**|Mohammad Hossein Moslemi et.al.|[2611.31225](http://arxiv.org/abs/2611.31225)|null|
+|**2026-11-23**|**Agentic AI for Intent Management and Control in Autonomous Communication Networks**|Burak Demirel et.al.|[2611.31223](http://arxiv.org/abs/2611.31223)|null|
+|**2026-11-23**|**CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans**|Mohammed Baharoon et.al.|[2611.31222](http://arxiv.org/abs/2611.31222)|null|
 |**2026-11-20**|**On the non-uniqueness of solutions of the axi-symmetric swirl-free Navier-Stokes equations, II**|Matthieu Cadiot et.al.|[2611.27984](http://arxiv.org/abs/2611.27984)|null|
 |**2026-11-20**|**Optimal Linear Regression Without a Variance**|Artin Tajdini et.al.|[2611.27983](http://arxiv.org/abs/2611.27983)|null|
 |**2026-11-20**|**Thermopower overshoot from collinear scattering in two-dimensional Fermi liquids**|Johannes Hofmann et.al.|[2611.27981](http://arxiv.org/abs/2611.27981)|null|
@@ -3523,6 +3543,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Modern Self-Supervised Vision Transformers Are Pareidolic**|Zihang Lin et.al.|[2611.31238](http://arxiv.org/abs/2611.31238)|null|
+|**2026-11-23**|**Let Vision-Language Models Generate Images through Their Representations**|JB Kim et.al.|[2611.31237](http://arxiv.org/abs/2611.31237)|null|
+|**2026-11-23**|**Two messages suffice for quantum interactive proof systems**|Yupan Liu et.al.|[2611.31236](http://arxiv.org/abs/2611.31236)|null|
+|**2026-11-23**|**The Simons Observatory: Analysis of methods for polarization calibration of multiple instruments**| The Simons Observatory Collaboration et.al.|[2611.31235](http://arxiv.org/abs/2611.31235)|null|
+|**2026-11-23**|**Nonabelianization map for the $W_{3,c=2}$ conformal blocks. Part I**|Qianyu Hao et.al.|[2611.31232](http://arxiv.org/abs/2611.31232)|null|
+|**2026-11-23**|**Euclid Data Release 1 (DR1). Learning machine learning: Investigating the complementarity and biases of strong gravitational lens finding networks on Euclid data**| Euclid Collaboration et.al.|[2611.31231](http://arxiv.org/abs/2611.31231)|null|
+|**2026-11-23**|**Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ**|Daniel Theron et.al.|[2611.31228](http://arxiv.org/abs/2611.31228)|null|
+|**2026-11-23**|**How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling**|Abhishek Sharma et.al.|[2611.31227](http://arxiv.org/abs/2611.31227)|null|
+|**2026-11-23**|**Analytical solution of general interface problems for reaction-advection-diffusion equations**|Andreas Chatziafratis et.al.|[2611.31226](http://arxiv.org/abs/2611.31226)|null|
+|**2026-11-23**|**Agentic AI for Intent Management and Control in Autonomous Communication Networks**|Burak Demirel et.al.|[2611.31223](http://arxiv.org/abs/2611.31223)|null|
 |**2026-11-19**|**Entropy Products and the Extremal Limit That Never Comes**|Kevin Goldstein et.al.|[2611.26628](http://arxiv.org/abs/2611.26628)|null|
 |**2026-11-19**|**RL Post-Training in Diffusion Transformers Is Activation Steering**|Tuna Han Salih Meral et.al.|[2611.26627](http://arxiv.org/abs/2611.26627)|null|
 |**2026-11-19**|**High-temperature Gibbs states are uniformly Markovian and trivial**|Andrew D. Kim et.al.|[2611.26626](http://arxiv.org/abs/2611.26626)|null|
@@ -5141,6 +5171,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Quantum-geometry-tuned Mott transition and emergent heavy fermions in a topological flat band**|Ya-Hui Zhang et.al.|[2611.31242](http://arxiv.org/abs/2611.31242)|null|
+|**2026-11-23**|**Two messages suffice for quantum interactive proof systems**|Yupan Liu et.al.|[2611.31236](http://arxiv.org/abs/2611.31236)|null|
+|**2026-11-23**|**Euclid Data Release 1 (DR1). Learning machine learning: Investigating the complementarity and biases of strong gravitational lens finding networks on Euclid data**| Euclid Collaboration et.al.|[2611.31231](http://arxiv.org/abs/2611.31231)|null|
+|**2026-11-23**|**Simple design of adaptive protocols for quantum metrology with limited data**|Ricard Ravell Rodríguez et.al.|[2611.31230](http://arxiv.org/abs/2611.31230)|null|
+|**2026-11-23**|**Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ**|Daniel Theron et.al.|[2611.31228](http://arxiv.org/abs/2611.31228)|null|
+|**2026-11-23**|**Analytical solution of general interface problems for reaction-advection-diffusion equations**|Andreas Chatziafratis et.al.|[2611.31226](http://arxiv.org/abs/2611.31226)|null|
+|**2026-11-23**|**Self-Supervised Dataset Distillation via Mutual Information Maximization**|Mohammad Hossein Moslemi et.al.|[2611.31225](http://arxiv.org/abs/2611.31225)|null|
+|**2026-11-23**|**Small-world networks yield tunable quantum codes at short circuit depth**|Samuel Bevins et.al.|[2611.31224](http://arxiv.org/abs/2611.31224)|null|
+|**2026-11-23**|**Agentic AI for Intent Management and Control in Autonomous Communication Networks**|Burak Demirel et.al.|[2611.31223](http://arxiv.org/abs/2611.31223)|null|
+|**2026-11-23**|**Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning**|Xiwei Liu et.al.|[2611.31215](http://arxiv.org/abs/2611.31215)|null|
 |**2026-11-20**|**On the non-uniqueness of solutions of the axi-symmetric swirl-free Navier-Stokes equations, II**|Matthieu Cadiot et.al.|[2611.27984](http://arxiv.org/abs/2611.27984)|null|
 |**2026-11-20**|**Optimal Linear Regression Without a Variance**|Artin Tajdini et.al.|[2611.27983](http://arxiv.org/abs/2611.27983)|null|
 |**2026-11-20**|**Thermopower overshoot from collinear scattering in two-dimensional Fermi liquids**|Johannes Hofmann et.al.|[2611.27981](http://arxiv.org/abs/2611.27981)|null|
@@ -6799,6 +6839,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240](http://arxiv.org/abs/2611.31240)|null|
+|**2026-11-23**|**Let Vision-Language Models Generate Images through Their Representations**|JB Kim et.al.|[2611.31237](http://arxiv.org/abs/2611.31237)|null|
+|**2026-11-23**|**Two messages suffice for quantum interactive proof systems**|Yupan Liu et.al.|[2611.31236](http://arxiv.org/abs/2611.31236)|null|
+|**2026-11-23**|**The Simons Observatory: Analysis of methods for polarization calibration of multiple instruments**| The Simons Observatory Collaboration et.al.|[2611.31235](http://arxiv.org/abs/2611.31235)|null|
+|**2026-11-23**|**TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming**|Hani Alomari et.al.|[2611.31233](http://arxiv.org/abs/2611.31233)|null|
+|**2026-11-23**|**Nonabelianization map for the $W_{3,c=2}$ conformal blocks. Part I**|Qianyu Hao et.al.|[2611.31232](http://arxiv.org/abs/2611.31232)|null|
+|**2026-11-23**|**Central limit theorem for energies of determinantal point processes on complex manifolds I**|Hao Wu et.al.|[2611.31229](http://arxiv.org/abs/2611.31229)|null|
+|**2026-11-23**|**How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling**|Abhishek Sharma et.al.|[2611.31227](http://arxiv.org/abs/2611.31227)|null|
+|**2026-11-23**|**Analytical solution of general interface problems for reaction-advection-diffusion equations**|Andreas Chatziafratis et.al.|[2611.31226](http://arxiv.org/abs/2611.31226)|null|
+|**2026-11-23**|**Agentic AI for Intent Management and Control in Autonomous Communication Networks**|Burak Demirel et.al.|[2611.31223](http://arxiv.org/abs/2611.31223)|null|
 |**2026-11-20**|**Is Neutrino Disappearance Sensitive to T-Violation for Asymmetric Matter Profiles ?**|Gabriela Barenboim et.al.|[2611.27985](http://arxiv.org/abs/2611.27985)|null|
 |**2026-11-20**|**On the non-uniqueness of solutions of the axi-symmetric swirl-free Navier-Stokes equations, II**|Matthieu Cadiot et.al.|[2611.27984](http://arxiv.org/abs/2611.27984)|null|
 |**2026-11-20**|**Nonperturbative Bounds on the Ground-State Energy of Lattice QED**|Paweł Zin et.al.|[2611.27975](http://arxiv.org/abs/2611.27975)|null|
@@ -8458,6 +8508,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**A Boundary Comparison Method for Gaussian Fluctuations in Planar Euclidean Optimization**|Zi-Yao Su et.al.|[2611.31241](http://arxiv.org/abs/2611.31241)|null|
+|**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240](http://arxiv.org/abs/2611.31240)|null|
+|**2026-11-23**|**Modern Self-Supervised Vision Transformers Are Pareidolic**|Zihang Lin et.al.|[2611.31238](http://arxiv.org/abs/2611.31238)|null|
+|**2026-11-23**|**Let Vision-Language Models Generate Images through Their Representations**|JB Kim et.al.|[2611.31237](http://arxiv.org/abs/2611.31237)|null|
+|**2026-11-23**|**The Simons Observatory: Analysis of methods for polarization calibration of multiple instruments**| The Simons Observatory Collaboration et.al.|[2611.31235](http://arxiv.org/abs/2611.31235)|null|
+|**2026-11-23**|**A Fractional Chern Semimetal: Exact Wavefunction and Conformal Criticality**|Fa-Jie Wang et.al.|[2611.31234](http://arxiv.org/abs/2611.31234)|null|
+|**2026-11-23**|**TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming**|Hani Alomari et.al.|[2611.31233](http://arxiv.org/abs/2611.31233)|null|
+|**2026-11-23**|**Euclid Data Release 1 (DR1). Learning machine learning: Investigating the complementarity and biases of strong gravitational lens finding networks on Euclid data**| Euclid Collaboration et.al.|[2611.31231](http://arxiv.org/abs/2611.31231)|null|
+|**2026-11-23**|**Simple design of adaptive protocols for quantum metrology with limited data**|Ricard Ravell Rodríguez et.al.|[2611.31230](http://arxiv.org/abs/2611.31230)|null|
+|**2026-11-23**|**Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ**|Daniel Theron et.al.|[2611.31228](http://arxiv.org/abs/2611.31228)|null|
 |**2026-11-19**|**Posterior Matching Distillation**|Hidir Yesiltepe et.al.|[2611.26629](http://arxiv.org/abs/2611.26629)|null|
 |**2026-11-19**|**RL Post-Training in Diffusion Transformers Is Activation Steering**|Tuna Han Salih Meral et.al.|[2611.26627](http://arxiv.org/abs/2611.26627)|null|
 |**2026-11-19**|**AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms**|Omoruyi Atekha et.al.|[2611.26625](http://arxiv.org/abs/2611.26625)|null|
