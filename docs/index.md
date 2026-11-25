@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum**|Taras Palasyuk et.al.|[2611.33156](http://arxiv.org/abs/2611.33156)|null|
+|**2026-11-24**|**Topological insulators on site-eliminated, projected, and patterned fractal lattices**|Aiden Mains et.al.|[2611.33155](http://arxiv.org/abs/2611.33155)|null|
+|**2026-11-24**|**Dominoes tiling a common figure**|Peter Keevash et.al.|[2611.33154](http://arxiv.org/abs/2611.33154)|null|
+|**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
+|**2026-11-24**|**VENUS: A Census of Strong Lensing in a 60-Cluster JWST Survey**|Joseph F. V. Allingham et.al.|[2611.33142](http://arxiv.org/abs/2611.33142)|null|
+|**2026-11-24**|**On Euclidean Diameter in Dynamic Streams**|Jeff Giliberti et.al.|[2611.33139](http://arxiv.org/abs/2611.33139)|null|
+|**2026-11-24**|**Prospects and limitations of adaptive variational quantum algorithms for lattice field theories: a case study in 2+1 dimensions**|Nico Dichter et.al.|[2611.33138](http://arxiv.org/abs/2611.33138)|null|
+|**2026-11-24**|**BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation**|Nadav Magar et.al.|[2611.33135](http://arxiv.org/abs/2611.33135)|null|
+|**2026-11-24**|**Regenerative range for planar random walks**|Maxence Baccara et.al.|[2611.33134](http://arxiv.org/abs/2611.33134)|null|
+|**2026-11-24**|**A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit**|Hussamuddin Syed et.al.|[2611.33133](http://arxiv.org/abs/2611.33133)|null|
 |**2026-11-23**|**Quantum-geometry-tuned Mott transition and emergent heavy fermions in a topological flat band**|Ya-Hui Zhang et.al.|[2611.31242](http://arxiv.org/abs/2611.31242)|null|
 |**2026-11-23**|**A Boundary Comparison Method for Gaussian Fluctuations in Planar Euclidean Optimization**|Zi-Yao Su et.al.|[2611.31241](http://arxiv.org/abs/2611.31241)|null|
 |**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240](http://arxiv.org/abs/2611.31240)|null|
@@ -1868,6 +1878,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
+|**2026-11-24**|**PointX: Multi-View Consistent Intrinsics by Querying Surface Points**|Miguel Farinha et.al.|[2611.33157](http://arxiv.org/abs/2611.33157)|null|
+|**2026-11-24**|**Topological insulators on site-eliminated, projected, and patterned fractal lattices**|Aiden Mains et.al.|[2611.33155](http://arxiv.org/abs/2611.33155)|null|
+|**2026-11-24**|**DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning**|Binfei Ji et.al.|[2611.33153](http://arxiv.org/abs/2611.33153)|null|
+|**2026-11-24**|**BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles**|Yuwei Yang et.al.|[2611.33151](http://arxiv.org/abs/2611.33151)|null|
+|**2026-11-24**|**Parametric neural-network wavefunctions across a bosonic phase transition**|Daniil S. Antonenko et.al.|[2611.33150](http://arxiv.org/abs/2611.33150)|null|
+|**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
+|**2026-11-24**|**One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography**|Anthony Chen et.al.|[2611.33147](http://arxiv.org/abs/2611.33147)|null|
+|**2026-11-24**|**Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild**|Zehan Zheng et.al.|[2611.33145](http://arxiv.org/abs/2611.33145)|null|
+|**2026-11-24**|**ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification**|Xingjian Ran et.al.|[2611.33143](http://arxiv.org/abs/2611.33143)|null|
 |**2026-11-23**|**A Boundary Comparison Method for Gaussian Fluctuations in Planar Euclidean Optimization**|Zi-Yao Su et.al.|[2611.31241](http://arxiv.org/abs/2611.31241)|null|
 |**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240](http://arxiv.org/abs/2611.31240)|null|
 |**2026-11-23**|**Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory**|Chen Wang et.al.|[2611.31239](http://arxiv.org/abs/2611.31239)|null|
@@ -3543,6 +3563,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
+|**2026-11-24**|**Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum**|Taras Palasyuk et.al.|[2611.33156](http://arxiv.org/abs/2611.33156)|null|
+|**2026-11-24**|**Dominoes tiling a common figure**|Peter Keevash et.al.|[2611.33154](http://arxiv.org/abs/2611.33154)|null|
+|**2026-11-24**|**Abelian envelopes and quantum groups in Knop's interpolation categories**|Johannes Flake et.al.|[2611.33152](http://arxiv.org/abs/2611.33152)|null|
+|**2026-11-24**|**Envy-Free Cake-Cutting for Five Agents**|Aris Filos-Ratsikas et.al.|[2611.33149](http://arxiv.org/abs/2611.33149)|null|
+|**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
+|**2026-11-24**|**One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography**|Anthony Chen et.al.|[2611.33147](http://arxiv.org/abs/2611.33147)|null|
+|**2026-11-24**|**The double copy and perturbative teleparallel gravity**|Georg Stettinger et.al.|[2611.33146](http://arxiv.org/abs/2611.33146)|null|
+|**2026-11-24**|**ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification**|Xingjian Ran et.al.|[2611.33143](http://arxiv.org/abs/2611.33143)|null|
+|**2026-11-24**|**VENUS: A Census of Strong Lensing in a 60-Cluster JWST Survey**|Joseph F. V. Allingham et.al.|[2611.33142](http://arxiv.org/abs/2611.33142)|null|
 |**2026-11-23**|**Modern Self-Supervised Vision Transformers Are Pareidolic**|Zihang Lin et.al.|[2611.31238](http://arxiv.org/abs/2611.31238)|null|
 |**2026-11-23**|**Let Vision-Language Models Generate Images through Their Representations**|JB Kim et.al.|[2611.31237](http://arxiv.org/abs/2611.31237)|null|
 |**2026-11-23**|**Two messages suffice for quantum interactive proof systems**|Yupan Liu et.al.|[2611.31236](http://arxiv.org/abs/2611.31236)|null|
@@ -5171,6 +5201,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**PointX: Multi-View Consistent Intrinsics by Querying Surface Points**|Miguel Farinha et.al.|[2611.33157](http://arxiv.org/abs/2611.33157)|null|
+|**2026-11-24**|**BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles**|Yuwei Yang et.al.|[2611.33151](http://arxiv.org/abs/2611.33151)|null|
+|**2026-11-24**|**Envy-Free Cake-Cutting for Five Agents**|Aris Filos-Ratsikas et.al.|[2611.33149](http://arxiv.org/abs/2611.33149)|null|
+|**2026-11-24**|**PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents**|Feixiang Ruan et.al.|[2611.33144](http://arxiv.org/abs/2611.33144)|null|
+|**2026-11-24**|**VENUS: A Census of Strong Lensing in a 60-Cluster JWST Survey**|Joseph F. V. Allingham et.al.|[2611.33142](http://arxiv.org/abs/2611.33142)|null|
+|**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Vansh Kapoor et.al.|[2611.33141](http://arxiv.org/abs/2611.33141)|null|
+|**2026-11-24**|**Prospects and limitations of adaptive variational quantum algorithms for lattice field theories: a case study in 2+1 dimensions**|Nico Dichter et.al.|[2611.33138](http://arxiv.org/abs/2611.33138)|null|
+|**2026-11-24**|**A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit**|Hussamuddin Syed et.al.|[2611.33133](http://arxiv.org/abs/2611.33133)|null|
+|**2026-11-24**|**Exploratory Midtraining for Robot Policies**| Kshitiz et.al.|[2611.33130](http://arxiv.org/abs/2611.33130)|null|
+|**2026-11-24**|**MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing**|Scott Piersall et.al.|[2611.33119](http://arxiv.org/abs/2611.33119)|null|
 |**2026-11-23**|**Quantum-geometry-tuned Mott transition and emergent heavy fermions in a topological flat band**|Ya-Hui Zhang et.al.|[2611.31242](http://arxiv.org/abs/2611.31242)|null|
 |**2026-11-23**|**Two messages suffice for quantum interactive proof systems**|Yupan Liu et.al.|[2611.31236](http://arxiv.org/abs/2611.31236)|null|
 |**2026-11-23**|**Euclid Data Release 1 (DR1). Learning machine learning: Investigating the complementarity and biases of strong gravitational lens finding networks on Euclid data**| Euclid Collaboration et.al.|[2611.31231](http://arxiv.org/abs/2611.31231)|null|
@@ -6839,6 +6879,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
+|**2026-11-24**|**Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum**|Taras Palasyuk et.al.|[2611.33156](http://arxiv.org/abs/2611.33156)|null|
+|**2026-11-24**|**Topological insulators on site-eliminated, projected, and patterned fractal lattices**|Aiden Mains et.al.|[2611.33155](http://arxiv.org/abs/2611.33155)|null|
+|**2026-11-24**|**Dominoes tiling a common figure**|Peter Keevash et.al.|[2611.33154](http://arxiv.org/abs/2611.33154)|null|
+|**2026-11-24**|**DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning**|Binfei Ji et.al.|[2611.33153](http://arxiv.org/abs/2611.33153)|null|
+|**2026-11-24**|**BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles**|Yuwei Yang et.al.|[2611.33151](http://arxiv.org/abs/2611.33151)|null|
+|**2026-11-24**|**Parametric neural-network wavefunctions across a bosonic phase transition**|Daniil S. Antonenko et.al.|[2611.33150](http://arxiv.org/abs/2611.33150)|null|
+|**2026-11-24**|**Envy-Free Cake-Cutting for Five Agents**|Aris Filos-Ratsikas et.al.|[2611.33149](http://arxiv.org/abs/2611.33149)|null|
+|**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
+|**2026-11-24**|**The double copy and perturbative teleparallel gravity**|Georg Stettinger et.al.|[2611.33146](http://arxiv.org/abs/2611.33146)|null|
 |**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240](http://arxiv.org/abs/2611.31240)|null|
 |**2026-11-23**|**Let Vision-Language Models Generate Images through Their Representations**|JB Kim et.al.|[2611.31237](http://arxiv.org/abs/2611.31237)|null|
 |**2026-11-23**|**Two messages suffice for quantum interactive proof systems**|Yupan Liu et.al.|[2611.31236](http://arxiv.org/abs/2611.31236)|null|
@@ -8508,6 +8558,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
+|**2026-11-24**|**PointX: Multi-View Consistent Intrinsics by Querying Surface Points**|Miguel Farinha et.al.|[2611.33157](http://arxiv.org/abs/2611.33157)|null|
+|**2026-11-24**|**Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum**|Taras Palasyuk et.al.|[2611.33156](http://arxiv.org/abs/2611.33156)|null|
+|**2026-11-24**|**DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning**|Binfei Ji et.al.|[2611.33153](http://arxiv.org/abs/2611.33153)|null|
+|**2026-11-24**|**BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles**|Yuwei Yang et.al.|[2611.33151](http://arxiv.org/abs/2611.33151)|null|
+|**2026-11-24**|**Parametric neural-network wavefunctions across a bosonic phase transition**|Daniil S. Antonenko et.al.|[2611.33150](http://arxiv.org/abs/2611.33150)|null|
+|**2026-11-24**|**Envy-Free Cake-Cutting for Five Agents**|Aris Filos-Ratsikas et.al.|[2611.33149](http://arxiv.org/abs/2611.33149)|null|
+|**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
+|**2026-11-24**|**PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents**|Feixiang Ruan et.al.|[2611.33144](http://arxiv.org/abs/2611.33144)|null|
+|**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Vansh Kapoor et.al.|[2611.33141](http://arxiv.org/abs/2611.33141)|null|
 |**2026-11-23**|**A Boundary Comparison Method for Gaussian Fluctuations in Planar Euclidean Optimization**|Zi-Yao Su et.al.|[2611.31241](http://arxiv.org/abs/2611.31241)|null|
 |**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240](http://arxiv.org/abs/2611.31240)|null|
 |**2026-11-23**|**Modern Self-Supervised Vision Transformers Are Pareidolic**|Zihang Lin et.al.|[2611.31238](http://arxiv.org/abs/2611.31238)|null|
