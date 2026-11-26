@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning**|Yalin E. Sagduyu et.al.|[2611.34942](http://arxiv.org/abs/2611.34942)|null|
+|**2026-11-25**|**A microscopic continuum model for moiré transition metal dichalcogenides**|Julian Ingham et.al.|[2611.34937](http://arxiv.org/abs/2611.34937)|null|
+|**2026-11-25**|**DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses**|Meenal Parakh et.al.|[2611.34936](http://arxiv.org/abs/2611.34936)|null|
+|**2026-11-25**|**Magnons in solids with correlated atomic and nanoscale disorder**|Alex Moorhouse et.al.|[2611.34926](http://arxiv.org/abs/2611.34926)|null|
+|**2026-11-25**|**One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics**|Shuaijun Liu et.al.|[2611.34925](http://arxiv.org/abs/2611.34925)|null|
+|**2026-11-25**|**Mixture-of-Loops Transformer**|Lianghui Zhu et.al.|[2611.34923](http://arxiv.org/abs/2611.34923)|null|
+|**2026-11-25**|**Vacuum correlation measures as CFT partition functions**|Hewei Frederic Jia et.al.|[2611.34922](http://arxiv.org/abs/2611.34922)|null|
+|**2026-11-25**|**Bound Entanglement with Negative Partial Transpose Exists**|Islam Faisal et.al.|[2611.34921](http://arxiv.org/abs/2611.34921)|null|
+|**2026-11-25**|**Sums of Kloosterman fractions and applications**|Alexandru Pascadi et.al.|[2611.34917](http://arxiv.org/abs/2611.34917)|null|
+|**2026-11-25**|**Complementary mechanisms of critical quantum metrology**|Nikita Leppenen et.al.|[2611.34916](http://arxiv.org/abs/2611.34916)|null|
 |**2026-11-24**|**Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum**|Taras Palasyuk et.al.|[2611.33156](http://arxiv.org/abs/2611.33156)|null|
 |**2026-11-24**|**Topological insulators on site-eliminated, projected, and patterned fractal lattices**|Aiden Mains et.al.|[2611.33155](http://arxiv.org/abs/2611.33155)|null|
 |**2026-11-24**|**Dominoes tiling a common figure**|Peter Keevash et.al.|[2611.33154](http://arxiv.org/abs/2611.33154)|null|
@@ -1878,6 +1888,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**AnyCam: Anything Can Represent Camera for Video Generation**|Weijie Lyu et.al.|[2611.34944](http://arxiv.org/abs/2611.34944)|null|
+|**2026-11-25**|**Tracking Any Point with Agentic Visual Reasoning**|Xuweiyi Chen et.al.|[2611.34943](http://arxiv.org/abs/2611.34943)|null|
+|**2026-11-25**|**Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning**|Yalin E. Sagduyu et.al.|[2611.34942](http://arxiv.org/abs/2611.34942)|null|
+|**2026-11-25**|**Improving and Expanding Video Editing Capabilities Without Videos**|Ji Xie et.al.|[2611.34941](http://arxiv.org/abs/2611.34941)|null|
+|**2026-11-25**|**LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies**|Yipengjing Sun et.al.|[2611.34940](http://arxiv.org/abs/2611.34940)|null|
+|**2026-11-25**|**A Mesh for Every Moment**|Roy Or-El et.al.|[2611.34939](http://arxiv.org/abs/2611.34939)|null|
+|**2026-11-25**|**DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses**|Meenal Parakh et.al.|[2611.34936](http://arxiv.org/abs/2611.34936)|null|
+|**2026-11-25**|**Can image generation help visual reasoning? An empirical study**|Xueyang Yu et.al.|[2611.34935](http://arxiv.org/abs/2611.34935)|null|
+|**2026-11-25**|**Attack Policy Selection can Mislead Monitor Evaluators**|Charlie Griffin et.al.|[2611.34934](http://arxiv.org/abs/2611.34934)|null|
+|**2026-11-25**|**DynMF2: Rigid Motion Factorization by Expectation-Maximization for Monocular 4D Reconstruction and Motion Segmentation**|Agelos Kratimenos et.al.|[2611.34931](http://arxiv.org/abs/2611.34931)|null|
 |**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
 |**2026-11-24**|**PointX: Multi-View Consistent Intrinsics by Querying Surface Points**|Miguel Farinha et.al.|[2611.33157](http://arxiv.org/abs/2611.33157)|null|
 |**2026-11-24**|**Topological insulators on site-eliminated, projected, and patterned fractal lattices**|Aiden Mains et.al.|[2611.33155](http://arxiv.org/abs/2611.33155)|null|
@@ -3563,6 +3583,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning**|Yalin E. Sagduyu et.al.|[2611.34942](http://arxiv.org/abs/2611.34942)|null|
+|**2026-11-25**|**Improving and Expanding Video Editing Capabilities Without Videos**|Ji Xie et.al.|[2611.34941](http://arxiv.org/abs/2611.34941)|null|
+|**2026-11-25**|**A Mesh for Every Moment**|Roy Or-El et.al.|[2611.34939](http://arxiv.org/abs/2611.34939)|null|
+|**2026-11-25**|**Tokenisation is not in APX**|Violeta Kastreva et.al.|[2611.34938](http://arxiv.org/abs/2611.34938)|null|
+|**2026-11-25**|**DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses**|Meenal Parakh et.al.|[2611.34936](http://arxiv.org/abs/2611.34936)|null|
+|**2026-11-25**|**Attack Policy Selection can Mislead Monitor Evaluators**|Charlie Griffin et.al.|[2611.34934](http://arxiv.org/abs/2611.34934)|null|
+|**2026-11-25**|**Invariance of log plurigenera in families of compact Kähler manifolds**|Zhengyu Hu et.al.|[2611.34933](http://arxiv.org/abs/2611.34933)|null|
+|**2026-11-25**|**Diverse Alternative Reasoning Traces for Hard Math Problems**|Lukas Aichberger et.al.|[2611.34928](http://arxiv.org/abs/2611.34928)|null|
+|**2026-11-25**|**Magnons in solids with correlated atomic and nanoscale disorder**|Alex Moorhouse et.al.|[2611.34926](http://arxiv.org/abs/2611.34926)|null|
+|**2026-11-25**|**One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics**|Shuaijun Liu et.al.|[2611.34925](http://arxiv.org/abs/2611.34925)|null|
 |**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
 |**2026-11-24**|**Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum**|Taras Palasyuk et.al.|[2611.33156](http://arxiv.org/abs/2611.33156)|null|
 |**2026-11-24**|**Dominoes tiling a common figure**|Peter Keevash et.al.|[2611.33154](http://arxiv.org/abs/2611.33154)|null|
@@ -5201,6 +5231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Can image generation help visual reasoning? An empirical study**|Xueyang Yu et.al.|[2611.34935](http://arxiv.org/abs/2611.34935)|null|
+|**2026-11-25**|**An algebraic quantization of gravity from the null cone**|Venkatesa Chandrasekaran et.al.|[2611.34924](http://arxiv.org/abs/2611.34924)|null|
+|**2026-11-25**|**Bound Entanglement with Negative Partial Transpose Exists**|Islam Faisal et.al.|[2611.34921](http://arxiv.org/abs/2611.34921)|null|
+|**2026-11-25**|**Complementary mechanisms of critical quantum metrology**|Nikita Leppenen et.al.|[2611.34916](http://arxiv.org/abs/2611.34916)|null|
+|**2026-11-25**|**Memory Is Not Ground Truth: Revising Navigation Authority under Unreliable VLM Evidence for Persistent Semantic Navigation**|Sumukh Shrote et.al.|[2611.34915](http://arxiv.org/abs/2611.34915)|null|
+|**2026-11-25**|**The thermodynamic budget of objectivity**|Wonyong Chung et.al.|[2611.34909](http://arxiv.org/abs/2611.34909)|null|
+|**2026-11-25**|**ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration**|Tianru Zhang et.al.|[2611.34903](http://arxiv.org/abs/2611.34903)|null|
+|**2026-11-25**|**Asymptotic isoperimetry for parallelohedra**|Matteo Novaga et.al.|[2611.34898](http://arxiv.org/abs/2611.34898)|null|
+|**2026-11-25**|**What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video**|Ziyue Peng et.al.|[2611.34894](http://arxiv.org/abs/2611.34894)|null|
+|**2026-11-25**|**Focus Only on What's Important: Training-Free Focus Maps for Frozen Vision Transformers in Long-Video Object Segmentation**|Harsha Karipineni et.al.|[2611.34863](http://arxiv.org/abs/2611.34863)|null|
 |**2026-11-24**|**PointX: Multi-View Consistent Intrinsics by Querying Surface Points**|Miguel Farinha et.al.|[2611.33157](http://arxiv.org/abs/2611.33157)|null|
 |**2026-11-24**|**BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles**|Yuwei Yang et.al.|[2611.33151](http://arxiv.org/abs/2611.33151)|null|
 |**2026-11-24**|**Envy-Free Cake-Cutting for Five Agents**|Aris Filos-Ratsikas et.al.|[2611.33149](http://arxiv.org/abs/2611.33149)|null|
@@ -6879,6 +6919,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**MidasTUI: Instant Tangible User Interfaces for Wearable Displays using Everyday Objects**|Wen Ying et.al.|[2611.34945](http://arxiv.org/abs/2611.34945)|null|
+|**2026-11-25**|**LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies**|Yipengjing Sun et.al.|[2611.34940](http://arxiv.org/abs/2611.34940)|null|
+|**2026-11-25**|**A Mesh for Every Moment**|Roy Or-El et.al.|[2611.34939](http://arxiv.org/abs/2611.34939)|null|
+|**2026-11-25**|**Tokenisation is not in APX**|Violeta Kastreva et.al.|[2611.34938](http://arxiv.org/abs/2611.34938)|null|
+|**2026-11-25**|**A microscopic continuum model for moiré transition metal dichalcogenides**|Julian Ingham et.al.|[2611.34937](http://arxiv.org/abs/2611.34937)|null|
+|**2026-11-25**|**DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses**|Meenal Parakh et.al.|[2611.34936](http://arxiv.org/abs/2611.34936)|null|
+|**2026-11-25**|**Can image generation help visual reasoning? An empirical study**|Xueyang Yu et.al.|[2611.34935](http://arxiv.org/abs/2611.34935)|null|
+|**2026-11-25**|**MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References**|Michael Baumgartner et.al.|[2611.34932](http://arxiv.org/abs/2611.34932)|null|
+|**2026-11-25**|**DynMF2: Rigid Motion Factorization by Expectation-Maximization for Monocular 4D Reconstruction and Motion Segmentation**|Agelos Kratimenos et.al.|[2611.34931](http://arxiv.org/abs/2611.34931)|null|
+|**2026-11-25**|**Diverse Alternative Reasoning Traces for Hard Math Problems**|Lukas Aichberger et.al.|[2611.34928](http://arxiv.org/abs/2611.34928)|null|
 |**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
 |**2026-11-24**|**Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum**|Taras Palasyuk et.al.|[2611.33156](http://arxiv.org/abs/2611.33156)|null|
 |**2026-11-24**|**Topological insulators on site-eliminated, projected, and patterned fractal lattices**|Aiden Mains et.al.|[2611.33155](http://arxiv.org/abs/2611.33155)|null|
@@ -8558,6 +8608,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**MidasTUI: Instant Tangible User Interfaces for Wearable Displays using Everyday Objects**|Wen Ying et.al.|[2611.34945](http://arxiv.org/abs/2611.34945)|null|
+|**2026-11-25**|**Tracking Any Point with Agentic Visual Reasoning**|Xuweiyi Chen et.al.|[2611.34943](http://arxiv.org/abs/2611.34943)|null|
+|**2026-11-25**|**Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning**|Yalin E. Sagduyu et.al.|[2611.34942](http://arxiv.org/abs/2611.34942)|null|
+|**2026-11-25**|**Improving and Expanding Video Editing Capabilities Without Videos**|Ji Xie et.al.|[2611.34941](http://arxiv.org/abs/2611.34941)|null|
+|**2026-11-25**|**Tokenisation is not in APX**|Violeta Kastreva et.al.|[2611.34938](http://arxiv.org/abs/2611.34938)|null|
+|**2026-11-25**|**A microscopic continuum model for moiré transition metal dichalcogenides**|Julian Ingham et.al.|[2611.34937](http://arxiv.org/abs/2611.34937)|null|
+|**2026-11-25**|**DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses**|Meenal Parakh et.al.|[2611.34936](http://arxiv.org/abs/2611.34936)|null|
+|**2026-11-25**|**Can image generation help visual reasoning? An empirical study**|Xueyang Yu et.al.|[2611.34935](http://arxiv.org/abs/2611.34935)|null|
+|**2026-11-25**|**Attack Policy Selection can Mislead Monitor Evaluators**|Charlie Griffin et.al.|[2611.34934](http://arxiv.org/abs/2611.34934)|null|
+|**2026-11-25**|**MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References**|Michael Baumgartner et.al.|[2611.34932](http://arxiv.org/abs/2611.34932)|null|
 |**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
 |**2026-11-24**|**PointX: Multi-View Consistent Intrinsics by Querying Surface Points**|Miguel Farinha et.al.|[2611.33157](http://arxiv.org/abs/2611.33157)|null|
 |**2026-11-24**|**Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum**|Taras Palasyuk et.al.|[2611.33156](http://arxiv.org/abs/2611.33156)|null|
